@@ -272,6 +272,146 @@
     }
   }
 
+  // Manager List (rest of managers below podium)
+  .managerList {
+    display: flex;
+    flex-direction: column;
+    gap: $space-8;
+    margin-bottom: $space-32;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+    @media (min-width: $breakpoint-md) {
+      gap: $space-12;
+      margin-bottom: $space-48;
+    }
+
+    .managerRow {
+      display: flex;
+      align-items: center;
+      gap: $space-12;
+      padding: $space-12 $space-16;
+      background: var(--color-bg-card);
+      border: 1px solid var(--color-border);
+      border-radius: $radius-12;
+      cursor: pointer;
+      transition:
+        transform $transition-fast,
+        box-shadow $transition-fast,
+        background-color $transition-fast;
+      font-family: inherit;
+      text-align: left;
+      width: 100%;
+
+      @media (min-width: $breakpoint-md) {
+        padding: $space-16 $space-20;
+      }
+
+      &:hover {
+        transform: translateX(4px);
+        box-shadow: $shadow-md;
+        background: var(--color-bg-alt);
+      }
+
+      &:focus-visible {
+        outline: 2px solid var(--color-header);
+        outline-offset: 2px;
+      }
+
+      .rowRank {
+        width: 24px;
+        font-size: $font-size-sm;
+        font-weight: $font-weight-bold;
+        color: var(--color-text-secondary);
+        text-align: center;
+        flex-shrink: 0;
+      }
+
+      .rowAvatar {
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        overflow: hidden;
+        flex-shrink: 0;
+        border: 2px solid var(--color-border);
+
+        @media (min-width: $breakpoint-md) {
+          width: 44px;
+          height: 44px;
+        }
+
+        img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+
+        .avatarPlaceholder {
+          width: 100%;
+          height: 100%;
+          background: var(--color-bg-alt);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-size: $font-size-sm;
+          font-weight: $font-weight-bold;
+          color: var(--color-text-secondary);
+        }
+      }
+
+      .rowName {
+        flex: 1;
+        font-size: $font-size-sm;
+        font-weight: $font-weight-medium;
+        color: var(--color-text);
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+
+        @media (min-width: $breakpoint-md) {
+          font-size: $font-size-base;
+        }
+      }
+
+      .rowStats {
+        display: flex;
+        gap: $space-12;
+        flex-shrink: 0;
+
+        @media (min-width: $breakpoint-md) {
+          gap: $space-16;
+        }
+
+        .rowStat {
+          display: flex;
+          align-items: center;
+          gap: $space-4;
+
+          .rowStatValue {
+            font-size: $font-size-sm;
+            font-weight: $font-weight-semibold;
+            color: var(--color-text);
+
+            @media (min-width: $breakpoint-md) {
+              font-size: $font-size-base;
+            }
+          }
+
+          .rowStatLabel {
+            font-size: 10px;
+            color: var(--color-text-secondary);
+
+            @media (min-width: $breakpoint-md) {
+              font-size: $font-size-xs;
+            }
+          }
+        }
+      }
+    }
+  }
+
   .latestSeason {
     h2 {
       margin-bottom: $space-16;
