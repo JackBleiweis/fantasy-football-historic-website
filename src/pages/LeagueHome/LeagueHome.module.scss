@@ -1,0 +1,109 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.leagueHome {
+  @include container;
+  padding-top: $space-24;
+  padding-bottom: $space-32;
+
+  @media (min-width: $breakpoint-md) {
+    padding-top: $space-32;
+  }
+
+  .header {
+    margin-bottom: $space-24;
+
+    @media (min-width: $breakpoint-md) {
+      margin-bottom: $space-32;
+    }
+
+    h1 {
+      margin-bottom: $space-8;
+      font-size: $font-size-2xl;
+
+      @media (min-width: $breakpoint-md) {
+        font-size: $font-size-4xl;
+      }
+    }
+
+    p {
+      color: var(--color-text-secondary);
+      font-size: $font-size-base;
+
+      @media (min-width: $breakpoint-md) {
+        font-size: $font-size-lg;
+      }
+    }
+  }
+
+  .latestSeason {
+    h2 {
+      margin-bottom: $space-16;
+      font-size: $font-size-xl;
+
+      @media (min-width: $breakpoint-md) {
+        margin-bottom: $space-24;
+        font-size: $font-size-2xl;
+      }
+    }
+
+    .statsGrid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: $space-12;
+
+      @media (min-width: $breakpoint-sm) {
+        gap: $space-16;
+      }
+
+      @media (min-width: $breakpoint-md) {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: $space-24;
+      }
+
+      .statCard {
+        @include card;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: $space-16;
+
+        @media (min-width: $breakpoint-md) {
+          padding: $space-24;
+        }
+
+        .statValue {
+          font-size: $font-size-2xl;
+          font-weight: $font-weight-bold;
+          color: var(--color-header);
+          line-height: 1;
+          margin-bottom: $space-4;
+
+          @media (min-width: $breakpoint-md) {
+            font-size: $font-size-4xl;
+            margin-bottom: $space-8;
+          }
+        }
+
+        .statLabel {
+          font-size: $font-size-xs;
+          color: var(--color-text-secondary);
+          text-transform: uppercase;
+          letter-spacing: 0.05em;
+
+          @media (min-width: $breakpoint-md) {
+            font-size: $font-size-sm;
+          }
+        }
+      }
+    }
+  }
+
+  .noData {
+    @include card;
+    text-align: center;
+    padding: $space-48;
+    color: var(--color-text-secondary);
+  }
+}

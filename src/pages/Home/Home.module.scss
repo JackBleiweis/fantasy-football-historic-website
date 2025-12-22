@@ -1,0 +1,240 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.home {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(
+    135deg,
+    var(--color-gray-900) 0%,
+    var(--color-gray-800) 100%
+  );
+  color: var(--color-white);
+
+  .header {
+    text-align: center;
+    padding: $space-40 $space-16 $space-24;
+
+    @media (min-width: $breakpoint-md) {
+      padding: $space-64 $space-24 $space-32;
+    }
+
+    h1 {
+      font-size: $font-size-3xl;
+      font-weight: $font-weight-bold;
+      margin-bottom: $space-8;
+      color: var(--color-white);
+
+      @media (min-width: $breakpoint-md) {
+        font-size: $font-size-5xl;
+      }
+    }
+
+    .subtitle {
+      font-size: $font-size-base;
+      color: var(--color-gray-400);
+      margin: 0;
+
+      @media (min-width: $breakpoint-md) {
+        font-size: $font-size-lg;
+      }
+    }
+  }
+
+  .main {
+    flex: 1;
+    @include container;
+    padding-bottom: $space-48;
+
+    @media (min-width: $breakpoint-md) {
+      padding-bottom: $space-64;
+    }
+
+    .selectTitle {
+      text-align: center;
+      font-size: $font-size-base;
+      font-weight: $font-weight-medium;
+      color: var(--color-gray-400);
+      margin-bottom: $space-24;
+
+      @media (min-width: $breakpoint-md) {
+        font-size: $font-size-lg;
+        margin-bottom: $space-32;
+      }
+    }
+
+    .leagueGrid {
+      display: grid;
+      gap: $space-16;
+      max-width: 600px;
+      margin: 0 auto;
+
+      @media (min-width: $breakpoint-md) {
+        gap: $space-24;
+      }
+
+      .leagueCard {
+        display: flex;
+        align-items: center;
+        gap: $space-12;
+        padding: $space-16;
+        background-color: var(--color-gray-800);
+        border: 1px solid var(--color-gray-700);
+        border-radius: $radius-12;
+        text-decoration: none;
+        color: var(--color-white);
+        transition: all $transition-base;
+
+        @media (min-width: $breakpoint-md) {
+          gap: $space-20;
+          padding: $space-24;
+          border-radius: $radius-16;
+        }
+
+        &:hover {
+          transform: translateY(-2px);
+          box-shadow: $shadow-xl;
+          border-color: var(--color-gray-600);
+
+          .arrow {
+            color: var(--color-white);
+            transform: translateX(4px);
+          }
+        }
+
+        &:focus-visible {
+          outline: 2px solid var(--color-gold);
+          outline-offset: 2px;
+        }
+
+        // League-specific accent colors
+        &[data-league='lp'] {
+          .leagueIcon {
+            background: linear-gradient(
+              135deg,
+              var(--color-navy) 0%,
+              var(--color-navy-dark) 100%
+            );
+            border: 1px solid var(--color-gold);
+          }
+
+          &:hover {
+            border-color: var(--color-navy);
+          }
+        }
+
+        &[data-league='cwp'] {
+          .leagueIcon {
+            background: linear-gradient(
+              135deg,
+              var(--color-purple) 0%,
+              var(--color-purple-dark) 100%
+            );
+            border: 1px solid var(--color-white);
+          }
+
+          &:hover {
+            border-color: var(--color-purple);
+          }
+        }
+
+        .leagueIcon {
+          flex-shrink: 0;
+          width: 48px;
+          height: 48px;
+          border-radius: $radius-8;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background-color: var(--color-gray-700);
+
+          @media (min-width: $breakpoint-md) {
+            width: 64px;
+            height: 64px;
+            border-radius: $radius-12;
+          }
+
+          span {
+            font-size: $font-size-base;
+            font-weight: $font-weight-bold;
+            letter-spacing: 0.05em;
+
+            @media (min-width: $breakpoint-md) {
+              font-size: $font-size-xl;
+            }
+          }
+        }
+
+        .leagueInfo {
+          flex: 1;
+          min-width: 0;
+
+          h3 {
+            font-size: $font-size-base;
+            font-weight: $font-weight-semibold;
+            margin-bottom: $space-4;
+            color: var(--color-white);
+
+            @media (min-width: $breakpoint-md) {
+              font-size: $font-size-lg;
+            }
+          }
+
+          p {
+            font-size: $font-size-xs;
+            color: var(--color-gray-400);
+            margin-bottom: $space-4;
+
+            @media (min-width: $breakpoint-md) {
+              font-size: $font-size-sm;
+              margin-bottom: $space-8;
+            }
+          }
+
+          .yearsCount {
+            display: inline-block;
+            font-size: $font-size-xs;
+            color: var(--color-gray-500);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+          }
+        }
+
+        .arrow {
+          flex-shrink: 0;
+          color: var(--color-gray-500);
+          transition: all $transition-fast;
+          width: 20px;
+          height: 20px;
+
+          @media (min-width: $breakpoint-md) {
+            width: 24px;
+            height: 24px;
+          }
+        }
+      }
+    }
+  }
+
+  .footer {
+    padding: $space-24 $space-16;
+    text-align: center;
+
+    @media (min-width: $breakpoint-md) {
+      padding: $space-32 $space-24;
+    }
+
+    p {
+      font-size: $font-size-xs;
+      color: var(--color-gray-500);
+      margin: 0;
+      max-width: 400px;
+      margin: 0 auto;
+
+      @media (min-width: $breakpoint-md) {
+        font-size: $font-size-sm;
+      }
+    }
+  }
+}

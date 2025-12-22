@@ -1,0 +1,294 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.season {
+  @include container;
+  padding-top: $space-24;
+  padding-bottom: $space-32;
+
+  @media (min-width: $breakpoint-md) {
+    padding-top: $space-32;
+  }
+
+  .header {
+    display: flex;
+    flex-direction: column;
+    gap: $space-16;
+    margin-bottom: $space-24;
+
+    @media (min-width: $breakpoint-sm) {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: $font-size-2xl;
+
+      @media (min-width: $breakpoint-md) {
+        font-size: $font-size-4xl;
+      }
+    }
+
+    .yearSelector {
+      display: flex;
+      flex-wrap: wrap;
+      gap: $space-8;
+
+      a {
+        padding: $space-8 $space-16;
+        border-radius: $radius-8;
+        background-color: var(--color-bg-card);
+        color: var(--color-text);
+        text-decoration: none;
+        font-weight: $font-weight-medium;
+        font-size: $font-size-sm;
+        transition: all $transition-fast;
+
+        &:hover {
+          background-color: var(--color-bg-alt);
+        }
+
+        &.active {
+          background-color: var(--color-header);
+          color: var(--color-text-inverse);
+        }
+      }
+    }
+  }
+
+  .noData {
+    @include card;
+    text-align: center;
+    padding: $space-48;
+    color: var(--color-text-secondary);
+  }
+
+  .controls {
+    display: flex;
+    flex-direction: column;
+    gap: $space-16;
+    margin-bottom: $space-24;
+
+    .viewToggle {
+      display: flex;
+      gap: $space-4;
+      padding: $space-4;
+      background-color: var(--color-bg-card);
+      border-radius: $radius-12;
+      width: fit-content;
+      box-shadow: $shadow-sm;
+
+      button {
+        padding: $space-8 $space-16;
+        border: none;
+        border-radius: $radius-8;
+        background-color: transparent;
+        color: var(--color-text-secondary);
+        font-weight: $font-weight-medium;
+        font-size: $font-size-sm;
+        cursor: pointer;
+        transition: all $transition-fast;
+
+        @media (min-width: $breakpoint-md) {
+          padding: $space-12 $space-20;
+          font-size: $font-size-base;
+        }
+
+        &:hover {
+          color: var(--color-text);
+        }
+
+        &.active {
+          background-color: var(--color-header);
+          color: var(--color-text-inverse);
+        }
+      }
+    }
+
+    .weekSelector {
+      display: flex;
+      flex-wrap: wrap;
+      gap: $space-8;
+
+      button {
+        width: 40px;
+        height: 40px;
+        border: 1px solid var(--color-border);
+        border-radius: $radius-8;
+        background-color: var(--color-bg-card);
+        color: var(--color-text);
+        font-weight: $font-weight-medium;
+        font-size: $font-size-sm;
+        cursor: pointer;
+        transition: all $transition-fast;
+
+        @media (min-width: $breakpoint-md) {
+          width: 44px;
+          height: 44px;
+          font-size: $font-size-base;
+        }
+
+        &:hover {
+          border-color: var(--color-header);
+          color: var(--color-header);
+        }
+
+        &.active {
+          background-color: var(--color-header);
+          border-color: var(--color-header);
+          color: var(--color-text-inverse);
+        }
+      }
+    }
+
+    .teamSelector {
+      display: flex;
+      flex-wrap: wrap;
+      gap: $space-8;
+
+      button {
+        display: flex;
+        align-items: center;
+        gap: $space-4;
+        padding: $space-4 $space-8;
+        border: 1px solid var(--color-border);
+        border-radius: $radius-8;
+        background-color: var(--color-bg-card);
+        color: var(--color-text);
+        font-weight: $font-weight-medium;
+        cursor: pointer;
+        transition: all $transition-fast;
+
+        @media (min-width: $breakpoint-md) {
+          gap: $space-8;
+          padding: $space-8 $space-12;
+        }
+
+        &:hover {
+          border-color: var(--color-header);
+        }
+
+        &.active {
+          background-color: var(--color-header);
+          border-color: var(--color-header);
+          color: var(--color-text-inverse);
+        }
+
+        .teamName {
+          font-size: $font-size-xs;
+
+          @media (min-width: $breakpoint-md) {
+            font-size: $font-size-sm;
+          }
+        }
+      }
+    }
+  }
+
+  .matchupsGrid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: $space-12;
+
+    @media (min-width: $breakpoint-sm) {
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: $space-16;
+    }
+  }
+
+  .matchupCard {
+    @include card;
+    padding: $space-12;
+    display: flex;
+    flex-direction: column;
+    gap: $space-8;
+
+    @media (min-width: $breakpoint-md) {
+      padding: $space-16;
+    }
+
+    &.playoff {
+      border-left: 3px solid var(--color-gold);
+    }
+
+    &.consolation {
+      opacity: 0.7;
+    }
+
+    .matchupMeta {
+      display: flex;
+      gap: $space-8;
+      margin-bottom: $space-4;
+
+      .weekBadge {
+        font-size: $font-size-xs;
+        font-weight: $font-weight-semibold;
+        color: var(--color-text-secondary);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+
+      .typeBadge {
+        font-size: $font-size-xs;
+        font-weight: $font-weight-semibold;
+        color: var(--color-gold);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+    }
+
+    .teamRow {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: $space-8;
+      border-radius: $radius-8;
+      background-color: var(--color-bg-alt);
+      transition: all $transition-fast;
+
+      @media (min-width: $breakpoint-md) {
+        padding: $space-8 $space-12;
+      }
+
+      &.winner {
+        background-color: rgba(16, 185, 129, 0.1);
+
+        .score {
+          color: var(--color-green);
+          font-weight: $font-weight-bold;
+        }
+      }
+
+      &.highlighted {
+        border: 2px solid var(--color-header);
+      }
+
+      .teamInfo {
+        flex: 1;
+        min-width: 0;
+      }
+
+      .score {
+        font-size: $font-size-base;
+        font-weight: $font-weight-semibold;
+        color: var(--color-text);
+        font-variant-numeric: tabular-nums;
+
+        @media (min-width: $breakpoint-md) {
+          font-size: $font-size-lg;
+        }
+      }
+    }
+
+    .versus {
+      text-align: center;
+      font-size: $font-size-xs;
+      font-weight: $font-weight-medium;
+      color: var(--color-text-secondary);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+  }
+}

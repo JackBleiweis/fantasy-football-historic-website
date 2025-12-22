@@ -1,0 +1,137 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.layout {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: $z-header;
+    background-color: var(--color-header);
+    color: var(--color-text-inverse);
+    box-shadow: $shadow-md;
+
+    .headerContent {
+      @include container;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+
+      @media (min-width: $breakpoint-md) {
+        height: 64px;
+      }
+
+      .brand {
+        display: flex;
+        align-items: center;
+        gap: $space-8;
+
+        @media (min-width: $breakpoint-md) {
+          gap: $space-16;
+        }
+
+        .backLink {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 32px;
+          height: 32px;
+          border-radius: $radius-8;
+          color: var(--color-text-inverse);
+          opacity: 0.8;
+          transition: all $transition-fast;
+
+          @media (min-width: $breakpoint-md) {
+            width: 36px;
+            height: 36px;
+          }
+
+          &:hover {
+            opacity: 1;
+            background-color: rgba(255, 255, 255, 0.1);
+          }
+        }
+
+        .leagueName {
+          font-size: $font-size-base;
+          font-weight: $font-weight-bold;
+          letter-spacing: 0.02em;
+
+          @media (min-width: $breakpoint-md) {
+            font-size: $font-size-xl;
+          }
+        }
+      }
+
+      .nav {
+        display: flex;
+        gap: $space-4;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+
+        &::-webkit-scrollbar {
+          display: none;
+        }
+
+        .navLink {
+          padding: $space-4 $space-8;
+          border-radius: $radius-8;
+          color: var(--color-text-inverse);
+          text-decoration: none;
+          font-weight: $font-weight-medium;
+          font-size: $font-size-xs;
+          opacity: 0.8;
+          transition: all $transition-fast;
+          white-space: nowrap;
+
+          @media (min-width: $breakpoint-sm) {
+            padding: $space-8 $space-12;
+            font-size: $font-size-sm;
+          }
+
+          @media (min-width: $breakpoint-md) {
+            padding: $space-8 $space-16;
+          }
+
+          &:hover {
+            opacity: 1;
+            background-color: rgba(255, 255, 255, 0.1);
+          }
+
+          &.active {
+            opacity: 1;
+            background-color: rgba(255, 255, 255, 0.2);
+          }
+        }
+      }
+    }
+  }
+
+  .main {
+    flex: 1;
+  }
+
+  .footer {
+    background-color: var(--color-bg-alt);
+    border-top: 1px solid var(--color-border);
+    padding: $space-24 0;
+    margin-top: auto;
+
+    .footerContent {
+      @include container;
+      text-align: center;
+
+      p {
+        margin: 0;
+        font-size: $font-size-sm;
+        color: var(--color-text-secondary);
+      }
+    }
+  }
+}

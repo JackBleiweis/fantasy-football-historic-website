@@ -1,0 +1,148 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.drafts {
+  @include container;
+  padding-top: $space-24;
+  padding-bottom: $space-32;
+
+  @media (min-width: $breakpoint-md) {
+    padding-top: $space-32;
+  }
+
+  .header {
+    display: flex;
+    flex-direction: column;
+    gap: $space-16;
+    margin-bottom: $space-24;
+
+    @media (min-width: $breakpoint-sm) {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: $font-size-2xl;
+
+      @media (min-width: $breakpoint-md) {
+        font-size: $font-size-4xl;
+      }
+    }
+
+    .yearSelector {
+      display: flex;
+      flex-wrap: wrap;
+      gap: $space-8;
+
+      a {
+        padding: $space-8 $space-16;
+        border-radius: $radius-8;
+        background-color: var(--color-bg-card);
+        color: var(--color-text);
+        text-decoration: none;
+        font-weight: $font-weight-medium;
+        font-size: $font-size-sm;
+        transition: all $transition-fast;
+
+        &:hover {
+          background-color: var(--color-bg-alt);
+        }
+
+        &.active {
+          background-color: var(--color-header);
+          color: var(--color-text-inverse);
+        }
+      }
+    }
+  }
+
+  .noData {
+    @include card;
+    text-align: center;
+    padding: $space-48;
+    color: var(--color-text-secondary);
+  }
+
+  .draftBoard {
+    @include card;
+    padding: 0;
+    overflow: hidden;
+
+    .tableWrapper {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .draftTable {
+      width: 100%;
+      min-width: 600px; // Ensure minimum width for readability
+
+      th,
+      td {
+        padding: $space-8 $space-12;
+
+        @media (min-width: $breakpoint-md) {
+          padding: $space-12 $space-16;
+        }
+      }
+
+      th {
+        position: sticky;
+        top: 0;
+        background-color: var(--color-bg-alt);
+        z-index: 1;
+        font-size: $font-size-xs;
+
+        @media (min-width: $breakpoint-md) {
+          font-size: $font-size-sm;
+        }
+      }
+
+      .pickNumber {
+        font-weight: $font-weight-bold;
+        color: var(--color-header);
+        width: 50px;
+
+        @media (min-width: $breakpoint-md) {
+          width: 60px;
+        }
+      }
+
+      .manager {
+        vertical-align: middle;
+      }
+
+      .teamName {
+        @include truncate;
+        max-width: 120px;
+        color: var(--color-text-secondary);
+        font-size: $font-size-xs;
+
+        @media (min-width: $breakpoint-md) {
+          max-width: 200px;
+          font-size: $font-size-sm;
+        }
+      }
+
+      .playerName {
+        font-weight: $font-weight-medium;
+        font-size: $font-size-sm;
+
+        @media (min-width: $breakpoint-md) {
+          font-size: $font-size-base;
+        }
+      }
+
+      .adp {
+        color: var(--color-text-secondary);
+        font-size: $font-size-xs;
+
+        @media (min-width: $breakpoint-md) {
+          font-size: $font-size-sm;
+        }
+      }
+    }
+  }
+}

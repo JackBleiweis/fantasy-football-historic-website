@@ -1,0 +1,118 @@
+{
+  "leagueId": "cwp",
+  "history": [
+    {
+      "year": 2012,
+      "champion": "Ben Roher",
+      "runnerUp": "Shane Polan",
+      "playoffTeams": [
+        "Jack Bleiweis"
+      ]
+    },
+    {
+      "year": 2013,
+      "champion": "Josh Green",
+      "runnerUp": "Dustin Pulver",
+      "playoffTeams": []
+    },
+    {
+      "year": 2014,
+      "champion": "Dustin Pulver",
+      "runnerUp": "Zach Weisleder",
+      "playoffTeams": [
+        "Grant Roth",
+        "Chase Bergman"
+      ]
+    },
+    {
+      "year": 2015,
+      "champion": "Zach Weisleder",
+      "runnerUp": "Dustin Pulver",
+      "playoffTeams": [
+        "Jake Mintz",
+        "Chase Bergman"
+      ]
+    },
+    {
+      "year": 2016,
+      "champion": "Jake Mintz",
+      "runnerUp": "Jack Bleiweis",
+      "playoffTeams": [
+        "Chase Bergman",
+        "Matthew Garay"
+      ]
+    },
+    {
+      "year": 2017,
+      "champion": "Chase Bergman",
+      "runnerUp": "Dustin Pulver",
+      "playoffTeams": [
+        "Ty Greenberg",
+        "Jack Bleiweis"
+      ]
+    },
+    {
+      "year": 2018,
+      "champion": "Jake Mintz",
+      "runnerUp": "Dustin Pulver",
+      "playoffTeams": [
+        "Ty Greenberg",
+        "Jack Beder"
+      ]
+    },
+    {
+      "year": 2019,
+      "champion": "Jack Bleiweis",
+      "runnerUp": "Ty Greenberg",
+      "playoffTeams": [
+        "Dustin Pulver",
+        "Buddy Marcello"
+      ]
+    },
+    {
+      "year": 2020,
+      "champion": "Ben Roher",
+      "runnerUp": "Jack Bleiweis",
+      "playoffTeams": [
+        "Chase Bergman",
+        "Buddy Marcello"
+      ]
+    },
+    {
+      "year": 2021,
+      "champion": "Dustin Pulver",
+      "runnerUp": "Chase Bergman",
+      "playoffTeams": [
+        "Ty Greenberg",
+        "Buddy Marcello"
+      ]
+    },
+    {
+      "year": 2022,
+      "champion": "Ben Roher",
+      "runnerUp": "Jack Bleiweis",
+      "playoffTeams": [
+        "Jack Beder",
+        "Michael Kagan"
+      ]
+    },
+    {
+      "year": 2023,
+      "champion": "Jack Beder",
+      "runnerUp": "Jack Bleiweis",
+      "playoffTeams": [
+        "Ty Greenberg",
+        "Buddy Marcello"
+      ]
+    },
+    {
+      "year": 2024,
+      "champion": "Dustin Pulver",
+      "runnerUp": "Ty Greenberg",
+      "playoffTeams": [
+        "Jake Mintz",
+        "Buddy Marcello"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.standings {
+  @include container;
+  padding-top: $space-24;
+  padding-bottom: $space-32;
+
+  @media (min-width: $breakpoint-md) {
+    padding-top: $space-32;
+  }
+
+  .header {
+    display: flex;
+    flex-direction: column;
+    gap: $space-16;
+    margin-bottom: $space-24;
+
+    @media (min-width: $breakpoint-sm) {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: $font-size-2xl;
+
+      @media (min-width: $breakpoint-md) {
+        font-size: $font-size-4xl;
+      }
+    }
+
+    .yearSelector {
+      display: flex;
+      flex-wrap: wrap;
+      gap: $space-8;
+
+      a {
+        padding: $space-8 $space-16;
+        border-radius: $radius-8;
+        background-color: var(--color-bg-card);
+        color: var(--color-text);
+        text-decoration: none;
+        font-weight: $font-weight-medium;
+        font-size: $font-size-sm;
+        transition: all $transition-fast;
+
+        &:hover {
+          background-color: var(--color-bg-alt);
+        }
+
+        &.active {
+          background-color: var(--color-header);
+          color: var(--color-text-inverse);
+        }
+      }
+    }
+  }
+
+  .noData {
+    @include card;
+    text-align: center;
+    padding: $space-48;
+    color: var(--color-text-secondary);
+  }
+
+  .filterBar {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: $space-16;
+
+    .toggle {
+      display: flex;
+      align-items: center;
+      gap: $space-12;
+      cursor: pointer;
+      user-select: none;
+
+      input {
+        position: absolute;
+        opacity: 0;
+        width: 0;
+        height: 0;
+      }
+
+      .toggleSlider {
+        position: relative;
+        width: 44px;
+        height: 24px;
+        background-color: var(--color-border);
+        border-radius: $radius-full;
+        transition: background-color $transition-fast;
+
+        &::before {
+          content: '';
+          position: absolute;
+          top: 2px;
+          left: 2px;
+          width: 20px;
+          height: 20px;
+          background-color: white;
+          border-radius: 50%;
+          transition: transform $transition-fast;
+        }
+      }
+
+      input:checked + .toggleSlider {
+        background-color: var(--color-header);
+
+        &::before {
+          transform: translateX(20px);
+        }
+      }
+
+      input:focus-visible + .toggleSlider {
+        outline: 2px solid var(--color-header);
+        outline-offset: 2px;
+      }
+
+      .toggleLabel {
+        font-size: $font-size-sm;
+        color: var(--color-text-secondary);
+      }
+    }
+  }
+
+  .tableCard {
+    @include card;
+    padding: 0;
+    overflow: hidden;
+
+    .tableWrapper {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .standingsTable {
+      width: 100%;
+      min-width: 550px;
+
+      th,
+      td {
+        padding: $space-8 $space-12;
+
+        @media (min-width: $breakpoint-md) {
+          padding: $space-12 $space-16;
+        }
+      }
+
+      th {
+        position: sticky;
+        top: 0;
+        background-color: var(--color-bg-alt);
+        z-index: 1;
+        font-size: $font-size-xs;
+
+        @media (min-width: $breakpoint-md) {
+          font-size: $font-size-sm;
+        }
+      }
+
+      .rank {
+        font-weight: $font-weight-bold;
+        color: var(--color-header);
+        width: 50px;
+        text-align: center;
+
+        @media (min-width: $breakpoint-md) {
+          width: 60px;
+        }
+      }
+
+      .managerCell {
+        // ManagerBadge handles its own layout
+      }
+
+      .teamName {
+        @include truncate;
+        max-width: 100px;
+        color: var(--color-text-secondary);
+        font-size: $font-size-xs;
+
+        @media (min-width: $breakpoint-md) {
+          max-width: 200px;
+          font-size: $font-size-sm;
+        }
+      }
+
+      .winPct {
+        font-weight: $font-weight-semibold;
+      }
+
+      .seed {
+        text-align: center;
+        font-weight: $font-weight-medium;
+      }
+
+      .seasons {
+        text-align: center;
+        color: var(--color-text-secondary);
+      }
+
+      .points {
+        text-align: right;
+        font-variant-numeric: tabular-nums;
+      }
+
+      .playoffTeam {
+        td:first-child {
+          position: relative;
+
+          &::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 3px;
+            background-color: var(--color-gold);
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,304 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  z-index: $z-modal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: $space-16;
+  animation: fadeIn 0.2s ease-out;
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
+
+.modal {
+  background-color: var(--color-bg-card);
+  border-radius: $radius-16;
+  box-shadow: $shadow-2xl;
+  width: 100%;
+  max-width: 600px;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  animation: slideUp 0.2s ease-out;
+
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .closeButton {
+    position: absolute;
+    top: $space-16;
+    right: $space-16;
+    width: 40px;
+    height: 40px;
+    border-radius: $radius-full;
+    background-color: var(--color-bg-alt);
+    color: var(--color-text-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all $transition-fast;
+    z-index: 1;
+
+    &:hover {
+      background-color: var(--color-border);
+      color: var(--color-text);
+    }
+  }
+
+  .header {
+    display: flex;
+    align-items: center;
+    gap: $space-16;
+    padding: $space-24;
+    background: linear-gradient(
+      135deg,
+      var(--color-header) 0%,
+      color-mix(in srgb, var(--color-header) 80%, black) 100%
+    );
+    color: var(--color-text-inverse);
+    border-radius: $radius-16 $radius-16 0 0;
+
+    @media (min-width: $breakpoint-sm) {
+      gap: $space-24;
+      padding: $space-32;
+    }
+
+    .avatar {
+      flex-shrink: 0;
+      width: 80px;
+      height: 80px;
+      border-radius: $radius-full;
+      overflow: hidden;
+      background-color: rgba(255, 255, 255, 0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 3px solid rgba(255, 255, 255, 0.3);
+
+      @media (min-width: $breakpoint-sm) {
+        width: 100px;
+        height: 100px;
+        border-width: 4px;
+      }
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .initials {
+        font-size: $font-size-3xl;
+        font-weight: $font-weight-bold;
+        color: var(--color-text-inverse);
+
+        @media (min-width: $breakpoint-sm) {
+          font-size: $font-size-4xl;
+        }
+      }
+    }
+
+    .headerInfo {
+      flex: 1;
+      min-width: 0;
+
+      h2 {
+        font-size: $font-size-2xl;
+        font-weight: $font-weight-bold;
+        margin-bottom: $space-4;
+        color: var(--color-text-inverse);
+
+        @media (min-width: $breakpoint-sm) {
+          font-size: $font-size-3xl;
+        }
+      }
+
+      .subtitle {
+        font-size: $font-size-sm;
+        opacity: 0.9;
+        margin: 0;
+
+        @media (min-width: $breakpoint-sm) {
+          font-size: $font-size-base;
+        }
+
+        .trophies {
+          letter-spacing: 0.1em;
+        }
+      }
+    }
+  }
+
+  .statsGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: $space-12;
+    padding: $space-16;
+
+    @media (min-width: $breakpoint-sm) {
+      grid-template-columns: repeat(3, 1fr);
+      gap: $space-16;
+      padding: $space-24;
+    }
+
+    .statCard {
+      background-color: var(--color-bg-alt);
+      border-radius: $radius-12;
+      padding: $space-12;
+      display: flex;
+      flex-direction: column;
+      gap: $space-4;
+
+      @media (min-width: $breakpoint-sm) {
+        padding: $space-16;
+      }
+
+      // Make the first card (All-Time Record) span full width on mobile
+      &:first-child {
+        grid-column: span 2;
+
+        @media (min-width: $breakpoint-sm) {
+          grid-column: span 1;
+        }
+      }
+
+      .statLabel {
+        font-size: $font-size-xs;
+        font-weight: $font-weight-medium;
+        color: var(--color-text-secondary);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+
+      .statValue {
+        font-size: $font-size-xl;
+        font-weight: $font-weight-bold;
+        color: var(--color-header);
+
+        @media (min-width: $breakpoint-sm) {
+          font-size: $font-size-2xl;
+        }
+      }
+
+      .statMeta {
+        font-size: $font-size-xs;
+        color: var(--color-text-secondary);
+      }
+    }
+  }
+
+  .seasonsSection {
+    padding: 0 $space-16 $space-16;
+
+    @media (min-width: $breakpoint-sm) {
+      padding: 0 $space-24 $space-24;
+    }
+
+    h3 {
+      font-size: $font-size-lg;
+      font-weight: $font-weight-semibold;
+      margin-bottom: $space-16;
+      color: var(--color-text);
+    }
+
+    .tableWrapper {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      border-radius: $radius-12;
+      border: 1px solid var(--color-border);
+    }
+
+    .seasonsTable {
+      width: 100%;
+      min-width: 400px;
+
+      th,
+      td {
+        padding: $space-8 $space-12;
+        font-size: $font-size-sm;
+
+        @media (min-width: $breakpoint-sm) {
+          padding: $space-12 $space-16;
+        }
+      }
+
+      th {
+        background-color: var(--color-bg-alt);
+        font-weight: $font-weight-semibold;
+        text-align: left;
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      td {
+        border-bottom: 1px solid var(--color-border);
+      }
+
+      tbody tr:last-child td {
+        border-bottom: none;
+      }
+
+      .year {
+        font-weight: $font-weight-bold;
+        color: var(--color-header);
+      }
+
+      .teamName {
+        @include truncate;
+        max-width: 150px;
+        color: var(--color-text-secondary);
+        font-size: $font-size-xs;
+
+        @media (min-width: $breakpoint-sm) {
+          font-size: $font-size-sm;
+        }
+      }
+
+      .record {
+        font-weight: $font-weight-medium;
+        font-variant-numeric: tabular-nums;
+      }
+
+      .rank {
+        font-weight: $font-weight-semibold;
+      }
+
+      .result {
+        font-size: $font-size-xs;
+
+        @media (min-width: $breakpoint-sm) {
+          font-size: $font-size-sm;
+        }
+      }
+
+      .champion {
+        background-color: rgba(244, 178, 35, 0.1);
+
+        .result {
+          color: var(--color-gold-dark);
+          font-weight: $font-weight-semibold;
+        }
+      }
+    }
+  }
+}

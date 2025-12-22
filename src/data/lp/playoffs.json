@@ -1,0 +1,91 @@
+{
+  "leagueId": "lp",
+  "history": [
+    {
+      "year": 2017,
+      "champion": "Gabriel",
+      "runnerUp": "James",
+      "playoffTeams": [
+        "Ian",
+        "Heri"
+      ]
+    },
+    {
+      "year": 2018,
+      "champion": "Heri",
+      "runnerUp": "Declan",
+      "playoffTeams": [
+        "James",
+        "Jack Bleiweis",
+        "Joe",
+        "Kevin"
+      ]
+    },
+    {
+      "year": 2019,
+      "champion": "Joe",
+      "runnerUp": "Jack Bleiweis",
+      "playoffTeams": [
+        "Ian",
+        "Matthew",
+        "Kevin",
+        "Gabriel"
+      ]
+    },
+    {
+      "year": 2020,
+      "champion": "Harrison",
+      "runnerUp": "Kevin",
+      "playoffTeams": [
+        "Jack Bleiweis",
+        "Lucas",
+        "Joe",
+        "Ian"
+      ]
+    },
+    {
+      "year": 2021,
+      "champion": "Lucas",
+      "runnerUp": "Joe",
+      "playoffTeams": [
+        "Gabriel",
+        "James",
+        "Kevin",
+        "Matthew"
+      ]
+    },
+    {
+      "year": 2022,
+      "champion": "William",
+      "runnerUp": "Ian",
+      "playoffTeams": [
+        "Jack Bleiweis",
+        "Lucas",
+        "James",
+        "Gabriel"
+      ]
+    },
+    {
+      "year": 2023,
+      "champion": "Harrison",
+      "runnerUp": "Jack Bleiweis",
+      "playoffTeams": [
+        "Joe",
+        "William",
+        "Kevin",
+        "Heri"
+      ]
+    },
+    {
+      "year": 2024,
+      "champion": "William",
+      "runnerUp": "Ryan",
+      "playoffTeams": [
+        "Jack Bleiweis",
+        "Matthew",
+        "Heri",
+        "Joe"
+      ]
+    }
+  ]
+}

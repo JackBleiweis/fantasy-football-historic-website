@@ -1,0 +1,104 @@
+@use '../../styles/variables' as *;
+
+.badge {
+  display: flex;
+  align-items: center;
+  gap: $space-8;
+
+  &.clickable {
+    cursor: pointer;
+    border-radius: $radius-8;
+    padding: $space-4;
+    margin: -$space-4;
+    transition: all $transition-fast;
+
+    &:hover {
+      background-color: var(--color-bg-alt);
+
+      .name {
+        color: var(--color-header);
+      }
+    }
+
+    &:focus-visible {
+      outline: 2px solid var(--color-header);
+      outline-offset: 2px;
+    }
+
+    &:active {
+      transform: scale(0.98);
+    }
+  }
+
+  .avatar {
+    flex-shrink: 0;
+    border-radius: $radius-full;
+    overflow: hidden;
+    background-color: var(--color-header);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .initials {
+      color: var(--color-text-inverse);
+      font-weight: $font-weight-semibold;
+      text-transform: uppercase;
+    }
+  }
+
+  .name {
+    font-weight: $font-weight-medium;
+  }
+
+  // Size variants
+  &.sm {
+    .avatar {
+      width: $space-32;
+      height: $space-32;
+    }
+
+    .initials {
+      font-size: $font-size-xs;
+    }
+
+    .name {
+      font-size: $font-size-sm;
+    }
+  }
+
+  &.md {
+    .avatar {
+      width: 32px;
+      height: 32px;
+    }
+
+    .initials {
+      font-size: $font-size-sm;
+    }
+
+    .name {
+      font-size: $font-size-base;
+    }
+  }
+
+  &.lg {
+    .avatar {
+      width: 40px;
+      height: 40px;
+    }
+
+    .initials {
+      font-size: $font-size-base;
+    }
+
+    .name {
+      font-size: $font-size-lg;
+    }
+  }
+}

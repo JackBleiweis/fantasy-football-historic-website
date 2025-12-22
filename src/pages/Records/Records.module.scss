@@ -1,0 +1,111 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.records {
+  @include container;
+  padding-top: $space-24;
+  padding-bottom: $space-32;
+
+  @media (min-width: $breakpoint-md) {
+    padding-top: $space-32;
+  }
+
+  h1 {
+    margin-bottom: $space-24;
+    font-size: $font-size-2xl;
+
+    @media (min-width: $breakpoint-md) {
+      margin-bottom: $space-32;
+      font-size: $font-size-4xl;
+    }
+  }
+
+  .noData {
+    @include card;
+    text-align: center;
+    padding: $space-48;
+    color: var(--color-text-secondary);
+  }
+
+  .recordsGrid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: $space-16;
+
+    @media (min-width: $breakpoint-sm) {
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: $space-24;
+    }
+
+    .recordCard {
+      @include card;
+      padding: $space-16;
+
+      @media (min-width: $breakpoint-md) {
+        padding: $space-24;
+      }
+
+      h3 {
+        font-size: $font-size-xs;
+        font-weight: $font-weight-medium;
+        color: var(--color-text-secondary);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin-bottom: $space-12;
+      }
+
+      .recordValue {
+        font-size: $font-size-3xl;
+        font-weight: $font-weight-bold;
+        color: var(--color-header);
+        line-height: 1;
+        margin-bottom: $space-16;
+
+        @media (min-width: $breakpoint-md) {
+          font-size: $font-size-4xl;
+        }
+      }
+
+      .recordDetails {
+        display: flex;
+        flex-direction: column;
+        gap: $space-8;
+
+        .teamName {
+          font-size: $font-size-xs;
+          color: var(--color-text-secondary);
+
+          @media (min-width: $breakpoint-md) {
+            font-size: $font-size-sm;
+          }
+        }
+
+        .blowoutManagers {
+          display: flex;
+          align-items: center;
+          gap: $space-8;
+          flex-wrap: wrap;
+
+          .vs {
+            font-size: $font-size-xs;
+            color: var(--color-text-secondary);
+            font-weight: $font-weight-medium;
+
+            @media (min-width: $breakpoint-md) {
+              font-size: $font-size-sm;
+            }
+          }
+        }
+
+        .meta {
+          font-size: $font-size-xs;
+          color: var(--color-text-secondary);
+
+          @media (min-width: $breakpoint-md) {
+            font-size: $font-size-sm;
+          }
+        }
+      }
+    }
+  }
+}
