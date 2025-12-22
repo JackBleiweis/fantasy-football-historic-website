@@ -2,6 +2,14 @@
   "leagueId": "lp",
   "history": [
     {
+      "year": 2016,
+      "champion": "Heri",
+      "runnerUp": "Gabe",
+      "playoffTeams": [
+        "Joe"
+      ]
+    },
+    {
       "year": 2017,
       "champion": "Gabriel",
       "runnerUp": "James",
