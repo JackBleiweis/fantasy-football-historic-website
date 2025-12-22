@@ -29,6 +29,7 @@
         display: flex;
         align-items: center;
         gap: $space-8;
+        margin-right: $space-12;
 
         @media (min-width: $breakpoint-md) {
           gap: $space-16;

@@ -158,6 +158,26 @@
         @media (min-width: $breakpoint-md) {
           font-size: $font-size-sm;
         }
+
+        &.sortable {
+          cursor: pointer;
+          user-select: none;
+          transition: background-color $transition-fast;
+
+          &:hover {
+            background-color: var(--color-border);
+          }
+
+          &.sorted {
+            color: var(--color-header);
+          }
+        }
+
+        .sortIcon {
+          margin-left: $space-4;
+          font-size: $font-size-xs;
+          opacity: 0.7;
+        }
       }
 
       .rank {
@@ -168,6 +188,12 @@
 
         @media (min-width: $breakpoint-md) {
           width: 60px;
+        }
+
+        .medal {
+          position: absolute;
+          margin-left: $space-4;
+          font-size: $font-size-base;
         }
       }
 

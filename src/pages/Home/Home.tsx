@@ -20,34 +20,49 @@ export function Home() {
             <Link
               key={league.id}
               to={`/${league.id}`}
-              className={styles.leagueCard}
+              className={styles.doorContainer}
               data-league={league.id}
             >
-              <div className={styles.leagueIcon}>
-                <span>{league.shortName}</span>
+              {/* Door frame */}
+              <div className={styles.doorFrame}>
+                {/* Content behind the door */}
+                <div className={styles.doorInside}>
+                  <div className={styles.insideContent}>
+                    <span className={styles.enterText}>Enter</span>
+                    <svg
+                      className={styles.enterArrow}
+                      width="24"
+                      height="24"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      strokeWidth="2"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                    >
+                      <path d="M5 12h14M12 5l7 7-7 7" />
+                    </svg>
+                  </div>
+                </div>
+                
+                {/* The door itself */}
+                <div className={styles.door}>
+                  <div className={styles.doorPanel}>
+                    <div className={styles.doorWindow}>
+                      <span className={styles.leagueShort}>{league.shortName}</span>
+                    </div>
+                    <div className={styles.doorInfo}>
+                      <h3>{league.name}</h3>
+                      <span className={styles.yearsCount}>
+                        {league.years.length > 0
+                          ? `${league.years.length} seasons`
+                          : 'Coming soon'}
+                      </span>
+                    </div>
+                    <div className={styles.doorknob}></div>
+                  </div>
+                </div>
               </div>
-              <div className={styles.leagueInfo}>
-                <h3>{league.name}</h3>
-                {league.description && <p>{league.description}</p>}
-                <span className={styles.yearsCount}>
-                  {league.years.length > 0
-                    ? `${league.years.length} season${league.years.length !== 1 ? 's' : ''} of data`
-                    : 'Coming soon'}
-                </span>
-              </div>
-              <svg
-                className={styles.arrow}
-                width="24"
-                height="24"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <path d="M5 12h14M12 5l7 7-7 7" />
-              </svg>
             </Link>
           ))}
         </div>
@@ -55,8 +70,7 @@ export function Home() {
 
       <footer className={styles.footer}>
         <p>
-          Track your league's history, relive the glory days, and settle debates
-          once and for all.
+          Track your league's history and crunch the numbers.
         </p>
       </footer>
     </div>
