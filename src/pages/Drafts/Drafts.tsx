@@ -8,22 +8,24 @@ import styles from './Drafts.module.scss';
 export function Drafts() {
   const { leagueId, year } = useParams<{ leagueId: string; year?: string }>();
 
-  // Validate league ID
-  if (!leagueId || !isValidLeague(leagueId)) {
-    return <Navigate to="/" replace />;
-  }
-
-  const availableYears = getAvailableYears(leagueId);
+  // Get data (will be null/empty if invalid league)
+  const availableYears = leagueId && isValidLeague(leagueId) ? getAvailableYears(leagueId) : [];
   const selectedYear = year ? parseInt(year, 10) : availableYears[0];
-  const seasonData = selectedYear
+  const seasonData = leagueId && isValidLeague(leagueId) && selectedYear
     ? getSeasonData(leagueId, selectedYear)
     : null;
 
   // Create a lookup map for team ID -> team data (including manager)
+  // This hook must be called unconditionally
   const teamLookup = useMemo(
     () => (seasonData ? createTeamLookup(seasonData.teams) : new Map()),
     [seasonData]
   );
+
+  // Validate league ID - return after all hooks
+  if (!leagueId || !isValidLeague(leagueId)) {
+    return <Navigate to="/" replace />;
+  }
 
   if (!seasonData) {
     return (

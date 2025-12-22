@@ -1,22 +1,7 @@
-import { createContext, useContext, useState, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import type { ReactNode } from 'react';
 import type { LeagueId } from '../types';
-
-interface ManagerModalState {
-  isOpen: boolean;
-  managerName: string | null;
-  leagueId: LeagueId | null;
-}
-
-interface ManagerModalContextValue {
-  state: ManagerModalState;
-  openModal: (managerName: string, leagueId: LeagueId) => void;
-  closeModal: () => void;
-}
-
-const ManagerModalContext = createContext<ManagerModalContextValue | null>(
-  null
-);
+import { ManagerModalContext, type ManagerModalState } from './ManagerModalContext';
 
 export function ManagerModalProvider({ children }: { children: ReactNode }) {
   const [state, setState] = useState<ManagerModalState>({
@@ -46,14 +31,4 @@ export function ManagerModalProvider({ children }: { children: ReactNode }) {
       {children}
     </ManagerModalContext.Provider>
   );
-}
-
-export function useManagerModal() {
-  const context = useContext(ManagerModalContext);
-  if (!context) {
-    throw new Error(
-      'useManagerModal must be used within a ManagerModalProvider'
-    );
-  }
-  return context;
 }

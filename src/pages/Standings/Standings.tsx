@@ -142,16 +142,15 @@ export function Standings() {
   const [seasonSortColumn, setSeasonSortColumn] = useState<SeasonSortColumn>('rank');
   const [seasonSortDir, setSeasonSortDir] = useState<SortDirection>('asc');
 
-  // Validate league ID
-  if (!leagueId || !isValidLeague(leagueId)) {
-    return <Navigate to="/" replace />;
-  }
-
-  const availableYears = getAvailableYears(leagueId);
+  // Validate and get data
+  const validLeagueId = leagueId && isValidLeague(leagueId) ? leagueId : null;
+  const availableYears = useMemo(
+    () => (validLeagueId ? getAvailableYears(validLeagueId) : []),
+    [validLeagueId]
+  );
   const isAllTime = year === 'all-time';
   const selectedYear = isAllTime ? null : (year ? parseInt(year, 10) : availableYears[0]);
-  
-  const seasonData = selectedYear ? getSeasonData(leagueId, selectedYear) : null;
+  const seasonData = validLeagueId && selectedYear ? getSeasonData(validLeagueId, selectedYear) : null;
 
   // Calculate points for/against from matchups for single season view
   const teamPointsMap = useMemo(() => {
@@ -178,8 +177,8 @@ export function Standings() {
 
   // All-time standings with sorting
   const allTimeStandings = useMemo(() => {
-    if (!isAllTime) return null;
-    let standings = calculateAllTimeStandings(leagueId, availableYears);
+    if (!isAllTime || !validLeagueId) return null;
+    let standings = calculateAllTimeStandings(validLeagueId, availableYears);
     
     if (hidePartTimers) {
       standings = standings.filter(s => s.seasonsPlayed >= MIN_SEASONS_THRESHOLD);
@@ -211,20 +210,20 @@ export function Standings() {
     });
 
     return standings;
-  }, [isAllTime, leagueId, availableYears, hidePartTimers, allTimeSortColumn, allTimeSortDir]);
+  }, [isAllTime, validLeagueId, availableYears, hidePartTimers, allTimeSortColumn, allTimeSortDir]);
 
   // Get playoff year data for champion/runner-up medals
   const playoffYearData = useMemo(() => {
-    if (!selectedYear) return null;
-    return getPlayoffYear(leagueId, selectedYear);
-  }, [leagueId, selectedYear]);
+    if (!selectedYear || !validLeagueId) return null;
+    return getPlayoffYear(validLeagueId, selectedYear);
+  }, [validLeagueId, selectedYear]);
 
   // For CWP, check if we need to hide 5th/6th seeds (when there are exactly 6 seeds)
   const cwpHideFakePlayoffSeeds = useMemo(() => {
-    if (leagueId !== 'cwp' || !seasonData) return false;
+    if (validLeagueId !== 'cwp' || !seasonData) return false;
     const seedCount = seasonData.teams.filter(t => t.playoffSeed && t.playoffSeed <= 6).length;
     return seedCount === 6;
-  }, [leagueId, seasonData]);
+  }, [validLeagueId, seasonData]);
 
   // Single season standings with sorting
   const sortedTeams = useMemo(() => {
@@ -309,6 +308,11 @@ export function Standings() {
     }
   };
 
+  // Return after all hooks
+  if (!validLeagueId) {
+    return <Navigate to="/" replace />;
+  }
+
   if (!isAllTime && !seasonData) {
     return (
       <div className={styles.standings}>
@@ -324,7 +328,7 @@ export function Standings() {
         <h1>{isAllTime ? 'All-Time Standings' : `${selectedYear} Standings`}</h1>
         <div className={styles.yearSelector}>
           <a
-            href={`/${leagueId}/standings/all-time`}
+            href={`/${validLeagueId}/standings/all-time`}
             className={isAllTime ? styles.active : ''}
           >
             All-Time
@@ -332,7 +336,7 @@ export function Standings() {
           {availableYears.map((y) => (
             <a
               key={y}
-              href={`/${leagueId}/standings/${y}`}
+              href={`/${validLeagueId}/standings/${y}`}
               className={y === selectedYear ? styles.active : ''}
             >
               {y}
@@ -382,7 +386,7 @@ export function Standings() {
                       <ManagerBadge
                         name={stats.manager}
                         size="sm"
-                        leagueId={leagueId}
+                        leagueId={validLeagueId}
                       />
                     </td>
                     <td className={styles.seasons}>{stats.seasonsPlayed}</td>
@@ -429,7 +433,7 @@ export function Standings() {
                       <ManagerBadge
                         name={team.manager}
                         size="sm"
-                        leagueId={leagueId}
+                        leagueId={validLeagueId}
                       />
                     </td>
                     <td className={styles.teamName}>{team.name}</td>

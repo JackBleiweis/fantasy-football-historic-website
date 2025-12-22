@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import { createPortal } from 'react-dom';
-import { useManagerModal } from '../../contexts/ManagerModalContext';
+import { useManagerModal } from '../../hooks/useManagerModal';
 import { useManagerStats } from '../../hooks/useManagerStats';
 import { getManagerAvatar } from '../../data/managerAvatars';
 import styles from './ManagerModal.module.scss';

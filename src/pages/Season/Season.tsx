@@ -14,17 +14,15 @@ export function Season() {
   const [selectedWeek, setSelectedWeek] = useState<number>(1);
   const [selectedTeamId, setSelectedTeamId] = useState<string | null>(null);
 
-  // Validate league ID
-  if (!leagueId || !isValidLeague(leagueId)) {
-    return <Navigate to="/" replace />;
-  }
-
-  const availableYears = getAvailableYears(leagueId);
+  // Validate and get data
+  const validLeagueId = leagueId && isValidLeague(leagueId) ? leagueId : null;
+  const availableYears = validLeagueId ? getAvailableYears(validLeagueId) : [];
   const selectedYear = year ? parseInt(year, 10) : availableYears[0];
-  const seasonData = selectedYear
-    ? getSeasonData(leagueId, selectedYear)
+  const seasonData = validLeagueId && selectedYear
+    ? getSeasonData(validLeagueId, selectedYear)
     : null;
 
+  // All hooks must be called unconditionally
   const teamLookup = useMemo(
     () => (seasonData ? createTeamLookup(seasonData.teams) : new Map()),
     [seasonData]
@@ -65,6 +63,11 @@ export function Season() {
     }
   };
 
+  // Return after all hooks
+  if (!validLeagueId) {
+    return <Navigate to="/" replace />;
+  }
+
   if (!seasonData) {
     return (
       <div className={styles.season}>
@@ -83,7 +86,7 @@ export function Season() {
             {availableYears.map((y) => (
               <a
                 key={y}
-                href={`/${leagueId}/season/${y}`}
+                href={`/${validLeagueId}/season/${y}`}
                 className={y === selectedYear ? styles.active : ''}
               >
                 {y}
@@ -148,7 +151,7 @@ export function Season() {
             key={`${matchup.week}-${matchup.team1Id}-${index}`}
             matchup={matchup}
             teamLookup={teamLookup}
-            leagueId={leagueId}
+            leagueId={validLeagueId}
             showWeek={viewMode === 'team'}
             highlightTeamId={viewMode === 'team' ? selectedTeamId : null}
           />

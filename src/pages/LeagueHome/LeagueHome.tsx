@@ -9,7 +9,7 @@ import {
   getManagerPlayoffStats,
 } from '../../data';
 import { getManagerAvatar } from '../../data/managerAvatars';
-import { useManagerModal } from '../../contexts/ManagerModalContext';
+import { useManagerModal } from '../../hooks/useManagerModal';
 import type { LeagueId } from '../../types';
 import styles from './LeagueHome.module.scss';
 
@@ -63,16 +63,19 @@ export function LeagueHome() {
   const { leagueId } = useParams<{ leagueId: string }>();
   const { openModal } = useManagerModal();
 
-  // Validate league ID
-  if (!leagueId || !isValidLeague(leagueId)) {
-    return <Navigate to="/" replace />;
-  }
+  // Validate and get league info
+  const validLeagueId = leagueId && isValidLeague(leagueId) ? leagueId : null;
+  const leagueInfo = validLeagueId ? getLeagueInfo(validLeagueId) : null;
+  const latestSeason = validLeagueId ? getLatestSeasonData(validLeagueId) : null;
 
-  const leagueInfo = getLeagueInfo(leagueId);
-  const latestSeason = getLatestSeasonData(leagueId);
-  const topManagers = useMemo(() => calculateTopManagers(leagueId), [leagueId]);
+  // Calculate top managers - must be called unconditionally
+  const topManagers = useMemo(
+    () => (validLeagueId ? calculateTopManagers(validLeagueId) : []),
+    [validLeagueId]
+  );
 
-  if (!leagueInfo) {
+  // Return after all hooks
+  if (!validLeagueId || !leagueInfo) {
     return <Navigate to="/" replace />;
   }
 
@@ -92,7 +95,7 @@ export function LeagueHome() {
               <button
                 key={manager.name}
                 className={`${styles.podiumSpot} ${styles[`place${index + 1}`]}`}
-                onClick={() => openModal(manager.name, leagueId)}
+                onClick={() => openModal(manager.name, validLeagueId)}
                 aria-label={`View ${manager.name}'s profile`}
               >
                 {index === 0 && <div className={styles.crown}>👑</div>}

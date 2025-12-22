@@ -1,4 +1,4 @@
-import { useManagerModal } from '../../contexts/ManagerModalContext';
+import { useManagerModal } from '../../hooks/useManagerModal';
 import { getManagerAvatar } from '../../data/managerAvatars';
 import type { LeagueId } from '../../types';
 import styles from './ManagerBadge.module.scss';

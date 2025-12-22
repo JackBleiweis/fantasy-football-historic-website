@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
-import { ManagerModalProvider } from './contexts/ManagerModalContext';
+import { ManagerModalProvider } from './contexts/ManagerModalProvider';
 import { ManagerModal } from './components/ManagerModal/ManagerModal';
 import { Layout } from './components/Layout/Layout';
 import { Home } from './pages/Home/Home';
