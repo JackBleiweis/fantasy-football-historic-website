@@ -63,7 +63,7 @@ const MANAGER_NAME_MAP = {
   chase: 'Chase Bergman',
   ty: 'Ty Greenberg',
   jake: 'Jake Mintz',
-  matthew: 'Matthew Garay',
+  matthew: 'Matthew Garay', // CWP Matthew - LP Matthew handled via TEAM_TO_MANAGER_MAP
   michael: 'Michael Kagan',
   buddy: 'Buddy Marcello',
   zach: 'Zach Weisleder',
@@ -74,7 +74,21 @@ const MANAGER_NAME_MAP = {
   jeff: 'Jeff Roebuck',
   josh: 'Josh Green',
   'josh b': 'Josh Bleiweis',
-  // Add LP League managers here as needed
+
+  // LP League managers (Jack & Matthew handled via TEAM_TO_MANAGER_MAP)
+  james: 'James Ellement',
+  joe: 'Joe Glibbery',
+  harrison: 'Harrison Wood',
+  lucas: 'Lucas Stagliano',
+  heri: 'Heri Hickl Szabo',
+  kevin: 'Kevin McCreary',
+  ryan: 'Ryan Schwartz',
+  gabriel: 'Gabriel Nadra',
+  gabe: 'Gabriel Nadra',
+  ian: "Ian O'Handley",
+  william: 'William Davison',
+  will: 'William Davison',
+  declan: 'Declan Brown',
 };
 
 // Special mapping for managers where first name alone isn't unique

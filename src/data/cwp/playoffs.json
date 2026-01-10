@@ -113,6 +113,15 @@
         "Jake Mintz",
         "Buddy Marcello"
       ]
+    },
+    {
+      "year": 2025,
+      "champion": "Dustin Pulver",
+      "runnerUp": "Matthew Garay",
+      "playoffTeams": [
+        "Chase Bergman",
+        "Buddy Marcello"
+      ]
     }
   ]
 }

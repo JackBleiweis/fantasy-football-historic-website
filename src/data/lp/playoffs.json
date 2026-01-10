@@ -3,96 +3,107 @@
   "history": [
     {
       "year": 2016,
-      "champion": "Heri",
-      "runnerUp": "Gabe",
+      "champion": "Heri Hickl Szabo",
+      "runnerUp": "Gabriel Nadra",
       "playoffTeams": [
-        "Joe"
+        "Joe Glibbery"
       ]
     },
     {
       "year": 2017,
-      "champion": "Gabriel",
-      "runnerUp": "James",
+      "champion": "Gabriel Nadra",
+      "runnerUp": "James Ellement",
       "playoffTeams": [
-        "Ian",
-        "Heri"
+        "Ian O'Handley",
+        "Heri Hickl Szabo"
       ]
     },
     {
       "year": 2018,
-      "champion": "Heri",
-      "runnerUp": "Declan",
+      "champion": "Heri Hickl Szabo",
+      "runnerUp": "Declan Brown",
       "playoffTeams": [
-        "James",
+        "James Ellement",
         "Jack Bleiweis",
-        "Joe",
-        "Kevin"
+        "Joe Glibbery",
+        "Kevin McCreary"
       ]
     },
     {
       "year": 2019,
-      "champion": "Joe",
+      "champion": "Joe Glibbery",
       "runnerUp": "Jack Bleiweis",
       "playoffTeams": [
-        "Ian",
+        "Ian O'Handley",
         "Matthew Weintraub",
-        "Kevin",
-        "Gabriel"
+        "Kevin McCreary",
+        "Gabriel Nadra"
       ]
     },
     {
       "year": 2020,
-      "champion": "Harrison",
-      "runnerUp": "Kevin",
+      "champion": "Harrison Wood",
+      "runnerUp": "Kevin McCreary",
       "playoffTeams": [
         "Jack Bleiweis",
-        "Lucas",
-        "Joe",
-        "Ian"
+        "Lucas Stagliano",
+        "Joe Glibbery",
+        "Ian O'Handley"
       ]
     },
     {
       "year": 2021,
-      "champion": "Lucas",
-      "runnerUp": "Joe",
+      "champion": "Lucas Stagliano",
+      "runnerUp": "Joe Glibbery",
       "playoffTeams": [
-        "Gabriel",
-        "James",
-        "Kevin",
+        "Gabriel Nadra",
+        "James Ellement",
+        "Kevin McCreary",
         "Matthew Weintraub"
       ]
     },
     {
       "year": 2022,
-      "champion": "William",
-      "runnerUp": "Ian",
+      "champion": "William Davison",
+      "runnerUp": "Ian O'Handley",
       "playoffTeams": [
         "Jack Bleiweis",
-        "Lucas",
-        "James",
-        "Gabriel"
+        "Lucas Stagliano",
+        "James Ellement",
+        "Gabriel Nadra"
       ]
     },
     {
       "year": 2023,
-      "champion": "Harrison",
+      "champion": "Harrison Wood",
       "runnerUp": "Jack Bleiweis",
       "playoffTeams": [
-        "Joe",
-        "William",
-        "Kevin",
-        "Heri"
+        "Joe Glibbery",
+        "William Davison",
+        "Kevin McCreary",
+        "Heri Hickl Szabo"
       ]
     },
     {
       "year": 2024,
-      "champion": "William",
-      "runnerUp": "Ryan",
+      "champion": "William Davison",
+      "runnerUp": "Ryan Schwartz",
       "playoffTeams": [
         "Jack Bleiweis",
         "Matthew Weintraub",
-        "Heri",
-        "Joe"
+        "Heri Hickl Szabo",
+        "Joe Glibbery"
+      ]
+    },
+    {
+      "year": 2025,
+      "champion": "Harrison Wood",
+      "runnerUp": "Joe Glibbery",
+      "playoffTeams": [
+        "Lucas Stagliano",
+        "Heri Hickl Szabo",
+        "Matthew Weintraub",
+        "Gabriel Nadra"
       ]
     }
   ]

@@ -482,4 +482,80 @@
     padding: $space-48;
     color: var(--color-text-secondary);
   }
+
+  // Matchup of the Day
+  .matchupOfTheDay {
+    margin-top: $space-32;
+    text-align: center;
+
+    @media (min-width: $breakpoint-md) {
+      margin-top: $space-48;
+    }
+
+    .matchupButton {
+      display: inline-flex;
+      align-items: center;
+      gap: $space-12;
+      padding: $space-16 $space-32;
+      background: linear-gradient(
+        135deg,
+        var(--color-header) 0%,
+        var(--color-gold) 100%
+      );
+      border: none;
+      border-radius: $radius-full;
+      cursor: pointer;
+      transition: all $transition-base;
+      box-shadow: $shadow-lg;
+      font-family: inherit;
+
+      &:hover {
+        transform: translateY(-2px);
+        box-shadow: $shadow-xl;
+      }
+
+      &:active {
+        transform: translateY(0);
+      }
+
+      &:focus-visible {
+        outline: 2px solid var(--color-gold);
+        outline-offset: 2px;
+      }
+
+      .buttonIcon {
+        font-size: $font-size-xl;
+        animation: shake 2s ease-in-out infinite;
+
+        @keyframes shake {
+          0%,
+          100% {
+            transform: rotate(0deg);
+          }
+          10%,
+          30% {
+            transform: rotate(-10deg);
+          }
+          20%,
+          40% {
+            transform: rotate(10deg);
+          }
+          50% {
+            transform: rotate(0deg);
+          }
+        }
+      }
+
+      .buttonText {
+        font-size: $font-size-base;
+        font-weight: $font-weight-semibold;
+        color: white;
+        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+
+        @media (min-width: $breakpoint-md) {
+          font-size: $font-size-lg;
+        }
+      }
+    }
+  }
 }

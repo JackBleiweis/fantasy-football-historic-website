@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import { useMemo, useState } from 'react';
 import { useParams, Navigate } from 'react-router-dom';
 import {
   getLeagueInfo,
@@ -10,6 +10,8 @@ import {
 } from '../../data';
 import { getManagerAvatar } from '../../data/managerAvatars';
 import { useManagerModal } from '../../hooks/useManagerModal';
+import { getMatchupOfTheDay } from '../../utils/matchupOfTheDay';
+import { MatchupModal } from '../../components/MatchupModal/MatchupModal';
 import type { LeagueId } from '../../types';
 import styles from './LeagueHome.module.scss';
 
@@ -96,6 +98,7 @@ function calculateAllManagerRankings(leagueId: LeagueId): ManagerRanking[] {
 export function LeagueHome() {
   const { leagueId } = useParams<{ leagueId: string }>();
   const { openModal } = useManagerModal();
+  const [showMatchupModal, setShowMatchupModal] = useState(false);
 
   // Validate and get league info
   const validLeagueId = leagueId && isValidLeague(leagueId) ? leagueId : null;
@@ -105,6 +108,12 @@ export function LeagueHome() {
   // Calculate all manager rankings - must be called unconditionally
   const allManagers = useMemo(
     () => (validLeagueId ? calculateAllManagerRankings(validLeagueId) : []),
+    [validLeagueId]
+  );
+
+  // Get matchup of the day
+  const matchupOfTheDay = useMemo(
+    () => (validLeagueId ? getMatchupOfTheDay(validLeagueId) : null),
     [validLeagueId]
   );
 
@@ -234,6 +243,28 @@ export function LeagueHome() {
         <section className={styles.noData}>
           <p>No season data available yet.</p>
         </section>
+      )}
+
+      {/* Matchup of the Day Button */}
+      {matchupOfTheDay && (
+        <section className={styles.matchupOfTheDay}>
+          <button
+            className={styles.matchupButton}
+            onClick={() => setShowMatchupModal(true)}
+          >
+            <span className={styles.buttonIcon}>🎲</span>
+            <span className={styles.buttonText}>Random Matchup of the Day</span>
+          </button>
+        </section>
+      )}
+
+      {/* Matchup Modal */}
+      {matchupOfTheDay && (
+        <MatchupModal
+          matchupData={matchupOfTheDay}
+          isOpen={showMatchupModal}
+          onClose={() => setShowMatchupModal(false)}
+        />
       )}
     </div>
   );
