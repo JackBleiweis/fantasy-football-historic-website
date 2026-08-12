@@ -38,10 +38,23 @@
 
   // Hall of Fame Section
   .hallOfFame {
+    margin-top: $space-8;
     margin-bottom: $space-32;
 
     @media (min-width: $breakpoint-md) {
       margin-bottom: $space-48;
+    }
+
+    .sectionHeader {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: $space-8;
+      margin-bottom: $space-24;
+
+      @media (min-width: $breakpoint-md) {
+        margin-bottom: $space-32;
+      }
     }
 
     .sectionTitle {
@@ -49,13 +62,23 @@
       font-size: $font-size-lg;
       font-weight: $font-weight-bold;
       color: var(--color-gold);
-      margin-bottom: $space-24;
+      margin: 0;
       text-transform: uppercase;
       letter-spacing: 0.1em;
 
       @media (min-width: $breakpoint-md) {
         font-size: $font-size-xl;
-        margin-bottom: $space-32;
+      }
+    }
+
+    .seeAllLink {
+      font-size: $font-size-sm;
+      color: var(--color-text-secondary);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--color-text);
+        text-decoration: underline;
       }
     }
 
@@ -487,6 +510,10 @@
   .matchupOfTheDay {
     margin-top: $space-32;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: $space-12;
 
     @media (min-width: $breakpoint-md) {
       margin-top: $space-48;

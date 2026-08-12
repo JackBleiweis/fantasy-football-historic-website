@@ -2,15 +2,9 @@
 @use '../../styles/mixins' as *;
 
 .overlay {
-  position: fixed;
-  inset: 0;
+  @include modal-overlay;
   background: rgba(0, 0, 0, 0.7);
   backdrop-filter: blur(4px);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: $z-modal;
-  padding: $space-16;
   animation: fadeIn 0.2s ease-out;
 
   @keyframes fadeIn {
@@ -24,12 +18,8 @@
 }
 
 .modal {
+  @include modal-sheet(500px);
   background: var(--color-bg);
-  border-radius: $radius-16;
-  max-width: 500px;
-  width: 100%;
-  max-height: 90vh;
-  overflow-y: auto;
   position: relative;
   animation: slideUp 0.3s ease-out;
   border: 1px solid var(--color-border);
@@ -49,8 +39,8 @@
     position: absolute;
     top: $space-12;
     right: $space-12;
-    width: 32px;
-    height: 32px;
+    width: 44px;
+    height: 44px;
     border: none;
     background: var(--color-bg-alt);
     border-radius: 50%;
@@ -62,6 +52,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: 1;
 
     &:hover {
       background: var(--color-border);

@@ -1,104 +1,23 @@
 import { useMemo, useState } from 'react';
-import { useParams, Navigate } from 'react-router-dom';
+import { Link, useParams, Navigate } from 'react-router-dom';
 import {
   getLeagueInfo,
   getLatestSeasonData,
   isValidLeague,
-  getSeasonData,
-  getAvailableYears,
-  getManagerPlayoffStats,
 } from '../../data';
-import { getManagerAvatar } from '../../data/managerAvatars';
 import { useManagerModal } from '../../hooks/useManagerModal';
 import { getMatchupOfTheDay } from '../../utils/matchupOfTheDay';
+import { getTradeOfTheDay } from '../../utils/tradeOfTheDay';
+import { getLeagueManagerSummaries } from '../../utils/managerSummaries';
 import { MatchupModal } from '../../components/MatchupModal/MatchupModal';
-import type { LeagueId } from '../../types';
+import { TradeModal } from '../../components/TradeModal/TradeModal';
 import styles from './LeagueHome.module.scss';
-
-interface ManagerRanking {
-  name: string;
-  championships: number;
-  wins: number;
-  avgPF: number;
-  avatar?: string;
-}
-
-function calculateAllManagerRankings(leagueId: LeagueId): ManagerRanking[] {
-  const managerStats = new Map<
-    string,
-    ManagerRanking & { totalPF: number; gamesPlayed: number }
-  >();
-  const years = getAvailableYears(leagueId);
-
-  // Get wins and points from season data
-  for (const year of years) {
-    const seasonData = getSeasonData(leagueId, year);
-    if (!seasonData) continue;
-
-    // Build points map from matchups
-    const teamPoints = new Map<string, { pf: number; games: number }>();
-    for (const matchup of seasonData.matchups) {
-      if (!matchup.isComplete) continue;
-
-      const t1 = teamPoints.get(matchup.team1Id) || { pf: 0, games: 0 };
-      t1.pf += matchup.team1Points;
-      t1.games++;
-      teamPoints.set(matchup.team1Id, t1);
-
-      const t2 = teamPoints.get(matchup.team2Id) || { pf: 0, games: 0 };
-      t2.pf += matchup.team2Points;
-      t2.games++;
-      teamPoints.set(matchup.team2Id, t2);
-    }
-
-    for (const team of seasonData.teams) {
-      const existing = managerStats.get(team.manager) || {
-        name: team.manager,
-        championships: 0,
-        wins: 0,
-        avgPF: 0,
-        totalPF: 0,
-        gamesPlayed: 0,
-        avatar: getManagerAvatar(team.manager),
-      };
-      existing.wins += team.wins;
-
-      const points = teamPoints.get(team.id);
-      if (points) {
-        existing.totalPF += points.pf;
-        existing.gamesPlayed += points.games;
-      }
-
-      managerStats.set(team.manager, existing);
-    }
-  }
-
-  // Get championships from playoff history and calculate avg PF
-  for (const [manager, stats] of managerStats) {
-    const playoffStats = getManagerPlayoffStats(leagueId, manager);
-    stats.championships = playoffStats.championships;
-    stats.avgPF = stats.gamesPlayed > 0 ? stats.totalPF / stats.gamesPlayed : 0;
-  }
-
-  // Convert to array and sort by championships (desc), then wins (desc)
-  const allManagers = Array.from(managerStats.values()).map(
-    ({ ...rest }) => rest
-  );
-  
-  allManagers.sort((a, b) => {
-    if (b.championships !== a.championships) {
-      return b.championships - a.championships;
-    }
-    return b.wins - a.wins;
-  });
-
-  return allManagers;
-}
 
 export function LeagueHome() {
   const { leagueId } = useParams<{ leagueId: string }>();
   const { openModal } = useManagerModal();
   const [showMatchupModal, setShowMatchupModal] = useState(false);
+  const [showTradeModal, setShowTradeModal] = useState(false);
 
   // Validate and get league info
   const validLeagueId = leagueId && isValidLeague(leagueId) ? leagueId : null;
@@ -107,13 +26,17 @@ export function LeagueHome() {
 
   // Calculate all manager rankings - must be called unconditionally
   const allManagers = useMemo(
-    () => (validLeagueId ? calculateAllManagerRankings(validLeagueId) : []),
+    () => (validLeagueId ? getLeagueManagerSummaries(validLeagueId) : []),
     [validLeagueId]
   );
 
   // Get matchup of the day
   const matchupOfTheDay = useMemo(
     () => (validLeagueId ? getMatchupOfTheDay(validLeagueId) : null),
+    [validLeagueId]
+  );
+  const tradeOfTheDay = useMemo(
+    () => (validLeagueId ? getTradeOfTheDay(validLeagueId) : null),
     [validLeagueId]
   );
 
@@ -128,15 +51,18 @@ export function LeagueHome() {
 
   return (
     <div className={styles.leagueHome}>
-      <header className={styles.header}>
-        <h1>{leagueInfo.name}</h1>
-        {leagueInfo.description && <p>{leagueInfo.description}</p>}
-      </header>
-
       {/* Hall of Fame Section */}
       {topManagers.length > 0 && (
         <section className={styles.hallOfFame}>
-          <h2 className={styles.sectionTitle}>Hall of Fame</h2>
+          <div className={styles.sectionHeader}>
+            <h2 className={styles.sectionTitle}>Hall of Fame</h2>
+            <Link
+              to={`/${validLeagueId}/managers`}
+              className={styles.seeAllLink}
+            >
+              All managers
+            </Link>
+          </div>
           <div className={styles.podium}>
             {topManagers.map((manager, index) => (
               <button
@@ -245,25 +171,42 @@ export function LeagueHome() {
         </section>
       )}
 
-      {/* Matchup of the Day Button */}
-      {matchupOfTheDay && (
+      {(matchupOfTheDay || tradeOfTheDay) && (
         <section className={styles.matchupOfTheDay}>
-          <button
-            className={styles.matchupButton}
-            onClick={() => setShowMatchupModal(true)}
-          >
-            <span className={styles.buttonIcon}>🎲</span>
-            <span className={styles.buttonText}>Random Matchup of the Day</span>
-          </button>
+          {matchupOfTheDay && (
+            <button
+              className={styles.matchupButton}
+              onClick={() => setShowMatchupModal(true)}
+            >
+              <span className={styles.buttonIcon}>🎲</span>
+              <span className={styles.buttonText}>Matchup of the Day</span>
+            </button>
+          )}
+          {tradeOfTheDay && (
+            <button
+              className={styles.matchupButton}
+              onClick={() => setShowTradeModal(true)}
+            >
+              <span className={styles.buttonIcon}>🔁</span>
+              <span className={styles.buttonText}>Trade of the Day</span>
+            </button>
+          )}
         </section>
       )}
 
-      {/* Matchup Modal */}
       {matchupOfTheDay && (
         <MatchupModal
           matchupData={matchupOfTheDay}
           isOpen={showMatchupModal}
           onClose={() => setShowMatchupModal(false)}
+        />
+      )}
+      {tradeOfTheDay && validLeagueId && (
+        <TradeModal
+          trade={tradeOfTheDay}
+          leagueId={validLeagueId}
+          isOpen={showTradeModal}
+          onClose={() => setShowTradeModal(false)}
         />
       )}
     </div>

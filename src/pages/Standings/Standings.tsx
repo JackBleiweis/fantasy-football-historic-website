@@ -1,7 +1,9 @@
 import { useMemo, useState } from 'react';
 import { useParams, Navigate } from 'react-router-dom';
-import { getSeasonData, getAvailableYears, isValidLeague, getPlayoffYear } from '../../data';
+import { getSeasonData, getAvailableYears, getDisplayYears, isValidLeague, getPlayoffYear, isPlayoffOnlyYear } from '../../data';
 import { ManagerBadge } from '../../components/ManagerBadge/ManagerBadge';
+import { YearSelector } from '../../components/YearSelector/YearSelector';
+import { PlayoffOnlyNotice } from '../../components/PlayoffOnlyNotice/PlayoffOnlyNotice';
 import type { LeagueId } from '../../types';
 import styles from './Standings.module.scss';
 
@@ -148,9 +150,15 @@ export function Standings() {
     () => (validLeagueId ? getAvailableYears(validLeagueId) : []),
     [validLeagueId]
   );
+  const displayYears = useMemo(
+    () => (validLeagueId ? getDisplayYears(validLeagueId) : []),
+    [validLeagueId]
+  );
   const isAllTime = year === 'all-time';
   const selectedYear = isAllTime ? null : (year ? parseInt(year, 10) : availableYears[0]);
   const seasonData = validLeagueId && selectedYear ? getSeasonData(validLeagueId, selectedYear) : null;
+  const playoffOnly =
+    !!validLeagueId && !!selectedYear && isPlayoffOnlyYear(validLeagueId, selectedYear);
 
   // Calculate points for/against from matchups for single season view
   const teamPointsMap = useMemo(() => {
@@ -313,7 +321,7 @@ export function Standings() {
     return <Navigate to="/" replace />;
   }
 
-  if (!isAllTime && !seasonData) {
+  if (!isAllTime && !seasonData && !playoffOnly) {
     return (
       <div className={styles.standings}>
         <h1>Standings</h1>
@@ -326,24 +334,23 @@ export function Standings() {
     <div className={styles.standings}>
       <header className={styles.header}>
         <h1>{isAllTime ? 'All-Time Standings' : `${selectedYear} Standings`}</h1>
-        <div className={styles.yearSelector}>
-          <a
-            href={`/${validLeagueId}/standings/all-time`}
-            className={isAllTime ? styles.active : ''}
-          >
-            All-Time
-          </a>
-          {availableYears.map((y) => (
-            <a
-              key={y}
-              href={`/${validLeagueId}/standings/${y}`}
-              className={y === selectedYear ? styles.active : ''}
-            >
-              {y}
-            </a>
-          ))}
-        </div>
+        <YearSelector
+          years={displayYears}
+          selectedYear={isAllTime ? 'all-time' : selectedYear}
+          hrefForYear={(y) => `/${validLeagueId}/standings/${y}`}
+          extraItems={[
+            {
+              id: 'all-time',
+              label: 'All-Time',
+              href: `/${validLeagueId}/standings/all-time`,
+            },
+          ]}
+        />
       </header>
+
+      {playoffOnly && selectedYear && (
+        <PlayoffOnlyNotice leagueId={validLeagueId} year={selectedYear} />
+      )}
 
       {isAllTime && (
         <div className={styles.filterBar}>
@@ -361,6 +368,7 @@ export function Standings() {
         </div>
       )}
 
+      {!playoffOnly && (
       <div className={styles.tableCard}>
         <div className={styles.tableWrapper}>
           {isAllTime && allTimeStandings ? (
@@ -459,6 +467,7 @@ export function Standings() {
           )}
         </div>
       </div>
+      )}
     </div>
   );
 }

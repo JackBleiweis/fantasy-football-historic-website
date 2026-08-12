@@ -45,7 +45,7 @@ export const leagues: Record<LeagueId, LeagueInfo> = {
     name: 'CWP Fantasy League',
     shortName: 'CWP',
     description: 'The CWP Fantasy Football League',
-    years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014],
+    years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012],
   },
   lp: {
     id: 'lp',
@@ -105,12 +105,38 @@ export function getSeasonData(
 }
 
 /**
- * Get all available years for a league
+ * Get years that have full season data (drafts, matchups, standings)
  */
 export function getAvailableYears(leagueId: LeagueId): number[] {
   return Object.keys(seasonDataMap[leagueId] || {})
     .map(Number)
     .sort((a, b) => b - a); // Most recent first
+}
+
+/**
+ * Years to show in year pickers: season data plus playoff-only years
+ */
+export function getDisplayYears(leagueId: LeagueId): number[] {
+  const seasonYears = getAvailableYears(leagueId);
+  const playoffYears =
+    playoffHistoryMap[leagueId]?.history.map((h) => h.year) ?? [];
+  return Array.from(new Set([...seasonYears, ...playoffYears])).sort(
+    (a, b) => b - a
+  );
+}
+
+export function isPlayoffOnlyYear(leagueId: LeagueId, year: number): boolean {
+  return !getSeasonData(leagueId, year) && !!getPlayoffYear(leagueId, year);
+}
+
+export function getLatestChampion(leagueId: LeagueId): {
+  year: number;
+  name: string;
+} | null {
+  const history = playoffHistoryMap[leagueId]?.history ?? [];
+  if (history.length === 0) return null;
+  const latest = [...history].sort((a, b) => b.year - a.year)[0];
+  return { year: latest.year, name: latest.champion };
 }
 
 /**

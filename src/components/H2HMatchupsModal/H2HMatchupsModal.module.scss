@@ -1,0 +1,144 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.overlay {
+  @include modal-overlay;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+}
+
+.modal {
+  @include modal-sheet(520px);
+  background-color: var(--color-bg-card);
+  box-shadow: $shadow-2xl;
+  position: relative;
+}
+
+.closeButton {
+  position: absolute;
+  top: $space-12;
+  right: $space-12;
+  width: 44px;
+  height: 44px;
+  border-radius: $radius-full;
+  background-color: var(--color-bg-alt);
+  color: var(--color-text-secondary);
+  font-size: $font-size-xl;
+  line-height: 1;
+  z-index: 1;
+
+  &:hover {
+    background-color: var(--color-border);
+    color: var(--color-text);
+  }
+}
+
+.header {
+  padding: $space-24 $space-24 $space-16;
+  padding-right: $space-56;
+
+  h2 {
+    margin: 0 0 $space-4;
+    font-size: $font-size-lg;
+    word-break: break-word;
+
+    @media (min-width: $breakpoint-sm) {
+      font-size: $font-size-xl;
+    }
+  }
+
+  p {
+    margin: 0;
+    color: var(--color-text-secondary);
+    font-size: $font-size-sm;
+  }
+}
+
+.empty {
+  padding: 0 $space-24 $space-24;
+  color: var(--color-text-secondary);
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0 $space-16 $space-16;
+  display: flex;
+  flex-direction: column;
+  gap: $space-8;
+}
+
+.game {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: $space-12;
+  padding: $space-12 $space-16;
+  min-height: 56px;
+  border-radius: $radius-12;
+  background: var(--color-bg-alt);
+  text-decoration: none;
+  color: inherit;
+
+  &:hover {
+    background: var(--color-border);
+  }
+}
+
+.meta {
+  display: flex;
+  flex-direction: column;
+  gap: $space-4;
+  min-width: 0;
+}
+
+.when {
+  font-size: $font-size-sm;
+  font-weight: $font-weight-medium;
+}
+
+.playoff {
+  font-size: $font-size-xs;
+  color: var(--color-gold);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.scoreRow {
+  display: flex;
+  align-items: center;
+  gap: $space-12;
+  flex-shrink: 0;
+}
+
+.result {
+  width: 28px;
+  height: 28px;
+  border-radius: $radius-full;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: $font-size-xs;
+  font-weight: $font-weight-bold;
+}
+
+.w .result {
+  background: color-mix(in srgb, #22c55e 20%, transparent);
+  color: #16a34a;
+}
+
+.l .result {
+  background: color-mix(in srgb, #ef4444 20%, transparent);
+  color: #dc2626;
+}
+
+.t .result {
+  background: var(--color-bg-card);
+  color: var(--color-text-secondary);
+}
+
+.score {
+  font-variant-numeric: tabular-nums;
+  font-weight: $font-weight-semibold;
+  font-size: $font-size-sm;
+}

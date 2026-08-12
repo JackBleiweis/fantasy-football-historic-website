@@ -182,6 +182,14 @@ export const managers: Manager[] = [
     leagues: ['cwp'],
   },
   {
+    id: 'spolan',
+    fullName: 'Shane Polan',
+    firstName: 'Shane',
+    lastName: 'Polan',
+    avatar: undefined,
+    leagues: ['cwp'],
+  },
+  {
     id: 'jgreen',
     fullName: 'Josh Green',
     firstName: 'Josh',
@@ -305,7 +313,7 @@ export const managers: Manager[] = [
 
 // Map: managerId -> Manager
 const managerById = new Map<string, Manager>(
-  managers.map((m) => [m.id, m])
+  managers.map((m) => [m.id.toLowerCase(), m])
 );
 
 // Map: fullName (lowercase) -> Manager
@@ -409,4 +417,30 @@ export function resolveManager(
  */
 export function hasManagerAvatar(nameOrId: string): boolean {
   return getManagerAvatar(nameOrId) !== undefined;
+}
+
+export function slugifyManagerName(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '')
+    .trim();
+}
+
+export function getManagerId(name: string, leagueId?: LeagueId): string {
+  const manager = resolveManager(name, leagueId);
+  return (manager?.id || slugifyManagerName(name)).toLowerCase();
+}
+
+export function getManagerProfilePath(
+  leagueId: LeagueId,
+  name: string
+): string {
+  return `/${leagueId}/managers/${getManagerId(name, leagueId)}`;
+}
+
+export function getManagerByIdOrName(
+  idOrName: string,
+  leagueId?: LeagueId
+): Manager | undefined {
+  return getManagerById(idOrName) || resolveManager(idOrName, leagueId);
 }

@@ -3,90 +3,6 @@
   "leagueId": "cwp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "The Coopa Pukas",
-      "manager": "Jack Bleiweis",
-      "wins": 8,
-      "losses": 6,
-      "ties": 0,
-      "rank": 2,
-      "playoffSeed": 4,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/87c79ffaccfa4cf03422638d92f34eb896f211c4e178c278749345996dcfbf4a.png"
-    },
-    {
-      "id": "t.2",
-      "name": "🏳️",
-      "manager": "Matthew Garay",
-      "wins": 3,
-      "losses": 11,
-      "ties": 0,
-      "rank": 7,
-      "playoffSeed": 10,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/59746d859e16f39515e705ba63a9ecbdfcef19167a533a75a2309b85d60a6cf3.jpg"
-    },
-    {
-      "id": "t.3",
-      "name": "Wilson!",
-      "manager": "Buddy Marcello",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "rank": 5,
-      "playoffSeed": 6,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/bc8aef0ad87010793f59e314a405a76044dc3914ee9302458f228dbc52c08995.jpg"
-    },
-    {
-      "id": "t.4",
-      "name": "JumanjiJumanji",
-      "manager": "Michael Kagan",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 4,
-      "playoffSeed": 2,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/05d293a93b495d6c4c08a7d6a86e07404600b86786659bbf0f5d7d1fbe688cea.jpg"
-    },
-    {
-      "id": "t.5",
-      "name": "Next Year in Jerusalem",
-      "manager": "Ty Greenberg",
-      "wins": 10,
-      "losses": 4,
-      "ties": 0,
-      "rank": 6,
-      "playoffSeed": 5,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a3fccc8384f0433da61512aa9744f4bbdba168bbee1aa36525d1180a48cacb63.png"
-    },
-    {
-      "id": "t.6",
-      "name": "Show me your TD's",
-      "manager": "Ben Roher",
-      "wins": 5,
-      "losses": 9,
-      "ties": 0,
-      "rank": 10,
-      "playoffSeed": 8,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44284260402_5ef6b1.jpg"
-    },
-    {
-      "id": "t.7",
-      "name": "Suh Girls One Cup",
-      "manager": "Jake Mintz",
-      "wins": 4,
-      "losses": 10,
-      "ties": 0,
-      "rank": 8,
-      "playoffSeed": 9,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png"
-    },
-    {
       "id": "t.8",
       "name": "Ty Reeks",
       "manager": "Jack Beder",
@@ -96,7 +12,23 @@
       "rank": 1,
       "playoffSeed": 3,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png",
+      "moves": 47,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.1",
+      "name": "The Coopa Pukas",
+      "manager": "Jack Bleiweis",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "rank": 2,
+      "playoffSeed": 4,
+      "isCommissioner": true,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/87c79ffaccfa4cf03422638d92f34eb896f211c4e178c278749345996dcfbf4a.png",
+      "moves": 41,
+      "tradesCount": 2
     },
     {
       "id": "t.9",
@@ -108,7 +40,79 @@
       "rank": 3,
       "playoffSeed": 1,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_3_c.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_3_c.png",
+      "moves": 35,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.4",
+      "name": "JumanjiJumanji",
+      "manager": "Michael Kagan",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 4,
+      "playoffSeed": 2,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/05d293a93b495d6c4c08a7d6a86e07404600b86786659bbf0f5d7d1fbe688cea.jpg",
+      "moves": 20,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.3",
+      "name": "Wilson!",
+      "manager": "Buddy Marcello",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "rank": 5,
+      "playoffSeed": 6,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/bc8aef0ad87010793f59e314a405a76044dc3914ee9302458f228dbc52c08995.jpg",
+      "moves": 94,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.5",
+      "name": "Next Year in Jerusalem",
+      "manager": "Ty Greenberg",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 5,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a3fccc8384f0433da61512aa9744f4bbdba168bbee1aa36525d1180a48cacb63.png",
+      "moves": 40,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.2",
+      "name": "🏳️",
+      "manager": "Matthew Garay",
+      "wins": 3,
+      "losses": 11,
+      "ties": 0,
+      "rank": 7,
+      "playoffSeed": 10,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/59746d859e16f39515e705ba63a9ecbdfcef19167a533a75a2309b85d60a6cf3.jpg",
+      "moves": 27,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.7",
+      "name": "Suh Girls One Cup",
+      "manager": "Jake Mintz",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "rank": 8,
+      "playoffSeed": 9,
+      "isCommissioner": false,
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png",
+      "moves": 20,
+      "tradesCount": 0
     },
     {
       "id": "t.10",
@@ -120,7 +124,23 @@
       "rank": 9,
       "playoffSeed": 7,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/e9f74e8ac538d8b876be81795e569660a68e373f9a186d2b928be0df449c9876.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/e9f74e8ac538d8b876be81795e569660a68e373f9a186d2b928be0df449c9876.jpg",
+      "moves": 38,
+      "tradesCount": 4
+    },
+    {
+      "id": "t.6",
+      "name": "Show me your TD's",
+      "manager": "Ben Roher",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 8,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44284260402_5ef6b1.jpg",
+      "moves": 16,
+      "tradesCount": 2
     }
   ],
   "draft": [
@@ -129,1650 +149,1650 @@
       "round": 1,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.30121",
+      "playerId": "30121",
       "playerFirstName": "Christian",
       "playerLastName": "McCaffrey",
-      "avgPick": 2.5,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.32692",
+      "playerId": "32692",
       "playerFirstName": "Justin",
       "playerLastName": "Jefferson",
-      "avgPick": 1.5,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.33393",
+      "playerId": "33393",
       "playerFirstName": "Ja'Marr",
       "playerLastName": "Chase",
-      "avgPick": 3.1,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.29399",
+      "playerId": "29399",
       "playerFirstName": "Tyreek",
       "playerLastName": "Hill",
-      "avgPick": 6.3,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.30123",
+      "playerId": "30123",
       "playerFirstName": "Patrick",
       "playerLastName": "Mahomes",
-      "avgPick": 15.6,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.30423",
+      "playerId": "30423",
       "playerFirstName": "Austin",
       "playerLastName": "Ekeler",
-      "avgPick": 5.3,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.30182",
+      "playerId": "30182",
       "playerFirstName": "Cooper",
       "playerLastName": "Kupp",
-      "avgPick": 16.6,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 9.6,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 7.7,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.30972",
+      "playerId": "30972",
       "playerFirstName": "Saquon",
       "playerLastName": "Barkley",
-      "avgPick": 12,
-      "avgRound": 1.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 2,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.32723",
+      "playerId": "32723",
       "playerFirstName": "Jalen",
       "playerLastName": "Hurts",
-      "avgPick": 21.3,
-      "avgRound": 2.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.33965",
+      "playerId": "33965",
       "playerFirstName": "Garrett",
       "playerLastName": "Wilson",
-      "avgPick": 20.7,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.40055",
+      "playerId": "40055",
       "playerFirstName": "Bijan",
       "playerLastName": "Robinson",
-      "avgPick": 9.6,
-      "avgRound": 1.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.27581",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 17.1,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.30977",
+      "playerId": "30977",
       "playerFirstName": "Josh",
       "playerLastName": "Allen",
-      "avgPick": 24.3,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.31960",
+      "playerId": "31960",
       "playerFirstName": "Tony",
       "playerLastName": "Pollard",
-      "avgPick": 14.2,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.32687",
+      "playerId": "32687",
       "playerFirstName": "CeeDee",
       "playerLastName": "Lamb",
-      "avgPick": 14.7,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.31005",
+      "playerId": "31005",
       "playerFirstName": "Nick",
       "playerLastName": "Chubb",
-      "avgPick": 8.7,
-      "avgRound": 1.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.31883",
+      "playerId": "31883",
       "playerFirstName": "A.J.",
       "playerLastName": "Brown",
-      "avgPick": 14.4,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.33500",
+      "playerId": "33500",
       "playerFirstName": "Amon-Ra",
       "playerLastName": "St. Brown",
-      "avgPick": 19,
-      "avgRound": 2.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 3,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.29279",
+      "playerId": "29279",
       "playerFirstName": "Derrick",
       "playerLastName": "Henry",
-      "avgPick": 15.6,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 3,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.31856",
+      "playerId": "31856",
       "playerFirstName": "Josh",
       "playerLastName": "Jacobs",
-      "avgPick": 18.9,
-      "avgRound": 2.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 3,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.33394",
+      "playerId": "33394",
       "playerFirstName": "Jaylen",
       "playerLastName": "Waddle",
-      "avgPick": 24.1,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.32711",
+      "playerId": "32711",
       "playerFirstName": "Jonathan",
       "playerLastName": "Taylor",
-      "avgPick": 41.8,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.32703",
+      "playerId": "32703",
       "playerFirstName": "Tee",
       "playerLastName": "Higgins",
-      "avgPick": 31.7,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.32671",
+      "playerId": "32671",
       "playerFirstName": "Joe",
       "playerLastName": "Burrow",
-      "avgPick": 44.6,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 46.5,
-      "avgRound": 5.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.33966",
+      "playerId": "33966",
       "playerFirstName": "Chris",
       "playerLastName": "Olave",
-      "avgPick": 27.6,
-      "avgRound": 3.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.31002",
+      "playerId": "31002",
       "playerFirstName": "Lamar",
       "playerLastName": "Jackson",
-      "avgPick": 36.3,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.40059",
+      "playerId": "40059",
       "playerFirstName": "Jahmyr",
       "playerLastName": "Gibbs",
-      "avgPick": 35.5,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 4,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.30295",
+      "playerId": "30295",
       "playerFirstName": "Aaron",
       "playerLastName": "Jones Sr.",
-      "avgPick": 33,
-      "avgRound": 3.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.30996",
+      "playerId": "30996",
       "playerFirstName": "Calvin",
       "playerLastName": "Ridley",
-      "avgPick": 35.4,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 4,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.30161",
+      "playerId": "30161",
       "playerFirstName": "Joe",
       "playerLastName": "Mixon",
-      "avgPick": 30.2,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 4,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.33508",
+      "playerId": "33508",
       "playerFirstName": "Rhamondre",
       "playerLastName": "Stevenson",
-      "avgPick": 32.9,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 4,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.33398",
+      "playerId": "33398",
       "playerFirstName": "DeVonta",
       "playerLastName": "Smith",
-      "avgPick": 26.5,
-      "avgRound": 3.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.33412",
+      "playerId": "33412",
       "playerFirstName": "Najee",
       "playerLastName": "Harris",
-      "avgPick": 30.4,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.31056",
+      "playerId": "31056",
       "playerFirstName": "Mark",
       "playerLastName": "Andrews",
-      "avgPick": 34,
-      "avgRound": 3.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.31896",
+      "playerId": "31896",
       "playerFirstName": "DK",
       "playerLastName": "Metcalf",
-      "avgPick": 35.6,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.32676",
+      "playerId": "32676",
       "playerFirstName": "Justin",
       "playerLastName": "Herbert",
-      "avgPick": 54.1,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 41.1,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 5,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.31868",
+      "playerId": "31868",
       "playerFirstName": "Deebo",
-      "playerLastName": "Samuel",
-      "avgPick": 40.2,
-      "avgRound": 4.6
+      "playerLastName": "Samuel Sr.",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 5,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.33413",
+      "playerId": "33413",
       "playerFirstName": "Travis",
       "playerLastName": "Etienne Jr.",
-      "avgPick": 25.7,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 5,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.33399",
+      "playerId": "33399",
       "playerFirstName": "Justin",
       "playerLastName": "Fields",
-      "avgPick": 48.8,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.33389",
+      "playerId": "33389",
       "playerFirstName": "Trevor",
       "playerLastName": "Lawrence",
-      "avgPick": 58.7,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.32685",
+      "playerId": "32685",
       "playerFirstName": "Jerry",
       "playerLastName": "Jeudy",
-      "avgPick": 86.7,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 5,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 62.3,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 5,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.31934",
+      "playerId": "31934",
       "playerFirstName": "Alexander",
       "playerLastName": "Mattison",
-      "avgPick": 58.6,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 5,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.30994",
+      "playerId": "30994",
       "playerFirstName": "DJ",
       "playerLastName": "Moore",
-      "avgPick": 55.9,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.33991",
+      "playerId": "33991",
       "playerFirstName": "Breece",
       "playerLastName": "Hall",
-      "avgPick": 38.3,
-      "avgRound": 4.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.33989",
+      "playerId": "33989",
       "playerFirstName": "Christian",
       "playerLastName": "Watson",
-      "avgPick": 76.7,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 6,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.31898",
+      "playerId": "31898",
       "playerFirstName": "Diontae",
       "playerLastName": "Johnson",
-      "avgPick": 76.7,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.30125",
+      "playerId": "30125",
       "playerFirstName": "Deshaun",
       "playerLastName": "Watson",
-      "avgPick": 95,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 6,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.31857",
+      "playerId": "31857",
       "playerFirstName": "Hollywood",
       "playerLastName": "Brown",
-      "avgPick": 100.2,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 6,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.29369",
+      "playerId": "29369",
       "playerFirstName": "Dak",
       "playerLastName": "Prescott",
-      "avgPick": 78.4,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 6,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.28457",
+      "playerId": "28457",
       "playerFirstName": "Tyler",
       "playerLastName": "Lockett",
-      "avgPick": 54.7,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.30180",
+      "playerId": "30180",
       "playerFirstName": "Alvin",
       "playerLastName": "Kamara",
-      "avgPick": 81.2,
-      "avgRound": 8.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.31908",
+      "playerId": "31908",
       "playerFirstName": "Terry",
       "playerLastName": "McLaurin",
-      "avgPick": 65.3,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 6,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.31840",
+      "playerId": "31840",
       "playerFirstName": "T.J.",
       "playerLastName": "Hockenson",
-      "avgPick": 44.8,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 6,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.33963",
+      "playerId": "33963",
       "playerFirstName": "Drake",
       "playerLastName": "London",
-      "avgPick": 63.3,
-      "avgRound": 6.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 6,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 101.4,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 7,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.25812",
+      "playerId": "25812",
       "playerFirstName": "Kirk",
       "playerLastName": "Cousins",
-      "avgPick": 116.2,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 7,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.26662",
+      "playerId": "26662",
       "playerFirstName": "Geno",
       "playerLastName": "Smith",
-      "avgPick": 115.3,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 7,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.32695",
+      "playerId": "32695",
       "playerFirstName": "Brandon",
       "playerLastName": "Aiyuk",
-      "avgPick": 62.4,
-      "avgRound": 6.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.32675",
+      "playerId": "32675",
       "playerFirstName": "Tua",
       "playerLastName": "Tagovailoa",
-      "avgPick": 95.6,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.30197",
+      "playerId": "30197",
       "playerFirstName": "Chris",
       "playerLastName": "Godwin Jr.",
-      "avgPick": 75.5,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 7,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.30259",
+      "playerId": "30259",
       "playerFirstName": "George",
       "playerLastName": "Kittle",
-      "avgPick": 47.3,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 7,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 131.1,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 7,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.31838",
+      "playerId": "31838",
       "playerFirstName": "Daniel",
       "playerLastName": "Jones",
-      "avgPick": 94.4,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.30120",
+      "playerId": "30120",
       "playerFirstName": "Mike",
       "playerLastName": "Williams",
-      "avgPick": 80.1,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 7,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.31017",
+      "playerId": "31017",
       "playerFirstName": "Christian",
       "playerLastName": "Kirk",
-      "avgPick": 89.4,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 8,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.31019",
+      "playerId": "31019",
       "playerFirstName": "Dallas",
       "playerLastName": "Goedert",
-      "avgPick": 58.7,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.32722",
+      "playerId": "32722",
       "playerFirstName": "Cam",
       "playerLastName": "Akers",
-      "avgPick": 59.9,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 8,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.28592",
+      "playerId": "28592",
       "playerFirstName": "Darren",
       "playerLastName": "Waller",
-      "avgPick": 57.1,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 8,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 84.9,
-      "avgRound": 9.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 8,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.31885",
+      "playerId": "31885",
       "playerFirstName": "Miles",
       "playerLastName": "Sanders",
-      "avgPick": 52.6,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 8,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.32704",
+      "playerId": "32704",
       "playerFirstName": "Michael",
       "playerLastName": "Pittman Jr.",
-      "avgPick": 82.9,
-      "avgRound": 8.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.32705",
+      "playerId": "32705",
       "playerFirstName": "D'Andre",
       "playerLastName": "Swift",
-      "avgPick": 86.4,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 8,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.30218",
+      "playerId": "30218",
       "playerFirstName": "James",
       "playerLastName": "Conner",
-      "avgPick": 58.3,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 8,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.33996",
+      "playerId": "33996",
       "playerFirstName": "Kenneth",
       "playerLastName": "Walker III",
-      "avgPick": 44.9,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 8,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.34007",
+      "playerId": "34007",
       "playerFirstName": "George",
       "playerLastName": "Pickens",
-      "avgPick": 91.5,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 9,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.34063",
+      "playerId": "34063",
       "playerFirstName": "Dameon",
       "playerLastName": "Pierce",
-      "avgPick": 45.5,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 9,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.33443",
+      "playerId": "33443",
       "playerFirstName": "Pat",
       "playerLastName": "Freiermuth",
-      "avgPick": 77.8,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 9,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.40040",
+      "playerId": "40040",
       "playerFirstName": "Anthony",
       "playerLastName": "Richardson Sr.",
-      "avgPick": 116.8,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.32725",
+      "playerId": "32725",
       "playerFirstName": "J.K.",
       "playerLastName": "Dobbins",
-      "avgPick": 45.1,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.33975",
+      "playerId": "33975",
       "playerFirstName": "Kenny",
       "playerLastName": "Pickett",
-      "avgPick": 124.5,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 9,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.30154",
+      "playerId": "30154",
       "playerFirstName": "Dalvin",
       "playerLastName": "Cook",
-      "avgPick": 75.3,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 9,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.29281",
+      "playerId": "29281",
       "playerFirstName": "Michael",
       "playerLastName": "Thomas",
-      "avgPick": 115,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 9,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.33971",
+      "playerId": "33971",
       "playerFirstName": "Jahan",
       "playerLastName": "Dotson",
-      "avgPick": 95.2,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.40042",
+      "playerId": "40042",
       "playerFirstName": "Jordan",
       "playerLastName": "Addison",
-      "avgPick": 105.5,
-      "avgRound": 11.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 9,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.34019",
+      "playerId": "34019",
       "playerFirstName": "James",
       "playerLastName": "Cook III",
-      "avgPick": 69.9,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 10,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.29235",
+      "playerId": "29235",
       "playerFirstName": "Jared",
       "playerLastName": "Goff",
-      "avgPick": 126.1,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.33422",
+      "playerId": "33422",
       "playerFirstName": "Elijah",
       "playerLastName": "Moore",
-      "avgPick": 119.8,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 10,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.33423",
+      "playerId": "33423",
       "playerFirstName": "Javonte",
       "playerLastName": "Williams",
-      "avgPick": 75.4,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 10,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.33392",
+      "playerId": "33392",
       "playerFirstName": "Kyle",
       "playerLastName": "Pitts Sr.",
-      "avgPick": 60.4,
-      "avgRound": 6.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 10,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.33408",
+      "playerId": "33408",
       "playerFirstName": "Kadarius",
       "playerLastName": "Toney",
-      "avgPick": 123.7,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 10,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.40041",
+      "playerId": "40041",
       "playerFirstName": "Jaxon",
       "playerLastName": "Smith-Njigba",
-      "avgPick": 111.4,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.40039",
+      "playerId": "40039",
       "playerFirstName": "Zay",
       "playerLastName": "Flowers",
-      "avgPick": 115.5,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 10,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.32798",
+      "playerId": "32798",
       "playerFirstName": "Gabe",
       "playerLastName": "Davis",
-      "avgPick": 100.4,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 10,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.30175",
+      "playerId": "30175",
       "playerFirstName": "JuJu",
       "playerLastName": "Smith-Schuster",
-      "avgPick": 125.6,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 10,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.30136",
+      "playerId": "30136",
       "playerFirstName": "Evan",
       "playerLastName": "Engram",
-      "avgPick": 77.4,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 11,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 113.6,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 11,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.34047",
+      "playerId": "34047",
       "playerFirstName": "Rachaad",
       "playerLastName": "White",
-      "avgPick": 85.2,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 11,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.33605",
+      "playerId": "33605",
       "playerFirstName": "Khalil",
       "playerLastName": "Herbert",
-      "avgPick": 95.3,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.40051",
+      "playerId": "40051",
       "playerFirstName": "Quentin",
       "playerLastName": "Johnston",
-      "avgPick": 128.4,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.34207",
+      "playerId": "34207",
       "playerFirstName": "Isiah",
       "playerLastName": "Pacheco",
-      "avgPick": 76.7,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 11,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.29288",
+      "playerId": "29288",
       "playerFirstName": "Tyler",
       "playerLastName": "Boyd",
-      "avgPick": 128.6,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 11,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.31905",
+      "playerId": "31905",
       "playerFirstName": "David",
       "playerLastName": "Montgomery",
-      "avgPick": 77.4,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 11,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.31833",
+      "playerId": "31833",
       "playerFirstName": "Kyler",
       "playerLastName": "Murray",
-      "avgPick": 134.4,
-      "avgRound": 14.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.33415",
+      "playerId": "33415",
       "playerFirstName": "Rashod",
       "playerLastName": "Bateman",
-      "avgPick": 123.7,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 11,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 117.4,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 12,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.34009",
+      "playerId": "34009",
       "playerFirstName": "Skyy",
       "playerLastName": "Moore",
-      "avgPick": 123.4,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.32736",
+      "playerId": "32736",
       "playerFirstName": "Antonio",
       "playerLastName": "Gibson",
-      "avgPick": 110,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 12,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.31010",
+      "playerId": "31010",
       "playerFirstName": "Courtland",
       "playerLastName": "Sutton",
-      "avgPick": 120.4,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 12,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.31268",
+      "playerId": "31268",
       "playerFirstName": "Allen",
       "playerLastName": "Lazard",
-      "avgPick": 126.9,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 12,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.32732",
-      "playerFirstName": "A.J.",
+      "playerId": "32732",
+      "playerFirstName": "AJ",
       "playerLastName": "Dillon",
-      "avgPick": 102.2,
-      "avgRound": 10.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 12,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.34054",
+      "playerId": "34054",
       "playerFirstName": "Brian",
-      "playerLastName": "Robinson Jr.",
-      "avgPick": 103.1,
-      "avgRound": 11
+      "playerLastName": "Robinson",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 12,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.33973",
+      "playerId": "33973",
       "playerFirstName": "Treylon",
       "playerLastName": "Burks",
-      "avgPick": 123.1,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 12,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.27624",
+      "playerId": "27624",
       "playerFirstName": "Jerick",
       "playerLastName": "McKinnon",
-      "avgPick": 123.9,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 12,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.100025",
+      "playerId": "100025",
       "playerFirstName": "49ers",
       "playerLastName": "",
-      "avgPick": 68.5,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 12,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.34088",
+      "playerId": "34088",
       "playerFirstName": "Romeo",
       "playerLastName": "Doubs",
-      "avgPick": 126.2,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 13,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.40084",
+      "playerId": "40084",
       "playerFirstName": "Rashee",
       "playerLastName": "Rice",
-      "avgPick": 127.4,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 13,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.32231",
+      "playerId": "32231",
       "playerFirstName": "Jakobi",
       "playerLastName": "Meyers",
-      "avgPick": 129,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 13,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.30227",
+      "playerId": "30227",
       "playerFirstName": "Samaje",
       "playerLastName": "Perine",
-      "avgPick": 119.2,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.100021",
+      "playerId": "100021",
       "playerFirstName": "Eagles",
       "playerLastName": "",
-      "avgPick": 79.2,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.100015",
+      "playerId": "100015",
       "playerFirstName": "Dolphins",
       "playerLastName": "",
-      "avgPick": 122.7,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 13,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.100002",
+      "playerId": "100002",
       "playerFirstName": "Bills",
       "playerLastName": "",
-      "avgPick": 86.8,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 13,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.30247",
+      "playerId": "30247",
       "playerFirstName": "Jamaal",
       "playerLastName": "Williams",
-      "avgPick": 106.9,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 13,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.100033",
+      "playerId": "100033",
       "playerFirstName": "Ravens",
       "playerLastName": "",
-      "avgPick": 119.8,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.40118",
+      "playerId": "40118",
       "playerFirstName": "De'Von",
       "playerLastName": "Achane",
-      "avgPick": 125.7,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 13,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.33967",
+      "playerId": "33967",
       "playerFirstName": "Jameson",
       "playerLastName": "Williams",
-      "avgPick": 128.6,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 14,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.32696",
+      "playerId": "32696",
       "playerFirstName": "Jordan",
       "playerLastName": "Love",
-      "avgPick": 125.4,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 14,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.9265",
+      "playerId": "9265",
       "playerFirstName": "Matthew",
       "playerLastName": "Stafford",
-      "avgPick": 128.3,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 14,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.27564",
+      "playerId": "27564",
       "playerFirstName": "Derek",
       "playerLastName": "Carr",
-      "avgPick": 128.7,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 14,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.100018",
+      "playerId": "100018",
       "playerFirstName": "Saints",
       "playerLastName": "",
-      "avgPick": 130.2,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 14,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.27277",
+      "playerId": "27277",
       "playerFirstName": "Adam",
       "playerLastName": "Thielen",
-      "avgPick": 127,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 14,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.40029",
+      "playerId": "40029",
       "playerFirstName": "Bryce",
       "playerLastName": "Young",
-      "avgPick": 122.5,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 14,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.40048",
+      "playerId": "40048",
       "playerFirstName": "Dalton",
       "playerLastName": "Kincaid",
-      "avgPick": 121,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 14,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.100007",
+      "playerId": "100007",
       "playerFirstName": "Broncos",
       "playerLastName": "",
-      "avgPick": 117.1,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 14,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.30142",
+      "playerId": "30142",
       "playerFirstName": "David",
       "playerLastName": "Njoku",
-      "avgPick": 94.3,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 14,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.100028",
+      "playerId": "100028",
       "playerFirstName": "Commanders",
       "playerLastName": "",
-      "avgPick": 141.7,
-      "avgRound": 14.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 15,
       "teamId": "t.9",
       "teamName": "Worst Team Ever",
-      "playerId": "423.p.33582",
+      "playerId": "33582",
       "playerFirstName": "Elijah",
       "playerLastName": "Mitchell",
-      "avgPick": 125.7,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 15,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "423.p.30997",
+      "playerId": "30997",
       "playerFirstName": "Rashaad",
       "playerLastName": "Penny",
-      "avgPick": 112.7,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 15,
       "teamId": "t.5",
       "teamName": "Next Year in Jerusalem",
-      "playerId": "423.p.30199",
+      "playerId": "30199",
       "playerFirstName": "Kareem",
       "playerLastName": "Hunt",
-      "avgPick": 129.8,
-      "avgRound": 14.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 15,
       "teamId": "t.8",
       "teamName": "Ty Reeks",
-      "playerId": "423.p.32843",
+      "playerId": "32843",
       "playerFirstName": "Darnell",
       "playerLastName": "Mooney",
-      "avgPick": 131.5,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 15,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "423.p.34099",
+      "playerId": "34099",
       "playerFirstName": "Chig",
       "playerLastName": "Okonkwo",
-      "avgPick": 125.7,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 15,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "423.p.34218",
+      "playerId": "34218",
       "playerFirstName": "Brock",
       "playerLastName": "Purdy",
-      "avgPick": 124.2,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 15,
       "teamId": "t.1",
       "teamName": "The Coopa Pukas",
-      "playerId": "423.p.27590",
+      "playerId": "27590",
       "playerFirstName": "Jimmy",
       "playerLastName": "Garoppolo",
-      "avgPick": 118.8,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 15,
       "teamId": "t.10",
       "teamName": "JOe 🧌",
-      "playerId": "423.p.40095",
+      "playerId": "40095",
       "playerFirstName": "Tank",
       "playerLastName": "Bigsby",
-      "avgPick": 128,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 15,
       "teamId": "t.3",
       "teamName": "Wilson!",
-      "playerId": "423.p.40075",
+      "playerId": "40075",
       "playerFirstName": "Zach",
       "playerLastName": "Charbonnet",
-      "avgPick": 117.2,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 15,
       "teamId": "t.2",
       "teamName": "🏳️",
-      "playerId": "423.p.100020",
+      "playerId": "100020",
       "playerFirstName": "Jets",
       "playerLastName": "",
-      "avgPick": 91.8,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -2747,6 +2767,294 @@
       "isComplete": true,
       "isPlayoff": true,
       "isConsolation": true
+    }
+  ],
+  "trades": [
+    {
+      "id": "423.l.626466.tr.95",
+      "year": 2023,
+      "date": "2023-09-26T21:16:48.000Z",
+      "timestamp": 1695763008,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Wilson!",
+          "manager": "Buddy Marcello",
+          "sent": [
+            "Matthew Stafford"
+          ],
+          "received": [
+            "DJ Moore"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "JOe 🧌",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "DJ Moore"
+          ],
+          "received": [
+            "Matthew Stafford"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.626466.tr.114",
+      "year": 2023,
+      "date": "2023-09-28T02:09:04.000Z",
+      "timestamp": 1695866944,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "Joe Burrow",
+            "DeVonta Smith"
+          ],
+          "received": [
+            "Stefon Diggs",
+            "Courtland Sutton"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "JOe 🧌",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Stefon Diggs",
+            "Courtland Sutton"
+          ],
+          "received": [
+            "Joe Burrow",
+            "DeVonta Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.626466.tr.178",
+      "year": 2023,
+      "date": "2023-10-11T00:43:12.000Z",
+      "timestamp": 1696984992,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Next Year in Jerusalem",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Gabe Davis"
+          ],
+          "received": [
+            "C.J. Stroud"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "JumanjiJumanji",
+          "manager": "Michael Kagan",
+          "sent": [
+            "C.J. Stroud"
+          ],
+          "received": [
+            "Gabe Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.626466.tr.219",
+      "year": 2023,
+      "date": "2023-10-18T01:55:38.000Z",
+      "timestamp": 1697594138,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "🏳️",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Aaron Jones Sr.",
+            "Jordan Love"
+          ],
+          "received": [
+            "Jaylen Waddle",
+            "K.J. Osborn"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Next Year in Jerusalem",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Jaylen Waddle",
+            "K.J. Osborn"
+          ],
+          "received": [
+            "Aaron Jones Sr.",
+            "Jordan Love"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.626466.tr.239",
+      "year": 2023,
+      "date": "2023-10-19T04:42:41.000Z",
+      "timestamp": 1697690561,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "JOe 🧌",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Bijan Robinson"
+          ],
+          "received": [
+            "Davante Adams",
+            "Rhamondre Stevenson"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "The Coopa Pukas",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Davante Adams",
+            "Rhamondre Stevenson"
+          ],
+          "received": [
+            "Bijan Robinson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.626466.tr.278",
+      "year": 2023,
+      "date": "2023-10-24T21:07:13.000Z",
+      "timestamp": 1698181633,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "The Coopa Pukas",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Nico Collins"
+          ],
+          "received": [
+            "Matthew Stafford"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "JOe 🧌",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Matthew Stafford"
+          ],
+          "received": [
+            "Nico Collins"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.626466.tr.377",
+      "year": 2023,
+      "date": "2023-11-14T13:53:10.000Z",
+      "timestamp": 1699969990,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Next Year in Jerusalem",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Jordan Love",
+            "James Conner"
+          ],
+          "received": [
+            "Derrick Henry"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Worst Team Ever",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Derrick Henry"
+          ],
+          "received": [
+            "Jordan Love",
+            "James Conner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.626466.tr.406",
+      "year": 2023,
+      "date": "2023-11-18T18:24:27.000Z",
+      "timestamp": 1700331867,
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "JumanjiJumanji",
+          "manager": "Michael Kagan",
+          "sent": [
+            "Kenneth Walker III"
+          ],
+          "received": [
+            "Adam Thielen"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "Adam Thielen"
+          ],
+          "received": [
+            "Kenneth Walker III"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.626466.tr.409",
+      "year": 2023,
+      "date": "2023-11-19T04:39:52.000Z",
+      "timestamp": 1700368792,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Ty Reeks",
+          "manager": "Jack Beder",
+          "sent": [
+            "Baker Mayfield",
+            "Luke Musgrave"
+          ],
+          "received": [
+            "Bryce Young",
+            "Evan Engram"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Worst Team Ever",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Bryce Young",
+            "Evan Engram"
+          ],
+          "received": [
+            "Baker Mayfield",
+            "Luke Musgrave"
+          ]
+        }
+      ]
     }
   ]
 }

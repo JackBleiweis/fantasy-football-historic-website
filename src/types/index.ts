@@ -21,6 +21,8 @@ export interface Team {
   playoffSeed: number;
   isCommissioner: boolean;
   imageUrl: string;
+  moves?: number;
+  tradesCount?: number;
 }
 
 /**
@@ -57,12 +59,48 @@ export interface Matchup {
 /**
  * Complete season data for a league
  */
+export interface TradeSide {
+  teamId: string;
+  teamName: string;
+  manager: string;
+  sent: string[];
+  received: string[];
+}
+
+export interface Trade {
+  id: string;
+  year: number;
+  date: string | null;
+  timestamp: number | null;
+  sides: TradeSide[];
+}
+
+export interface RosterPlayer {
+  name: string;
+  position: string;
+  slot: string;
+  points: number;
+  statLine: Record<string, number | string>;
+}
+
+export interface WeeklyTeamRoster {
+  teamId: string;
+  players: RosterPlayer[];
+}
+
+export interface WeeklyRosters {
+  year: number;
+  leagueId: LeagueId;
+  weeks: Record<number, WeeklyTeamRoster[]>;
+}
+
 export interface SeasonData {
   year: number;
   leagueId: LeagueId;
   teams: Team[];
   draft: DraftPick[];
   matchups: Matchup[];
+  trades?: Trade[];
 }
 
 /**
@@ -97,6 +135,12 @@ export interface PlayoffHistory {
 // =============================================================================
 // Raw Yahoo Data Types (for transformation)
 // =============================================================================
+
+/**
+ * New Yahoo API dump format lives in:
+ *   src/data/{league}/{year}/season.json
+ * Legacy column-oriented exports remain as Team.json / Draft.json / Matchup.json
+ */
 
 /**
  * Raw Yahoo Team export format (column-oriented)

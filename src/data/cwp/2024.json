@@ -3,18 +3,6 @@
   "leagueId": "cwp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "My Njigas Eat When James Cooks",
-      "manager": "Jack Bleiweis",
-      "wins": 4,
-      "losses": 10,
-      "ties": 0,
-      "rank": 10,
-      "playoffSeed": 10,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/0e460bd9ba9de581d91d2ca16a78fc89019ab6bd681caa6b29027471b8092f00.jpg"
-    },
-    {
       "id": "t.2",
       "name": "Leek/him 🧊",
       "manager": "Dustin Pulver",
@@ -24,23 +12,13 @@
       "rank": 1,
       "playoffSeed": 4,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/59c1527ad1cd39beca05f14186e7da2ad7acb4b59380930f1a4c965531ab2a7c.png"
-    },
-    {
-      "id": "t.3",
-      "name": "LeBron Bijan",
-      "manager": "Michael Kagan",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "rank": 7,
-      "playoffSeed": 7,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d1074a2478e053fd9c2bbbd9b1b91e41db5a43c1279b204939f04cdec95f91ac.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/59c1527ad1cd39beca05f14186e7da2ad7acb4b59380930f1a4c965531ab2a7c.png",
+      "moves": 56,
+      "tradesCount": 4
     },
     {
       "id": "t.4",
-      "name": "Not Etienne Brooke's Stinkybox",
+      "name": "Not Etienne Brooke’s Stinkybox",
       "manager": "Ty Greenberg",
       "wins": 11,
       "losses": 3,
@@ -48,55 +26,9 @@
       "rank": 2,
       "playoffSeed": 3,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a3fccc8384f0433da61512aa9744f4bbdba168bbee1aa36525d1180a48cacb63.png"
-    },
-    {
-      "id": "t.5",
-      "name": "Show me your TD's",
-      "manager": "Ben Roher",
-      "wins": 5,
-      "losses": 9,
-      "ties": 0,
-      "rank": 9,
-      "playoffSeed": 8,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44284260402_5ef6b1.jpg"
-    },
-    {
-      "id": "t.6",
-      "name": "Suh Girls One Cup",
-      "manager": "Jake Mintz",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 6,
-      "playoffSeed": 5,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png"
-    },
-    {
-      "id": "t.7",
-      "name": "Ty Still Reeks",
-      "manager": "Jack Beder",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 4,
-      "playoffSeed": 1,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/ep/cx/blendr/v2/image-luchador-png_1721174314847.png"
-    },
-    {
-      "id": "t.8",
-      "name": "Wilson!",
-      "manager": "Buddy Marcello",
-      "wins": 9,
-      "losses": 5,
-      "ties": 0,
-      "rank": 5,
-      "playoffSeed": 6,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/084be68d3c11fd672332a30b46af18ce723a8106f73be20c1ea60bb4059af8af.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a3fccc8384f0433da61512aa9744f4bbdba168bbee1aa36525d1180a48cacb63.png",
+      "moves": 77,
+      "tradesCount": 4
     },
     {
       "id": "t.9",
@@ -108,7 +40,65 @@
       "rank": 3,
       "playoffSeed": 2,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_3_c.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_3_c.png",
+      "moves": 29,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.7",
+      "name": "Ty Still Reeks",
+      "manager": "Jack Beder",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 4,
+      "playoffSeed": 1,
+      "isCommissioner": false,
+      "imageUrl": "https://s.yimg.com/ep/cx/blendr/v2/image-luchador-png_1721174314847.png",
+      "moves": 27,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.8",
+      "name": "Wilson!",
+      "manager": "Buddy Marcello",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "rank": 5,
+      "playoffSeed": 6,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/084be68d3c11fd672332a30b46af18ce723a8106f73be20c1ea60bb4059af8af.jpg",
+      "moves": 89,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.6",
+      "name": "Suh Girls One Cup",
+      "manager": "Jake Mintz",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 5,
+      "isCommissioner": false,
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png",
+      "moves": 41,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.3",
+      "name": "LeBron Bijan",
+      "manager": "Michael Kagan",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 7,
+      "playoffSeed": 7,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d1074a2478e053fd9c2bbbd9b1b91e41db5a43c1279b204939f04cdec95f91ac.jpg",
+      "moves": 28,
+      "tradesCount": 0
     },
     {
       "id": "t.10",
@@ -120,7 +110,37 @@
       "rank": 8,
       "playoffSeed": 9,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/950d4020645e50179c08f6fd8dcc2c70893afd0273e2132c4a18b1f5c71b23c8.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/950d4020645e50179c08f6fd8dcc2c70893afd0273e2132c4a18b1f5c71b23c8.jpg",
+      "moves": 18,
+      "tradesCount": 4
+    },
+    {
+      "id": "t.5",
+      "name": "Show me your TD's",
+      "manager": "Ben Roher",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 9,
+      "playoffSeed": 8,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44284260402_5ef6b1.jpg",
+      "moves": 19,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.1",
+      "name": "My Njigas Eat When James Cooks",
+      "manager": "Jack Bleiweis",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 10,
+      "isCommissioner": true,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/0e460bd9ba9de581d91d2ca16a78fc89019ab6bd681caa6b29027471b8092f00.jpg",
+      "moves": 19,
+      "tradesCount": 1
     }
   ],
   "draft": [
@@ -129,1272 +149,1272 @@
       "round": 1,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.30121",
+      "playerId": "30121",
       "playerFirstName": "Christian",
       "playerLastName": "McCaffrey",
-      "avgPick": 3.1,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.32687",
+      "playerId": "32687",
       "playerFirstName": "CeeDee",
       "playerLastName": "Lamb",
-      "avgPick": 3.2,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.29399",
+      "playerId": "29399",
       "playerFirstName": "Tyreek",
       "playerLastName": "Hill",
-      "avgPick": 3.7,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.33500",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "33500",
       "playerFirstName": "Amon-Ra",
       "playerLastName": "St. Brown",
-      "avgPick": 8,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.33393",
+      "playerId": "33393",
       "playerFirstName": "Ja'Marr",
       "playerLastName": "Chase",
-      "avgPick": 6.9,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.32692",
+      "playerId": "32692",
       "playerFirstName": "Justin",
       "playerLastName": "Jefferson",
-      "avgPick": 7.3,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.33991",
+      "playerId": "33991",
       "playerFirstName": "Breece",
       "playerLastName": "Hall",
-      "avgPick": 4.5,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.31883",
+      "playerId": "31883",
       "playerFirstName": "A.J.",
       "playerLastName": "Brown",
-      "avgPick": 11.2,
-      "avgRound": 1.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.40055",
+      "playerId": "40055",
       "playerFirstName": "Bijan",
       "playerLastName": "Robinson",
-      "avgPick": 5.8,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.33965",
+      "playerId": "33965",
       "playerFirstName": "Garrett",
       "playerLastName": "Wilson",
-      "avgPick": 12.8,
-      "avgRound": 1.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.30972",
+      "playerId": "30972",
       "playerFirstName": "Saquon",
       "playerLastName": "Barkley",
-      "avgPick": 12.7,
-      "avgRound": 1.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 2,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.32711",
+      "playerId": "32711",
       "playerFirstName": "Jonathan",
       "playerLastName": "Taylor",
-      "avgPick": 10.8,
-      "avgRound": 1.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.40893",
+      "playerId": "40893",
       "playerFirstName": "Marvin",
       "playerLastName": "Harrison Jr.",
-      "avgPick": 18.5,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.40059",
+      "playerId": "40059",
       "playerFirstName": "Jahmyr",
       "playerLastName": "Gibbs",
-      "avgPick": 15,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.32723",
+      "playerId": "32723",
       "playerFirstName": "Jalen",
       "playerLastName": "Hurts",
-      "avgPick": 32.5,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.34207",
+      "playerId": "34207",
       "playerFirstName": "Isiah",
       "playerLastName": "Pacheco",
-      "avgPick": 20.4,
-      "avgRound": 2.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.30977",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "30977",
       "playerFirstName": "Josh",
       "playerLastName": "Allen",
-      "avgPick": 24.6,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.40168",
+      "playerId": "40168",
       "playerFirstName": "Puka",
       "playerLastName": "Nacua",
-      "avgPick": 17.9,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.30123",
+      "playerId": "30123",
       "playerFirstName": "Patrick",
       "playerLastName": "Mahomes",
-      "avgPick": 29.6,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.40030",
+      "playerId": "40030",
       "playerFirstName": "C.J.",
       "playerLastName": "Stroud",
-      "avgPick": 45.3,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 3,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.30182",
+      "playerId": "30182",
       "playerFirstName": "Cooper",
       "playerLastName": "Kupp",
-      "avgPick": 31.4,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 3,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.40118",
+      "playerId": "40118",
       "playerFirstName": "De'Von",
       "playerLastName": "Achane",
-      "avgPick": 25.6,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 3,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.33413",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "33413",
       "playerFirstName": "Travis",
       "playerLastName": "Etienne Jr.",
-      "avgPick": 24.2,
-      "avgRound": 2.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 3,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.33963",
+      "playerId": "33963",
       "playerFirstName": "Drake",
       "playerLastName": "London",
-      "avgPick": 25.3,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.31002",
+      "playerId": "31002",
       "playerFirstName": "Lamar",
       "playerLastName": "Jackson",
-      "avgPick": 34.7,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.27581",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 23.5,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.33966",
+      "playerId": "33966",
       "playerFirstName": "Chris",
       "playerLastName": "Olave",
-      "avgPick": 28.3,
-      "avgRound": 3.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.34120",
+      "playerId": "34120",
       "playerFirstName": "Kyren",
       "playerLastName": "Williams",
-      "avgPick": 17.9,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 24.3,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.40040",
+      "playerId": "40040",
       "playerFirstName": "Anthony",
       "playerLastName": "Richardson Sr.",
-      "avgPick": 50,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.33394",
+      "playerId": "33394",
       "playerFirstName": "Jaylen",
       "playerLastName": "Waddle",
-      "avgPick": 43.6,
-      "avgRound": 4.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 4,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.31833",
+      "playerId": "31833",
       "playerFirstName": "Kyler",
       "playerLastName": "Murray",
-      "avgPick": 56,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 4,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.31868",
+      "playerId": "31868",
       "playerFirstName": "Deebo",
-      "playerLastName": "Samuel",
-      "avgPick": 30.4,
-      "avgRound": 3.5
+      "playerLastName": "Samuel Sr.",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 4,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.40064",
+      "playerId": "40064",
       "playerFirstName": "Sam",
       "playerLastName": "LaPorta",
-      "avgPick": 31.2,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 4,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.33477",
+      "playerId": "33477",
       "playerFirstName": "Nico",
       "playerLastName": "Collins",
-      "avgPick": 31,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 4,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 25.8,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.32704",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "32704",
       "playerFirstName": "Michael",
       "playerLastName": "Pittman Jr.",
-      "avgPick": 49.7,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.29279",
+      "playerId": "29279",
       "playerFirstName": "Derrick",
       "playerLastName": "Henry",
-      "avgPick": 13.3,
-      "avgRound": 1.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.30994",
+      "playerId": "30994",
       "playerFirstName": "DJ",
       "playerLastName": "Moore",
-      "avgPick": 39.9,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.30180",
+      "playerId": "30180",
       "playerFirstName": "Alvin",
       "playerLastName": "Kamara",
-      "avgPick": 49.2,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 5,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.32695",
+      "playerId": "32695",
       "playerFirstName": "Brandon",
       "playerLastName": "Aiyuk",
-      "avgPick": 31.3,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.31896",
+      "playerId": "31896",
       "playerFirstName": "DK",
       "playerLastName": "Metcalf",
-      "avgPick": 38.6,
-      "avgRound": 4.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 5,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.32671",
+      "playerId": "32671",
       "playerFirstName": "Joe",
       "playerLastName": "Burrow",
-      "avgPick": 63.5,
-      "avgRound": 6.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 5,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.33398",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "33398",
       "playerFirstName": "DeVonta",
       "playerLastName": "Smith",
-      "avgPick": 45.4,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 5,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.34019",
+      "playerId": "34019",
       "playerFirstName": "James",
       "playerLastName": "Cook III",
-      "avgPick": 40.8,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.40899",
+      "playerId": "40899",
       "playerFirstName": "Malik",
       "playerLastName": "Nabers",
-      "avgPick": 55.5,
-      "avgRound": 6.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 5,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.30218",
+      "playerId": "30218",
       "playerFirstName": "James",
       "playerLastName": "Conner",
-      "avgPick": 59.9,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 5,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.31856",
+      "playerId": "31856",
       "playerFirstName": "Josh",
       "playerLastName": "Jacobs",
-      "avgPick": 29.6,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 55.6,
-      "avgRound": 6.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.31056",
+      "playerId": "31056",
       "playerFirstName": "Mark",
       "playerLastName": "Andrews",
-      "avgPick": 50.9,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.33996",
+      "playerId": "33996",
       "playerFirstName": "Kenneth",
       "playerLastName": "Walker III",
-      "avgPick": 45.7,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 6,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.32703",
+      "playerId": "32703",
       "playerFirstName": "Tee",
       "playerLastName": "Higgins",
-      "avgPick": 72,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 6,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.34047",
+      "playerId": "34047",
       "playerFirstName": "Rachaad",
       "playerLastName": "White",
-      "avgPick": 43.6,
-      "avgRound": 4.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 6,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.31908",
+      "playerId": "31908",
       "playerFirstName": "Terry",
       "playerLastName": "McLaurin",
-      "avgPick": 75.4,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 6,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.40900",
+      "playerId": "40900",
       "playerFirstName": "Caleb",
       "playerLastName": "Williams",
-      "avgPick": 107.7,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 6,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.30161",
+      "playerId": "30161",
       "playerFirstName": "Joe",
       "playerLastName": "Mixon",
-      "avgPick": 38.1,
-      "avgRound": 4.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 6,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.29369",
+      "playerId": "29369",
       "playerFirstName": "Dak",
       "playerLastName": "Prescott",
-      "avgPick": 68.7,
-      "avgRound": 7.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 6,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.40097",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "40097",
       "playerFirstName": "Tank",
       "playerLastName": "Dell",
-      "avgPick": 68.6,
-      "avgRound": 7.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.40896",
+      "playerId": "40896",
       "playerFirstName": "Jayden",
       "playerLastName": "Daniels",
-      "avgPick": 94.4,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 6,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.32675",
+      "playerId": "32675",
       "playerFirstName": "Tua",
       "playerLastName": "Tagovailoa",
-      "avgPick": 108.2,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 7,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.40039",
+      "playerId": "40039",
       "playerFirstName": "Zay",
       "playerLastName": "Flowers",
-      "avgPick": 68.8,
-      "avgRound": 7.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 7,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.31017",
+      "playerId": "31017",
       "playerFirstName": "Christian",
       "playerLastName": "Kirk",
-      "avgPick": 89.7,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 7,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.34010",
+      "playerId": "34010",
       "playerFirstName": "Trey",
       "playerLastName": "McBride",
-      "avgPick": 47.8,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 7,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.32696",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "32696",
       "playerFirstName": "Jordan",
       "playerLastName": "Love",
-      "avgPick": 70,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 7,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 49.9,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.40084",
+      "playerId": "40084",
       "playerFirstName": "Rashee",
       "playerLastName": "Rice",
-      "avgPick": 72.8,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.30996",
+      "playerId": "30996",
       "playerFirstName": "Calvin",
       "playerLastName": "Ridley",
-      "avgPick": 90.4,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 7,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.40048",
+      "playerId": "40048",
       "playerFirstName": "Dalton",
       "playerLastName": "Kincaid",
-      "avgPick": 58.6,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 7,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.34218",
+      "playerId": "34218",
       "playerFirstName": "Brock",
       "playerLastName": "Purdy",
-      "avgPick": 89.2,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 7,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.29235",
+      "playerId": "29235",
       "playerFirstName": "Jared",
       "playerLastName": "Goff",
-      "avgPick": 108.3,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 8,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.30259",
+      "playerId": "30259",
       "playerFirstName": "George",
       "playerLastName": "Kittle",
-      "avgPick": 51.7,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 8,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.34007",
+      "playerId": "34007",
       "playerFirstName": "George",
       "playerLastName": "Pickens",
-      "avgPick": 71.9,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 8,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.33389",
+      "playerId": "33389",
       "playerFirstName": "Trevor",
       "playerLastName": "Lawrence",
-      "avgPick": 121.4,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 8,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.32676",
+      "playerId": "32676",
       "playerFirstName": "Justin",
       "playerLastName": "Herbert",
-      "avgPick": 127.8,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.31898",
+      "playerId": "31898",
       "playerFirstName": "Diontae",
       "playerLastName": "Johnson",
-      "avgPick": 92.1,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 8,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 89.8,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 8,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.28654",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "28654",
       "playerFirstName": "Raheem",
       "playerLastName": "Mostert",
-      "avgPick": 67.7,
-      "avgRound": 7.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 8,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.32705",
+      "playerId": "32705",
       "playerFirstName": "D'Andre",
       "playerLastName": "Swift",
-      "avgPick": 78.7,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 8,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.30197",
+      "playerId": "30197",
       "playerFirstName": "Chris",
       "playerLastName": "Godwin Jr.",
-      "avgPick": 87.8,
-      "avgRound": 9.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 8,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.30136",
+      "playerId": "30136",
       "playerFirstName": "Evan",
       "playerLastName": "Engram",
-      "avgPick": 73.7,
-      "avgRound": 8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 9,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.31905",
+      "playerId": "31905",
       "playerFirstName": "David",
       "playerLastName": "Montgomery",
-      "avgPick": 51.4,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 9,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.33392",
+      "playerId": "33392",
       "playerFirstName": "Kyle",
       "playerLastName": "Pitts Sr.",
-      "avgPick": 64.1,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 9,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.25812",
+      "playerId": "25812",
       "playerFirstName": "Kirk",
       "playerLastName": "Cousins",
-      "avgPick": 128.6,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 9,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.40063",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "40063",
       "playerFirstName": "Jayden",
       "playerLastName": "Reed",
-      "avgPick": 94.5,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 9,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.30295",
+      "playerId": "30295",
       "playerFirstName": "Aaron",
       "playerLastName": "Jones Sr.",
-      "avgPick": 55.4,
-      "avgRound": 6.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 9,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.33412",
+      "playerId": "33412",
       "playerFirstName": "Najee",
       "playerLastName": "Harris",
-      "avgPick": 71.9,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.40883",
+      "playerId": "40883",
       "playerFirstName": "Brian",
       "playerLastName": "Thomas Jr.",
-      "avgPick": 111.8,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 9,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 125.2,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 9,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.33508",
+      "playerId": "33508",
       "playerFirstName": "Rhamondre",
       "playerLastName": "Stevenson",
-      "avgPick": 65.5,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.30125",
+      "playerId": "30125",
       "playerFirstName": "Deshaun",
       "playerLastName": "Watson",
-      "avgPick": 131.1,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 10,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.31960",
+      "playerId": "31960",
       "playerFirstName": "Tony",
       "playerLastName": "Pollard",
-      "avgPick": 89.9,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 10,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.40901",
+      "playerId": "40901",
       "playerFirstName": "Rome",
       "playerLastName": "Odunze",
-      "avgPick": 100.5,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 10,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.40877",
+      "playerId": "40877",
       "playerFirstName": "Xavier",
       "playerLastName": "Worthy",
-      "avgPick": 104.8,
-      "avgRound": 11.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 10,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.31005",
+      "playerId": "31005",
       "playerFirstName": "Nick",
       "playerLastName": "Chubb",
-      "avgPick": 106.3,
-      "avgRound": 11.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.33989",
+      "playerId": "33989",
       "playerFirstName": "Christian",
       "playerLastName": "Watson",
-      "avgPick": 113.2,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 10,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.34085",
+      "playerId": "34085",
       "playerFirstName": "Jake",
       "playerLastName": "Ferguson",
-      "avgPick": 78.6,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 10,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.40908",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "40908",
       "playerFirstName": "Ladd",
       "playerLastName": "McConkey",
-      "avgPick": 123.5,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 10,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.40041",
+      "playerId": "40041",
       "playerFirstName": "Jaxon",
       "playerLastName": "Smith-Njigba",
-      "avgPick": 110.1,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 10,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.40926",
+      "playerId": "40926",
       "playerFirstName": "Jonathon",
       "playerLastName": "Brooks",
-      "avgPick": 115.5,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 10,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.31010",
+      "playerId": "31010",
       "playerFirstName": "Courtland",
       "playerLastName": "Sutton",
-      "avgPick": 116.1,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 11,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.34054",
+      "playerId": "34054",
       "playerFirstName": "Brian",
-      "playerLastName": "Robinson Jr.",
-      "avgPick": 94.9,
-      "avgRound": 10.1
+      "playerLastName": "Robinson",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 11,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.40911",
+      "playerId": "40911",
       "playerFirstName": "Keon",
       "playerLastName": "Coleman",
-      "avgPick": 125.5,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.30153",
+      "playerId": "30153",
       "playerFirstName": "Curtis",
       "playerLastName": "Samuel",
-      "avgPick": 130.5,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 11,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.32756",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "32756",
       "playerFirstName": "Zack",
       "playerLastName": "Moss",
-      "avgPick": 105.4,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 11,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.32843",
+      "playerId": "32843",
       "playerFirstName": "Darnell",
       "playerLastName": "Mooney",
-      "avgPick": 121.8,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 11,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.31857",
+      "playerId": "31857",
       "playerFirstName": "Hollywood",
       "playerLastName": "Brown",
-      "avgPick": 111.3,
-      "avgRound": 11.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 11,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.32685",
+      "playerId": "32685",
       "playerFirstName": "Jerry",
       "playerLastName": "Jeudy",
-      "avgPick": 131.5,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 11,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.30423",
+      "playerId": "30423",
       "playerFirstName": "Austin",
       "playerLastName": "Ekeler",
-      "avgPick": 111.1,
-      "avgRound": 11.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 11,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.34078",
+      "playerId": "34078",
       "playerFirstName": "Zamir",
       "playerLastName": "White",
-      "avgPick": 78,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.33423",
+      "playerId": "33423",
       "playerFirstName": "Javonte",
       "playerLastName": "Williams",
-      "avgPick": 94.6,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 12,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.26662",
+      "playerId": "26662",
       "playerFirstName": "Geno",
       "playerLastName": "Smith",
-      "avgPick": 132.8,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 12,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.9265",
+      "playerId": "9265",
       "playerFirstName": "Matthew",
       "playerLastName": "Stafford",
-      "avgPick": 129.5,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 12,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.30971",
+      "playerId": "30971",
       "playerFirstName": "Baker",
       "playerLastName": "Mayfield",
-      "avgPick": 120.3,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 12,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.40068",
+      "playerId": "40068",
       "playerFirstName": "Will",
       "playerLastName": "Levis",
-      "avgPick": 127.4,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 12,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.40196",
+      "playerId": "40196",
       "playerFirstName": "Chase",
       "playerLastName": "Brown",
-      "avgPick": 114.1,
-      "avgRound": 12.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 12,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.31838",
+      "playerId": "31838",
       "playerFirstName": "Daniel",
       "playerLastName": "Jones",
       "avgPick": null,
@@ -1404,30 +1424,30 @@
       "pick": 117,
       "round": 12,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.30142",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "30142",
       "playerFirstName": "David",
       "playerLastName": "Njoku",
-      "avgPick": 94.5,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 12,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.34447",
+      "playerId": "34447",
       "playerFirstName": "Jaylen",
       "playerLastName": "Warren",
-      "avgPick": 102.2,
-      "avgRound": 10.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 12,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.40029",
+      "playerId": "40029",
       "playerFirstName": "Bryce",
       "playerLastName": "Young",
       "avgPick": null,
@@ -1438,84 +1458,84 @@
       "round": 12,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.28457",
+      "playerId": "28457",
       "playerFirstName": "Tyler",
       "playerLastName": "Lockett",
-      "avgPick": 129.2,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 13,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.100033",
+      "playerId": "100033",
       "playerFirstName": "Ravens",
       "playerLastName": "",
-      "avgPick": 76.4,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 13,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.29238",
+      "playerId": "29238",
       "playerFirstName": "Ezekiel",
       "playerLastName": "Elliott",
-      "avgPick": 119,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 13,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.33100",
+      "playerId": "33100",
       "playerFirstName": "Rico",
       "playerLastName": "Dowdle",
-      "avgPick": 126,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 13,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.40042",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "40042",
       "playerFirstName": "Jordan",
       "playerLastName": "Addison",
-      "avgPick": 117.9,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 13,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.31906",
+      "playerId": "31906",
       "playerFirstName": "Devin",
       "playerLastName": "Singletary",
-      "avgPick": 98.8,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 13,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.31424",
+      "playerId": "31424",
       "playerFirstName": "Gus",
       "playerLastName": "Edwards",
-      "avgPick": 119.1,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.40881",
+      "playerId": "40881",
       "playerFirstName": "Drake",
       "playerLastName": "Maye",
       "avgPick": null,
@@ -1526,194 +1546,194 @@
       "round": 13,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.33967",
+      "playerId": "33967",
       "playerFirstName": "Jameson",
       "playerLastName": "Williams",
-      "avgPick": 120.8,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 13,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 119.5,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.40119",
+      "playerId": "40119",
       "playerFirstName": "Tyjae",
       "playerLastName": "Spears",
-      "avgPick": 108.7,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 14,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.34104",
+      "playerId": "34104",
       "playerFirstName": "Khalil",
       "playerLastName": "Shakir",
-      "avgPick": 126.8,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 14,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.34112",
+      "playerId": "34112",
       "playerFirstName": "Jerome",
       "playerLastName": "Ford",
-      "avgPick": 116.7,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 14,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.100004",
+      "playerId": "100004",
       "playerFirstName": "Bengals",
       "playerLastName": "",
-      "avgPick": 142,
-      "avgRound": 14.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 14,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.100025",
+      "playerId": "100025",
       "playerFirstName": "49ers",
       "playerLastName": "",
-      "avgPick": 71.7,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 14,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.100006",
+      "playerId": "100006",
       "playerFirstName": "Cowboys",
       "playerLastName": "",
-      "avgPick": 88.5,
-      "avgRound": 9.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 14,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.100015",
+      "playerId": "100015",
       "playerFirstName": "Dolphins",
       "playerLastName": "",
-      "avgPick": 123.3,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 14,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.32725",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "32725",
       "playerFirstName": "J.K.",
       "playerLastName": "Dobbins",
-      "avgPick": 110.5,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 14,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.100026",
+      "playerId": "100026",
       "playerFirstName": "Seahawks",
       "playerLastName": "",
-      "avgPick": 137.4,
-      "avgRound": 14.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 14,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.100003",
+      "playerId": "100003",
       "playerFirstName": "Bears",
       "playerLastName": "",
-      "avgPick": 138.4,
-      "avgRound": 14.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 14,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 117,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 15,
       "teamId": "t.5",
       "teamName": "Show me your TD's",
-      "playerId": "449.p.34107",
+      "playerId": "34107",
       "playerFirstName": "Tyler",
       "playerLastName": "Allgeier",
-      "avgPick": 131.7,
-      "avgRound": 14.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 15,
       "teamId": "t.10",
       "teamName": "Cracker of the day",
-      "playerId": "449.p.40878",
+      "playerId": "40878",
       "playerFirstName": "Brock",
       "playerLastName": "Bowers",
-      "avgPick": 108.7,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 15,
       "teamId": "t.1",
       "teamName": "My Njigas Eat When James Cooks",
-      "playerId": "449.p.40981",
+      "playerId": "40981",
       "playerFirstName": "Braelon",
       "playerLastName": "Allen",
-      "avgPick": 123.1,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 15,
       "teamId": "t.4",
-      "teamName": "Not Etienne Brooke's Stinkybox",
-      "playerId": "449.p.31840",
+      "teamName": "Not Etienne Brooke’s Stinkybox",
+      "playerId": "31840",
       "playerFirstName": "T.J.",
       "playerLastName": "Hockenson",
-      "avgPick": 129.6,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 15,
       "teamId": "t.6",
       "teamName": "Suh Girls One Cup",
-      "playerId": "449.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
       "avgPick": null,
@@ -1724,55 +1744,55 @@
       "round": 15,
       "teamId": "t.2",
       "teamName": "Leek/him 🧊",
-      "playerId": "449.p.33399",
+      "playerId": "33399",
       "playerFirstName": "Justin",
       "playerLastName": "Fields",
-      "avgPick": 117.8,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 15,
       "teamId": "t.7",
       "teamName": "Ty Still Reeks",
-      "playerId": "449.p.31107",
+      "playerId": "31107",
       "playerFirstName": "Dalton",
       "playerLastName": "Schultz",
-      "avgPick": 120.7,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 15,
       "teamId": "t.9",
       "teamName": "2nd most points for no playoff",
-      "playerId": "449.p.33465",
+      "playerId": "33465",
       "playerFirstName": "Joshua",
       "playerLastName": "Palmer",
-      "avgPick": 131.4,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 15,
       "teamId": "t.3",
       "teamName": "LeBron Bijan",
-      "playerId": "449.p.100020",
+      "playerId": "100020",
       "playerFirstName": "Jets",
       "playerLastName": "",
-      "avgPick": 81.8,
-      "avgRound": 8.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 15,
       "teamId": "t.8",
       "teamName": "Wilson!",
-      "playerId": "449.p.100002",
+      "playerId": "100002",
       "playerFirstName": "Bills",
       "playerLastName": "",
-      "avgPick": 122.1,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -1815,7 +1835,7 @@
     {
       "week": 1,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 162.18,
       "team2Id": "t.7",
       "team2Name": "Ty Still Reeks",
@@ -1863,7 +1883,7 @@
     {
       "week": 2,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 110.54,
       "team2Id": "t.8",
       "team2Name": "Wilson!",
@@ -1923,7 +1943,7 @@
     {
       "week": 3,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 171.42,
       "team2Id": "t.6",
       "team2Name": "Suh Girls One Cup",
@@ -1995,7 +2015,7 @@
     {
       "week": 4,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 166.16,
       "team2Id": "t.10",
       "team2Name": "Cracker of the day",
@@ -2043,7 +2063,7 @@
     {
       "week": 5,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 122.9,
       "team2Id": "t.5",
       "team2Name": "Show me your TD's",
@@ -2106,7 +2126,7 @@
       "team1Name": "LeBron Bijan",
       "team1Points": 114.36,
       "team2Id": "t.4",
-      "team2Name": "Not Etienne Brooke's Stinkybox",
+      "team2Name": "Not Etienne Brooke’s Stinkybox",
       "team2Points": 166.82,
       "isComplete": true,
       "isPlayoff": false,
@@ -2175,7 +2195,7 @@
     {
       "week": 7,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 145.42,
       "team2Id": "t.9",
       "team2Name": "2nd most points for no playoff",
@@ -2214,7 +2234,7 @@
       "team1Name": "Leek/him 🧊",
       "team1Points": 173.22,
       "team2Id": "t.4",
-      "team2Name": "Not Etienne Brooke's Stinkybox",
+      "team2Name": "Not Etienne Brooke’s Stinkybox",
       "team2Points": 125.46,
       "isComplete": true,
       "isPlayoff": false,
@@ -2262,7 +2282,7 @@
       "team1Name": "My Njigas Eat When James Cooks",
       "team1Points": 150,
       "team2Id": "t.4",
-      "team2Name": "Not Etienne Brooke's Stinkybox",
+      "team2Name": "Not Etienne Brooke’s Stinkybox",
       "team2Points": 162.42,
       "isComplete": true,
       "isPlayoff": false,
@@ -2355,7 +2375,7 @@
     {
       "week": 10,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 108.88,
       "team2Id": "t.7",
       "team2Name": "Ty Still Reeks",
@@ -2403,7 +2423,7 @@
     {
       "week": 11,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 155.72,
       "team2Id": "t.8",
       "team2Name": "Wilson!",
@@ -2463,7 +2483,7 @@
     {
       "week": 12,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 132.98,
       "team2Id": "t.6",
       "team2Name": "Suh Girls One Cup",
@@ -2535,7 +2555,7 @@
     {
       "week": 13,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 135.28,
       "team2Id": "t.10",
       "team2Name": "Cracker of the day",
@@ -2583,7 +2603,7 @@
     {
       "week": 14,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 139.12,
       "team2Id": "t.5",
       "team2Name": "Show me your TD's",
@@ -2631,7 +2651,7 @@
     {
       "week": 15,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 163.04,
       "team2Id": "t.8",
       "team2Name": "Wilson!",
@@ -2667,7 +2687,7 @@
     {
       "week": 16,
       "team1Id": "t.4",
-      "team1Name": "Not Etienne Brooke's Stinkybox",
+      "team1Name": "Not Etienne Brooke’s Stinkybox",
       "team1Points": 165.94,
       "team2Id": "t.9",
       "team2Name": "2nd most points for no playoff",
@@ -2718,7 +2738,7 @@
       "team1Name": "Leek/him 🧊",
       "team1Points": 309.6,
       "team2Id": "t.4",
-      "team2Name": "Not Etienne Brooke's Stinkybox",
+      "team2Name": "Not Etienne Brooke’s Stinkybox",
       "team2Points": 295.82,
       "isComplete": true,
       "isPlayoff": true,
@@ -2747,6 +2767,408 @@
       "isComplete": true,
       "isPlayoff": true,
       "isConsolation": false
+    }
+  ],
+  "trades": [
+    {
+      "id": "449.l.208825.tr.207",
+      "year": 2024,
+      "date": "2024-10-09T23:25:42.000Z",
+      "timestamp": 1728516342,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "2nd most points for no playoff",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Xavier Worthy"
+          ],
+          "received": [
+            "Calvin Ridley"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Ty Still Reeks",
+          "manager": "Jack Beder",
+          "sent": [
+            "Calvin Ridley"
+          ],
+          "received": [
+            "Xavier Worthy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.211",
+      "year": 2024,
+      "date": "2024-10-11T19:30:09.000Z",
+      "timestamp": 1728675009,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Cracker of the day",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Brock Bowers"
+          ],
+          "received": [
+            "Ladd McConkey",
+            "Justin Fields"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Not Etienne Brooke’s Stinkybox",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Ladd McConkey",
+            "Justin Fields"
+          ],
+          "received": [
+            "Brock Bowers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.257",
+      "year": 2024,
+      "date": "2024-10-19T18:19:01.000Z",
+      "timestamp": 1729361941,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Leek/him 🧊",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Davante Adams"
+          ],
+          "received": [
+            "Nico Collins"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "2nd most points for no playoff",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Nico Collins"
+          ],
+          "received": [
+            "Davante Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.295",
+      "year": 2024,
+      "date": "2024-10-25T03:43:09.000Z",
+      "timestamp": 1729827789,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Cracker of the day",
+          "manager": "Matthew Garay",
+          "sent": [
+            "James Conner",
+            "Patrick Mahomes"
+          ],
+          "received": [
+            "Tony Pollard",
+            "Jared Goff"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Leek/him 🧊",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Tony Pollard",
+            "Jared Goff"
+          ],
+          "received": [
+            "James Conner",
+            "Patrick Mahomes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.314",
+      "year": 2024,
+      "date": "2024-10-29T18:27:34.000Z",
+      "timestamp": 1730226454,
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Not Etienne Brooke’s Stinkybox",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "DeVonta Smith"
+          ],
+          "received": [
+            "David Montgomery",
+            "Tua Tagovailoa"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "David Montgomery",
+            "Tua Tagovailoa"
+          ],
+          "received": [
+            "DeVonta Smith"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.331",
+      "year": 2024,
+      "date": "2024-10-30T20:03:33.000Z",
+      "timestamp": 1730318613,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "My Njigas Eat When James Cooks",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Jaxon Smith-Njigba",
+            "Dak Prescott"
+          ],
+          "received": [
+            "Jerry Jeudy",
+            "Lamar Jackson"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Jerry Jeudy",
+            "Lamar Jackson"
+          ],
+          "received": [
+            "Jaxon Smith-Njigba",
+            "Dak Prescott"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.344",
+      "year": 2024,
+      "date": "2024-11-03T16:50:28.000Z",
+      "timestamp": 1730652628,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Trey McBride"
+          ],
+          "received": [
+            "Diontae Johnson",
+            "Tucker Kraft",
+            "DeAndre Hopkins"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Wilson!",
+          "manager": "Buddy Marcello",
+          "sent": [
+            "Diontae Johnson",
+            "Tucker Kraft",
+            "DeAndre Hopkins"
+          ],
+          "received": [
+            "Trey McBride"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.357",
+      "year": 2024,
+      "date": "2024-11-05T17:42:22.000Z",
+      "timestamp": 1730828542,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Keenan Allen"
+          ],
+          "received": [
+            "Cade Otton"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Leek/him 🧊",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Cade Otton"
+          ],
+          "received": [
+            "Keenan Allen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.372",
+      "year": 2024,
+      "date": "2024-11-08T02:17:35.000Z",
+      "timestamp": 1731032255,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Leek/him 🧊",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Najee Harris"
+          ],
+          "received": [
+            "Calvin Ridley"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "2nd most points for no playoff",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Calvin Ridley"
+          ],
+          "received": [
+            "Najee Harris"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.409",
+      "year": 2024,
+      "date": "2024-11-14T13:44:30.000Z",
+      "timestamp": 1731591870,
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Not Etienne Brooke’s Stinkybox",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "David Montgomery",
+            "Brock Bowers",
+            "Tua Tagovailoa"
+          ],
+          "received": [
+            "Breece Hall",
+            "Justin Herbert",
+            "Braelon Allen"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Ty Still Reeks",
+          "manager": "Jack Beder",
+          "sent": [
+            "Breece Hall",
+            "Justin Herbert",
+            "Braelon Allen"
+          ],
+          "received": [
+            "David Montgomery",
+            "Brock Bowers",
+            "Tua Tagovailoa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.411",
+      "year": 2024,
+      "date": "2024-11-14T17:39:26.000Z",
+      "timestamp": 1731605966,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Cracker of the day",
+          "manager": "Matthew Garay",
+          "sent": [
+            "CeeDee Lamb",
+            "De'Von Achane",
+            "DJ Moore",
+            "Caleb Williams"
+          ],
+          "received": [
+            "Puka Nacua",
+            "Jaxon Smith-Njigba",
+            "Tyreek Hill"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "My Njigas Eat When James Cooks",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Puka Nacua",
+            "Jaxon Smith-Njigba",
+            "Tyreek Hill"
+          ],
+          "received": [
+            "CeeDee Lamb",
+            "De'Von Achane",
+            "DJ Moore",
+            "Caleb Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "449.l.208825.tr.418",
+      "year": 2024,
+      "date": "2024-11-16T17:13:35.000Z",
+      "timestamp": 1731777215,
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Not Etienne Brooke’s Stinkybox",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Justin Herbert",
+            "Rams",
+            "Audric Estime"
+          ],
+          "received": [
+            "Chuba Hubbard",
+            "Keon Coleman"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Cracker of the day",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Chuba Hubbard",
+            "Keon Coleman"
+          ],
+          "received": [
+            "Justin Herbert",
+            "Rams",
+            "Audric Estime"
+          ]
+        }
+      ]
     }
   ]
 }

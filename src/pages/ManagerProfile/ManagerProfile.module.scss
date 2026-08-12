@@ -1,0 +1,210 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.profile {
+  @include container;
+  padding-top: $space-24;
+  padding-bottom: calc(#{$space-48} + env(safe-area-inset-bottom, 0px));
+  display: flex;
+  flex-direction: column;
+  gap: $space-24;
+
+  @media (min-width: $breakpoint-md) {
+    gap: $space-32;
+  }
+
+  .backLink {
+    align-self: flex-start;
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    font-size: $font-size-sm;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+
+    &:hover {
+      color: var(--color-text);
+    }
+  }
+
+  .header {
+    display: flex;
+    align-items: center;
+    gap: $space-12;
+
+    @media (min-width: $breakpoint-sm) {
+      gap: $space-16;
+    }
+
+    h1 {
+      margin: 0 0 $space-4;
+      font-size: $font-size-2xl;
+      word-break: break-word;
+
+      @media (min-width: $breakpoint-md) {
+        font-size: $font-size-3xl;
+      }
+    }
+
+    p {
+      margin: 0;
+      color: var(--color-text-secondary);
+      font-size: $font-size-sm;
+    }
+  }
+
+  .avatar {
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    overflow: hidden;
+    background: var(--color-bg-alt);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: $font-size-2xl;
+    font-weight: $font-weight-bold;
+    flex-shrink: 0;
+
+    @media (min-width: $breakpoint-sm) {
+      width: 88px;
+      height: 88px;
+      font-size: $font-size-3xl;
+    }
+
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  .statsGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: $space-12;
+
+    @media (min-width: $breakpoint-md) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  .statCard {
+    @include card;
+    padding: $space-16;
+    display: flex;
+    flex-direction: column;
+    gap: $space-4;
+
+    .label {
+      font-size: $font-size-xs;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--color-text-secondary);
+    }
+
+    .value {
+      font-size: $font-size-xl;
+      font-weight: $font-weight-bold;
+
+      @media (min-width: $breakpoint-sm) {
+        font-size: $font-size-2xl;
+      }
+    }
+
+    .meta,
+    .blurb {
+      font-size: $font-size-xs;
+      color: var(--color-text-secondary);
+    }
+  }
+
+  .tableWrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin: 0 (-$space-16);
+    padding: 0 $space-16;
+
+    @media (min-width: $breakpoint-md) {
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  table {
+    width: 100%;
+    min-width: 420px;
+
+    th,
+    td {
+      padding: $space-8 $space-12;
+      font-size: $font-size-sm;
+    }
+  }
+
+  .h2hList {
+    display: flex;
+    flex-direction: column;
+    gap: $space-12;
+  }
+
+  .h2hCard {
+    @include card;
+    padding: $space-16;
+    display: flex;
+    flex-direction: column;
+    gap: $space-12;
+  }
+
+  .h2hMain {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: $space-12;
+  }
+
+  .h2hRecord {
+    font-weight: $font-weight-semibold;
+    font-variant-numeric: tabular-nums;
+    flex-shrink: 0;
+  }
+
+  .h2hPoints {
+    display: flex;
+    gap: $space-16;
+    font-size: $font-size-sm;
+    color: var(--color-text-secondary);
+  }
+
+  .viewMatchups {
+    @include button-reset;
+    align-self: stretch;
+    min-height: 44px;
+    padding: $space-8 $space-12;
+    border-radius: $radius-8;
+    background: var(--color-bg-alt);
+    color: var(--color-header);
+    font-size: $font-size-sm;
+    font-weight: $font-weight-medium;
+    text-align: center;
+
+    &:hover {
+      background: var(--color-border);
+      color: var(--color-text);
+    }
+  }
+
+  .muted {
+    color: var(--color-text-secondary);
+    font-size: $font-size-sm;
+  }
+
+  h2 {
+    margin-bottom: $space-8;
+    font-size: $font-size-xl;
+
+    @media (min-width: $breakpoint-md) {
+      font-size: $font-size-2xl;
+    }
+  }
+}

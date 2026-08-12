@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
-import { leagues } from '../../data';
+import { leagues, getLatestChampion } from '../../data';
+import { getManagerAvatar } from '../../data/managers';
 import styles from './Home.module.scss';
 
 export function Home() {
@@ -16,62 +17,84 @@ export function Home() {
         <h2 className={styles.selectTitle}>Select a League</h2>
 
         <div className={styles.leagueGrid}>
-          {leagueList.map((league) => (
-            <Link
-              key={league.id}
-              to={`/${league.id}`}
-              className={styles.doorContainer}
-              data-league={league.id}
-            >
-              {/* Door frame */}
-              <div className={styles.doorFrame}>
-                {/* Content behind the door */}
-                <div className={styles.doorInside}>
-                  <div className={styles.insideContent}>
-                    <span className={styles.enterText}>Enter</span>
-                    <svg
-                      className={styles.enterArrow}
-                      width="24"
-                      height="24"
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      strokeWidth="2"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    >
-                      <path d="M5 12h14M12 5l7 7-7 7" />
-                    </svg>
+          {leagueList.map((league) => {
+            const champion = getLatestChampion(league.id);
+            const championAvatar = champion
+              ? getManagerAvatar(champion.name)
+              : undefined;
+
+            return (
+              <Link
+                key={league.id}
+                to={`/${league.id}`}
+                className={styles.doorContainer}
+                data-league={league.id}
+              >
+                <div className={styles.doorFrame}>
+                  <div className={styles.doorInside}>
+                    <div className={styles.insideContent}>
+                      <span className={styles.enterText}>Enter</span>
+                      <svg
+                        className={styles.enterArrow}
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                      >
+                        <path d="M5 12h14M12 5l7 7-7 7" />
+                      </svg>
+                    </div>
+                  </div>
+
+                  <div className={styles.door}>
+                    <div className={styles.doorPanel}>
+                      <div className={styles.doorWindow}>
+                        <span className={styles.leagueShort}>
+                          {league.shortName}
+                        </span>
+                      </div>
+                      <div className={styles.doorInfo}>
+                        <h3>{league.name}</h3>
+                        <span className={styles.yearsCount}>
+                          {league.years.length > 0
+                            ? `${league.years.length} seasons`
+                            : 'Coming soon'}
+                        </span>
+                      </div>
+                      <div className={styles.doorknob}></div>
+                    </div>
                   </div>
                 </div>
-                
-                {/* The door itself */}
-                <div className={styles.door}>
-                  <div className={styles.doorPanel}>
-                    <div className={styles.doorWindow}>
-                      <span className={styles.leagueShort}>{league.shortName}</span>
-                    </div>
-                    <div className={styles.doorInfo}>
-                      <h3>{league.name}</h3>
-                      <span className={styles.yearsCount}>
-                        {league.years.length > 0
-                          ? `${league.years.length} seasons`
-                          : 'Coming soon'}
+                {champion && (
+                  <div className={styles.championUnderDoor}>
+                    {championAvatar ? (
+                      <img
+                        src={championAvatar}
+                        alt=""
+                        className={styles.championAvatar}
+                      />
+                    ) : (
+                      <span className={styles.championAvatarFallback}>
+                        {champion.name.charAt(0)}
                       </span>
-                    </div>
-                    <div className={styles.doorknob}></div>
+                    )}
+                    <span>
+                      {champion.year} champ: {champion.name}
+                    </span>
                   </div>
-                </div>
-              </div>
-            </Link>
-          ))}
+                )}
+              </Link>
+            );
+          })}
         </div>
       </main>
 
       <footer className={styles.footer}>
-        <p>
-          Track your league's history and crunch the numbers.
-        </p>
+        <p>Track your league's history and crunch the numbers.</p>
       </footer>
     </div>
   );

@@ -3,76 +3,32 @@
   "leagueId": "cwp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "Bustin' A Chuba",
-      "manager": "Jack Bleiweis",
-      "wins": 7,
-      "losses": 7,
+      "id": "t.10",
+      "name": "Sucky Sucky Kirky Kirky",
+      "manager": "Dustin Pulver",
+      "wins": 10,
+      "losses": 4,
       "ties": 0,
-      "rank": 4,
-      "playoffSeed": 2,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/578683b7dc5f202a64b95c8280264ac7ad2c1265b6caa170717432c90ac8c063.jpg"
-    },
-    {
-      "id": "t.2",
-      "name": "Bart Harley Jarvis Landry",
-      "manager": "Matthew Garay",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 7,
-      "playoffSeed": 7,
+      "rank": 1,
+      "playoffSeed": 3,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/4bd96e43878588252c7975fe34de607f5f38d5069a374df3c10579d9f2f7647a.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/e9f74e8ac538d8b876be81795e569660a68e373f9a186d2b928be0df449c9876.jpg",
+      "moves": 56,
+      "tradesCount": 3
     },
     {
-      "id": "t.3",
-      "name": "Herb",
-      "manager": "Buddy Marcello",
-      "wins": 8,
-      "losses": 6,
-      "ties": 0,
-      "rank": 5,
-      "playoffSeed": 6,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/bc8aef0ad87010793f59e314a405a76044dc3914ee9302458f228dbc52c08995.jpg"
-    },
-    {
-      "id": "t.4",
-      "name": "Jimothy's Jumping Bumblebees",
-      "manager": "Michael Kagan",
-      "wins": 4,
-      "losses": 10,
-      "ties": 0,
-      "rank": 8,
-      "playoffSeed": 9,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/10db234273d7e8487e58c4b7331db3fcb7e34a14e221ee9f6c7285890c7683d2.png"
-    },
-    {
-      "id": "t.5",
-      "name": "@_stringswim",
-      "manager": "Ty Greenberg",
+      "id": "t.9",
+      "name": "It’s Over I lost Everything",
+      "manager": "Chase Bergman",
       "wins": 9,
       "losses": 5,
       "ties": 0,
-      "rank": 6,
-      "playoffSeed": 5,
+      "rank": 2,
+      "playoffSeed": 4,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/343917ddfd36c647b4e68844e4c260334c86b3b65bb28985ccd2a6ade8fe845d.png"
-    },
-    {
-      "id": "t.6",
-      "name": "Show me your TD's",
-      "manager": "Ben Roher",
-      "wins": 5,
-      "losses": 9,
-      "ties": 0,
-      "rank": 10,
-      "playoffSeed": 8,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44284260402_5ef6b1.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d5bd2ed744cb1481a91b0583e32c530e89e0c2369c1ad20fa88bf6d1595c47b0.jpg",
+      "moves": 56,
+      "tradesCount": 4
     },
     {
       "id": "t.7",
@@ -84,7 +40,79 @@
       "rank": 3,
       "playoffSeed": 1,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png",
+      "moves": 42,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.1",
+      "name": "Bustin' A Chuba",
+      "manager": "Jack Bleiweis",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 4,
+      "playoffSeed": 2,
+      "isCommissioner": true,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/578683b7dc5f202a64b95c8280264ac7ad2c1265b6caa170717432c90ac8c063.jpg",
+      "moves": 39,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.3",
+      "name": "Herb",
+      "manager": "Buddy Marcello",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "rank": 5,
+      "playoffSeed": 6,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/bc8aef0ad87010793f59e314a405a76044dc3914ee9302458f228dbc52c08995.jpg",
+      "moves": 71,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.5",
+      "name": "@_stringswim",
+      "manager": "Ty Greenberg",
+      "wins": 9,
+      "losses": 5,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 5,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/343917ddfd36c647b4e68844e4c260334c86b3b65bb28985ccd2a6ade8fe845d.png",
+      "moves": 62,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.2",
+      "name": "Bart Harley Jarvis Landry",
+      "manager": "Matthew Garay",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 7,
+      "playoffSeed": 7,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/4bd96e43878588252c7975fe34de607f5f38d5069a374df3c10579d9f2f7647a.jpg",
+      "moves": 30,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.4",
+      "name": "Jimothy's Jumping Bumblebees",
+      "manager": "Michael Kagan",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "rank": 8,
+      "playoffSeed": 9,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/10db234273d7e8487e58c4b7331db3fcb7e34a14e221ee9f6c7285890c7683d2.png",
+      "moves": 30,
+      "tradesCount": 0
     },
     {
       "id": "t.8",
@@ -96,31 +124,23 @@
       "rank": 9,
       "playoffSeed": 10,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png",
+      "moves": 49,
+      "tradesCount": 0
     },
     {
-      "id": "t.9",
-      "name": "It's Over I lost Everything",
-      "manager": "Chase Bergman",
-      "wins": 9,
-      "losses": 5,
+      "id": "t.6",
+      "name": "Show me your TD's",
+      "manager": "Ben Roher",
+      "wins": 5,
+      "losses": 9,
       "ties": 0,
-      "rank": 2,
-      "playoffSeed": 4,
+      "rank": 10,
+      "playoffSeed": 8,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d5bd2ed744cb1481a91b0583e32c530e89e0c2369c1ad20fa88bf6d1595c47b0.jpg"
-    },
-    {
-      "id": "t.10",
-      "name": "Sucky Sucky Kirky Kirky",
-      "manager": "Dustin Pulver",
-      "wins": 10,
-      "losses": 4,
-      "ties": 0,
-      "rank": 1,
-      "playoffSeed": 3,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/e9f74e8ac538d8b876be81795e569660a68e373f9a186d2b928be0df449c9876.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44284260402_5ef6b1.jpg",
+      "moves": 26,
+      "tradesCount": 1
     }
   ],
   "draft": [
@@ -129,1151 +149,1151 @@
       "round": 1,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.30121",
+      "playerId": "30121",
       "playerFirstName": "Christian",
       "playerLastName": "McCaffrey",
-      "avgPick": 1.2,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.30154",
+      "playerId": "30154",
       "playerFirstName": "Dalvin",
       "playerLastName": "Cook",
-      "avgPick": 2.4,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.27581",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 10.1,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.29279",
+      "playerId": "29279",
       "playerFirstName": "Derrick",
       "playerLastName": "Henry",
-      "avgPick": 4,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.29238",
+      "playerId": "29238",
       "playerFirstName": "Ezekiel",
       "playerLastName": "Elliott",
-      "avgPick": 5,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.30180",
+      "playerId": "30180",
       "playerFirstName": "Alvin",
       "playerLastName": "Kamara",
-      "avgPick": 4.4,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.30972",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "30972",
       "playerFirstName": "Saquon",
       "playerLastName": "Barkley",
-      "avgPick": 11.6,
-      "avgRound": 1.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.30423",
+      "playerId": "30423",
       "playerFirstName": "Austin",
       "playerLastName": "Ekeler",
-      "avgPick": 15.5,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.29399",
+      "playerId": "29399",
       "playerFirstName": "Tyreek",
       "playerLastName": "Hill",
-      "avgPick": 9.3,
-      "avgRound": 1.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 12.4,
-      "avgRound": 1.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 2,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.30123",
+      "playerId": "30123",
       "playerFirstName": "Patrick",
       "playerLastName": "Mahomes",
-      "avgPick": 16.6,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 2,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.31005",
+      "playerId": "31005",
       "playerFirstName": "Nick",
       "playerLastName": "Chubb",
-      "avgPick": 7.1,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.30295",
+      "playerId": "30295",
       "playerFirstName": "Aaron",
       "playerLastName": "Jones Sr.",
-      "avgPick": 8.5,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.32711",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "32711",
       "playerFirstName": "Jonathan",
       "playerLastName": "Taylor",
-      "avgPick": 10.7,
-      "avgRound": 1.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.33412",
+      "playerId": "33412",
       "playerFirstName": "Najee",
       "playerLastName": "Harris",
-      "avgPick": 18,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 13,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 18.8,
-      "avgRound": 2.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.30996",
+      "playerId": "30996",
       "playerFirstName": "Calvin",
       "playerLastName": "Ridley",
-      "avgPick": 18.7,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.32692",
+      "playerId": "32692",
       "playerFirstName": "Justin",
       "playerLastName": "Jefferson",
-      "avgPick": 22.8,
-      "avgRound": 2.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.30977",
+      "playerId": "30977",
       "playerFirstName": "Josh",
       "playerLastName": "Allen",
-      "avgPick": 29.7,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.31896",
+      "playerId": "31896",
       "playerFirstName": "DK",
       "playerLastName": "Metcalf",
-      "avgPick": 19.9,
-      "avgRound": 2.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 3,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.30161",
+      "playerId": "30161",
       "playerFirstName": "Joe",
       "playerLastName": "Mixon",
-      "avgPick": 22.1,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 3,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.31883",
+      "playerId": "31883",
       "playerFirstName": "A.J.",
       "playerLastName": "Brown",
-      "avgPick": 24.7,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 3,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.27589",
+      "playerId": "27589",
       "playerFirstName": "Allen",
       "playerLastName": "Robinson",
-      "avgPick": 30.5,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.32702",
+      "playerId": "32702",
       "playerFirstName": "Clyde",
       "playerLastName": "Edwards-Helaire",
-      "avgPick": 24.8,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 30.3,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.30259",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "30259",
       "playerFirstName": "George",
       "playerLastName": "Kittle",
-      "avgPick": 31,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.32736",
+      "playerId": "32736",
       "playerFirstName": "Antonio",
       "playerLastName": "Gibson",
-      "avgPick": 17.7,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.30362",
+      "playerId": "30362",
       "playerFirstName": "Chris",
       "playerLastName": "Carson",
-      "avgPick": 31.7,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.31905",
+      "playerId": "31905",
       "playerFirstName": "David",
       "playerLastName": "Montgomery",
-      "avgPick": 32.7,
-      "avgRound": 3.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 4,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.31908",
+      "playerId": "31908",
       "playerFirstName": "Terry",
       "playerLastName": "McLaurin",
-      "avgPick": 30.4,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 4,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.28592",
+      "playerId": "28592",
       "playerFirstName": "Darren",
       "playerLastName": "Waller",
-      "avgPick": 25.3,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.31833",
+      "playerId": "31833",
       "playerFirstName": "Kyler",
       "playerLastName": "Murray",
-      "avgPick": 43.6,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 4,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.26664",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "26664",
       "playerFirstName": "Robert",
       "playerLastName": "Woods",
-      "avgPick": 44.8,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 42.2,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 4,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.32687",
+      "playerId": "32687",
       "playerFirstName": "CeeDee",
       "playerLastName": "Lamb",
-      "avgPick": 33.1,
-      "avgRound": 3.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.30182",
+      "playerId": "30182",
       "playerFirstName": "Cooper",
       "playerLastName": "Kupp",
-      "avgPick": 42,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 59.6,
-      "avgRound": 6.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.32705",
+      "playerId": "32705",
       "playerFirstName": "D'Andre",
       "playerLastName": "Swift",
-      "avgPick": 44.2,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.32725",
+      "playerId": "32725",
       "playerFirstName": "J.K.",
       "playerLastName": "Dobbins",
-      "avgPick": 30.2,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.31002",
+      "playerId": "31002",
       "playerFirstName": "Lamar",
       "playerLastName": "Jackson",
-      "avgPick": 42.2,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 5,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.28457",
+      "playerId": "28457",
       "playerFirstName": "Tyler",
       "playerLastName": "Lockett",
-      "avgPick": 47.3,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 5,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.24793",
+      "playerId": "24793",
       "playerFirstName": "Julio",
       "playerLastName": "Jones",
-      "avgPick": 52,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 5,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 53.3,
-      "avgRound": 5.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 5,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.33392",
+      "playerId": "33392",
       "playerFirstName": "Kyle",
       "playerLastName": "Pitts Sr.",
-      "avgPick": 47.4,
-      "avgRound": 5.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.27277",
+      "playerId": "27277",
       "playerFirstName": "Adam",
       "playerLastName": "Thielen",
-      "avgPick": 53.9,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 5,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.30197",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "30197",
       "playerFirstName": "Chris",
       "playerLastName": "Godwin Jr.",
-      "avgPick": 35.9,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 35.9,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.30994",
+      "playerId": "30994",
       "playerFirstName": "DJ",
       "playerLastName": "Moore",
-      "avgPick": 52.3,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.31902",
+      "playerId": "31902",
       "playerFirstName": "Darrell",
       "playerLastName": "Henderson Jr.",
-      "avgPick": 52.5,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 6,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.31898",
+      "playerId": "31898",
       "playerFirstName": "Diontae",
       "playerLastName": "Johnson",
-      "avgPick": 61.6,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 6,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.29369",
+      "playerId": "29369",
       "playerFirstName": "Dak",
       "playerLastName": "Prescott",
-      "avgPick": 53.3,
-      "avgRound": 5.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.32676",
+      "playerId": "32676",
       "playerFirstName": "Justin",
       "playerLastName": "Herbert",
-      "avgPick": 61.1,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 6,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.5228",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "5228",
       "playerFirstName": "Tom",
       "playerLastName": "Brady",
-      "avgPick": 63.5,
-      "avgRound": 7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 6,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.31885",
+      "playerId": "31885",
       "playerFirstName": "Miles",
       "playerLastName": "Sanders",
-      "avgPick": 44.5,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 6,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.30209",
+      "playerId": "30209",
       "playerFirstName": "Kenny",
       "playerLastName": "Golladay",
-      "avgPick": 94.1,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 6,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.32695",
+      "playerId": "32695",
       "playerFirstName": "Brandon",
       "playerLastName": "Aiyuk",
-      "avgPick": 64.6,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 6,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.25718",
+      "playerId": "25718",
       "playerFirstName": "Ryan",
       "playerLastName": "Tannehill",
-      "avgPick": 94.4,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 6,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.32671",
+      "playerId": "32671",
       "playerFirstName": "Joe",
       "playerLastName": "Burrow",
-      "avgPick": 114.1,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.33393",
+      "playerId": "33393",
       "playerFirstName": "Ja'Marr",
       "playerLastName": "Chase",
-      "avgPick": 87.2,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.30175",
+      "playerId": "30175",
       "playerFirstName": "JuJu",
       "playerLastName": "Smith-Schuster",
-      "avgPick": 91.7,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 7,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.9265",
+      "playerId": "9265",
       "playerFirstName": "Matthew",
       "playerLastName": "Stafford",
-      "avgPick": 96.1,
-      "avgRound": 10.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 7,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.32066",
+      "playerId": "32066",
       "playerFirstName": "Myles",
       "playerLastName": "Gaskin",
-      "avgPick": 64.7,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 7,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.8780",
+      "playerId": "8780",
       "playerFirstName": "Matt",
       "playerLastName": "Ryan",
-      "avgPick": 122.9,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 7,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.32703",
+      "playerId": "32703",
       "playerFirstName": "Tee",
       "playerLastName": "Higgins",
-      "avgPick": 71.6,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 7,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.31056",
+      "playerId": "31056",
       "playerFirstName": "Mark",
       "playerLastName": "Andrews",
-      "avgPick": 50.4,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 7,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.29288",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "29288",
       "playerFirstName": "Tyler",
       "playerLastName": "Boyd",
-      "avgPick": 98.5,
-      "avgRound": 10.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.32685",
+      "playerId": "32685",
       "playerFirstName": "Jerry",
       "playerLastName": "Jeudy",
-      "avgPick": 82.2,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 7,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.33389",
+      "playerId": "33389",
       "playerFirstName": "Trevor",
       "playerLastName": "Lawrence",
-      "avgPick": 121.7,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 7,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.32719",
+      "playerId": "32719",
       "playerFirstName": "Chase",
       "playerLastName": "Claypool",
-      "avgPick": 74.7,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 8,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.30971",
+      "playerId": "30971",
       "playerFirstName": "Baker",
       "playerLastName": "Mayfield",
-      "avgPick": 121.4,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 8,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.32723",
+      "playerId": "32723",
       "playerFirstName": "Jalen",
       "playerLastName": "Hurts",
-      "avgPick": 80.7,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 77.6,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 8,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.31010",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "31010",
       "playerFirstName": "Courtland",
       "playerLastName": "Sutton",
-      "avgPick": 98.9,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 8,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.31868",
+      "playerId": "31868",
       "playerFirstName": "Deebo",
-      "playerLastName": "Samuel",
-      "avgPick": 92.5,
-      "avgRound": 10
+      "playerLastName": "Samuel Sr.",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 8,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.28514",
+      "playerId": "28514",
       "playerFirstName": "Mike",
       "playerLastName": "Davis",
-      "avgPick": 64.3,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 8,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.31840",
+      "playerId": "31840",
       "playerFirstName": "T.J.",
       "playerLastName": "Hockenson",
-      "avgPick": 53.7,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 8,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.33413",
+      "playerId": "33413",
       "playerFirstName": "Travis",
       "playerLastName": "Etienne Jr.",
-      "avgPick": 59.8,
-      "avgRound": 6.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 8,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.29281",
+      "playerId": "29281",
       "playerFirstName": "Michael",
       "playerLastName": "Thomas",
-      "avgPick": 103.8,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 8,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.30153",
+      "playerId": "30153",
       "playerFirstName": "Curtis",
       "playerLastName": "Samuel",
-      "avgPick": 124.3,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.31856",
+      "playerId": "31856",
       "playerFirstName": "Josh",
       "playerLastName": "Jacobs",
-      "avgPick": 42,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 9,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.29785",
+      "playerId": "29785",
       "playerFirstName": "Robbie",
       "playerLastName": "Chosen",
-      "avgPick": 84.9,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 9,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.30199",
+      "playerId": "30199",
       "playerFirstName": "Kareem",
       "playerLastName": "Hunt",
-      "avgPick": 63.8,
-      "avgRound": 7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 9,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.31104",
+      "playerId": "31104",
       "playerFirstName": "Chase",
       "playerLastName": "Edmonds",
-      "avgPick": 78.8,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 9,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.24171",
+      "playerId": "24171",
       "playerFirstName": "Antonio",
       "playerLastName": "Brown",
-      "avgPick": 97.9,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 9,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.30117",
+      "playerId": "30117",
       "playerFirstName": "Leonard",
       "playerLastName": "Fournette",
-      "avgPick": 100.1,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 9,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.31031",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "31031",
       "playerFirstName": "DJ",
       "playerLastName": "Chark",
-      "avgPick": 115,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.33398",
+      "playerId": "33398",
       "playerFirstName": "DeVonta",
       "playerLastName": "Smith",
-      "avgPick": 111.2,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 9,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.28403",
+      "playerId": "28403",
       "playerFirstName": "Melvin",
       "playerLastName": "Gordon III",
-      "avgPick": 92.3,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 9,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.33138",
+      "playerId": "33138",
       "playerFirstName": "James",
       "playerLastName": "Robinson",
-      "avgPick": 51.5,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 10,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.33394",
+      "playerId": "33394",
       "playerFirstName": "Jaylen",
       "playerLastName": "Waddle",
-      "avgPick": 121.9,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 10,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.31838",
+      "playerId": "31838",
       "playerFirstName": "Daniel",
       "playerLastName": "Jones",
-      "avgPick": 132.1,
-      "avgRound": 14.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.32712",
+      "playerId": "32712",
       "playerFirstName": "Laviska",
       "playerLastName": "Shenault Jr.",
-      "avgPick": 118.1,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 10,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.33399",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "33399",
       "playerFirstName": "Justin",
       "playerLastName": "Fields",
-      "avgPick": 127,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 10,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.26060",
+      "playerId": "26060",
       "playerFirstName": "Cole",
       "playerLastName": "Beasley",
-      "avgPick": 122.8,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 10,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.7426",
+      "playerId": "7426",
       "playerFirstName": "Ryan",
       "playerLastName": "Fitzpatrick",
-      "avgPick": 131.9,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 10,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.28654",
+      "playerId": "28654",
       "playerFirstName": "Raheem",
       "playerLastName": "Mostert",
-      "avgPick": 78.8,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 10,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.31051",
+      "playerId": "31051",
       "playerFirstName": "Michael",
       "playerLastName": "Gallup",
-      "avgPick": 119.7,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 10,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.25812",
+      "playerId": "25812",
       "playerFirstName": "Kirk",
       "playerLastName": "Cousins",
-      "avgPick": 125.2,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 10,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.27648",
+      "playerId": "27648",
       "playerFirstName": "Logan",
       "playerLastName": "Thomas",
-      "avgPick": 74.6,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.30120",
+      "playerId": "30120",
       "playerFirstName": "Mike",
       "playerLastName": "Williams",
-      "avgPick": 120.3,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 11,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.33391",
+      "playerId": "33391",
       "playerFirstName": "Trey",
       "playerLastName": "Lance",
-      "avgPick": 131,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 11,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.30125",
+      "playerId": "30125",
       "playerFirstName": "Deshaun",
       "playerLastName": "Watson",
-      "avgPick": 125.5,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 11,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.27591",
+      "playerId": "27591",
       "playerFirstName": "Jarvis",
       "playerLastName": "Landry",
-      "avgPick": 119.8,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 11,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.30614",
+      "playerId": "30614",
       "playerFirstName": "Taysom",
       "playerLastName": "Hill",
       "avgPick": null,
@@ -1284,40 +1304,40 @@
       "round": 11,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.31019",
+      "playerId": "31019",
       "playerFirstName": "Dallas",
       "playerLastName": "Goedert",
-      "avgPick": 95.8,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 11,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.6770",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "6770",
       "playerFirstName": "Ben",
       "playerLastName": "Roethlisberger",
-      "avgPick": 122.4,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.33423",
+      "playerId": "33423",
       "playerFirstName": "Javonte",
       "playerLastName": "Williams",
-      "avgPick": 84.3,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 11,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.24788",
+      "playerId": "24788",
       "playerFirstName": "Cam",
       "playerLastName": "Newton",
       "avgPick": null,
@@ -1328,271 +1348,271 @@
       "round": 11,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.25876",
+      "playerId": "25876",
       "playerFirstName": "Marvin",
       "playerLastName": "Jones Jr.",
-      "avgPick": 126.5,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 12,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.33390",
+      "playerId": "33390",
       "playerFirstName": "Zach",
       "playerLastName": "Wilson",
-      "avgPick": 127.6,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 12,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 106.5,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.31852",
+      "playerId": "31852",
       "playerFirstName": "Noah",
       "playerLastName": "Fant",
-      "avgPick": 90.3,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 12,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.33495",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "33495",
       "playerFirstName": "Michael",
       "playerLastName": "Carter",
-      "avgPick": 113.2,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 12,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.29236",
+      "playerId": "29236",
       "playerFirstName": "Carson",
       "playerLastName": "Wentz",
-      "avgPick": 130.9,
-      "avgRound": 14.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 12,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.31882",
+      "playerId": "31882",
       "playerFirstName": "Irv",
       "playerLastName": "Smith Jr.",
-      "avgPick": 123.6,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 12,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.32704",
+      "playerId": "32704",
       "playerFirstName": "Michael",
       "playerLastName": "Pittman Jr.",
-      "avgPick": 124.4,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 12,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.31888",
+      "playerId": "31888",
       "playerFirstName": "Mecole",
       "playerLastName": "Hardman Jr.",
-      "avgPick": 125.4,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 12,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.28474",
+      "playerId": "28474",
       "playerFirstName": "David",
       "playerLastName": "Johnson",
-      "avgPick": 111.1,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 12,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.31919",
+      "playerId": "31919",
       "playerFirstName": "Damien",
       "playerLastName": "Harris",
-      "avgPick": 65.5,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.31857",
+      "playerId": "31857",
       "playerFirstName": "Hollywood",
       "playerLastName": "Brown",
-      "avgPick": 126.9,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 13,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.30118",
+      "playerId": "30118",
       "playerFirstName": "Corey",
       "playerLastName": "Davis",
-      "avgPick": 109.7,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 13,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.31008",
+      "playerId": "31008",
       "playerFirstName": "Ronald",
       "playerLastName": "Jones",
-      "avgPick": 84.4,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 13,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.33476",
+      "playerId": "33476",
       "playerFirstName": "Trey",
       "playerLastName": "Sermon",
-      "avgPick": 80.9,
-      "avgRound": 8.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 13,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.29344",
+      "playerId": "29344",
       "playerFirstName": "Tyler",
       "playerLastName": "Higbee",
-      "avgPick": 72.1,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 13,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.100033",
+      "playerId": "100033",
       "playerFirstName": "Ravens",
       "playerLastName": "",
-      "avgPick": 95,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 13,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.32843",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "32843",
       "playerFirstName": "Darnell",
       "playerLastName": "Mooney",
-      "avgPick": 127.4,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.33422",
+      "playerId": "33422",
       "playerFirstName": "Elijah",
       "playerLastName": "Moore",
-      "avgPick": 129.3,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 13,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.24791",
+      "playerId": "24791",
       "playerFirstName": "A.J.",
       "playerLastName": "Green",
-      "avgPick": 121.3,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 13,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.100014",
+      "playerId": "100014",
       "playerFirstName": "Rams",
       "playerLastName": "",
-      "avgPick": 72.1,
-      "avgRound": 8.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 14,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.32682",
+      "playerId": "32682",
       "playerFirstName": "Henry",
       "playerLastName": "Ruggs III",
-      "avgPick": 125.2,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 14,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.100017",
+      "playerId": "100017",
       "playerFirstName": "Patriots",
       "playerLastName": "",
-      "avgPick": 130.2,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 14,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.100027",
+      "playerId": "100027",
       "playerFirstName": "Buccaneers",
       "playerLastName": "",
-      "avgPick": 84.5,
-      "avgRound": 9.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 14,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.29370",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "29370",
       "playerFirstName": "Devontae",
       "playerLastName": "Booker",
       "avgPick": null,
@@ -1603,161 +1623,161 @@
       "round": 14,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.31164",
+      "playerId": "31164",
       "playerFirstName": "Russell",
       "playerLastName": "Gage Jr.",
-      "avgPick": 129.3,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 14,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.32775",
+      "playerId": "32775",
       "playerFirstName": "Adam",
       "playerLastName": "Trautman",
-      "avgPick": 132.8,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 14,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.100028",
+      "playerId": "100028",
       "playerFirstName": "Commanders",
       "playerLastName": "",
-      "avgPick": 80.1,
-      "avgRound": 8.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 14,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.33415",
+      "playerId": "33415",
       "playerFirstName": "Rashod",
       "playerLastName": "Bateman",
-      "avgPick": 131.4,
-      "avgRound": 14.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 14,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.24851",
+      "playerId": "24851",
       "playerFirstName": "Randall",
       "playerLastName": "Cobb",
-      "avgPick": 121.8,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 14,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.26534",
+      "playerId": "26534",
       "playerFirstName": "Justin",
       "playerLastName": "Tucker",
-      "avgPick": 81.5,
-      "avgRound": 8.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 15,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.100023",
+      "playerId": "100023",
       "playerFirstName": "Steelers",
       "playerLastName": "",
-      "avgPick": 85.2,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 15,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.30346",
+      "playerId": "30346",
       "playerFirstName": "Harrison",
       "playerLastName": "Butker",
-      "avgPick": 84.8,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 15,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.30426",
+      "playerId": "30426",
       "playerFirstName": "Younghoe",
       "playerLastName": "Koo",
-      "avgPick": 94.4,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 15,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.25881",
+      "playerId": "25881",
       "playerFirstName": "Greg",
       "playerLastName": "Zuerlein",
-      "avgPick": 106.1,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 15,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.100025",
+      "playerId": "100025",
       "playerFirstName": "49ers",
       "playerLastName": "",
-      "avgPick": 92.3,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 15,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.28378",
+      "playerId": "28378",
       "playerFirstName": "Jason",
       "playerLastName": "Myers",
-      "avgPick": 136.3,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 15,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.31199",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "31199",
       "playerFirstName": "Jason",
       "playerLastName": "Sanders",
-      "avgPick": 125.2,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 15,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.9520",
+      "playerId": "9520",
       "playerFirstName": "Ryan",
       "playerLastName": "Succop",
-      "avgPick": 116.7,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 15,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.33500",
+      "playerId": "33500",
       "playerFirstName": "Amon-Ra",
       "playerLastName": "St. Brown",
       "avgPick": null,
@@ -1768,18 +1788,18 @@
       "round": 15,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.32858",
+      "playerId": "32858",
       "playerFirstName": "Tyler",
       "playerLastName": "Bass",
-      "avgPick": 105.3,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 151,
       "round": 16,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "406.p.32003",
+      "playerId": "32003",
       "playerFirstName": "Darius",
       "playerLastName": "Slayton",
       "avgPick": null,
@@ -1790,99 +1810,99 @@
       "round": 16,
       "teamId": "t.1",
       "teamName": "Bustin' A Chuba",
-      "playerId": "406.p.31977",
+      "playerId": "31977",
       "playerFirstName": "Matt",
       "playerLastName": "Gay",
-      "avgPick": 130.1,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 153,
       "round": 16,
       "teamId": "t.3",
       "teamName": "Herb",
-      "playerId": "406.p.28389",
+      "playerId": "28389",
       "playerFirstName": "Jameis",
       "playerLastName": "Winston",
-      "avgPick": 126.4,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 154,
       "round": 16,
       "teamId": "t.9",
-      "teamName": "It's Over I lost Everything",
-      "playerId": "406.p.100029",
+      "teamName": "It’s Over I lost Everything",
+      "playerId": "100029",
       "playerFirstName": "Panthers",
       "playerLastName": "",
-      "avgPick": 134.7,
-      "avgRound": 14.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 155,
       "round": 16,
       "teamId": "t.2",
       "teamName": "Bart Harley Jarvis Landry",
-      "playerId": "406.p.30218",
+      "playerId": "30218",
       "playerFirstName": "James",
       "playerLastName": "Conner",
-      "avgPick": 106.1,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 156,
       "round": 16,
       "teamId": "t.5",
       "teamName": "@_stringswim",
-      "playerId": "406.p.29255",
+      "playerId": "29255",
       "playerFirstName": "Will",
       "playerLastName": "Fuller V",
-      "avgPick": 120.3,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 157,
       "round": 16,
       "teamId": "t.4",
       "teamName": "Jimothy's Jumping Bumblebees",
-      "playerId": "406.p.28408",
+      "playerId": "28408",
       "playerFirstName": "Nelson",
       "playerLastName": "Agholor",
-      "avgPick": 128.9,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 158,
       "round": 16,
       "teamId": "t.8",
       "teamName": "The Wife Beders",
-      "playerId": "406.p.100005",
+      "playerId": "100005",
       "playerFirstName": "Browns",
       "playerLastName": "",
-      "avgPick": 115.4,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 159,
       "round": 16,
       "teamId": "t.10",
       "teamName": "Sucky Sucky Kirky Kirky",
-      "playerId": "406.p.30777",
+      "playerId": "30777",
       "playerFirstName": "Robert",
       "playerLastName": "Tonyan",
-      "avgPick": 82.5,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 160,
       "round": 16,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "406.p.33403",
+      "playerId": "33403",
       "playerFirstName": "Mac",
       "playerLastName": "Jones",
-      "avgPick": 121.2,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -1937,7 +1957,7 @@
     {
       "week": 1,
       "team1Id": "t.9",
-      "team1Name": "It's Over I lost Everything",
+      "team1Name": "It’s Over I lost Everything",
       "team1Points": 130.78,
       "team2Id": "t.10",
       "team2Name": "Sucky Sucky Kirky Kirky",
@@ -1988,7 +2008,7 @@
       "team1Name": "@_stringswim",
       "team1Points": 137.1,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 121.34,
       "isComplete": true,
       "isPlayoff": false,
@@ -2048,7 +2068,7 @@
       "team1Name": "Show me your TD's",
       "team1Points": 148.94,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 163,
       "isComplete": true,
       "isPlayoff": false,
@@ -2096,7 +2116,7 @@
       "team1Name": "Herb",
       "team1Points": 159.2,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 132.12,
       "isComplete": true,
       "isPlayoff": false,
@@ -2132,7 +2152,7 @@
       "team1Name": "Bustin' A Chuba",
       "team1Points": 139.6,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 162.58,
       "isComplete": true,
       "isPlayoff": false,
@@ -2204,7 +2224,7 @@
       "team1Name": "Bart Harley Jarvis Landry",
       "team1Points": 196.44,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 153.64,
       "isComplete": true,
       "isPlayoff": false,
@@ -2300,7 +2320,7 @@
       "team1Name": "The Wife Beders",
       "team1Points": 151.34,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 173.78,
       "isComplete": true,
       "isPlayoff": false,
@@ -2360,7 +2380,7 @@
       "team1Name": "Suh Girls One Cup",
       "team1Points": 154.64,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 161.64,
       "isComplete": true,
       "isPlayoff": false,
@@ -2408,7 +2428,7 @@
       "team1Name": "Jimothy's Jumping Bumblebees",
       "team1Points": 106.12,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 148.3,
       "isComplete": true,
       "isPlayoff": false,
@@ -2477,7 +2497,7 @@
     {
       "week": 10,
       "team1Id": "t.9",
-      "team1Name": "It's Over I lost Everything",
+      "team1Name": "It’s Over I lost Everything",
       "team1Points": 149.78,
       "team2Id": "t.10",
       "team2Name": "Sucky Sucky Kirky Kirky",
@@ -2528,7 +2548,7 @@
       "team1Name": "@_stringswim",
       "team1Points": 115.58,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 216.98,
       "isComplete": true,
       "isPlayoff": false,
@@ -2588,7 +2608,7 @@
       "team1Name": "Show me your TD's",
       "team1Points": 129.62,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 142.32,
       "isComplete": true,
       "isPlayoff": false,
@@ -2636,7 +2656,7 @@
       "team1Name": "Herb",
       "team1Points": 167.88,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 175.28,
       "isComplete": true,
       "isPlayoff": false,
@@ -2672,7 +2692,7 @@
       "team1Name": "Bustin' A Chuba",
       "team1Points": 117.74,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 173.96,
       "isComplete": true,
       "isPlayoff": false,
@@ -2744,7 +2764,7 @@
       "team1Name": "@_stringswim",
       "team1Points": 100.28,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 103.78,
       "isComplete": true,
       "isPlayoff": true,
@@ -2804,7 +2824,7 @@
       "team1Name": "Suh Girls One Cup",
       "team1Points": 105.36,
       "team2Id": "t.9",
-      "team2Name": "It's Over I lost Everything",
+      "team2Name": "It’s Over I lost Everything",
       "team2Points": 123.86,
       "isComplete": true,
       "isPlayoff": true,
@@ -2849,7 +2869,7 @@
     {
       "week": 17,
       "team1Id": "t.9",
-      "team1Name": "It's Over I lost Everything",
+      "team1Name": "It’s Over I lost Everything",
       "team1Points": 275.88,
       "team2Id": "t.10",
       "team2Name": "Sucky Sucky Kirky Kirky",
@@ -2857,6 +2877,312 @@
       "isComplete": true,
       "isPlayoff": true,
       "isConsolation": false
+    }
+  ],
+  "trades": [
+    {
+      "id": "406.l.71382.tr.189",
+      "year": 2021,
+      "date": "2021-10-06T22:35:03.000Z",
+      "timestamp": 1633559703,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "It’s Over I lost Everything",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Courtland Sutton",
+            "George Kittle",
+            "Saquon Barkley"
+          ],
+          "received": [
+            "Stefon Diggs",
+            "Clyde Edwards-Helaire",
+            "Tyler Higbee"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "@_stringswim",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Stefon Diggs",
+            "Clyde Edwards-Helaire",
+            "Tyler Higbee"
+          ],
+          "received": [
+            "Courtland Sutton",
+            "George Kittle",
+            "Saquon Barkley"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.71382.tr.210",
+      "year": 2021,
+      "date": "2021-10-10T15:51:50.000Z",
+      "timestamp": 1633881110,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Sucky Sucky Kirky Kirky",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Trey Lance"
+          ],
+          "received": [
+            "Kareem Hunt"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "@_stringswim",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Kareem Hunt"
+          ],
+          "received": [
+            "Trey Lance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.71382.tr.237",
+      "year": 2021,
+      "date": "2021-10-15T17:31:46.000Z",
+      "timestamp": 1634319106,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Bustin' A Chuba",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Amon-Ra St. Brown"
+          ],
+          "received": [
+            "Chuba Hubbard"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Sucky Sucky Kirky Kirky",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Chuba Hubbard"
+          ],
+          "received": [
+            "Amon-Ra St. Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.71382.tr.281",
+      "year": 2021,
+      "date": "2021-10-21T19:40:25.000Z",
+      "timestamp": 1634845225,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "Patrick Mahomes",
+            "Darrell Henderson Jr.",
+            "Diontae Johnson"
+          ],
+          "received": [
+            "Sam Darnold",
+            "DJ Moore",
+            "Nick Chubb"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "Bustin' A Chuba",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Sam Darnold",
+            "DJ Moore",
+            "Nick Chubb"
+          ],
+          "received": [
+            "Patrick Mahomes",
+            "Darrell Henderson Jr.",
+            "Diontae Johnson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.71382.tr.292",
+      "year": 2021,
+      "date": "2021-10-24T02:54:54.000Z",
+      "timestamp": 1635044094,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Damien Harris",
+            "Hollywood Brown"
+          ],
+          "received": [
+            "Rams",
+            "Robert Woods"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "It’s Over I lost Everything",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Rams",
+            "Robert Woods"
+          ],
+          "received": [
+            "Damien Harris",
+            "Hollywood Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.71382.tr.294",
+      "year": 2021,
+      "date": "2021-10-24T15:46:11.000Z",
+      "timestamp": 1635090371,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "@_stringswim",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Rob Gronkowski"
+          ],
+          "received": [
+            "Devontae Booker"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "It’s Over I lost Everything",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Devontae Booker"
+          ],
+          "received": [
+            "Rob Gronkowski"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.71382.tr.342",
+      "year": 2021,
+      "date": "2021-10-28T19:16:56.000Z",
+      "timestamp": 1635448616,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Zack Moss",
+            "Lamar Jackson"
+          ],
+          "received": [
+            "Younghoe Koo"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "Younghoe Koo"
+          ],
+          "received": [
+            "Zack Moss",
+            "Lamar Jackson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.71382.tr.476",
+      "year": 2021,
+      "date": "2021-11-16T23:33:42.000Z",
+      "timestamp": 1637105622,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Herb",
+          "manager": "Buddy Marcello",
+          "sent": [
+            "Kyler Murray",
+            "Javonte Williams",
+            "Noah Fant"
+          ],
+          "received": [
+            "Kirk Cousins",
+            "Mark Andrews",
+            "AJ Dillon"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Sucky Sucky Kirky Kirky",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Kirk Cousins",
+            "Mark Andrews",
+            "AJ Dillon"
+          ],
+          "received": [
+            "Kyler Murray",
+            "Javonte Williams",
+            "Noah Fant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.71382.tr.504",
+      "year": 2021,
+      "date": "2021-11-18T19:24:20.000Z",
+      "timestamp": 1637263460,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Bart Harley Jarvis Landry",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Amari Cooper",
+            "Aaron Rodgers"
+          ],
+          "received": [
+            "Stefon Diggs",
+            "Jimmy Garoppolo"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "It’s Over I lost Everything",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Stefon Diggs",
+            "Jimmy Garoppolo"
+          ],
+          "received": [
+            "Amari Cooper",
+            "Aaron Rodgers"
+          ]
+        }
+      ]
     }
   ]
 }

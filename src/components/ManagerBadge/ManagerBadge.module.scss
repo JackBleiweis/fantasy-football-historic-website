@@ -4,6 +4,7 @@
   display: flex;
   align-items: center;
   gap: $space-8;
+  min-width: 0;
 
   &.clickable {
     cursor: pointer;
@@ -54,6 +55,10 @@
 
   .name {
     font-weight: $font-weight-medium;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   // Size variants

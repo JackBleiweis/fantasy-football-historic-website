@@ -1,0 +1,117 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.page {
+  @include container;
+  padding-top: $space-24;
+  padding-bottom: $space-48;
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: $space-16;
+  color: var(--color-text-secondary);
+}
+
+.header {
+  margin-bottom: $space-24;
+
+  p {
+    color: var(--color-text-secondary);
+    margin-bottom: $space-12;
+  }
+}
+
+.scoreboard {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: $space-8;
+  align-items: center;
+  @include card;
+  padding: $space-16;
+
+  @media (min-width: $breakpoint-sm) {
+    gap: $space-12;
+    padding: $space-24;
+  }
+
+  div {
+    display: flex;
+    flex-direction: column;
+    gap: $space-8;
+    min-width: 0;
+  }
+
+  strong {
+    font-size: $font-size-xl;
+
+    @media (min-width: $breakpoint-sm) {
+      font-size: $font-size-2xl;
+    }
+  }
+}
+
+.lineups {
+  display: grid;
+  gap: $space-24;
+
+  @media (min-width: $breakpoint-lg) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.lineup {
+  @include card;
+  padding: $space-16;
+  overflow-x: auto;
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: $space-12;
+  }
+
+  h3 {
+    margin: $space-16 0 $space-8;
+    font-size: $font-size-sm;
+    color: var(--color-text-secondary);
+  }
+
+  table {
+    width: 100%;
+    min-width: 280px;
+  }
+
+  td:last-child,
+  th:last-child {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+.player {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+
+  .pos {
+    color: var(--color-text-secondary);
+    font-weight: $font-weight-medium;
+    font-size: $font-size-xs;
+  }
+
+  .stats {
+    font-size: $font-size-xs;
+    color: var(--color-text-secondary);
+  }
+}
+
+.bench {
+  opacity: 0.75;
+}
+
+.fallback {
+  @include card;
+  padding: $space-24;
+  color: var(--color-text-secondary);
+}

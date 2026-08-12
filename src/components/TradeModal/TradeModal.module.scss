@@ -1,0 +1,72 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.overlay {
+  @include modal-overlay;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.modal {
+  @include modal-sheet(560px);
+  background: var(--color-bg);
+  position: relative;
+  border: 1px solid var(--color-border);
+
+  header {
+    padding: $space-24 $space-24 $space-16;
+    text-align: center;
+
+    span {
+      color: var(--color-gold);
+      font-size: $font-size-xs;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    h2 {
+      margin: $space-8 0 0;
+    }
+  }
+
+  footer {
+    padding: $space-16 $space-24;
+    text-align: center;
+    color: var(--color-text-secondary);
+    font-size: $font-size-sm;
+    border-top: 1px solid var(--color-border);
+  }
+}
+
+.closeButton {
+  position: absolute;
+  top: $space-12;
+  right: $space-12;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--color-bg-alt);
+  font-size: 24px;
+  z-index: 1;
+}
+
+.sides {
+  display: grid;
+  gap: $space-16;
+  padding: 0 $space-24 $space-24;
+
+  article {
+    background: var(--color-bg-card);
+    border-radius: $radius-12;
+    padding: $space-16;
+  }
+
+  .sent,
+  .got {
+    margin: $space-8 0 0;
+    font-size: $font-size-sm;
+  }
+
+  .got {
+    font-weight: $font-weight-semibold;
+  }
+}

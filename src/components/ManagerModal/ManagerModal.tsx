@@ -1,8 +1,9 @@
 import { useEffect } from 'react';
 import { createPortal } from 'react-dom';
+import { Link } from 'react-router-dom';
 import { useManagerModal } from '../../hooks/useManagerModal';
 import { useManagerStats } from '../../hooks/useManagerStats';
-import { getManagerAvatar } from '../../data/managerAvatars';
+import { getManagerAvatar, getManagerProfilePath } from '../../data/managers';
 import styles from './ManagerModal.module.scss';
 
 export function ManagerModal() {
@@ -28,7 +29,7 @@ export function ManagerModal() {
     };
   }, [isOpen, closeModal]);
 
-  if (!isOpen || !managerName || !stats) return null;
+  if (!isOpen || !managerName || !leagueId || !stats) return null;
 
   const avatarUrl = getManagerAvatar(managerName);
   const initials = managerName.charAt(0).toUpperCase();
@@ -151,6 +152,16 @@ export function ManagerModal() {
             </span>
           </div>
         </section>
+
+        <div className={styles.profileLinkWrap}>
+          <Link
+            to={getManagerProfilePath(leagueId, managerName)}
+            className={styles.profileLink}
+            onClick={closeModal}
+          >
+            Open full profile
+          </Link>
+        </div>
 
         <section className={styles.seasonsSection}>
           <h3>Season-by-Season</h3>

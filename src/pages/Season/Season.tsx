@@ -1,8 +1,15 @@
 import { useState, useMemo } from 'react';
-import { useParams, Navigate } from 'react-router-dom';
-import { getSeasonData, getAvailableYears, isValidLeague } from '../../data';
+import { useParams, Navigate, Link } from 'react-router-dom';
+import {
+  getSeasonData,
+  getDisplayYears,
+  isValidLeague,
+  isPlayoffOnlyYear,
+} from '../../data';
 import { createTeamLookup } from '../../utils/teamUtils';
 import { ManagerBadge } from '../../components/ManagerBadge/ManagerBadge';
+import { YearSelector } from '../../components/YearSelector/YearSelector';
+import { PlayoffOnlyNotice } from '../../components/PlayoffOnlyNotice/PlayoffOnlyNotice';
 import type { Matchup, Team, LeagueId } from '../../types';
 import styles from './Season.module.scss';
 
@@ -16,11 +23,15 @@ export function Season() {
 
   // Validate and get data
   const validLeagueId = leagueId && isValidLeague(leagueId) ? leagueId : null;
-  const availableYears = validLeagueId ? getAvailableYears(validLeagueId) : [];
+  const availableYears = validLeagueId ? getDisplayYears(validLeagueId) : [];
   const selectedYear = year ? parseInt(year, 10) : availableYears[0];
   const seasonData = validLeagueId && selectedYear
     ? getSeasonData(validLeagueId, selectedYear)
     : null;
+  const playoffOnly =
+    validLeagueId && selectedYear
+      ? isPlayoffOnlyYear(validLeagueId, selectedYear)
+      : false;
 
   // All hooks must be called unconditionally
   const teamLookup = useMemo(
@@ -68,33 +79,27 @@ export function Season() {
     return <Navigate to="/" replace />;
   }
 
-  if (!seasonData) {
-    return (
-      <div className={styles.season}>
-        <h1>Season</h1>
-        <p className={styles.noData}>No season data available.</p>
-      </div>
-    );
-  }
-
   return (
     <div className={styles.season}>
       <header className={styles.header}>
         <h1>{selectedYear} Season</h1>
-        {availableYears.length > 1 && (
-          <div className={styles.yearSelector}>
-            {availableYears.map((y) => (
-              <a
-                key={y}
-                href={`/${validLeagueId}/season/${y}`}
-                className={y === selectedYear ? styles.active : ''}
-              >
-                {y}
-              </a>
-            ))}
-          </div>
-        )}
+        <YearSelector
+          years={availableYears}
+          selectedYear={selectedYear}
+          hrefForYear={(y) => `/${validLeagueId}/season/${y}`}
+        />
       </header>
+
+      {playoffOnly && (
+        <PlayoffOnlyNotice leagueId={validLeagueId} year={selectedYear} />
+      )}
+
+      {!playoffOnly && !seasonData && (
+        <p className={styles.noData}>No season data available.</p>
+      )}
+
+      {seasonData && (
+        <>
 
       <div className={styles.controls}>
         <div className={styles.viewToggle}>
@@ -152,11 +157,14 @@ export function Season() {
             matchup={matchup}
             teamLookup={teamLookup}
             leagueId={validLeagueId}
+            year={selectedYear}
             showWeek={viewMode === 'team'}
             highlightTeamId={viewMode === 'team' ? selectedTeamId : null}
           />
         ))}
       </div>
+        </>
+      )}
     </div>
   );
 }
@@ -165,6 +173,7 @@ interface MatchupCardProps {
   matchup: Matchup;
   teamLookup: Map<string, Team>;
   leagueId: LeagueId;
+  year: number;
   showWeek?: boolean;
   highlightTeamId?: string | null;
 }
@@ -173,6 +182,7 @@ function MatchupCard({
   matchup,
   teamLookup,
   leagueId,
+  year,
   showWeek = false,
   highlightTeamId,
 }: MatchupCardProps) {
@@ -195,7 +205,8 @@ function MatchupCard({
   const matchupType = getMatchupType();
 
   return (
-    <div
+    <Link
+      to={`/${leagueId}/season/${year}/matchup/${matchup.week}/${matchup.team1Id}`}
       className={`${styles.matchupCard} ${matchup.isPlayoff ? styles.playoff : ''} ${matchup.isConsolation ? styles.consolation : ''}`}
     >
       {(showWeek || matchupType) && (
@@ -234,6 +245,6 @@ function MatchupCard({
           {matchup.isComplete ? matchup.team2Points.toFixed(2) : '-'}
         </div>
       </div>
-    </div>
+    </Link>
   );
 }

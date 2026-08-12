@@ -2,15 +2,9 @@
 @use '../../styles/mixins' as *;
 
 .overlay {
-  position: fixed;
-  inset: 0;
+  @include modal-overlay;
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(4px);
-  z-index: $z-modal;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: $space-16;
   animation: fadeIn 0.2s ease-out;
 
   @keyframes fadeIn {
@@ -24,13 +18,9 @@
 }
 
 .modal {
+  @include modal-sheet(600px);
   background-color: var(--color-bg-card);
-  border-radius: $radius-16;
   box-shadow: $shadow-2xl;
-  width: 100%;
-  max-width: 600px;
-  max-height: 90vh;
-  overflow-y: auto;
   position: relative;
   animation: slideUp 0.2s ease-out;
 
@@ -47,10 +37,10 @@
 
   .closeButton {
     position: absolute;
-    top: $space-16;
-    right: $space-16;
-    width: 40px;
-    height: 40px;
+    top: $space-12;
+    right: $space-12;
+    width: 44px;
+    height: 44px;
     border-radius: $radius-full;
     background-color: var(--color-bg-alt);
     color: var(--color-text-secondary);
@@ -300,5 +290,20 @@
         }
       }
     }
+  }
+
+  .profileLinkWrap {
+    padding: 0 $space-24 $space-24;
+    text-align: center;
+  }
+
+  .profileLink {
+    display: inline-block;
+    padding: $space-8 $space-16;
+    border-radius: $radius-full;
+    background: var(--color-header);
+    color: var(--color-text-inverse);
+    font-weight: $font-weight-semibold;
+    text-decoration: none;
   }
 }

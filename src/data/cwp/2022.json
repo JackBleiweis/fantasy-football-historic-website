@@ -3,8 +3,22 @@
   "leagueId": "cwp",
   "teams": [
     {
+      "id": "t.6",
+      "name": "Show me your TD's",
+      "manager": "Ben Roher",
+      "wins": 10,
+      "losses": 3,
+      "ties": 1,
+      "rank": 1,
+      "playoffSeed": 6,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44284260402_5ef6b1.jpg",
+      "moves": 17,
+      "tradesCount": 1
+    },
+    {
       "id": "t.1",
-      "name": "You Know What I'm Sayin'",
+      "name": "You Know What I’m Sayin’",
       "manager": "Jack Bleiweis",
       "wins": 11,
       "losses": 3,
@@ -12,19 +26,9 @@
       "rank": 2,
       "playoffSeed": 5,
       "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/7dcbaeafe41f54cb3053d7ba0bd0eda871c363634dbd115842b2a4d533784ab1.png"
-    },
-    {
-      "id": "t.2",
-      "name": "Tanking for Wembanyama",
-      "manager": "Matthew Garay",
-      "wins": 3,
-      "losses": 11,
-      "ties": 0,
-      "rank": 10,
-      "playoffSeed": 10,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c0a7df33df3bf0bd0e855dce1586390305bcf78e34e770ad2175d02c714a2757.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/7dcbaeafe41f54cb3053d7ba0bd0eda871c363634dbd115842b2a4d533784ab1.png",
+      "moves": 35,
+      "tradesCount": 1
     },
     {
       "id": "t.3",
@@ -36,19 +40,9 @@
       "rank": 3,
       "playoffSeed": 1,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/bc8aef0ad87010793f59e314a405a76044dc3914ee9302458f228dbc52c08995.jpg"
-    },
-    {
-      "id": "t.4",
-      "name": "JumanjiJumanji",
-      "manager": "Michael Kagan",
-      "wins": 7,
-      "losses": 6,
-      "ties": 1,
-      "rank": 5,
-      "playoffSeed": 4,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/05d293a93b495d6c4c08a7d6a86e07404600b86786659bbf0f5d7d1fbe688cea.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/bc8aef0ad87010793f59e314a405a76044dc3914ee9302458f228dbc52c08995.jpg",
+      "moves": 47,
+      "tradesCount": 1
     },
     {
       "id": "t.5",
@@ -60,31 +54,23 @@
       "rank": 4,
       "playoffSeed": 2,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a3fccc8384f0433da61512aa9744f4bbdba168bbee1aa36525d1180a48cacb63.png"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/a3fccc8384f0433da61512aa9744f4bbdba168bbee1aa36525d1180a48cacb63.png",
+      "moves": 51,
+      "tradesCount": 2
     },
     {
-      "id": "t.6",
-      "name": "Show me your TD's",
-      "manager": "Ben Roher",
-      "wins": 10,
-      "losses": 3,
+      "id": "t.4",
+      "name": "JumanjiJumanji",
+      "manager": "Michael Kagan",
+      "wins": 7,
+      "losses": 6,
       "ties": 1,
-      "rank": 1,
-      "playoffSeed": 6,
+      "rank": 5,
+      "playoffSeed": 4,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44284260402_5ef6b1.jpg"
-    },
-    {
-      "id": "t.7",
-      "name": "Suh Girls One Cup",
-      "manager": "Jake Mintz",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "rank": 7,
-      "playoffSeed": 7,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/05d293a93b495d6c4c08a7d6a86e07404600b86786659bbf0f5d7d1fbe688cea.jpg",
+      "moves": 32,
+      "tradesCount": 0
     },
     {
       "id": "t.8",
@@ -96,7 +82,23 @@
       "rank": 6,
       "playoffSeed": 3,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png",
+      "moves": 37,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.7",
+      "name": "Suh Girls One Cup",
+      "manager": "Jake Mintz",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 7,
+      "playoffSeed": 7,
+      "isCommissioner": false,
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png",
+      "moves": 26,
+      "tradesCount": 2
     },
     {
       "id": "t.9",
@@ -108,7 +110,9 @@
       "rank": 8,
       "playoffSeed": 9,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_3_c.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_3_c.png",
+      "moves": 40,
+      "tradesCount": 2
     },
     {
       "id": "t.10",
@@ -120,7 +124,23 @@
       "rank": 9,
       "playoffSeed": 8,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/e9f74e8ac538d8b876be81795e569660a68e373f9a186d2b928be0df449c9876.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/e9f74e8ac538d8b876be81795e569660a68e373f9a186d2b928be0df449c9876.jpg",
+      "moves": 42,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.2",
+      "name": "Tanking for Wembanyama",
+      "manager": "Matthew Garay",
+      "wins": 3,
+      "losses": 11,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 10,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c0a7df33df3bf0bd0e855dce1586390305bcf78e34e770ad2175d02c714a2757.jpg",
+      "moves": 21,
+      "tradesCount": 3
     }
   ],
   "draft": [
@@ -129,788 +149,788 @@
       "round": 1,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.32711",
+      "playerId": "32711",
       "playerFirstName": "Jonathan",
       "playerLastName": "Taylor",
-      "avgPick": 1.2,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.30121",
+      "playerId": "30121",
       "playerFirstName": "Christian",
       "playerLastName": "McCaffrey",
-      "avgPick": 3.2,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.30182",
+      "playerId": "30182",
       "playerFirstName": "Cooper",
       "playerLastName": "Kupp",
-      "avgPick": 4.6,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.30423",
+      "playerId": "30423",
       "playerFirstName": "Austin",
       "playerLastName": "Ekeler",
-      "avgPick": 4.6,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.29279",
+      "playerId": "29279",
       "playerFirstName": "Derrick",
       "playerLastName": "Henry",
-      "avgPick": 6.2,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.32692",
+      "playerId": "32692",
       "playerFirstName": "Justin",
       "playerLastName": "Jefferson",
-      "avgPick": 4.8,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.30154",
+      "playerId": "30154",
       "playerFirstName": "Dalvin",
       "playerLastName": "Cook",
-      "avgPick": 6.8,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.33393",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "33393",
       "playerFirstName": "Ja'Marr",
       "playerLastName": "Chase",
-      "avgPick": 8.5,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.30161",
+      "playerId": "30161",
       "playerFirstName": "Joe",
       "playerLastName": "Mixon",
-      "avgPick": 11.6,
-      "avgRound": 1.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.30977",
+      "playerId": "30977",
       "playerFirstName": "Josh",
       "playerLastName": "Allen",
-      "avgPick": 21.5,
-      "avgRound": 2.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 2,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 11.2,
-      "avgRound": 1.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.32705",
+      "playerId": "32705",
       "playerFirstName": "D'Andre",
       "playerLastName": "Swift",
-      "avgPick": 17.6,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.26686",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 17.3,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.33412",
+      "playerId": "33412",
       "playerFirstName": "Najee",
       "playerLastName": "Harris",
-      "avgPick": 11.3,
-      "avgRound": 1.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.30972",
+      "playerId": "30972",
       "playerFirstName": "Saquon",
       "playerLastName": "Barkley",
-      "avgPick": 17.2,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.32687",
+      "playerId": "32687",
       "playerFirstName": "CeeDee",
       "playerLastName": "Lamb",
-      "avgPick": 15.7,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.27581",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 13.7,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.30295",
+      "playerId": "30295",
       "playerFirstName": "Aaron",
       "playerLastName": "Jones Sr.",
-      "avgPick": 16.2,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.30180",
+      "playerId": "30180",
       "playerFirstName": "Alvin",
       "playerLastName": "Kamara",
-      "avgPick": 18.4,
-      "avgRound": 2.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 21.9,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 3,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.30117",
+      "playerId": "30117",
       "playerFirstName": "Leonard",
       "playerLastName": "Fournette",
-      "avgPick": 21.2,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 3,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.31868",
+      "playerId": "31868",
       "playerFirstName": "Deebo",
-      "playerLastName": "Samuel",
-      "avgPick": 23,
-      "avgRound": 2.9
+      "playerLastName": "Samuel Sr.",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 3,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.32676",
+      "playerId": "32676",
       "playerFirstName": "Justin",
       "playerLastName": "Herbert",
-      "avgPick": 38.4,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 3,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.30123",
+      "playerId": "30123",
       "playerFirstName": "Patrick",
       "playerLastName": "Mahomes",
-      "avgPick": 36,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.31005",
+      "playerId": "31005",
       "playerFirstName": "Nick",
       "playerLastName": "Chubb",
-      "avgPick": 18.8,
-      "avgRound": 2.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.29399",
+      "playerId": "29399",
       "playerFirstName": "Tyreek",
       "playerLastName": "Hill",
-      "avgPick": 23,
-      "avgRound": 2.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.31002",
+      "playerId": "31002",
       "playerFirstName": "Lamar",
       "playerLastName": "Jackson",
-      "avgPick": 42.1,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.33423",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "33423",
       "playerFirstName": "Javonte",
       "playerLastName": "Williams",
-      "avgPick": 25.3,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.31056",
+      "playerId": "31056",
       "playerFirstName": "Mark",
       "playerLastName": "Andrews",
-      "avgPick": 25.3,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.30218",
+      "playerId": "30218",
       "playerFirstName": "James",
       "playerLastName": "Conner",
-      "avgPick": 30.7,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 4,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.29238",
+      "playerId": "29238",
       "playerFirstName": "Ezekiel",
       "playerLastName": "Elliott",
-      "avgPick": 30.7,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 32.4,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 4,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.32704",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "32704",
       "playerFirstName": "Michael",
       "playerLastName": "Pittman Jr.",
-      "avgPick": 29.7,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.31883",
+      "playerId": "31883",
       "playerFirstName": "A.J.",
       "playerLastName": "Brown",
-      "avgPick": 32,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.32722",
+      "playerId": "32722",
       "playerFirstName": "Cam",
       "playerLastName": "Akers",
-      "avgPick": 48.8,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.31833",
+      "playerId": "31833",
       "playerFirstName": "Kyler",
       "playerLastName": "Murray",
-      "avgPick": 58.8,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.32703",
+      "playerId": "32703",
       "playerFirstName": "Tee",
       "playerLastName": "Higgins",
-      "avgPick": 31.7,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.30994",
+      "playerId": "30994",
       "playerFirstName": "DJ",
       "playerLastName": "Moore",
-      "avgPick": 37.8,
-      "avgRound": 4.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.32723",
+      "playerId": "32723",
       "playerFirstName": "Jalen",
       "playerLastName": "Hurts",
-      "avgPick": 58.5,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.32671",
+      "playerId": "32671",
       "playerFirstName": "Joe",
       "playerLastName": "Burrow",
-      "avgPick": 55.4,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 5,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.33394",
+      "playerId": "33394",
       "playerFirstName": "Jaylen",
       "playerLastName": "Waddle",
-      "avgPick": 51.7,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 5,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.31010",
+      "playerId": "31010",
       "playerFirstName": "Courtland",
       "playerLastName": "Sutton",
-      "avgPick": 44.9,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 5,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.30120",
+      "playerId": "30120",
       "playerFirstName": "Mike",
       "playerLastName": "Williams",
-      "avgPick": 42.1,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 5,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.33991",
+      "playerId": "33991",
       "playerFirstName": "Breece",
       "playerLastName": "Hall",
-      "avgPick": 44.8,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.33392",
+      "playerId": "33392",
       "playerFirstName": "Kyle",
       "playerLastName": "Pitts Sr.",
-      "avgPick": 35.9,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 74.5,
-      "avgRound": 8.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.33413",
+      "playerId": "33413",
       "playerFirstName": "Travis",
       "playerLastName": "Etienne Jr.",
-      "avgPick": 45,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 5,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.32685",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "32685",
       "playerFirstName": "Jerry",
       "playerLastName": "Jeudy",
-      "avgPick": 66.9,
-      "avgRound": 7.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.31898",
+      "playerId": "31898",
       "playerFirstName": "Diontae",
       "playerLastName": "Johnson",
-      "avgPick": 52.4,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.27589",
+      "playerId": "27589",
       "playerFirstName": "Allen",
       "playerLastName": "Robinson",
-      "avgPick": 50.5,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 6,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.31857",
+      "playerId": "31857",
       "playerFirstName": "Hollywood",
       "playerLastName": "Brown",
-      "avgPick": 83.4,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.30197",
+      "playerId": "30197",
       "playerFirstName": "Chris",
       "playerLastName": "Godwin Jr.",
-      "avgPick": 95.1,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 6,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.9265",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "9265",
       "playerFirstName": "Matthew",
       "playerLastName": "Stafford",
-      "avgPick": 97.5,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.31908",
+      "playerId": "31908",
       "playerFirstName": "Terry",
       "playerLastName": "McLaurin",
-      "avgPick": 43.9,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.31896",
+      "playerId": "31896",
       "playerFirstName": "DK",
       "playerLastName": "Metcalf",
-      "avgPick": 58.9,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 6,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 71.5,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 6,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.32798",
+      "playerId": "32798",
       "playerFirstName": "Gabe",
       "playerLastName": "Davis",
-      "avgPick": 65.5,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 6,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.30259",
+      "playerId": "30259",
       "playerFirstName": "George",
       "playerLastName": "Kittle",
-      "avgPick": 45.1,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 6,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.29281",
+      "playerId": "29281",
       "playerFirstName": "Michael",
       "playerLastName": "Thomas",
-      "avgPick": 78.4,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 6,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.5228",
+      "playerId": "5228",
       "playerFirstName": "Tom",
       "playerLastName": "Brady",
-      "avgPick": 64.3,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 7,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.30175",
+      "playerId": "30175",
       "playerFirstName": "JuJu",
       "playerLastName": "Smith-Schuster",
-      "avgPick": 63.9,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 7,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.33391",
+      "playerId": "33391",
       "playerFirstName": "Trey",
       "playerLastName": "Lance",
-      "avgPick": 91.7,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 7,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.29369",
+      "playerId": "29369",
       "playerFirstName": "Dak",
       "playerLastName": "Prescott",
-      "avgPick": 89.3,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 7,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 91.8,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 7,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.27564",
+      "playerId": "27564",
       "playerFirstName": "Derek",
       "playerLastName": "Carr",
-      "avgPick": 111.6,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.25812",
+      "playerId": "25812",
       "playerFirstName": "Kirk",
       "playerLastName": "Cousins",
-      "avgPick": 116.9,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.33415",
+      "playerId": "33415",
       "playerFirstName": "Rashod",
       "playerLastName": "Bateman",
-      "avgPick": 83.1,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 7,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.31856",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "31856",
       "playerFirstName": "Josh",
       "playerLastName": "Jacobs",
-      "avgPick": 57.9,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.33389",
+      "playerId": "33389",
       "playerFirstName": "Trevor",
       "playerLastName": "Lawrence",
-      "avgPick": 128.9,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 7,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.32843",
+      "playerId": "32843",
       "playerFirstName": "Darnell",
       "playerLastName": "Mooney",
-      "avgPick": 92.4,
-      "avgRound": 10
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 8,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.31107",
+      "playerId": "31107",
       "playerFirstName": "Dalton",
       "playerLastName": "Schultz",
-      "avgPick": 56.5,
-      "avgRound": 6.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.33390",
+      "playerId": "33390",
       "playerFirstName": "Zach",
       "playerLastName": "Wilson",
       "avgPick": null,
@@ -920,800 +940,800 @@
       "pick": 73,
       "round": 8,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.33500",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "33500",
       "playerFirstName": "Amon-Ra",
       "playerLastName": "St. Brown",
-      "avgPick": 65.8,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.28592",
+      "playerId": "28592",
       "playerFirstName": "Darren",
       "playerLastName": "Waller",
-      "avgPick": 48,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 8,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 90,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 8,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.31268",
+      "playerId": "31268",
       "playerFirstName": "Allen",
       "playerLastName": "Lazard",
-      "avgPick": 105.9,
-      "avgRound": 11.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 8,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.33398",
+      "playerId": "33398",
       "playerFirstName": "DeVonta",
       "playerLastName": "Smith",
-      "avgPick": 108,
-      "avgRound": 11.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 8,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.27277",
+      "playerId": "27277",
       "playerFirstName": "Adam",
       "playerLastName": "Thielen",
-      "avgPick": 82.2,
-      "avgRound": 8.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 8,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.32732",
-      "playerFirstName": "A.J.",
+      "playerId": "32732",
+      "playerFirstName": "AJ",
       "playerLastName": "Dillon",
-      "avgPick": 55.3,
-      "avgRound": 6.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 8,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.31905",
+      "playerId": "31905",
       "playerFirstName": "David",
       "playerLastName": "Montgomery",
-      "avgPick": 48.1,
-      "avgRound": 5.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 9,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.31019",
+      "playerId": "31019",
       "playerFirstName": "Dallas",
       "playerLastName": "Goedert",
-      "avgPick": 65.8,
-      "avgRound": 7.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 9,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.31981",
+      "playerId": "31981",
       "playerFirstName": "Hunter",
       "playerLastName": "Renfrow",
-      "avgPick": 94.3,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 9,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.32725",
+      "playerId": "32725",
       "playerFirstName": "J.K.",
       "playerLastName": "Dobbins",
-      "avgPick": 61.9,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 9,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.31928",
+      "playerId": "31928",
       "playerFirstName": "Dawson",
       "playerLastName": "Knox",
-      "avgPick": 77.9,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 9,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.31104",
+      "playerId": "31104",
       "playerFirstName": "Chase",
       "playerLastName": "Edmonds",
-      "avgPick": 70.1,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.31919",
+      "playerId": "31919",
       "playerFirstName": "Damien",
       "playerLastName": "Harris",
-      "avgPick": 76.3,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.33422",
+      "playerId": "33422",
       "playerFirstName": "Elijah",
       "playerLastName": "Moore",
-      "avgPick": 95.2,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 9,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.32675",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "32675",
       "playerFirstName": "Tua",
       "playerLastName": "Tagovailoa",
-      "avgPick": 128.3,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.32695",
+      "playerId": "32695",
       "playerFirstName": "Brandon",
       "playerLastName": "Aiyuk",
-      "avgPick": 97.5,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 9,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.28389",
+      "playerId": "28389",
       "playerFirstName": "Jameis",
       "playerLastName": "Winston",
-      "avgPick": 129.9,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 10,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.32702",
+      "playerId": "32702",
       "playerFirstName": "Clyde",
       "playerLastName": "Edwards-Helaire",
-      "avgPick": 75.2,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.29236",
+      "playerId": "29236",
       "playerFirstName": "Carson",
       "playerLastName": "Wentz",
-      "avgPick": 125,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 10,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.31017",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "31017",
       "playerFirstName": "Christian",
       "playerLastName": "Kirk",
-      "avgPick": 105,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.33399",
+      "playerId": "33399",
       "playerFirstName": "Justin",
       "playerLastName": "Fields",
-      "avgPick": 128.6,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 10,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 103,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 10,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.33963",
+      "playerId": "33963",
       "playerFirstName": "Drake",
       "playerLastName": "London",
-      "avgPick": 117.8,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 10,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.30199",
+      "playerId": "30199",
       "playerFirstName": "Kareem",
       "playerLastName": "Hunt",
-      "avgPick": 97.7,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 10,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.33582",
+      "playerId": "33582",
       "playerFirstName": "Elijah",
       "playerLastName": "Mitchell",
-      "avgPick": 40.9,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 10,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.33966",
+      "playerId": "33966",
       "playerFirstName": "Chris",
       "playerLastName": "Olave",
-      "avgPick": 123.8,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 10,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.26664",
+      "playerId": "26664",
       "playerFirstName": "Robert",
       "playerLastName": "Woods",
-      "avgPick": 117.6,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 11,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.34063",
+      "playerId": "34063",
       "playerFirstName": "Dameon",
       "playerLastName": "Pierce",
-      "avgPick": 78.4,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 11,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.31144",
+      "playerId": "31144",
       "playerFirstName": "Marquez",
       "playerLastName": "Valdes-Scantling",
-      "avgPick": 129.4,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 11,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.33408",
+      "playerId": "33408",
       "playerFirstName": "Kadarius",
       "playerLastName": "Toney",
-      "avgPick": 124,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 11,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.28457",
+      "playerId": "28457",
       "playerFirstName": "Tyler",
       "playerLastName": "Lockett",
-      "avgPick": 115,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 11,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.33508",
+      "playerId": "33508",
       "playerFirstName": "Rhamondre",
       "playerLastName": "Stevenson",
-      "avgPick": 90.1,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.34009",
+      "playerId": "34009",
       "playerFirstName": "Skyy",
       "playerLastName": "Moore",
-      "avgPick": 130.2,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.8780",
+      "playerId": "8780",
       "playerFirstName": "Matt",
       "playerLastName": "Ryan",
-      "avgPick": 131.2,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 11,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.31960",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "31960",
       "playerFirstName": "Tony",
       "playerLastName": "Pollard",
-      "avgPick": 92.2,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.33965",
+      "playerId": "33965",
       "playerFirstName": "Garrett",
       "playerLastName": "Wilson",
-      "avgPick": 119.7,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 11,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.31838",
+      "playerId": "31838",
       "playerFirstName": "Daniel",
       "playerLastName": "Jones",
-      "avgPick": 135.4,
-      "avgRound": 14.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 12,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.33973",
+      "playerId": "33973",
       "playerFirstName": "Treylon",
       "playerLastName": "Burks",
-      "avgPick": 130.3,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 12,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.31840",
+      "playerId": "31840",
       "playerFirstName": "T.J.",
       "playerLastName": "Hockenson",
-      "avgPick": 71.1,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 12,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.33437",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "33437",
       "playerFirstName": "Rondale",
       "playerLastName": "Moore",
-      "avgPick": 130.3,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.30997",
+      "playerId": "30997",
       "playerFirstName": "Rashaad",
       "playerLastName": "Penny",
-      "avgPick": 86.1,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 12,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.33403",
+      "playerId": "33403",
       "playerFirstName": "Mac",
       "playerLastName": "Jones",
-      "avgPick": 126,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 12,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.29288",
+      "playerId": "29288",
       "playerFirstName": "Tyler",
       "playerLastName": "Boyd",
-      "avgPick": 129.7,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 12,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.100002",
+      "playerId": "100002",
       "playerFirstName": "Bills",
       "playerLastName": "",
-      "avgPick": 70.1,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 12,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.31885",
+      "playerId": "31885",
       "playerFirstName": "Miles",
       "playerLastName": "Sanders",
-      "avgPick": 90.2,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 12,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.31906",
+      "playerId": "31906",
       "playerFirstName": "Devin",
       "playerLastName": "Singletary",
-      "avgPick": 88.1,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 12,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.32736",
+      "playerId": "32736",
       "playerFirstName": "Antonio",
       "playerLastName": "Gibson",
-      "avgPick": 72.6,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 13,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.34007",
+      "playerId": "34007",
       "playerFirstName": "George",
       "playerLastName": "Pickens",
-      "avgPick": 121.9,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 13,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.26658",
+      "playerId": "26658",
       "playerFirstName": "Zach",
       "playerLastName": "Ertz",
-      "avgPick": 96.6,
-      "avgRound": 10.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 13,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.100025",
+      "playerId": "100025",
       "playerFirstName": "49ers",
       "playerLastName": "",
-      "avgPick": 82.9,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 13,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.32719",
+      "playerId": "32719",
       "playerFirstName": "Chase",
       "playerLastName": "Claypool",
-      "avgPick": 125.2,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 13,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.31852",
+      "playerId": "31852",
       "playerFirstName": "Noah",
       "playerLastName": "Fant",
-      "avgPick": 130.2,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.33443",
+      "playerId": "33443",
       "playerFirstName": "Pat",
       "playerLastName": "Freiermuth",
-      "avgPick": 116.8,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.31051",
+      "playerId": "31051",
       "playerFirstName": "Michael",
       "playerLastName": "Gallup",
-      "avgPick": 132.8,
-      "avgRound": 14.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 13,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.26652",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "26652",
       "playerFirstName": "Cordarrelle",
       "playerLastName": "Patterson",
-      "avgPick": 98.2,
-      "avgRound": 10.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.28403",
+      "playerId": "28403",
       "playerFirstName": "Melvin",
       "playerLastName": "Gordon III",
-      "avgPick": 102,
-      "avgRound": 10.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 13,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.100007",
+      "playerId": "100007",
       "playerFirstName": "Broncos",
       "playerLastName": "",
-      "avgPick": 108.4,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 14,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.33996",
+      "playerId": "33996",
       "playerFirstName": "Kenneth",
       "playerLastName": "Walker III",
-      "avgPick": 113.7,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 14,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.100011",
+      "playerId": "100011",
       "playerFirstName": "Colts",
       "playerLastName": "",
-      "avgPick": 109.6,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 14,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.34088",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "34088",
       "playerFirstName": "Romeo",
       "playerLastName": "Doubs",
-      "avgPick": 129.6,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 14,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.33971",
+      "playerId": "33971",
       "playerFirstName": "Jahan",
       "playerLastName": "Dotson",
-      "avgPick": 124.8,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 14,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.34019",
+      "playerId": "34019",
       "playerFirstName": "James",
       "playerLastName": "Cook III",
-      "avgPick": 116.8,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 14,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.100027",
+      "playerId": "100027",
       "playerFirstName": "Buccaneers",
       "playerLastName": "",
-      "avgPick": 83,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 14,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.30971",
+      "playerId": "30971",
       "playerFirstName": "Baker",
       "playerLastName": "Mayfield",
-      "avgPick": 124,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 14,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.28402",
+      "playerId": "28402",
       "playerFirstName": "DeVante",
       "playerLastName": "Parker",
-      "avgPick": 129.2,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 14,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.100018",
+      "playerId": "100018",
       "playerFirstName": "Saints",
       "playerLastName": "",
-      "avgPick": 119.6,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 14,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.25718",
+      "playerId": "25718",
       "playerFirstName": "Ryan",
       "playerLastName": "Tannehill",
-      "avgPick": 126.3,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 15,
       "teamId": "t.4",
       "teamName": "JumanjiJumanji",
-      "playerId": "414.p.100014",
+      "playerId": "100014",
       "playerFirstName": "Rams",
       "playerLastName": "",
-      "avgPick": 98.4,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 15,
       "teamId": "t.5",
       "teamName": "Shit team",
-      "playerId": "414.p.32713",
+      "playerId": "32713",
       "playerFirstName": "Cole",
       "playerLastName": "Kmet",
-      "avgPick": 114.3,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 15,
       "teamId": "t.9",
       "teamName": "Free win for you",
-      "playerId": "414.p.30209",
+      "playerId": "30209",
       "playerFirstName": "Kenny",
       "playerLastName": "Golladay",
-      "avgPick": 129.4,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 15,
       "teamId": "t.6",
       "teamName": "Show me your TD's",
-      "playerId": "414.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 127,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 15,
       "teamId": "t.2",
       "teamName": "Tanking for Wembanyama",
-      "playerId": "414.p.33455",
+      "playerId": "33455",
       "playerFirstName": "Davis",
       "playerLastName": "Mills",
       "avgPick": null,
@@ -1724,62 +1744,62 @@
       "round": 15,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "414.p.100033",
+      "playerId": "100033",
       "playerFirstName": "Ravens",
       "playerLastName": "",
-      "avgPick": 131,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 15,
       "teamId": "t.3",
       "teamName": "Ass Ettiene Szn",
-      "playerId": "414.p.100024",
+      "playerId": "100024",
       "playerFirstName": "Chargers",
       "playerLastName": "",
-      "avgPick": 125.7,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 15,
       "teamId": "t.1",
-      "teamName": "You Know What I'm Sayin'",
-      "playerId": "414.p.100004",
+      "teamName": "You Know What I’m Sayin’",
+      "playerId": "100004",
       "playerFirstName": "Bengals",
       "playerLastName": "",
-      "avgPick": 141,
-      "avgRound": 14.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 15,
       "teamId": "t.8",
       "teamName": "Beder Swiftly",
-      "playerId": "414.p.33975",
+      "playerId": "33975",
       "playerFirstName": "Kenny",
       "playerLastName": "Pickett",
-      "avgPick": 120.5,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 15,
       "teamId": "t.10",
       "teamName": "Jermain Franklin",
-      "playerId": "414.p.33967",
+      "playerId": "33967",
       "playerFirstName": "Jameson",
       "playerLastName": "Williams",
-      "avgPick": 135.6,
-      "avgRound": 15.2
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
     {
       "week": 1,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 175.4,
       "team2Id": "t.4",
       "team2Name": "JumanjiJumanji",
@@ -1839,7 +1859,7 @@
     {
       "week": 2,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 163.64,
       "team2Id": "t.7",
       "team2Name": "Suh Girls One Cup",
@@ -1899,7 +1919,7 @@
     {
       "week": 3,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 147.2,
       "team2Id": "t.10",
       "team2Name": "Jermain Franklin",
@@ -1959,7 +1979,7 @@
     {
       "week": 4,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 98.66,
       "team2Id": "t.5",
       "team2Name": "Shit team",
@@ -2019,7 +2039,7 @@
     {
       "week": 5,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 136.32,
       "team2Id": "t.9",
       "team2Name": "Free win for you",
@@ -2079,7 +2099,7 @@
     {
       "week": 6,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 137.08,
       "team2Id": "t.2",
       "team2Name": "Tanking for Wembanyama",
@@ -2139,7 +2159,7 @@
     {
       "week": 7,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 168.88,
       "team2Id": "t.8",
       "team2Name": "Beder Swiftly",
@@ -2199,7 +2219,7 @@
     {
       "week": 8,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 151.66,
       "team2Id": "t.6",
       "team2Name": "Show me your TD's",
@@ -2259,7 +2279,7 @@
     {
       "week": 9,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 127.18,
       "team2Id": "t.3",
       "team2Name": "Ass Ettiene Szn",
@@ -2319,7 +2339,7 @@
     {
       "week": 10,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 155.5,
       "team2Id": "t.4",
       "team2Name": "JumanjiJumanji",
@@ -2379,7 +2399,7 @@
     {
       "week": 11,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 186.82,
       "team2Id": "t.7",
       "team2Name": "Suh Girls One Cup",
@@ -2439,7 +2459,7 @@
     {
       "week": 12,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 187.12,
       "team2Id": "t.10",
       "team2Name": "Jermain Franklin",
@@ -2499,7 +2519,7 @@
     {
       "week": 13,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 135.74,
       "team2Id": "t.5",
       "team2Name": "Shit team",
@@ -2559,7 +2579,7 @@
     {
       "week": 14,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 184.74,
       "team2Id": "t.9",
       "team2Name": "Free win for you",
@@ -2619,7 +2639,7 @@
     {
       "week": 15,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 143.6,
       "team2Id": "t.4",
       "team2Name": "JumanjiJumanji",
@@ -2643,7 +2663,7 @@
     {
       "week": 16,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 122,
       "team2Id": "t.3",
       "team2Name": "Ass Ettiene Szn",
@@ -2703,7 +2723,7 @@
     {
       "week": 17,
       "team1Id": "t.1",
-      "team1Name": "You Know What I'm Sayin'",
+      "team1Name": "You Know What I’m Sayin’",
       "team1Points": 250.42,
       "team2Id": "t.6",
       "team2Name": "Show me your TD's",
@@ -2747,6 +2767,288 @@
       "isComplete": true,
       "isPlayoff": true,
       "isConsolation": true
+    }
+  ],
+  "trades": [
+    {
+      "id": "414.l.660525.tr.111",
+      "year": 2022,
+      "date": "2022-09-28T03:20:40.000Z",
+      "timestamp": 1664335240,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Tanking for Wembanyama",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Brandin Cooks",
+            "AJ Dillon",
+            "Kyler Murray"
+          ],
+          "received": [
+            "Marcus Mariota",
+            "Chase Edmonds",
+            "Courtland Sutton"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Shit team",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Marcus Mariota",
+            "Chase Edmonds",
+            "Courtland Sutton"
+          ],
+          "received": [
+            "Brandin Cooks",
+            "AJ Dillon",
+            "Kyler Murray"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "414.l.660525.tr.112",
+      "year": 2022,
+      "date": "2022-09-28T03:20:44.000Z",
+      "timestamp": 1664335244,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Beder Swiftly",
+          "manager": "Jack Beder",
+          "sent": [
+            "Joe Mixon",
+            "Keenan Allen",
+            "Diontae Johnson"
+          ],
+          "received": [
+            "Mike Williams",
+            "Miles Sanders",
+            "Cooper Kupp"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Free win for you",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Mike Williams",
+            "Miles Sanders",
+            "Cooper Kupp"
+          ],
+          "received": [
+            "Joe Mixon",
+            "Keenan Allen",
+            "Diontae Johnson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "414.l.660525.tr.175",
+      "year": 2022,
+      "date": "2022-10-07T00:14:34.000Z",
+      "timestamp": 1665101674,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Tanking for Wembanyama",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Derrick Henry",
+            "Drake London"
+          ],
+          "received": [
+            "Miles Sanders",
+            "Chris Godwin Jr."
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Beder Swiftly",
+          "manager": "Jack Beder",
+          "sent": [
+            "Miles Sanders",
+            "Chris Godwin Jr."
+          ],
+          "received": [
+            "Derrick Henry",
+            "Drake London"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "414.l.660525.tr.208",
+      "year": 2022,
+      "date": "2022-10-13T02:31:25.000Z",
+      "timestamp": 1665628285,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Shit team",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Rhamondre Stevenson",
+            "Jimmy Garoppolo",
+            "Zach Ertz",
+            "Chris Olave"
+          ],
+          "received": [
+            "Kyle Pitts Sr.",
+            "Kenny Pickett",
+            "CeeDee Lamb"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Tanking for Wembanyama",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Kyle Pitts Sr.",
+            "Kenny Pickett",
+            "CeeDee Lamb"
+          ],
+          "received": [
+            "Rhamondre Stevenson",
+            "Jimmy Garoppolo",
+            "Zach Ertz",
+            "Chris Olave"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "414.l.660525.tr.215",
+      "year": 2022,
+      "date": "2022-10-13T21:16:39.000Z",
+      "timestamp": 1665695799,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "DK Metcalf"
+          ],
+          "received": [
+            "Najee Harris"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Ass Ettiene Szn",
+          "manager": "Buddy Marcello",
+          "sent": [
+            "Najee Harris"
+          ],
+          "received": [
+            "DK Metcalf"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "414.l.660525.tr.262",
+      "year": 2022,
+      "date": "2022-10-20T00:27:57.000Z",
+      "timestamp": 1666225677,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Free win for you",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Joe Mixon",
+            "DJ Moore",
+            "Darrell Henderson Jr.",
+            "Jared Goff"
+          ],
+          "received": [
+            "Clyde Edwards-Helaire",
+            "Stefon Diggs"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Jermain Franklin",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Clyde Edwards-Helaire",
+            "Stefon Diggs"
+          ],
+          "received": [
+            "Joe Mixon",
+            "DJ Moore",
+            "Darrell Henderson Jr.",
+            "Jared Goff"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "414.l.660525.tr.385",
+      "year": 2022,
+      "date": "2022-11-10T17:21:44.000Z",
+      "timestamp": 1668100904,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "DeAndre Hopkins"
+          ],
+          "received": [
+            "Cordarrelle Patterson",
+            "Christian Kirk"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "You Know What I’m Sayin’",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Cordarrelle Patterson",
+            "Christian Kirk"
+          ],
+          "received": [
+            "DeAndre Hopkins"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "414.l.660525.tr.438",
+      "year": 2022,
+      "date": "2022-11-20T01:30:01.000Z",
+      "timestamp": 1668907801,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Jermain Franklin",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "James Conner"
+          ],
+          "received": [
+            "Gabe Davis"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "Gabe Davis"
+          ],
+          "received": [
+            "James Conner"
+          ]
+        }
+      ]
     }
   ]
 }

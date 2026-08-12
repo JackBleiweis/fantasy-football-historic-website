@@ -1,0 +1,31 @@
+@use '../../styles/variables' as *;
+
+.yearSelector {
+  display: flex;
+  flex-wrap: wrap;
+  gap: $space-8;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 40px;
+    padding: $space-8 $space-16;
+    border-radius: $radius-8;
+    background-color: var(--color-bg-card);
+    color: var(--color-text);
+    text-decoration: none;
+    font-weight: $font-weight-medium;
+    font-size: $font-size-sm;
+    transition: all $transition-fast;
+
+    &:hover {
+      background-color: var(--color-bg-alt);
+    }
+
+    &.active {
+      background-color: var(--color-header);
+      color: var(--color-text-inverse);
+    }
+  }
+}

@@ -3,52 +3,18 @@
   "leagueId": "cwp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "Breesus Christ",
-      "manager": "Jack Bleiweis",
-      "wins": 4,
-      "losses": 10,
-      "ties": 0,
-      "rank": 9,
-      "playoffSeed": null,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25288357186_8314ffef60.jpg"
-    },
-    {
-      "id": "t.2",
-      "name": "Victor Kruhz",
-      "manager": "Ty Greenberg",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 5,
-      "playoffSeed": 5,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25250646771_53e8b92004.jpg"
-    },
-    {
-      "id": "t.3",
-      "name": "Tate Makes me MBait",
-      "manager": "Chase Bergman",
+      "id": "t.6",
+      "name": "Mj's coffee cups",
+      "manager": "Dustin Pulver",
       "wins": 8,
       "losses": 6,
       "ties": 0,
-      "rank": 3,
-      "playoffSeed": 3,
+      "rank": 1,
+      "playoffSeed": 4,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24694207643_307b2ae88a.jpg"
-    },
-    {
-      "id": "t.4",
-      "name": "Jack sucks dick",
-      "manager": "Ben Roher",
-      "wins": 3,
-      "losses": 11,
-      "ties": 0,
-      "rank": 10,
-      "playoffSeed": null,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25233125011_4824efbdba.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25336795045_23bbfe1d81.jpg",
+      "moves": 56,
+      "tradesCount": 4
     },
     {
       "id": "t.5",
@@ -60,31 +26,23 @@
       "rank": 2,
       "playoffSeed": 2,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25205984171_1284ba67d0.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25205984171_1284ba67d0.jpg",
+      "moves": 60,
+      "tradesCount": 4
     },
     {
-      "id": "t.6",
-      "name": "Mj's coffee cups",
-      "manager": "Dustin Pulver",
+      "id": "t.3",
+      "name": "Tate Makes me MBait",
+      "manager": "Chase Bergman",
       "wins": 8,
       "losses": 6,
       "ties": 0,
-      "rank": 1,
-      "playoffSeed": 4,
+      "rank": 3,
+      "playoffSeed": 3,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25336795045_23bbfe1d81.jpg"
-    },
-    {
-      "id": "t.7",
-      "name": "Blackmon are hung",
-      "manager": "Jake Mintz",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 6,
-      "playoffSeed": 6,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24690574023_3ce78845ca.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24694207643_307b2ae88a.jpg",
+      "moves": 16,
+      "tradesCount": 4
     },
     {
       "id": "t.8",
@@ -96,7 +54,37 @@
       "rank": 4,
       "playoffSeed": 1,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1.png",
+      "moves": 9,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.2",
+      "name": "Victor Kruhz",
+      "manager": "Ty Greenberg",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 5,
+      "playoffSeed": 5,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25250646771_53e8b92004.jpg",
+      "moves": 39,
+      "tradesCount": 4
+    },
+    {
+      "id": "t.7",
+      "name": "Blackmon are hung",
+      "manager": "Jake Mintz",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 6,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24690574023_3ce78845ca.jpg",
+      "moves": 18,
+      "tradesCount": 0
     },
     {
       "id": "t.9",
@@ -108,7 +96,9 @@
       "rank": 7,
       "playoffSeed": 7,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_11.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_11.png",
+      "moves": 17,
+      "tradesCount": 0
     },
     {
       "id": "t.10",
@@ -120,7 +110,37 @@
       "rank": 8,
       "playoffSeed": 8,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25293954426_1fcb6a7ae5.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25293954426_1fcb6a7ae5.jpg",
+      "moves": 11,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.1",
+      "name": "Breesus Christ",
+      "manager": "Jack Bleiweis",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "rank": 9,
+      "playoffSeed": 0,
+      "isCommissioner": true,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25288357186_8314ffef60.jpg",
+      "moves": 12,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.4",
+      "name": "Jack sucks dick",
+      "manager": "Ben Roher",
+      "wins": 3,
+      "losses": 11,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25233125011_4824efbdba.jpg",
+      "moves": 3,
+      "tradesCount": 0
     }
   ],
   "draft": [
@@ -129,271 +149,271 @@
       "round": 1,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.8850",
+      "playerId": "8850",
       "playerFirstName": "Jamaal",
       "playerLastName": "Charles",
-      "avgPick": 2.2,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.5228",
+      "playerId": "5228",
       "playerFirstName": "Tom",
       "playerLastName": "Brady",
-      "avgPick": 65.9,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.4256",
+      "playerId": "4256",
       "playerFirstName": "Peyton",
       "playerLastName": "Manning",
-      "avgPick": 11.2,
-      "avgRound": 1.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.9265",
+      "playerId": "9265",
       "playerFirstName": "Matthew",
       "playerLastName": "Stafford",
-      "avgPick": 48.6,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.8780",
+      "playerId": "8780",
       "playerFirstName": "Matt",
       "playerLastName": "Ryan",
-      "avgPick": 50.6,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.24823",
+      "playerId": "24823",
       "playerFirstName": "Colin",
       "playerLastName": "Kaepernick",
-      "avgPick": 99.3,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.24788",
+      "playerId": "24788",
       "playerFirstName": "Cam",
       "playerLastName": "Newton",
-      "avgPick": 57.5,
-      "avgRound": 6.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.25712",
+      "playerId": "25712",
       "playerFirstName": "Robert",
       "playerLastName": "Griffin III",
-      "avgPick": 75.6,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.24791",
+      "playerId": "24791",
       "playerFirstName": "A.J.",
       "playerLastName": "Green",
-      "avgPick": 12.5,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 19.9,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.7760",
+      "playerId": "7760",
       "playerFirstName": "Jay",
       "playerLastName": "Cutler",
-      "avgPick": 85.8,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 2,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.26660",
+      "playerId": "26660",
       "playerFirstName": "Giovani",
       "playerLastName": "Bernard",
-      "avgPick": 19.6,
-      "avgRound": 2.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.6760",
+      "playerId": "6760",
       "playerFirstName": "Eli",
       "playerLastName": "Manning",
-      "avgPick": 131.2,
-      "avgRound": 14.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.6624",
+      "playerId": "6624",
       "playerFirstName": "Tony",
       "playerLastName": "Romo",
-      "avgPick": 82.7,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.24822",
+      "playerId": "24822",
       "playerFirstName": "Andy",
       "playerLastName": "Dalton",
-      "avgPick": 123.2,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.25718",
+      "playerId": "25718",
       "playerFirstName": "Ryan",
       "playerLastName": "Tannehill",
-      "avgPick": 133.6,
-      "avgRound": 15
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 96.7,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.25798",
+      "playerId": "25798",
       "playerFirstName": "Nick",
       "playerLastName": "Foles",
-      "avgPick": 65.9,
-      "avgRound": 7.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.6763",
+      "playerId": "6763",
       "playerFirstName": "Philip",
       "playerLastName": "Rivers",
-      "avgPick": 106,
-      "avgRound": 11.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.25711",
+      "playerId": "25711",
       "playerFirstName": "Andrew",
       "playerLastName": "Luck",
-      "avgPick": 53.9,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.6770",
+      "playerId": "6770",
       "playerFirstName": "Ben",
       "playerLastName": "Roethlisberger",
-      "avgPick": 114.5,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.5967",
+      "playerId": "5967",
       "playerFirstName": "Josh",
       "playerLastName": "McCown",
-      "avgPick": 135.4,
-      "avgRound": 15.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 3,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.8821",
+      "playerId": "8821",
       "playerFirstName": "Matt",
       "playerLastName": "Forte",
-      "avgPick": 4.4,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 3,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.8261",
+      "playerId": "8261",
       "playerFirstName": "Adrian",
       "playerLastName": "Peterson",
-      "avgPick": 3.5,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.23976",
+      "playerId": "23976",
       "playerFirstName": "Sam",
       "playerLastName": "Bradford",
       "avgPick": null,
@@ -404,491 +424,491 @@
       "round": 3,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.26681",
+      "playerId": "26681",
       "playerFirstName": "Montee",
       "playerLastName": "Ball",
-      "avgPick": 12.8,
-      "avgRound": 1.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.27550",
+      "playerId": "27550",
       "playerFirstName": "Johnny",
       "playerLastName": "Manziel",
-      "avgPick": 130.7,
-      "avgRound": 14.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.26684",
+      "playerId": "26684",
       "playerFirstName": "Eddie",
       "playerLastName": "Lacy",
-      "avgPick": 5.6,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.5479",
+      "playerId": "5479",
       "playerFirstName": "Drew",
       "playerLastName": "Brees",
-      "avgPick": 17.3,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.7177",
+      "playerId": "7177",
       "playerFirstName": "Alex",
       "playerLastName": "Smith",
-      "avgPick": 124.1,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.24858",
+      "playerId": "24858",
       "playerFirstName": "DeMarco",
       "playerLastName": "Murray",
-      "avgPick": 15.7,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 4,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.25741",
+      "playerId": "25741",
       "playerFirstName": "Doug",
       "playerLastName": "Martin",
-      "avgPick": 30.4,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.26671",
+      "playerId": "26671",
       "playerFirstName": "Le'Veon",
       "playerLastName": "Bell",
-      "avgPick": 28.2,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 4,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.8266",
+      "playerId": "8266",
       "playerFirstName": "Marshawn",
       "playerLastName": "Lynch",
-      "avgPick": 10.6,
-      "avgRound": 1.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 4,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.9560",
+      "playerId": "9560",
       "playerFirstName": "Danny",
       "playerLastName": "Woodhead",
-      "avgPick": 122.9,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 4,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.26783",
+      "playerId": "26783",
       "playerFirstName": "Zac",
       "playerLastName": "Stacy",
-      "avgPick": 28.4,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.9276",
+      "playerId": "9276",
       "playerFirstName": "Knowshon",
       "playerLastName": "Moreno",
-      "avgPick": 109.3,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.7751",
+      "playerId": "7751",
       "playerFirstName": "Reggie",
       "playerLastName": "Bush",
-      "avgPick": 62,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.9317",
+      "playerId": "9317",
       "playerFirstName": "LeSean",
       "playerLastName": "McCoy",
-      "avgPick": 1.4,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.26810",
+      "playerId": "26810",
       "playerFirstName": "Andre",
       "playerLastName": "Ellington",
-      "avgPick": 22.5,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.24843",
+      "playerId": "24843",
       "playerFirstName": "Shane",
       "playerLastName": "Vereen",
-      "avgPick": 78.8,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.24033",
+      "playerId": "24033",
       "playerFirstName": "Ben",
       "playerLastName": "Tate",
-      "avgPick": 94.6,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 5,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.7306",
+      "playerId": "7306",
       "playerFirstName": "Darren",
       "playerLastName": "Sproles",
-      "avgPick": 117.1,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 5,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.25713",
-      "playerFirstName": "Trenton",
+      "playerId": "25713",
+      "playerFirstName": "Trent",
       "playerLastName": "Richardson",
-      "avgPick": 98.3,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 5,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.23987",
+      "playerId": "23987",
       "playerFirstName": "Ryan",
       "playerLastName": "Mathews",
-      "avgPick": 40.5,
-      "avgRound": 4.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 5,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.8781",
+      "playerId": "8781",
       "playerFirstName": "Darren",
       "playerLastName": "McFadden",
-      "avgPick": 123.5,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 5,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.9527",
+      "playerId": "9527",
       "playerFirstName": "Arian",
       "playerLastName": "Foster",
-      "avgPick": 23.1,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.24026",
+      "playerId": "24026",
       "playerFirstName": "Toby",
       "playerLastName": "Gerhart",
-      "avgPick": 41.3,
-      "avgRound": 4.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 29.4,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.25883",
+      "playerId": "25883",
       "playerFirstName": "Alfred",
       "playerLastName": "Morris",
-      "avgPick": 27.7,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.7776",
+      "playerId": "7776",
       "playerFirstName": "DeAngelo",
       "playerLastName": "Williams",
-      "avgPick": 124.3,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 6,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.27582",
+      "playerId": "27582",
       "playerFirstName": "Bishop",
       "playerLastName": "Sankey",
-      "avgPick": 84.9,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 6,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.9514",
+      "playerId": "9514",
       "playerFirstName": "Rashad",
       "playerLastName": "Jennings",
-      "avgPick": 54,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 6,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.7241",
+      "playerId": "7241",
       "playerFirstName": "Frank",
       "playerLastName": "Gore",
-      "avgPick": 69.2,
-      "avgRound": 8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 6,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.7868",
+      "playerId": "7868",
       "playerFirstName": "Brandon",
       "playerLastName": "Marshall",
-      "avgPick": 14.4,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 6,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.8801",
+      "playerId": "8801",
       "playerFirstName": "Chris",
       "playerLastName": "Johnson",
-      "avgPick": 88.3,
-      "avgRound": 10
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 6,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.8561",
+      "playerId": "8561",
       "playerFirstName": "Pierre",
       "playerLastName": "Thomas",
-      "avgPick": 108,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 6,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.8832",
+      "playerId": "8832",
       "playerFirstName": "Ray",
       "playerLastName": "Rice",
-      "avgPick": 98,
-      "avgRound": 10.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.27378",
+      "playerId": "27378",
       "playerFirstName": "Khiry",
       "playerLastName": "Robinson",
-      "avgPick": 122.4,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.7809",
+      "playerId": "7809",
       "playerFirstName": "Maurice",
       "playerLastName": "Jones-Drew",
-      "avgPick": 101.9,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.26561",
+      "playerId": "26561",
       "playerFirstName": "Josh",
       "playerLastName": "Gordon",
-      "avgPick": 123.7,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 110.7,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 7,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.27583",
+      "playerId": "27583",
       "playerFirstName": "Jeremy",
       "playerLastName": "Hill",
-      "avgPick": 119.5,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 7,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.25755",
+      "playerId": "25755",
       "playerFirstName": "Alshon",
       "playerLastName": "Jeffery",
-      "avgPick": 23.4,
-      "avgRound": 3.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 7,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.24262",
+      "playerId": "24262",
       "playerFirstName": "Joique",
       "playerLastName": "Bell",
-      "avgPick": 87.9,
-      "avgRound": 10
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 7,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.24793",
+      "playerId": "24793",
       "playerFirstName": "Julio",
       "playerLastName": "Jones",
-      "avgPick": 18.4,
-      "avgRound": 2.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 7,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.6783",
+      "playerId": "6783",
       "playerFirstName": "Steven",
       "playerLastName": "Jackson",
-      "avgPick": 109,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 7,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.100004",
+      "playerId": "100004",
       "playerFirstName": "Bengals",
       "playerLastName": "",
-      "avgPick": 89.6,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 7,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.8001",
+      "playerId": "8001",
       "playerFirstName": "Marques",
       "playerLastName": "Colston",
-      "avgPick": 76.6,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.27603",
+      "playerId": "27603",
       "playerFirstName": "Tre",
       "playerLastName": "Mason",
       "avgPick": null,
@@ -899,381 +919,381 @@
       "round": 8,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.7027",
+      "playerId": "7027",
       "playerFirstName": "Wes",
       "playerLastName": "Welker",
-      "avgPick": 63,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 8,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.24057",
+      "playerId": "24057",
       "playerFirstName": "Emmanuel",
       "playerLastName": "Sanders",
-      "avgPick": 86.5,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 8,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.25794",
+      "playerId": "25794",
       "playerFirstName": "Bernard",
       "playerLastName": "Pierce",
-      "avgPick": 121.4,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 8,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.24860",
+      "playerId": "24860",
       "playerFirstName": "Stevan",
       "playerLastName": "Ridley",
-      "avgPick": 104,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 8,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.9496",
+      "playerId": "9496",
       "playerFirstName": "Julian",
       "playerLastName": "Edelman",
-      "avgPick": 73.7,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 8,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.8256",
+      "playerId": "8256",
       "playerFirstName": "Calvin",
       "playerLastName": "Johnson",
-      "avgPick": 6.2,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 8,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.8826",
+      "playerId": "8826",
       "playerFirstName": "DeSean",
       "playerLastName": "Jackson",
-      "avgPick": 47.8,
-      "avgRound": 5.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 8,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.8982",
+      "playerId": "8982",
       "playerFirstName": "Pierre",
       "playerLastName": "Garcon",
-      "avgPick": 43.5,
-      "avgRound": 5.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.24171",
+      "playerId": "24171",
       "playerFirstName": "Antonio",
       "playerLastName": "Brown",
-      "avgPick": 24.3,
-      "avgRound": 3.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.8813",
+      "playerId": "8813",
       "playerFirstName": "Jordy",
       "playerLastName": "Nelson",
-      "avgPick": 21.6,
-      "avgRound": 2.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.7203",
+      "playerId": "7203",
       "playerFirstName": "Roddy",
       "playerLastName": "White",
-      "avgPick": 36.7,
-      "avgRound": 4.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.6339",
+      "playerId": "6339",
       "playerFirstName": "Andre",
       "playerLastName": "Johnson",
-      "avgPick": 39.5,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 9,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.7237",
+      "playerId": "7237",
       "playerFirstName": "Vincent",
       "playerLastName": "Jackson",
-      "avgPick": 35.5,
-      "avgRound": 4.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 9,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.25802",
+      "playerId": "25802",
       "playerFirstName": "T.Y.",
       "playerLastName": "Hilton",
-      "avgPick": 58,
-      "avgRound": 6.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 9,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.23997",
+      "playerId": "23997",
       "playerFirstName": "Demaryius",
       "playerLastName": "Thomas",
-      "avgPick": 8.8,
-      "avgRound": 1.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 9,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.27532",
+      "playerId": "27532",
       "playerFirstName": "Sammy",
       "playerLastName": "Watkins",
-      "avgPick": 106.2,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 9,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.6762",
+      "playerId": "6762",
       "playerFirstName": "Larry",
       "playerLastName": "Fitzgerald",
-      "avgPick": 37.2,
-      "avgRound": 4.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 9,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.23999",
+      "playerId": "23999",
       "playerFirstName": "Dez",
       "playerLastName": "Bryant",
-      "avgPick": 10.6,
-      "avgRound": 1.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 9,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.26708",
+      "playerId": "26708",
       "playerFirstName": "Jordan",
       "playerLastName": "Reed",
-      "avgPick": 82.8,
-      "avgRound": 9.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.9274",
+      "playerId": "9274",
       "playerFirstName": "Michael",
       "playerLastName": "Crabtree",
-      "avgPick": 48.5,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 10,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.9286",
+      "playerId": "9286",
       "playerFirstName": "Percy",
       "playerLastName": "Harvin",
-      "avgPick": 43,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 10,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.8063",
+      "playerId": "8063",
       "playerFirstName": "Fred",
       "playerLastName": "Jackson",
-      "avgPick": 113.3,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 10,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.24851",
+      "playerId": "24851",
       "playerFirstName": "Randall",
       "playerLastName": "Cobb",
-      "avgPick": 31.3,
-      "avgRound": 3.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 10,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.5477",
+      "playerId": "5477",
       "playerFirstName": "Reggie",
       "playerLastName": "Wayne",
-      "avgPick": 98.5,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 10,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.26083",
+      "playerId": "26083",
       "playerFirstName": "Jarrett",
       "playerLastName": "Boykin",
-      "avgPick": 127.3,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 10,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.25723",
+      "playerId": "25723",
       "playerFirstName": "Michael",
       "playerLastName": "Floyd",
-      "avgPick": 46.9,
-      "avgRound": 5.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 10,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.9001",
-      "playerFirstName": "Steve",
+      "playerId": "9001",
+      "playerFirstName": "Stevie",
       "playerLastName": "Johnson",
-      "avgPick": 124.2,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 10,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.24845",
+      "playerId": "24845",
       "playerFirstName": "Torrey",
       "playerLastName": "Smith",
-      "avgPick": 57.1,
-      "avgRound": 6.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.24035",
+      "playerId": "24035",
       "playerFirstName": "Golden",
       "playerLastName": "Tate",
-      "avgPick": 89.4,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.26652",
+      "playerId": "26652",
       "playerFirstName": "Cordarrelle",
       "playerLastName": "Patterson",
-      "avgPick": 45.2,
-      "avgRound": 5.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.24062",
+      "playerId": "24062",
       "playerFirstName": "Eric",
       "playerLastName": "Decker",
-      "avgPick": 86.3,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.26697",
+      "playerId": "26697",
       "playerFirstName": "Terrance",
       "playerLastName": "Williams",
-      "avgPick": 82.1,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 11,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.9037",
+      "playerId": "9037",
       "playerFirstName": "Danny",
       "playerLastName": "Amendola",
-      "avgPick": 127.2,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 11,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.25105",
+      "playerId": "25105",
       "playerFirstName": "Doug",
       "playerLastName": "Baldwin",
-      "avgPick": 126.6,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 11,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.8298",
+      "playerId": "8298",
       "playerFirstName": "Sidney",
       "playerLastName": "Rice",
       "avgPick": null,
@@ -1284,117 +1304,117 @@
       "round": 11,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.8332",
+      "playerId": "8332",
       "playerFirstName": "James",
       "playerLastName": "Jones",
-      "avgPick": 128.8,
-      "avgRound": 14.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 11,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.6390",
+      "playerId": "6390",
       "playerFirstName": "Anquan",
       "playerLastName": "Boldin",
-      "avgPick": 114.1,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 11,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.24553",
+      "playerId": "24553",
       "playerFirstName": "Victor",
       "playerLastName": "Cruz",
-      "avgPick": 34.9,
-      "avgRound": 4.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 11,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.26702",
+      "playerId": "26702",
       "playerFirstName": "Markus",
       "playerLastName": "Wheaton",
-      "avgPick": 126.8,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.9348",
+      "playerId": "9348",
       "playerFirstName": "Mike",
       "playerLastName": "Wallace",
-      "avgPick": 74.1,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 12,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 119.7,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 12,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.8795",
+      "playerId": "8795",
       "playerFirstName": "Joe",
       "playerLastName": "Flacco",
-      "avgPick": 124.6,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 12,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.9283",
+      "playerId": "9283",
       "playerFirstName": "Jeremy",
       "playerLastName": "Maclin",
-      "avgPick": 65.8,
-      "avgRound": 7.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 12,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.26631",
+      "playerId": "26631",
       "playerFirstName": "Tavon",
       "playerLastName": "Austin",
-      "avgPick": 130.8,
-      "avgRound": 14.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 12,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.24830",
+      "playerId": "24830",
       "playerFirstName": "Kyle",
       "playerLastName": "Rudolph",
-      "avgPick": 66.6,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 12,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
       "avgPick": null,
@@ -1405,150 +1425,150 @@
       "round": 12,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.24774",
+      "playerId": "24774",
       "playerFirstName": "Andrew",
       "playerLastName": "Hawkins",
-      "avgPick": 131.9,
-      "avgRound": 15.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 12,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.5521",
+      "playerId": "5521",
       "playerFirstName": "Steve",
       "playerLastName": "Smith",
-      "avgPick": 121,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.8277",
+      "playerId": "8277",
       "playerFirstName": "Dwayne",
       "playerLastName": "Bowe",
-      "avgPick": 119.5,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 12,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.24135",
+      "playerId": "24135",
       "playerFirstName": "Riley",
       "playerLastName": "Cooper",
-      "avgPick": 119.6,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.25730",
+      "playerId": "25730",
       "playerFirstName": "Kendall",
       "playerLastName": "Wright",
-      "avgPick": 91.8,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.27556",
+      "playerId": "27556",
       "playerFirstName": "Kelvin",
       "playerLastName": "Benjamin",
-      "avgPick": 118,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 13,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.26767",
+      "playerId": "26767",
       "playerFirstName": "Kenny",
       "playerLastName": "Stills",
-      "avgPick": 131.2,
-      "avgRound": 15.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 13,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.24916",
+      "playerId": "24916",
       "playerFirstName": "Julius",
       "playerLastName": "Thomas",
-      "avgPick": 32.5,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 13,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.24889",
+      "playerId": "24889",
       "playerFirstName": "Jordan",
       "playerLastName": "Cameron",
-      "avgPick": 52.7,
-      "avgRound": 6.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 13,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.24089",
+      "playerId": "24089",
       "playerFirstName": "Dennis",
       "playerLastName": "Pitta",
-      "avgPick": 97.8,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 13,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.9293",
+      "playerId": "9293",
       "playerFirstName": "Hakeem",
       "playerLastName": "Nicks",
-      "avgPick": 126.1,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 13,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.24901",
+      "playerId": "24901",
       "playerFirstName": "Cecil",
       "playerLastName": "Shorts",
-      "avgPick": 117.3,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 13,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.24318",
+      "playerId": "24318",
       "playerFirstName": "LeGarrette",
       "playerLastName": "Blount",
-      "avgPick": 124.6,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.24935",
+      "playerId": "24935",
       "playerFirstName": "Denarius",
       "playerLastName": "Moore",
       "avgPick": null,
@@ -1559,330 +1579,330 @@
       "round": 14,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.24070",
+      "playerId": "24070",
       "playerFirstName": "Jimmy",
       "playerLastName": "Graham",
-      "avgPick": 8.2,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 14,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.6663",
+      "playerId": "6663",
       "playerFirstName": "Antonio",
       "playerLastName": "Gates",
-      "avgPick": 125.9,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 14,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 100.6,
-      "avgRound": 11.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 14,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.24017",
+      "playerId": "24017",
       "playerFirstName": "Rob",
       "playerLastName": "Gronkowski",
-      "avgPick": 41.9,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 14,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.25427",
+      "playerId": "25427",
       "playerFirstName": "Dan",
       "playerLastName": "Bailey",
-      "avgPick": 102,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 14,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.27538",
+      "playerId": "27538",
       "playerFirstName": "Eric",
       "playerLastName": "Ebron",
-      "avgPick": 128.2,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 14,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.26644",
+      "playerId": "26644",
       "playerFirstName": "Tyler",
       "playerLastName": "Eifert",
-      "avgPick": 133.7,
-      "avgRound": 15.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 14,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.6405",
+      "playerId": "6405",
       "playerFirstName": "Jason",
       "playerLastName": "Witten",
-      "avgPick": 62.5,
-      "avgRound": 7.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 14,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.7755",
+      "playerId": "7755",
       "playerFirstName": "Vernon",
       "playerLastName": "Davis",
-      "avgPick": 49.2,
-      "avgRound": 5.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 14,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.8838",
+      "playerId": "8838",
       "playerFirstName": "Martellus",
       "playerLastName": "Bennett",
-      "avgPick": 118.1,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 15,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.26534",
+      "playerId": "26534",
       "playerFirstName": "Justin",
       "playerLastName": "Tucker",
-      "avgPick": 87.3,
-      "avgRound": 10
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 15,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.7867",
+      "playerId": "7867",
       "playerFirstName": "Stephen",
       "playerLastName": "Gostkowski",
-      "avgPick": 77.4,
-      "avgRound": 8.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 15,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.100034",
+      "playerId": "100034",
       "playerFirstName": "Texans",
       "playerLastName": "",
-      "avgPick": 88.2,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 15,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.7520",
+      "playerId": "7520",
       "playerFirstName": "Robbie",
       "playerLastName": "Gould",
-      "avgPick": 141.2,
-      "avgRound": 15.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 15,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.8565",
+      "playerId": "8565",
       "playerFirstName": "Matt",
       "playerLastName": "Prater",
-      "avgPick": 82.7,
-      "avgRound": 9.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 15,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.100022",
+      "playerId": "100022",
       "playerFirstName": "Cardinals",
       "playerLastName": "",
-      "avgPick": 93.3,
-      "avgRound": 10.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 15,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.25881",
+      "playerId": "25881",
       "playerFirstName": "Greg",
       "playerLastName": "Zuerlein",
-      "avgPick": 133.1,
-      "avgRound": 14.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 15,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.8285",
+      "playerId": "8285",
       "playerFirstName": "Greg",
       "playerLastName": "Olsen",
-      "avgPick": 64.1,
-      "avgRound": 7.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 15,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.4269",
+      "playerId": "4269",
       "playerFirstName": "Phil",
       "playerLastName": "Dawson",
-      "avgPick": 92.9,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 15,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.8447",
+      "playerId": "8447",
       "playerFirstName": "Mason",
       "playerLastName": "Crosby",
-      "avgPick": 99.3,
-      "avgRound": 11.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 151,
       "round": 16,
       "teamId": "t.7",
       "teamName": "Blackmon are hung",
-      "playerId": "331.p.100014",
+      "playerId": "100014",
       "playerFirstName": "Rams",
       "playerLastName": "",
-      "avgPick": 77.4,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 152,
       "round": 16,
       "teamId": "t.1",
       "teamName": "Breesus Christ",
-      "playerId": "331.p.100012",
+      "playerId": "100012",
       "playerFirstName": "Chiefs",
       "playerLastName": "",
-      "avgPick": 85.3,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 153,
       "round": 16,
       "teamId": "t.2",
       "teamName": "Victor Kruhz",
-      "playerId": "331.p.25885",
+      "playerId": "25885",
       "playerFirstName": "Blair",
       "playerLastName": "Walsh",
-      "avgPick": 131.9,
-      "avgRound": 14.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 154,
       "round": 16,
       "teamId": "t.10",
       "teamName": "Turn Down for Watt",
-      "playerId": "331.p.100029",
+      "playerId": "100029",
       "playerFirstName": "Panthers",
       "playerLastName": "",
-      "avgPick": 78.6,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 155,
       "round": 16,
       "teamId": "t.6",
       "teamName": "Mj's coffee cups",
-      "playerId": "331.p.23984",
+      "playerId": "23984",
       "playerFirstName": "C.J.",
       "playerLastName": "Spiller",
-      "avgPick": 49.3,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 156,
       "round": 16,
       "teamId": "t.5",
       "teamName": "Lola's Avocados",
-      "playerId": "331.p.100007",
+      "playerId": "100007",
       "playerFirstName": "Broncos",
       "playerLastName": "",
-      "avgPick": 108.9,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 157,
       "round": 16,
       "teamId": "t.4",
       "teamName": "Jack sucks dick",
-      "playerId": "331.p.100025",
+      "playerId": "100025",
       "playerFirstName": "49ers",
       "playerLastName": "",
-      "avgPick": 71.5,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 158,
       "round": 16,
       "teamId": "t.9",
       "teamName": "Roher Sucks",
-      "playerId": "331.p.9066",
+      "playerId": "9066",
       "playerFirstName": "Stephen",
       "playerLastName": "Hauschka",
-      "avgPick": 92.6,
-      "avgRound": 10.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 159,
       "round": 16,
       "teamId": "t.3",
       "teamName": "Tate Makes me MBait",
-      "playerId": "331.p.100026",
+      "playerId": "100026",
       "playerFirstName": "Seahawks",
       "playerLastName": "",
-      "avgPick": 60.6,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 160,
       "round": 16,
       "teamId": "t.8",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "331.p.100017",
+      "playerId": "100017",
       "playerFirstName": "Patriots",
       "playerLastName": "",
-      "avgPick": 84.8,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -2821,6 +2841,318 @@
       "isComplete": true,
       "isPlayoff": true,
       "isConsolation": true
+    }
+  ],
+  "trades": [
+    {
+      "id": "331.l.952756.tr.10",
+      "year": 2014,
+      "date": "2014-08-22T22:09:39.000Z",
+      "timestamp": 1408745379,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Tate Makes me MBait",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Golden Tate",
+            "Terrance Williams",
+            "Mark Ingram II"
+          ],
+          "received": [
+            "Julian Edelman",
+            "James Jones",
+            "Dennis Pitta"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Mj's coffee cups",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Julian Edelman",
+            "James Jones",
+            "Dennis Pitta"
+          ],
+          "received": [
+            "Golden Tate",
+            "Terrance Williams",
+            "Mark Ingram II"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "331.l.952756.tr.16",
+      "year": 2014,
+      "date": "2014-08-27T03:31:44.000Z",
+      "timestamp": 1409110304,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Lola's Avocados",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Ryan Tannehill",
+            "Michael Floyd"
+          ],
+          "received": [
+            "Andy Dalton",
+            "Golden Tate"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Mj's coffee cups",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Andy Dalton",
+            "Golden Tate"
+          ],
+          "received": [
+            "Ryan Tannehill",
+            "Michael Floyd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "331.l.952756.tr.51",
+      "year": 2014,
+      "date": "2014-09-19T22:47:20.000Z",
+      "timestamp": 1411166840,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Lola's Avocados",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Josh Gordon",
+            "Chris Ivory"
+          ],
+          "received": [
+            "Kirk Cousins"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Mj's coffee cups",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Kirk Cousins"
+          ],
+          "received": [
+            "Josh Gordon",
+            "Chris Ivory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "331.l.952756.tr.58",
+      "year": 2014,
+      "date": "2014-09-21T00:38:40.000Z",
+      "timestamp": 1411259920,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Lola's Avocados",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Andy Dalton",
+            "Joique Bell",
+            "Zach Ertz"
+          ],
+          "received": [
+            "Randall Cobb",
+            "Bernard Pierce",
+            "Matt Asiata"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Victor Kruhz",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Randall Cobb",
+            "Bernard Pierce",
+            "Matt Asiata"
+          ],
+          "received": [
+            "Andy Dalton",
+            "Joique Bell",
+            "Zach Ertz"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "331.l.952756.tr.139",
+      "year": 2014,
+      "date": "2014-10-21T22:16:27.000Z",
+      "timestamp": 1413929787,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Lola's Avocados",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Calvin Johnson",
+            "Randall Cobb",
+            "Golden Tate"
+          ],
+          "received": [
+            "Eddie Lacy",
+            "Zach Ertz",
+            "Dez Bryant"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Victor Kruhz",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Eddie Lacy",
+            "Zach Ertz",
+            "Dez Bryant"
+          ],
+          "received": [
+            "Calvin Johnson",
+            "Randall Cobb",
+            "Golden Tate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "331.l.952756.tr.186",
+      "year": 2014,
+      "date": "2014-11-09T16:13:58.000Z",
+      "timestamp": 1415549638,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Tate Makes me MBait",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Vernon Davis"
+          ],
+          "received": [
+            "Eli Manning"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Victor Kruhz",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Eli Manning"
+          ],
+          "received": [
+            "Vernon Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "331.l.952756.tr.193",
+      "year": 2014,
+      "date": "2014-11-12T02:56:38.000Z",
+      "timestamp": 1415760998,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Victor Kruhz",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Vernon Davis"
+          ],
+          "received": [
+            "Eli Manning",
+            "Derek Carr"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Tate Makes me MBait",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Eli Manning",
+            "Derek Carr"
+          ],
+          "received": [
+            "Vernon Davis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "331.l.952756.tr.210",
+      "year": 2014,
+      "date": "2014-11-17T16:42:46.000Z",
+      "timestamp": 1416242566,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Mj's coffee cups",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Ryan Tannehill",
+            "Tre Mason"
+          ],
+          "received": [
+            "Eli Manning",
+            "Brandin Cooks"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Victor Kruhz",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Eli Manning",
+            "Brandin Cooks"
+          ],
+          "received": [
+            "Ryan Tannehill",
+            "Tre Mason"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "331.l.952756.tr.229",
+      "year": 2014,
+      "date": "2014-11-22T17:29:25.000Z",
+      "timestamp": 1416677365,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Mj's coffee cups",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Brandon Marshall",
+            "Colin Kaepernick"
+          ],
+          "received": [
+            "Philip Rivers",
+            "Kelvin Benjamin"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Tate Makes me MBait",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Philip Rivers",
+            "Kelvin Benjamin"
+          ],
+          "received": [
+            "Brandon Marshall",
+            "Colin Kaepernick"
+          ]
+        }
+      ]
     }
   ]
 }

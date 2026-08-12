@@ -1,0 +1,112 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.managers {
+  @include container;
+  padding-top: $space-24;
+  padding-bottom: $space-48;
+
+  @media (min-width: $breakpoint-md) {
+    padding-top: $space-32;
+  }
+}
+
+.header {
+  margin-bottom: $space-24;
+
+  h1 {
+    margin: 0 0 $space-8;
+    font-size: $font-size-2xl;
+
+    @media (min-width: $breakpoint-md) {
+      font-size: $font-size-4xl;
+    }
+  }
+
+  p {
+    margin: 0;
+    color: var(--color-text-secondary);
+  }
+}
+
+.noData {
+  @include card;
+  text-align: center;
+  padding: $space-48;
+  color: var(--color-text-secondary);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: $space-12;
+
+  @media (min-width: $breakpoint-sm) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: $breakpoint-lg) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.card {
+  @include card;
+  display: flex;
+  align-items: center;
+  gap: $space-12;
+  padding: $space-16;
+  min-height: 72px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform $transition-fast, box-shadow $transition-fast;
+
+  @media (min-width: $breakpoint-sm) {
+    gap: $space-16;
+  }
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: $shadow-lg;
+  }
+
+  h2 {
+    margin: 0 0 $space-4;
+    font-size: $font-size-base;
+    overflow-wrap: anywhere;
+
+    @media (min-width: $breakpoint-sm) {
+      font-size: $font-size-lg;
+    }
+  }
+
+  p {
+    margin: 0;
+    font-size: $font-size-sm;
+    color: var(--color-text-secondary);
+  }
+}
+
+.avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: var(--color-bg-alt);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: $font-size-xl;
+  font-weight: $font-weight-bold;
+  flex-shrink: 0;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.info {
+  min-width: 0;
+}

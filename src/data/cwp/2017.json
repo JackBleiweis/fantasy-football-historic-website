@@ -3,16 +3,18 @@
   "leagueId": "cwp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "Stairway to Evans",
-      "manager": "Jack Bleiweis",
-      "wins": 9,
-      "losses": 5,
+      "id": "t.7",
+      "name": "Utku Gull's Squad",
+      "manager": "Chase Bergman",
+      "wins": 10,
+      "losses": 4,
       "ties": 0,
-      "rank": 4,
-      "playoffSeed": 3,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36515313961_ac2200.jpg"
+      "rank": 1,
+      "playoffSeed": 1,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36625963376_82f917.jpg",
+      "moves": 48,
+      "tradesCount": 3
     },
     {
       "id": "t.2",
@@ -24,7 +26,9 @@
       "rank": 2,
       "playoffSeed": 2,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24040368918_9cbe75.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24040368918_9cbe75.jpg",
+      "moves": 70,
+      "tradesCount": 2
     },
     {
       "id": "t.3",
@@ -36,31 +40,23 @@
       "rank": 3,
       "playoffSeed": 4,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36868699941_bfd1e3.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36868699941_bfd1e3.jpg",
+      "moves": 42,
+      "tradesCount": 4
     },
     {
-      "id": "t.4",
-      "name": "Carr Insurance",
-      "manager": "GOBOL",
-      "wins": 6,
-      "losses": 8,
+      "id": "t.1",
+      "name": "Stairway to Evans",
+      "manager": "Jack Bleiweis",
+      "wins": 9,
+      "losses": 5,
       "ties": 0,
-      "rank": 7,
-      "playoffSeed": 8,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29382325881_90766afab1.jpg"
-    },
-    {
-      "id": "t.5",
-      "name": "Suh Girls One Cup",
-      "manager": "Jake Mintz",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "rank": 6,
-      "playoffSeed": 6,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png"
+      "rank": 4,
+      "playoffSeed": 3,
+      "isCommissioner": true,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36515313961_ac2200.jpg",
+      "moves": 41,
+      "tradesCount": 3
     },
     {
       "id": "t.6",
@@ -72,31 +68,37 @@
       "rank": 5,
       "playoffSeed": 5,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25040718100_ea1e48bc95.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25040718100_ea1e48bc95.jpg",
+      "moves": 56,
+      "tradesCount": 5
     },
     {
-      "id": "t.7",
-      "name": "Utku Gull's Squad",
-      "manager": "Chase Bergman",
-      "wins": 10,
-      "losses": 4,
+      "id": "t.5",
+      "name": "Suh Girls One Cup",
+      "manager": "Jake Mintz",
+      "wins": 6,
+      "losses": 8,
       "ties": 0,
-      "rank": 1,
-      "playoffSeed": 1,
+      "rank": 6,
+      "playoffSeed": 6,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36625963376_82f917.jpg"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png",
+      "moves": 40,
+      "tradesCount": 5
     },
     {
-      "id": "t.8",
-      "name": "Show me your TD's",
-      "manager": "--hidden--",
-      "wins": 4,
-      "losses": 10,
+      "id": "t.4",
+      "name": "Carr Insurance",
+      "manager": "GOBOL",
+      "wins": 6,
+      "losses": 8,
       "ties": 0,
-      "rank": 10,
-      "playoffSeed": null,
+      "rank": 7,
+      "playoffSeed": 8,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1.png"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29382325881_90766afab1.jpg",
+      "moves": 35,
+      "tradesCount": 4
     },
     {
       "id": "t.9",
@@ -108,7 +110,9 @@
       "rank": 8,
       "playoffSeed": 7,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36949646543_2be75f.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36949646543_2be75f.jpg",
+      "moves": 33,
+      "tradesCount": 2
     },
     {
       "id": "t.10",
@@ -118,9 +122,25 @@
       "losses": 10,
       "ties": 0,
       "rank": 9,
-      "playoffSeed": null,
+      "playoffSeed": 0,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_12.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_12.png",
+      "moves": 25,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.8",
+      "name": "Show me your TD's",
+      "manager": "Ben Roher",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1.png",
+      "moves": 10,
+      "tradesCount": 3
     }
   ],
   "draft": [
@@ -129,1063 +149,1063 @@
       "round": 1,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.26671",
+      "playerId": "26671",
       "playerFirstName": "Le'Veon",
       "playerLastName": "Bell",
-      "avgPick": 2.2,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.28474",
+      "playerId": "28474",
       "playerFirstName": "David",
       "playerLastName": "Johnson",
-      "avgPick": 1.2,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.24171",
+      "playerId": "24171",
       "playerFirstName": "Antonio",
       "playerLastName": "Brown",
-      "avgPick": 3.4,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.24793",
+      "playerId": "24793",
       "playerFirstName": "Julio",
       "playerLastName": "Jones",
-      "avgPick": 5.1,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 5.6,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 20.8,
-      "avgRound": 2.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.9317",
+      "playerId": "9317",
       "playerFirstName": "LeSean",
       "playerLastName": "McCoy",
-      "avgPick": 7.5,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 7.5,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.5228",
+      "playerId": "5228",
       "playerFirstName": "Tom",
       "playerLastName": "Brady",
-      "avgPick": 25.5,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.24791",
+      "playerId": "24791",
       "playerFirstName": "A.J.",
       "playerLastName": "Green",
-      "avgPick": 11.7,
-      "avgRound": 1.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.8813",
+      "playerId": "8813",
       "playerFirstName": "Jordy",
       "playerLastName": "Nelson",
-      "avgPick": 13.3,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 2,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.27631",
+      "playerId": "27631",
       "playerFirstName": "Devonta",
       "playerLastName": "Freeman",
-      "avgPick": 10.3,
-      "avgRound": 1.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.5479",
+      "playerId": "5479",
       "playerFirstName": "Drew",
       "playerLastName": "Brees",
-      "avgPick": 34.7,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.28403",
+      "playerId": "28403",
       "playerFirstName": "Melvin",
       "playerLastName": "Gordon III",
-      "avgPick": 10.3,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.8780",
+      "playerId": "8780",
       "playerFirstName": "Matt",
       "playerLastName": "Ryan",
-      "avgPick": 52.5,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.29281",
+      "playerId": "29281",
       "playerFirstName": "Michael",
       "playerLastName": "Thomas",
-      "avgPick": 15.9,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.24858",
+      "playerId": "24858",
       "playerFirstName": "DeMarco",
       "playerLastName": "Murray",
-      "avgPick": 15.3,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.23999",
+      "playerId": "23999",
       "playerFirstName": "Dez",
       "playerLastName": "Bryant",
-      "avgPick": 18.9,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 24,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.29384",
+      "playerId": "29384",
       "playerFirstName": "Jordan",
       "playerLastName": "Howard",
-      "avgPick": 14.6,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 3,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.28398",
+      "playerId": "28398",
       "playerFirstName": "Todd",
       "playerLastName": "Gurley",
-      "avgPick": 22.2,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 3,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.24017",
+      "playerId": "24017",
       "playerFirstName": "Rob",
       "playerLastName": "Gronkowski",
-      "avgPick": 27.8,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.25802",
+      "playerId": "25802",
       "playerFirstName": "T.Y.",
       "playerLastName": "Hilton",
-      "avgPick": 26,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 3,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.25807",
+      "playerId": "25807",
       "playerFirstName": "Lamar",
       "playerLastName": "Miller",
-      "avgPick": 31.2,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.25105",
+      "playerId": "25105",
       "playerFirstName": "Doug",
       "playerLastName": "Baldwin",
-      "avgPick": 20.7,
-      "avgRound": 2.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.28537",
+      "playerId": "28537",
       "playerFirstName": "Jay",
       "playerLastName": "Ajayi",
-      "avgPick": 10.1,
-      "avgRound": 1.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.25711",
+      "playerId": "25711",
       "playerFirstName": "Andrew",
       "playerLastName": "Luck",
-      "avgPick": 87.9,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.27585",
+      "playerId": "27585",
       "playerFirstName": "Carlos",
       "playerLastName": "Hyde",
-      "avgPick": 40.9,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.30117",
+      "playerId": "30117",
       "playerFirstName": "Leonard",
       "playerLastName": "Fournette",
-      "avgPick": 22.3,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.23997",
+      "playerId": "23997",
       "playerFirstName": "Demaryius",
       "playerLastName": "Thomas",
-      "avgPick": 35.2,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.29238",
+      "playerId": "29238",
       "playerFirstName": "Ezekiel",
       "playerLastName": "Elliott",
-      "avgPick": 15.2,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 4,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 21.7,
-      "avgRound": 2.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 4,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.26817",
+      "playerId": "26817",
       "playerFirstName": "Spencer",
       "playerLastName": "Ware",
-      "avgPick": 61.7,
-      "avgRound": 6.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 4,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.25755",
+      "playerId": "25755",
       "playerFirstName": "Alshon",
       "playerLastName": "Jeffery",
-      "avgPick": 39.2,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.25681",
+      "playerId": "25681",
       "playerFirstName": "Terrelle",
       "playerLastName": "Pryor Sr.",
-      "avgPick": 30.6,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 32.6,
-      "avgRound": 3.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 50.1,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.27581",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 42.8,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 43.7,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.28390",
+      "playerId": "28390",
       "playerFirstName": "Marcus",
       "playerLastName": "Mariota",
-      "avgPick": 57,
-      "avgRound": 6.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 5,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.28482",
+      "playerId": "28482",
       "playerFirstName": "Ty",
       "playerLastName": "Montgomery II",
-      "avgPick": 49.7,
-      "avgRound": 5.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 5,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 31.9,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.6770",
+      "playerId": "6770",
       "playerFirstName": "Ben",
       "playerLastName": "Roethlisberger",
-      "avgPick": 73.6,
-      "avgRound": 8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 5,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.27591",
+      "playerId": "27591",
       "playerFirstName": "Jarvis",
       "playerLastName": "Landry",
-      "avgPick": 69.8,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.30121",
+      "playerId": "30121",
       "playerFirstName": "Christian",
       "playerLastName": "McCaffrey",
-      "avgPick": 29.7,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.9496",
+      "playerId": "9496",
       "playerFirstName": "Julian",
       "playerLastName": "Edelman",
-      "avgPick": 51.7,
-      "avgRound": 5.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 5,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.27589",
+      "playerId": "27589",
       "playerFirstName": "Allen",
       "playerLastName": "Robinson",
-      "avgPick": 47.5,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 5,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.9274",
+      "playerId": "9274",
       "playerFirstName": "Michael",
       "playerLastName": "Crabtree",
-      "avgPick": 46.8,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.24035",
+      "playerId": "24035",
       "playerFirstName": "Golden",
       "playerLastName": "Tate",
-      "avgPick": 69.3,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.9560",
+      "playerId": "9560",
       "playerFirstName": "Danny",
       "playerLastName": "Woodhead",
-      "avgPick": 101.4,
-      "avgRound": 10.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 6,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.6762",
+      "playerId": "6762",
       "playerFirstName": "Larry",
       "playerLastName": "Fitzgerald",
-      "avgPick": 59.5,
-      "avgRound": 6.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 6,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.9265",
+      "playerId": "9265",
       "playerFirstName": "Matthew",
       "playerLastName": "Stafford",
-      "avgPick": 112,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 6,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.25741",
+      "playerId": "25741",
       "playerFirstName": "Doug",
       "playerLastName": "Martin",
-      "avgPick": 101.1,
-      "avgRound": 10.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 6,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.26708",
+      "playerId": "26708",
       "playerFirstName": "Jordan",
       "playerLastName": "Reed",
-      "avgPick": 52.9,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.27556",
+      "playerId": "27556",
       "playerFirstName": "Kelvin",
       "playerLastName": "Benjamin",
-      "avgPick": 57.3,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.8266",
+      "playerId": "8266",
       "playerFirstName": "Marshawn",
       "playerLastName": "Lynch",
-      "avgPick": 39,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 6,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.27532",
+      "playerId": "27532",
       "playerFirstName": "Sammy",
       "playerLastName": "Watkins",
-      "avgPick": 61.3,
-      "avgRound": 6.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.26878",
+      "playerId": "26878",
       "playerFirstName": "C.J.",
       "playerLastName": "Anderson",
-      "avgPick": 71.9,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 6,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.27564",
+      "playerId": "27564",
       "playerFirstName": "Derek",
       "playerLastName": "Carr",
-      "avgPick": 99.1,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 6,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.7868",
+      "playerId": "7868",
       "playerFirstName": "Brandon",
       "playerLastName": "Marshall",
-      "avgPick": 95.1,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 7,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.28026",
+      "playerId": "28026",
       "playerFirstName": "Willie",
       "playerLastName": "Snead IV",
-      "avgPick": 94.1,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 7,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.29399",
+      "playerId": "29399",
       "playerFirstName": "Tyreek",
       "playerLastName": "Hill",
-      "avgPick": 42.5,
-      "avgRound": 4.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.28389",
+      "playerId": "28389",
       "playerFirstName": "Jameis",
       "playerLastName": "Winston",
-      "avgPick": 70.5,
-      "avgRound": 7.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 7,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.24788",
+      "playerId": "24788",
       "playerFirstName": "Cam",
       "playerLastName": "Newton",
-      "avgPick": 73.2,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.30161",
+      "playerId": "30161",
       "playerFirstName": "Joe",
       "playerLastName": "Mixon",
-      "avgPick": 51.6,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.8285",
+      "playerId": "8285",
       "playerFirstName": "Greg",
       "playerLastName": "Olsen",
-      "avgPick": 43.9,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 7,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.27646",
+      "playerId": "27646",
       "playerFirstName": "Martavis",
       "playerLastName": "Bryant",
-      "avgPick": 51.2,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 7,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.24057",
+      "playerId": "24057",
       "playerFirstName": "Emmanuel",
       "playerLastName": "Sanders",
-      "avgPick": 58,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 7,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 91.9,
-      "avgRound": 10
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 7,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.25812",
+      "playerId": "25812",
       "playerFirstName": "Kirk",
       "playerLastName": "Cousins",
-      "avgPick": 72.9,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 8,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.28014",
+      "playerId": "28014",
       "playerFirstName": "Isaiah",
       "playerLastName": "Crowell",
-      "avgPick": 29.3,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 8,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.24913",
+      "playerId": "24913",
       "playerFirstName": "Bilal",
       "playerLastName": "Powell",
-      "avgPick": 95.6,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 8,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.8826",
+      "playerId": "8826",
       "playerFirstName": "DeSean",
       "playerLastName": "Jackson",
-      "avgPick": 82.8,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 8,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.29369",
+      "playerId": "29369",
       "playerFirstName": "Dak",
       "playerLastName": "Prescott",
-      "avgPick": 90,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.24318",
+      "playerId": "24318",
       "playerFirstName": "LeGarrette",
       "playerLastName": "Blount",
-      "avgPick": 94.3,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.28442",
+      "playerId": "28442",
       "playerFirstName": "Ameer",
       "playerLastName": "Abdullah",
-      "avgPick": 86.9,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 8,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.28493",
+      "playerId": "28493",
       "playerFirstName": "Jamison",
       "playerLastName": "Crowder",
-      "avgPick": 66,
-      "avgRound": 7.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 8,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.24815",
+      "playerId": "24815",
       "playerFirstName": "Mark",
       "playerLastName": "Ingram II",
-      "avgPick": 77.9,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 8,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.24967",
+      "playerId": "24967",
       "playerFirstName": "Tyrod",
       "playerLastName": "Taylor",
-      "avgPick": 129.9,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 8,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.7924",
+      "playerId": "7924",
       "playerFirstName": "Delanie",
       "playerLastName": "Walker",
-      "avgPick": 69,
-      "avgRound": 7.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 9,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.29383",
+      "playerId": "29383",
       "playerFirstName": "Paul",
       "playerLastName": "Perkins",
-      "avgPick": 97.2,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 9,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.30154",
+      "playerId": "30154",
       "playerFirstName": "Dalvin",
       "playerLastName": "Cook",
-      "avgPick": 39.9,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.28461",
+      "playerId": "28461",
       "playerFirstName": "Tevin",
       "playerLastName": "Coleman",
-      "avgPick": 88.4,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 9,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.24070",
+      "playerId": "24070",
       "playerFirstName": "Jimmy",
       "playerLastName": "Graham",
-      "avgPick": 50.5,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.6763",
+      "playerId": "6763",
       "playerFirstName": "Philip",
       "playerLastName": "Rivers",
-      "avgPick": 103.4,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.26684",
+      "playerId": "26684",
       "playerFirstName": "Eddie",
       "playerLastName": "Lacy",
-      "avgPick": 91.6,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 9,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.7241",
+      "playerId": "7241",
       "playerFirstName": "Frank",
       "playerLastName": "Gore",
-      "avgPick": 106.7,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 9,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.27618",
+      "playerId": "27618",
       "playerFirstName": "Donte",
       "playerLastName": "Moncrief",
-      "avgPick": 109.1,
-      "avgRound": 11.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 9,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.24062",
+      "playerId": "24062",
       "playerFirstName": "Eric",
       "playerLastName": "Decker",
-      "avgPick": 109.2,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 9,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.9283",
+      "playerId": "9283",
       "playerFirstName": "Jeremy",
       "playerLastName": "Maclin",
-      "avgPick": 105.2,
-      "avgRound": 11.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 10,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.8781",
+      "playerId": "8781",
       "playerFirstName": "Darren",
       "playerLastName": "McFadden",
-      "avgPick": 111.8,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 10,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.28714",
+      "playerId": "28714",
       "playerFirstName": "Thomas",
       "playerLastName": "Rawls",
-      "avgPick": 118.9,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 10,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.29324",
+      "playerId": "29324",
       "playerFirstName": "C.J.",
       "playerLastName": "Prosise",
-      "avgPick": 125.7,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 10,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.8261",
+      "playerId": "8261",
       "playerFirstName": "Adrian",
       "playerLastName": "Peterson",
-      "avgPick": 81.3,
-      "avgRound": 8.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.27570",
+      "playerId": "27570",
       "playerFirstName": "Jordan",
       "playerLastName": "Matthews",
-      "avgPick": 126.9,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.8982",
+      "playerId": "8982",
       "playerFirstName": "Pierre",
       "playerLastName": "Garcon",
-      "avgPick": 105.2,
-      "avgRound": 11.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 10,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.30120",
+      "playerId": "30120",
       "playerFirstName": "Mike",
       "playerLastName": "Williams",
       "avgPick": null,
@@ -1196,348 +1216,348 @@
       "round": 10,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.28697",
+      "playerId": "28697",
       "playerFirstName": "Cameron",
       "playerLastName": "Meredith",
-      "avgPick": 103,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 10,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.8838",
+      "playerId": "8838",
       "playerFirstName": "Martellus",
       "playerLastName": "Bennett",
-      "avgPick": 74.9,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 10,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.29694",
+      "playerId": "29694",
       "playerFirstName": "Rob",
       "playerLastName": "Kelley",
-      "avgPick": 104.4,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 11,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.9294",
+      "playerId": "9294",
       "playerFirstName": "Kenny",
       "playerLastName": "Britt",
-      "avgPick": 116.5,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 11,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.30118",
+      "playerId": "30118",
       "playerFirstName": "Corey",
       "playerLastName": "Davis",
-      "avgPick": 126.4,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.26644",
+      "playerId": "26644",
       "playerFirstName": "Tyler",
       "playerLastName": "Eifert",
-      "avgPick": 66.7,
-      "avgRound": 7.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 11,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.26822",
+      "playerId": "26822",
       "playerFirstName": "Theo",
       "playerLastName": "Riddick",
-      "avgPick": 125.5,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.27622",
+      "playerId": "27622",
       "playerFirstName": "Terrance",
       "playerLastName": "West",
-      "avgPick": 116.4,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.30227",
+      "playerId": "30227",
       "playerFirstName": "Samaje",
       "playerLastName": "Perine",
-      "avgPick": 119.8,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 11,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.29236",
+      "playerId": "29236",
       "playerFirstName": "Carson",
       "playerLastName": "Wentz",
-      "avgPick": 129.9,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 11,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.6760",
+      "playerId": "6760",
       "playerFirstName": "Eli",
       "playerLastName": "Manning",
-      "avgPick": 123.3,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 11,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.28402",
+      "playerId": "28402",
       "playerFirstName": "DeVante",
       "playerLastName": "Parker",
-      "avgPick": 78.2,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 11,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.26658",
+      "playerId": "26658",
       "playerFirstName": "Zach",
       "playerLastName": "Ertz",
-      "avgPick": 84.5,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 12,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.26787",
+      "playerId": "26787",
       "playerFirstName": "Mike",
       "playerLastName": "Gillislee",
-      "avgPick": 78.6,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 12,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.24830",
+      "playerId": "24830",
       "playerFirstName": "Kyle",
       "playerLastName": "Rudolph",
-      "avgPick": 70.2,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 12,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.29269",
+      "playerId": "29269",
       "playerFirstName": "Hunter",
       "playerLastName": "Henry",
-      "avgPick": 107.9,
-      "avgRound": 11.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 12,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.24851",
+      "playerId": "24851",
       "playerFirstName": "Randall",
       "playerLastName": "Cobb",
-      "avgPick": 110.3,
-      "avgRound": 11.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 12,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.25876",
+      "playerId": "25876",
       "playerFirstName": "Marvin",
       "playerLastName": "Jones Jr.",
-      "avgPick": 128.2,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.24822",
+      "playerId": "24822",
       "playerFirstName": "Andy",
       "playerLastName": "Dalton",
-      "avgPick": 118.5,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 12,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.27277",
+      "playerId": "27277",
       "playerFirstName": "Adam",
       "playerLastName": "Thielen",
-      "avgPick": 123.1,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 12,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.24932",
+      "playerId": "24932",
       "playerFirstName": "Jacquizz",
       "playerLastName": "Rodgers",
-      "avgPick": 123.7,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 12,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.29249",
+      "playerId": "29249",
       "playerFirstName": "Corey",
       "playerLastName": "Coleman",
-      "avgPick": 129.6,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 12,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.30150",
+      "playerId": "30150",
       "playerFirstName": "Zay",
       "playerLastName": "Jones",
-      "avgPick": 130.1,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 13,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.27619",
+      "playerId": "27619",
       "playerFirstName": "John",
       "playerLastName": "Brown",
-      "avgPick": 120.6,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.28691",
+      "playerId": "28691",
       "playerFirstName": "Tyrell",
       "playerLastName": "Williams",
-      "avgPick": 96.4,
-      "avgRound": 10.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.26534",
+      "playerId": "26534",
       "playerFirstName": "Justin",
       "playerLastName": "Tucker",
-      "avgPick": 80,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 13,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.28395",
+      "playerId": "28395",
       "playerFirstName": "Kevin",
       "playerLastName": "White",
-      "avgPick": 127.9,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 13,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.8850",
+      "playerId": "8850",
       "playerFirstName": "Jamaal",
       "playerLastName": "Charles",
-      "avgPick": 123.8,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.7867",
+      "playerId": "7867",
       "playerFirstName": "Stephen",
       "playerLastName": "Gostkowski",
-      "avgPick": 79,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 13,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.27583",
+      "playerId": "27583",
       "playerFirstName": "Jeremy",
       "playerLastName": "Hill",
-      "avgPick": 119.2,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 13,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.25937",
+      "playerId": "25937",
       "playerFirstName": "Rishard",
       "playerLastName": "Matthews",
-      "avgPick": 116.9,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 13,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.29235",
+      "playerId": "29235",
       "playerFirstName": "Jared",
       "playerLastName": "Goff",
       "avgPick": null,
@@ -1548,117 +1568,117 @@
       "round": 13,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.8795",
+      "playerId": "8795",
       "playerFirstName": "Joe",
       "playerLastName": "Flacco",
-      "avgPick": 130,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 14,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.6337",
+      "playerId": "6337",
       "playerFirstName": "Carson",
       "playerLastName": "Palmer",
-      "avgPick": 130.3,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 14,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.6243",
+      "playerId": "6243",
       "playerFirstName": "Matt",
       "playerLastName": "Bryant",
-      "avgPick": 94.5,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 14,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.30125",
+      "playerId": "30125",
       "playerFirstName": "Deshaun",
       "playerLastName": "Watson",
-      "avgPick": 122.8,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 14,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.100034",
+      "playerId": "100034",
       "playerFirstName": "Texans",
       "playerLastName": "",
-      "avgPick": 75.7,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 14,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.23976",
+      "playerId": "23976",
       "playerFirstName": "Sam",
       "playerLastName": "Bradford",
-      "avgPick": 125.1,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 14,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.27531",
+      "playerId": "27531",
       "playerFirstName": "Blake",
       "playerLastName": "Bortles",
-      "avgPick": 133.4,
-      "avgRound": 14.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 14,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.100026",
+      "playerId": "100026",
       "playerFirstName": "Seahawks",
       "playerLastName": "",
-      "avgPick": 72.6,
-      "avgRound": 8.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 14,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.27658",
+      "playerId": "27658",
       "playerFirstName": "James",
       "playerLastName": "White",
-      "avgPick": 122.2,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 14,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.100007",
+      "playerId": "100007",
       "playerFirstName": "Broncos",
       "playerLastName": "",
-      "avgPick": 69.8,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 14,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.9547",
+      "playerId": "9547",
       "playerFirstName": "Brian",
       "playerLastName": "Hoyer",
       "avgPick": null,
@@ -1669,220 +1689,220 @@
       "round": 15,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.8447",
+      "playerId": "8447",
       "playerFirstName": "Mason",
       "playerLastName": "Crosby",
-      "avgPick": 90.1,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 15,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.100016",
+      "playerId": "100016",
       "playerFirstName": "Vikings",
       "playerLastName": "",
-      "avgPick": 86.1,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 15,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.29256",
+      "playerId": "29256",
       "playerFirstName": "Josh",
       "playerLastName": "Doctson",
-      "avgPick": 130.9,
-      "avgRound": 15.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 15,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.27120",
+      "playerId": "27120",
       "playerFirstName": "Brandon",
       "playerLastName": "McManus",
-      "avgPick": 120.4,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 15,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.25427",
+      "playerId": "25427",
       "playerFirstName": "Dan",
       "playerLastName": "Bailey",
-      "avgPick": 88.3,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 15,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.100022",
+      "playerId": "100022",
       "playerFirstName": "Cardinals",
       "playerLastName": "",
-      "avgPick": 87.6,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 15,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.3727",
+      "playerId": "3727",
       "playerFirstName": "Adam",
       "playerLastName": "Vinatieri",
-      "avgPick": 98.2,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 15,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.9066",
+      "playerId": "9066",
       "playerFirstName": "Stephen",
       "playerLastName": "Hauschka",
-      "avgPick": 109.9,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 15,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.100017",
+      "playerId": "100017",
       "playerFirstName": "Patriots",
       "playerLastName": "",
-      "avgPick": 88.4,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 15,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.30209",
+      "playerId": "30209",
       "playerFirstName": "Kenny",
       "playerLastName": "Golladay",
-      "avgPick": 121.2,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 151,
       "round": 16,
       "teamId": "t.2",
       "teamName": "Fusilli",
-      "playerId": "371.p.27538",
+      "playerId": "27538",
       "playerFirstName": "Eric",
       "playerLastName": "Ebron",
-      "avgPick": 126.3,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 152,
       "round": 16,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "371.p.29274",
+      "playerId": "29274",
       "playerFirstName": "Sterling",
       "playerLastName": "Shepard",
-      "avgPick": 125.4,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 153,
       "round": 16,
       "teamId": "t.10",
       "teamName": "Steeler Virginity",
-      "playerId": "371.p.100012",
+      "playerId": "100012",
       "playerFirstName": "Chiefs",
       "playerLastName": "",
-      "avgPick": 77.1,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 154,
       "round": 16,
       "teamId": "t.9",
       "teamName": "Dak Out For Haramabe",
-      "playerId": "371.p.24936",
+      "playerId": "24936",
       "playerFirstName": "Dion",
       "playerLastName": "Lewis",
-      "avgPick": 119.1,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 155,
       "round": 16,
       "teamId": "t.8",
       "teamName": "Show me your TD's",
-      "playerId": "371.p.25793",
+      "playerId": "25793",
       "playerFirstName": "Mohamed",
       "playerLastName": "Sanu",
-      "avgPick": 121.3,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 156,
       "round": 16,
       "teamId": "t.3",
       "teamName": "Younghoe Koo's Ideas",
-      "playerId": "371.p.8790",
+      "playerId": "8790",
       "playerFirstName": "Jonathan",
       "playerLastName": "Stewart",
-      "avgPick": 117.9,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 157,
       "round": 16,
       "teamId": "t.1",
       "teamName": "Stairway to Evans",
-      "playerId": "371.p.30122",
+      "playerId": "30122",
       "playerFirstName": "John",
       "playerLastName": "Ross",
-      "avgPick": 123.7,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 158,
       "round": 16,
       "teamId": "t.7",
       "teamName": "Utku Gull's Squad",
-      "playerId": "371.p.30199",
+      "playerId": "30199",
       "playerFirstName": "Kareem",
       "playerLastName": "Hunt",
-      "avgPick": 47.3,
-      "avgRound": 5.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 159,
       "round": 16,
       "teamId": "t.4",
       "teamName": "Carr Insurance",
-      "playerId": "371.p.29754",
+      "playerId": "29754",
       "playerFirstName": "Wil",
       "playerLastName": "Lutz",
-      "avgPick": 136.7,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 160,
       "round": 16,
       "teamId": "t.6",
       "teamName": "Washington Foreskins",
-      "playerId": "371.p.26813",
+      "playerId": "26813",
       "playerFirstName": "Rex",
       "playerLastName": "Burkhead",
-      "avgPick": 124.6,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -2821,6 +2841,598 @@
       "isComplete": true,
       "isPlayoff": true,
       "isConsolation": true
+    }
+  ],
+  "trades": [
+    {
+      "id": "371.l.155538.tr.37",
+      "year": 2017,
+      "date": "2017-09-04T17:25:44.000Z",
+      "timestamp": 1504545944,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Stairway to Evans",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Jarvis Landry",
+            "Lamar Miller"
+          ],
+          "received": [
+            "Mike Evans",
+            "Donte Moncrief"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Steeler Virginity",
+          "manager": "--hidden--",
+          "sent": [
+            "Mike Evans",
+            "Donte Moncrief"
+          ],
+          "received": [
+            "Jarvis Landry",
+            "Lamar Miller"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.45",
+      "year": 2017,
+      "date": "2017-09-08T00:21:05.000Z",
+      "timestamp": 1504830065,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Utku Gull's Squad",
+          "manager": "Chase Bergman",
+          "sent": [
+            "James White"
+          ],
+          "received": [
+            "Danny Amendola"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "Danny Amendola"
+          ],
+          "received": [
+            "James White"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.73",
+      "year": 2017,
+      "date": "2017-09-18T01:59:25.000Z",
+      "timestamp": 1505699965,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Younghoe Koo's Ideas",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Terrance West"
+          ],
+          "received": [
+            "Jay Cutler"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Carr Insurance",
+          "manager": "GOBOL",
+          "sent": [
+            "Jay Cutler"
+          ],
+          "received": [
+            "Terrance West"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.86",
+      "year": 2017,
+      "date": "2017-09-21T00:12:29.000Z",
+      "timestamp": 1505952749,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Washington Foreskins",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Delanie Walker",
+            "J.J. Nelson",
+            "Le'Veon Bell"
+          ],
+          "received": [
+            "Jay Ajayi",
+            "Aaron Rodgers",
+            "Greg Olsen"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "Jay Ajayi",
+            "Aaron Rodgers",
+            "Greg Olsen"
+          ],
+          "received": [
+            "Delanie Walker",
+            "J.J. Nelson",
+            "Le'Veon Bell"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.208",
+      "year": 2017,
+      "date": "2017-10-17T14:44:53.000Z",
+      "timestamp": 1508251493,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Utku Gull's Squad",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Dez Bryant",
+            "C.J. Anderson"
+          ],
+          "received": [
+            "Rob Gronkowski",
+            "Amari Cooper"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Carr Insurance",
+          "manager": "GOBOL",
+          "sent": [
+            "Rob Gronkowski",
+            "Amari Cooper"
+          ],
+          "received": [
+            "Dez Bryant",
+            "C.J. Anderson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.209",
+      "year": 2017,
+      "date": "2017-10-18T00:02:29.000Z",
+      "timestamp": 1508284949,
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Carr Insurance",
+          "manager": "GOBOL",
+          "sent": [
+            "Ty Montgomery II",
+            "Devin Funchess"
+          ],
+          "received": [
+            "Jeremy Maclin",
+            "Larry Fitzgerald"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Fusilli",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Jeremy Maclin",
+            "Larry Fitzgerald"
+          ],
+          "received": [
+            "Ty Montgomery II",
+            "Devin Funchess"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.236",
+      "year": 2017,
+      "date": "2017-10-19T22:41:48.000Z",
+      "timestamp": 1508452908,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Teddy Bridgewater",
+            "Will Fuller V"
+          ],
+          "received": [
+            "Alex Smith"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Dak Out For Haramabe",
+          "manager": "David Rumack",
+          "sent": [
+            "Alex Smith"
+          ],
+          "received": [
+            "Teddy Bridgewater",
+            "Will Fuller V"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.245",
+      "year": 2017,
+      "date": "2017-10-24T16:28:19.000Z",
+      "timestamp": 1508862499,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Washington Foreskins",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Adam Humphries"
+          ],
+          "received": [
+            "C.J. Beathard"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Steeler Virginity",
+          "manager": "--hidden--",
+          "sent": [
+            "C.J. Beathard"
+          ],
+          "received": [
+            "Adam Humphries"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.311",
+      "year": 2017,
+      "date": "2017-11-01T23:11:41.000Z",
+      "timestamp": 1509577901,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Washington Foreskins",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Nelson Agholor",
+            "Jay Ajayi"
+          ],
+          "received": [
+            "Matthew Stafford"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Matthew Stafford"
+          ],
+          "received": [
+            "Nelson Agholor",
+            "Jay Ajayi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.315",
+      "year": 2017,
+      "date": "2017-11-02T00:02:51.000Z",
+      "timestamp": 1509580971,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Washington Foreskins",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Greg Olsen"
+          ],
+          "received": [
+            "Marshawn Lynch"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Younghoe Koo's Ideas",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Marshawn Lynch"
+          ],
+          "received": [
+            "Greg Olsen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.322",
+      "year": 2017,
+      "date": "2017-11-03T15:57:20.000Z",
+      "timestamp": 1509724640,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Steeler Virginity",
+          "manager": "--hidden--",
+          "sent": [
+            "Jay Cutler",
+            "Michael Crabtree"
+          ],
+          "received": [
+            "Andy Dalton",
+            "Matt Forte"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Younghoe Koo's Ideas",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Andy Dalton",
+            "Matt Forte"
+          ],
+          "received": [
+            "Jay Cutler",
+            "Michael Crabtree"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.323",
+      "year": 2017,
+      "date": "2017-11-04T01:04:40.000Z",
+      "timestamp": 1509757480,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Robbie Chosen",
+            "Adrian Peterson"
+          ],
+          "received": [
+            "Duke Johnson",
+            "Tyreek Hill"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Carr Insurance",
+          "manager": "GOBOL",
+          "sent": [
+            "Duke Johnson",
+            "Tyreek Hill"
+          ],
+          "received": [
+            "Robbie Chosen",
+            "Adrian Peterson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.332",
+      "year": 2017,
+      "date": "2017-11-04T17:59:19.000Z",
+      "timestamp": 1509818359,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Younghoe Koo's Ideas",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Joe Mixon"
+          ],
+          "received": [
+            "DeVante Parker"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "Stairway to Evans",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "DeVante Parker"
+          ],
+          "received": [
+            "Joe Mixon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.357",
+      "year": 2017,
+      "date": "2017-11-08T14:46:18.000Z",
+      "timestamp": 1510152378,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Robbie Chosen",
+            "Adrian Peterson"
+          ],
+          "received": [
+            "Tyreek Hill",
+            "Duke Johnson"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Carr Insurance",
+          "manager": "GOBOL",
+          "sent": [
+            "Tyreek Hill",
+            "Duke Johnson"
+          ],
+          "received": [
+            "Robbie Chosen",
+            "Adrian Peterson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.375",
+      "year": 2017,
+      "date": "2017-11-12T04:53:48.000Z",
+      "timestamp": 1510462428,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Nelson Agholor",
+            "Stefon Diggs"
+          ],
+          "received": [
+            "Alshon Jeffery"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Dak Out For Haramabe",
+          "manager": "David Rumack",
+          "sent": [
+            "Alshon Jeffery"
+          ],
+          "received": [
+            "Nelson Agholor",
+            "Stefon Diggs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.390",
+      "year": 2017,
+      "date": "2017-11-14T19:26:45.000Z",
+      "timestamp": 1510687605,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Stairway to Evans",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Derrick Henry",
+            "Julio Jones",
+            "Joe Mixon"
+          ],
+          "received": [
+            "Le'Veon Bell",
+            "Jordan Matthews"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "Le'Veon Bell",
+            "Jordan Matthews"
+          ],
+          "received": [
+            "Derrick Henry",
+            "Julio Jones",
+            "Joe Mixon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.394",
+      "year": 2017,
+      "date": "2017-11-14T20:38:33.000Z",
+      "timestamp": 1510691913,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Utku Gull's Squad",
+          "manager": "Chase Bergman",
+          "sent": [
+            "T.Y. Hilton",
+            "Mark Ingram II"
+          ],
+          "received": [
+            "Sterling Shepard",
+            "Jay Ajayi"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Sterling Shepard",
+            "Jay Ajayi"
+          ],
+          "received": [
+            "T.Y. Hilton",
+            "Mark Ingram II"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "371.l.155538.tr.423",
+      "year": 2017,
+      "date": "2017-11-15T23:29:54.000Z",
+      "timestamp": 1510788594,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Washington Foreskins",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Cooper Kupp",
+            "Jordan Howard"
+          ],
+          "received": [
+            "A.J. Green"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Fusilli",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "A.J. Green"
+          ],
+          "received": [
+            "Cooper Kupp",
+            "Jordan Howard"
+          ]
+        }
+      ]
     }
   ]
 }

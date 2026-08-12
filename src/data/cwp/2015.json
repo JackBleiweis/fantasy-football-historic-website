@@ -3,64 +3,18 @@
   "leagueId": "cwp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "You're My Boy Blue",
-      "manager": "Jack Bleiweis",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "rank": 9,
-      "playoffSeed": null,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25288357186_8314ffef60.jpg"
-    },
-    {
-      "id": "t.2",
-      "name": "CMN's Fried Chicken",
-      "manager": "Ty Greenberg",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 5,
-      "playoffSeed": 5,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24700183754_928ac739e8.jpg"
-    },
-    {
-      "id": "t.3",
-      "name": "Taboo Johnson",
-      "manager": "Chase Bergman",
+      "id": "t.8",
+      "name": "Victorious Secret",
+      "manager": "Zach Weisleder",
       "wins": 8,
       "losses": 6,
       "ties": 0,
-      "rank": 3,
-      "playoffSeed": 4,
+      "rank": 1,
+      "playoffSeed": 3,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24694207643_307b2ae88a.jpg"
-    },
-    {
-      "id": "t.4",
-      "name": "Gotta Catch Jamaal",
-      "manager": "Grant Roth",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 6,
-      "playoffSeed": 6,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1.png"
-    },
-    {
-      "id": "t.5",
-      "name": "EveryDay Im Russel'n",
-      "manager": "Alex Borje",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "rank": 7,
-      "playoffSeed": 8,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24693263683_5674c4348f.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24711734103_8a76a97751.jpg",
+      "moves": 68,
+      "tradesCount": 10
     },
     {
       "id": "t.6",
@@ -72,7 +26,23 @@
       "rank": 2,
       "playoffSeed": 1,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24970560019_087f79ec7f.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24970560019_087f79ec7f.jpg",
+      "moves": 50,
+      "tradesCount": 4
+    },
+    {
+      "id": "t.3",
+      "name": "Taboo Johnson",
+      "manager": "Chase Bergman",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "rank": 3,
+      "playoffSeed": 4,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24694207643_307b2ae88a.jpg",
+      "moves": 24,
+      "tradesCount": 7
     },
     {
       "id": "t.7",
@@ -84,19 +54,51 @@
       "rank": 4,
       "playoffSeed": 2,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png",
+      "moves": 63,
+      "tradesCount": 1
     },
     {
-      "id": "t.8",
-      "name": "Victorious Secret",
-      "manager": "Zach Weisleder",
-      "wins": 8,
-      "losses": 6,
+      "id": "t.2",
+      "name": "CMN's Fried Chicken",
+      "manager": "Ty Greenberg",
+      "wins": 7,
+      "losses": 7,
       "ties": 0,
-      "rank": 1,
-      "playoffSeed": 3,
+      "rank": 5,
+      "playoffSeed": 5,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24711734103_8a76a97751.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24700183754_928ac739e8.jpg",
+      "moves": 32,
+      "tradesCount": 9
+    },
+    {
+      "id": "t.4",
+      "name": "Gotta Catch Jamaal",
+      "manager": "Grant Roth",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 6,
+      "isCommissioner": false,
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1.png",
+      "moves": 5,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.5",
+      "name": "EveryDay Im Russel'n",
+      "manager": "Alex Borje",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 7,
+      "playoffSeed": 8,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24693263683_5674c4348f.jpg",
+      "moves": 15,
+      "tradesCount": 1
     },
     {
       "id": "t.9",
@@ -108,19 +110,37 @@
       "rank": 8,
       "playoffSeed": 7,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25367748986_a731dc75fe.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25367748986_a731dc75fe.jpg",
+      "moves": 17,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.1",
+      "name": "You're My Boy Blue",
+      "manager": "Jack Bleiweis",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 9,
+      "playoffSeed": 0,
+      "isCommissioner": true,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25288357186_8314ffef60.jpg",
+      "moves": 13,
+      "tradesCount": 2
     },
     {
       "id": "t.10",
       "name": "Suddenly Seymour",
-      "manager": "--hidden--",
+      "manager": "Ben Roher",
       "wins": 3,
       "losses": 11,
       "ties": 0,
       "rank": 10,
-      "playoffSeed": null,
+      "playoffSeed": 0,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_12.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_12.png",
+      "moves": 5,
+      "tradesCount": 3
     }
   ],
   "draft": [
@@ -129,1437 +149,1437 @@
       "round": 1,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 16.2,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.25711",
+      "playerId": "25711",
       "playerFirstName": "Andrew",
       "playerLastName": "Luck",
-      "avgPick": 14,
-      "avgRound": 1.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.26671",
+      "playerId": "26671",
       "playerFirstName": "Le'Veon",
       "playerLastName": "Bell",
-      "avgPick": 5.7,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.26684",
+      "playerId": "26684",
       "playerFirstName": "Eddie",
       "playerLastName": "Lacy",
-      "avgPick": 3.7,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.24793",
+      "playerId": "24793",
       "playerFirstName": "Julio",
       "playerLastName": "Jones",
-      "avgPick": 13.3,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.8261",
+      "playerId": "8261",
       "playerFirstName": "Adrian",
       "playerLastName": "Peterson",
-      "avgPick": 2.2,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.8266",
+      "playerId": "8266",
       "playerFirstName": "Marshawn",
       "playerLastName": "Lynch",
-      "avgPick": 2.9,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.24171",
+      "playerId": "24171",
       "playerFirstName": "Antonio",
       "playerLastName": "Brown",
-      "avgPick": 6.4,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.24017",
+      "playerId": "24017",
       "playerFirstName": "Rob",
       "playerLastName": "Gronkowski",
-      "avgPick": 8.4,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 31.1,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 2,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.24858",
+      "playerId": "24858",
       "playerFirstName": "DeMarco",
       "playerLastName": "Murray",
-      "avgPick": 13.8,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 2,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.9527",
+      "playerId": "9527",
       "playerFirstName": "Arian",
       "playerLastName": "Foster",
-      "avgPick": 71.7,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.8256",
+      "playerId": "8256",
       "playerFirstName": "Calvin",
       "playerLastName": "Johnson",
-      "avgPick": 15.8,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.4256",
+      "playerId": "4256",
       "playerFirstName": "Peyton",
       "playerLastName": "Manning",
-      "avgPick": 38.5,
-      "avgRound": 4.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.23999",
+      "playerId": "23999",
       "playerFirstName": "Dez",
       "playerLastName": "Bryant",
-      "avgPick": 8.4,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 10,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.24791",
+      "playerId": "24791",
       "playerFirstName": "A.J.",
       "playerLastName": "Green",
-      "avgPick": 20.6,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.8813",
+      "playerId": "8813",
       "playerFirstName": "Jordy",
       "playerLastName": "Nelson",
-      "avgPick": 21.2,
-      "avgRound": 2.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.8850",
+      "playerId": "8850",
       "playerFirstName": "Jamaal",
       "playerLastName": "Charles",
-      "avgPick": 3,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.23997",
+      "playerId": "23997",
       "playerFirstName": "Demaryius",
       "playerLastName": "Thomas",
-      "avgPick": 11.6,
-      "avgRound": 1.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 3,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.24851",
+      "playerId": "24851",
       "playerFirstName": "Randall",
       "playerLastName": "Cobb",
-      "avgPick": 22.3,
-      "avgRound": 2.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.25883",
+      "playerId": "25883",
       "playerFirstName": "Alfred",
       "playerLastName": "Morris",
-      "avgPick": 48.3,
-      "avgRound": 5.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.25755",
+      "playerId": "25755",
       "playerFirstName": "Alshon",
       "playerLastName": "Jeffery",
-      "avgPick": 24.1,
-      "avgRound": 3.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.8821",
+      "playerId": "8821",
       "playerFirstName": "Matt",
       "playerLastName": "Forte",
-      "avgPick": 16,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.26878",
+      "playerId": "26878",
       "playerFirstName": "C.J.",
       "playerLastName": "Anderson",
-      "avgPick": 15.8,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.5479",
+      "playerId": "5479",
       "playerFirstName": "Drew",
       "playerLastName": "Brees",
-      "avgPick": 35.5,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.24070",
+      "playerId": "24070",
       "playerFirstName": "Jimmy",
       "playerLastName": "Graham",
-      "avgPick": 31.2,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.6770",
+      "playerId": "6770",
       "playerFirstName": "Ben",
       "playerLastName": "Roethlisberger",
-      "avgPick": 42.8,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.25802",
+      "playerId": "25802",
       "playerFirstName": "T.Y.",
       "playerLastName": "Hilton",
-      "avgPick": 27.2,
-      "avgRound": 3.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.27583",
+      "playerId": "27583",
       "playerFirstName": "Jeremy",
       "playerLastName": "Hill",
-      "avgPick": 13.7,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 4,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 27.8,
-      "avgRound": 3.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 4,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.25807",
+      "playerId": "25807",
       "playerFirstName": "Lamar",
       "playerLastName": "Miller",
-      "avgPick": 36.7,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 4,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.24057",
+      "playerId": "24057",
       "playerFirstName": "Emmanuel",
       "playerLastName": "Sanders",
-      "avgPick": 36.6,
-      "avgRound": 4.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 4,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.8780",
+      "playerId": "8780",
       "playerFirstName": "Matt",
       "playerLastName": "Ryan",
-      "avgPick": 55.7,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 4,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 32,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 4,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.9317",
+      "playerId": "9317",
       "playerFirstName": "LeSean",
       "playerLastName": "McCoy",
-      "avgPick": 21.7,
-      "avgRound": 2.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.27556",
+      "playerId": "27556",
       "playerFirstName": "Kelvin",
       "playerLastName": "Benjamin",
-      "avgPick": 37.9,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.24815",
+      "playerId": "24815",
       "playerFirstName": "Mark",
       "playerLastName": "Ingram II",
-      "avgPick": 38.4,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 34.2,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.28403",
+      "playerId": "28403",
       "playerFirstName": "Melvin",
       "playerLastName": "Gordon III",
-      "avgPick": 37.2,
-      "avgRound": 4.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 5,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.24788",
+      "playerId": "24788",
       "playerFirstName": "Cam",
       "playerLastName": "Newton",
-      "avgPick": 77.1,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.9283",
+      "playerId": "9283",
       "playerFirstName": "Jeremy",
       "playerLastName": "Maclin",
-      "avgPick": 65.6,
-      "avgRound": 7.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.9265",
+      "playerId": "9265",
       "playerFirstName": "Matthew",
       "playerLastName": "Stafford",
-      "avgPick": 96.5,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.6624",
+      "playerId": "6624",
       "playerFirstName": "Tony",
       "playerLastName": "Romo",
-      "avgPick": 55.6,
-      "avgRound": 6.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 5,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.9010",
+      "playerId": "9010",
       "playerFirstName": "Justin",
       "playerLastName": "Forsett",
-      "avgPick": 24,
-      "avgRound": 2.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 5,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.26660",
+      "playerId": "26660",
       "playerFirstName": "Giovani",
       "playerLastName": "Bernard",
-      "avgPick": 106.1,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 5,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.26810",
+      "playerId": "26810",
       "playerFirstName": "Andre",
       "playerLastName": "Ellington",
-      "avgPick": 59.1,
-      "avgRound": 6.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 5,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.5228",
+      "playerId": "5228",
       "playerFirstName": "Tom",
       "playerLastName": "Brady",
-      "avgPick": 65,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.27585",
+      "playerId": "27585",
       "playerFirstName": "Carlos",
       "playerLastName": "Hyde",
-      "avgPick": 54.2,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.28398",
+      "playerId": "28398",
       "playerFirstName": "Todd",
       "playerLastName": "Gurley",
-      "avgPick": 78.6,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 6,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.27532",
+      "playerId": "27532",
       "playerFirstName": "Sammy",
       "playerLastName": "Watkins",
-      "avgPick": 63.6,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 6,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.6339",
+      "playerId": "6339",
       "playerFirstName": "Andre",
       "playerLastName": "Johnson",
-      "avgPick": 38.9,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 6,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.8285",
+      "playerId": "8285",
       "playerFirstName": "Greg",
       "playerLastName": "Olsen",
-      "avgPick": 45.9,
-      "avgRound": 5.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 6,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.9496",
+      "playerId": "9496",
       "playerFirstName": "Julian",
       "playerLastName": "Edelman",
-      "avgPick": 53.5,
-      "avgRound": 6.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 6,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.6763",
+      "playerId": "6763",
       "playerFirstName": "Philip",
       "playerLastName": "Rivers",
-      "avgPick": 107.3,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 6,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.25718",
+      "playerId": "25718",
       "playerFirstName": "Ryan",
       "playerLastName": "Tannehill",
-      "avgPick": 94.6,
-      "avgRound": 10.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 47.8,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.8826",
+      "playerId": "8826",
       "playerFirstName": "DeSean",
       "playerLastName": "Jackson",
-      "avgPick": 49.4,
-      "avgRound": 5.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.6760",
+      "playerId": "6760",
       "playerFirstName": "Eli",
       "playerLastName": "Manning",
-      "avgPick": 71.4,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 6,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.27570",
+      "playerId": "27570",
       "playerFirstName": "Jordan",
       "playerLastName": "Matthews",
-      "avgPick": 33.3,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 7,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 52.8,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.24035",
+      "playerId": "24035",
       "playerFirstName": "Golden",
       "playerLastName": "Tate",
-      "avgPick": 50.8,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.7241",
+      "playerId": "7241",
       "playerFirstName": "Frank",
       "playerLastName": "Gore",
-      "avgPick": 33.1,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.8795",
+      "playerId": "8795",
       "playerFirstName": "Joe",
       "playerLastName": "Flacco",
-      "avgPick": 128.7,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 7,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.27591",
+      "playerId": "27591",
       "playerFirstName": "Jarvis",
       "playerLastName": "Landry",
-      "avgPick": 81.8,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 7,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.27646",
+      "playerId": "27646",
       "playerFirstName": "Martavis",
       "playerLastName": "Bryant",
-      "avgPick": 76.8,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 7,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.7237",
+      "playerId": "7237",
       "playerFirstName": "Vincent",
       "playerLastName": "Jackson",
-      "avgPick": 68.4,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 7,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.8790",
+      "playerId": "8790",
       "playerFirstName": "Jonathan",
       "playerLastName": "Stewart",
-      "avgPick": 78.6,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 7,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 55.6,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 7,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.6405",
+      "playerId": "6405",
       "playerFirstName": "Jason",
       "playerLastName": "Witten",
-      "avgPick": 63.2,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 8,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.23976",
+      "playerId": "23976",
       "playerFirstName": "Sam",
       "playerLastName": "Bradford",
-      "avgPick": 115.8,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 8,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.27560",
+      "playerId": "27560",
       "playerFirstName": "Teddy",
       "playerLastName": "Bridgewater",
-      "avgPick": 118.9,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 8,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.26774",
+      "playerId": "26774",
       "playerFirstName": "Joseph",
       "playerLastName": "Randle",
-      "avgPick": 54.8,
-      "avgRound": 6.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 8,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.7847",
+      "playerId": "7847",
       "playerFirstName": "Owen",
       "playerLastName": "Daniels",
-      "avgPick": 116,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 8,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.28461",
+      "playerId": "28461",
       "playerFirstName": "Tevin",
       "playerLastName": "Coleman",
-      "avgPick": 108.5,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 8,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.26804",
+      "playerId": "26804",
       "playerFirstName": "Latavius",
       "playerLastName": "Murray",
-      "avgPick": 39.9,
-      "avgRound": 4.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 8,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.9348",
+      "playerId": "9348",
       "playerFirstName": "Mike",
       "playerLastName": "Wallace",
-      "avgPick": 87.7,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.24823",
+      "playerId": "24823",
       "playerFirstName": "Colin",
       "playerLastName": "Kaepernick",
-      "avgPick": 123.2,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.7868",
+      "playerId": "7868",
       "playerFirstName": "Brandon",
       "playerLastName": "Marshall",
-      "avgPick": 49.4,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 8,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.28424",
+      "playerId": "28424",
       "playerFirstName": "T.J.",
       "playerLastName": "Yeldon",
-      "avgPick": 84.5,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 9,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.23984",
+      "playerId": "23984",
       "playerFirstName": "C.J.",
       "playerLastName": "Spiller",
-      "avgPick": 89.9,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.24889",
+      "playerId": "24889",
       "playerFirstName": "Jordan",
       "playerLastName": "Cameron",
-      "avgPick": 69.9,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.28395",
+      "playerId": "28395",
       "playerFirstName": "Kevin",
       "playerLastName": "White",
-      "avgPick": 110.6,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.8838",
+      "playerId": "8838",
       "playerFirstName": "Martellus",
       "playerLastName": "Bennett",
-      "avgPick": 59.5,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 9,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.6337",
+      "playerId": "6337",
       "playerFirstName": "Carson",
       "playerLastName": "Palmer",
-      "avgPick": 126.3,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 9,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.24262",
+      "playerId": "24262",
       "playerFirstName": "Joique",
       "playerLastName": "Bell",
-      "avgPick": 107.9,
-      "avgRound": 11.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 9,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.7203",
+      "playerId": "7203",
       "playerFirstName": "Roddy",
       "playerLastName": "White",
-      "avgPick": 95.1,
-      "avgRound": 10.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 9,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.25723",
+      "playerId": "25723",
       "playerFirstName": "Michael",
       "playerLastName": "Floyd",
-      "avgPick": 120.8,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 9,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.7760",
+      "playerId": "7760",
       "playerFirstName": "Jay",
       "playerLastName": "Cutler",
-      "avgPick": 131.3,
-      "avgRound": 14.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 9,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.9514",
+      "playerId": "9514",
       "playerFirstName": "Rashad",
       "playerLastName": "Jennings",
-      "avgPick": 99.7,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 10,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.27603",
+      "playerId": "27603",
       "playerFirstName": "Tre",
       "playerLastName": "Mason",
-      "avgPick": 120.7,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 10,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.28408",
+      "playerId": "28408",
       "playerFirstName": "Nelson",
       "playerLastName": "Agholor",
-      "avgPick": 98.9,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 10,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.7177",
+      "playerId": "7177",
       "playerFirstName": "Alex",
       "playerLastName": "Smith",
-      "avgPick": 119.3,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 10,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.8781",
+      "playerId": "8781",
       "playerFirstName": "Darren",
       "playerLastName": "McFadden",
-      "avgPick": 113.9,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 10,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.27589",
+      "playerId": "27589",
       "playerFirstName": "Allen",
       "playerLastName": "Robinson",
-      "avgPick": 68.3,
-      "avgRound": 7.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 10,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.24916",
+      "playerId": "24916",
       "playerFirstName": "Julius",
       "playerLastName": "Thomas",
-      "avgPick": 89.3,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 10,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.27564",
+      "playerId": "27564",
       "playerFirstName": "Derek",
       "playerLastName": "Carr",
-      "avgPick": 119.6,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.26658",
+      "playerId": "26658",
       "playerFirstName": "Zach",
       "playerLastName": "Ertz",
-      "avgPick": 94.4,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.24318",
+      "playerId": "24318",
       "playerFirstName": "LeGarrette",
       "playerLastName": "Blount",
-      "avgPick": 90.9,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 10,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.26839",
+      "playerId": "26839",
       "playerFirstName": "Charles",
       "playerLastName": "Johnson",
-      "avgPick": 107.2,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 11,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.28442",
+      "playerId": "28442",
       "playerFirstName": "Ameer",
       "playerLastName": "Abdullah",
-      "avgPick": 78.3,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.24553",
+      "playerId": "24553",
       "playerFirstName": "Victor",
       "playerLastName": "Cruz",
-      "avgPick": 113,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.24845",
+      "playerId": "24845",
       "playerFirstName": "Torrey",
       "playerLastName": "Smith",
-      "avgPick": 110.9,
-      "avgRound": 12.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.5521",
+      "playerId": "5521",
       "playerFirstName": "Steve",
       "playerLastName": "Smith",
-      "avgPick": 94.4,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 11,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.28414",
+      "playerId": "28414",
       "playerFirstName": "Breshad",
       "playerLastName": "Perriman",
-      "avgPick": 126.7,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 11,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.7924",
+      "playerId": "7924",
       "playerFirstName": "Delanie",
       "playerLastName": "Walker",
-      "avgPick": 89.4,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 11,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.28390",
+      "playerId": "28390",
       "playerFirstName": "Marcus",
       "playerLastName": "Mariota",
-      "avgPick": 119.8,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 11,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.24843",
+      "playerId": "24843",
       "playerFirstName": "Shane",
       "playerLastName": "Vereen",
-      "avgPick": 119.2,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 11,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.28389",
+      "playerId": "28389",
       "playerFirstName": "Jameis",
       "playerLastName": "Winston",
-      "avgPick": 122.5,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 11,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.6762",
+      "playerId": "6762",
       "playerFirstName": "Larry",
       "playerLastName": "Fitzgerald",
-      "avgPick": 93.2,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 12,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.100026",
+      "playerId": "100026",
       "playerFirstName": "Seahawks",
       "playerLastName": "",
-      "avgPick": 63.5,
-      "avgRound": 7.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 12,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.28402",
+      "playerId": "28402",
       "playerFirstName": "DeVante",
       "playerLastName": "Parker",
-      "avgPick": 126.1,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 12,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.7867",
+      "playerId": "7867",
       "playerFirstName": "Stephen",
       "playerLastName": "Gostkowski",
-      "avgPick": 75.3,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 12,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.8982",
+      "playerId": "8982",
       "playerFirstName": "Pierre",
       "playerLastName": "Garcon",
-      "avgPick": 110.8,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 12,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.8001",
+      "playerId": "8001",
       "playerFirstName": "Marques",
       "playerLastName": "Colston",
-      "avgPick": 109.5,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 12,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.25798",
+      "playerId": "25798",
       "playerFirstName": "Nick",
       "playerLastName": "Foles",
-      "avgPick": 120.8,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 12,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.26767",
+      "playerId": "26767",
       "playerFirstName": "Kenny",
       "playerLastName": "Stills",
-      "avgPick": 127.5,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.24822",
+      "playerId": "24822",
       "playerFirstName": "Andy",
       "playerLastName": "Dalton",
-      "avgPick": 122.5,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 12,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.25774",
+      "playerId": "25774",
       "playerFirstName": "Dwayne",
       "playerLastName": "Allen",
-      "avgPick": 129.5,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 12,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.27581",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 68.4,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 13,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.24053",
+      "playerId": "24053",
       "playerFirstName": "Brandon",
       "playerLastName": "LaFell",
-      "avgPick": 113,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.24062",
+      "playerId": "24062",
       "playerFirstName": "Eric",
       "playerLastName": "Decker",
-      "avgPick": 87.2,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.9286",
+      "playerId": "9286",
       "playerFirstName": "Percy",
       "playerLastName": "Harvin",
-      "avgPick": 120.8,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.9560",
+      "playerId": "9560",
       "playerFirstName": "Danny",
       "playerLastName": "Woodhead",
-      "avgPick": 120,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 13,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.26697",
+      "playerId": "26697",
       "playerFirstName": "Terrance",
       "playerLastName": "Williams",
-      "avgPick": 123.6,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 13,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.27531",
+      "playerId": "27531",
       "playerFirstName": "Blake",
       "playerLastName": "Bortles",
-      "avgPick": 122.8,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 13,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.27619",
+      "playerId": "27619",
       "playerFirstName": "John",
       "playerLastName": "Brown",
-      "avgPick": 105.5,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 13,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.100002",
+      "playerId": "100002",
       "playerFirstName": "Bills",
       "playerLastName": "",
-      "avgPick": 70.7,
-      "avgRound": 8.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 13,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.23987",
+      "playerId": "23987",
       "playerFirstName": "Ryan",
       "playerLastName": "Mathews",
-      "avgPick": 117.3,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 13,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.28014",
+      "playerId": "28014",
       "playerFirstName": "Isaiah",
       "playerLastName": "Crowell",
-      "avgPick": 116,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 14,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.26657",
+      "playerId": "26657",
       "playerFirstName": "Justin",
       "playerLastName": "Hunter",
       "avgPick": null,
@@ -1570,183 +1590,183 @@
       "round": 14,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.28526",
+      "playerId": "28526",
       "playerFirstName": "David",
       "playerLastName": "Cobb",
-      "avgPick": 124.6,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 14,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.9274",
+      "playerId": "9274",
       "playerFirstName": "Michael",
       "playerLastName": "Crabtree",
-      "avgPick": 123.4,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 14,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.24400",
+      "playerId": "24400",
       "playerFirstName": "Chris",
       "playerLastName": "Ivory",
-      "avgPick": 88.8,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 14,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.27618",
+      "playerId": "27618",
       "playerFirstName": "Donte",
       "playerLastName": "Moncrief",
-      "avgPick": 113.6,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 14,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.27584",
+      "playerId": "27584",
       "playerFirstName": "Cody",
       "playerLastName": "Latimer",
-      "avgPick": 125.6,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 14,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.100020",
+      "playerId": "100020",
       "playerFirstName": "Jets",
       "playerLastName": "",
-      "avgPick": 122.4,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 14,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.3727",
+      "playerId": "3727",
       "playerFirstName": "Adam",
       "playerLastName": "Vinatieri",
-      "avgPick": 82.6,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 14,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.8447",
+      "playerId": "8447",
       "playerFirstName": "Mason",
       "playerLastName": "Crosby",
-      "avgPick": 99.3,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 14,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.28474",
+      "playerId": "28474",
       "playerFirstName": "David",
       "playerLastName": "Johnson",
-      "avgPick": 121.6,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 15,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.6663",
+      "playerId": "6663",
       "playerFirstName": "Antonio",
       "playerLastName": "Gates",
-      "avgPick": 119.4,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 15,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.100034",
+      "playerId": "100034",
       "playerFirstName": "Texans",
       "playerLastName": "",
-      "avgPick": 72.9,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 15,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.100033",
+      "playerId": "100033",
       "playerFirstName": "Ravens",
       "playerLastName": "",
-      "avgPick": 102.2,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 15,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.25427",
+      "playerId": "25427",
       "playerFirstName": "Dan",
       "playerLastName": "Bailey",
-      "avgPick": 91.2,
-      "avgRound": 10
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 15,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.25741",
+      "playerId": "25741",
       "playerFirstName": "Doug",
       "playerLastName": "Martin",
-      "avgPick": 90.7,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 15,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.25703",
+      "playerId": "25703",
       "playerFirstName": "Larry",
       "playerLastName": "Donnell",
-      "avgPick": 131.8,
-      "avgRound": 14.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 15,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.100014",
+      "playerId": "100014",
       "playerFirstName": "Rams",
       "playerLastName": "",
-      "avgPick": 81.4,
-      "avgRound": 8.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 15,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.24991",
+      "playerId": "24991",
       "playerFirstName": "Virgil",
       "playerLastName": "Green",
       "avgPick": null,
@@ -1757,51 +1777,51 @@
       "round": 15,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.28428",
+      "playerId": "28428",
       "playerFirstName": "Dorial",
       "playerLastName": "Green-Beckham",
-      "avgPick": 127.2,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 15,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.27582",
+      "playerId": "27582",
       "playerFirstName": "Bishop",
       "playerLastName": "Sankey",
-      "avgPick": 123.3,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 151,
       "round": 16,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.7751",
+      "playerId": "7751",
       "playerFirstName": "Reggie",
       "playerLastName": "Bush",
-      "avgPick": 115.8,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 152,
       "round": 16,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.25105",
+      "playerId": "25105",
       "playerFirstName": "Doug",
       "playerLastName": "Baldwin",
-      "avgPick": 124.4,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 153,
       "round": 16,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.24892",
+      "playerId": "24892",
       "playerFirstName": "Roy",
       "playerLastName": "Helu",
       "avgPick": null,
@@ -1812,29 +1832,29 @@
       "round": 16,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.9066",
+      "playerId": "9066",
       "playerFirstName": "Stephen",
       "playerLastName": "Hauschka",
-      "avgPick": 94.5,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 155,
       "round": 16,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.100022",
+      "playerId": "100022",
       "playerFirstName": "Cardinals",
       "playerLastName": "",
-      "avgPick": 87.8,
-      "avgRound": 9.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 156,
       "round": 16,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.24774",
+      "playerId": "24774",
       "playerFirstName": "Andrew",
       "playerLastName": "Hawkins",
       "avgPick": null,
@@ -1845,73 +1865,73 @@
       "round": 16,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.26681",
+      "playerId": "26681",
       "playerFirstName": "Montee",
       "playerLastName": "Ball",
-      "avgPick": 116.6,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 158,
       "round": 16,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.25773",
+      "playerId": "25773",
       "playerFirstName": "Rueben",
       "playerLastName": "Randle",
-      "avgPick": 126,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 159,
       "round": 16,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.27597",
+      "playerId": "27597",
       "playerFirstName": "Charles",
       "playerLastName": "Sims",
-      "avgPick": 124.3,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 160,
       "round": 16,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.26534",
+      "playerId": "26534",
       "playerFirstName": "Justin",
       "playerLastName": "Tucker",
-      "avgPick": 116.1,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 161,
       "round": 17,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.100015",
+      "playerId": "100015",
       "playerFirstName": "Dolphins",
       "playerLastName": "",
-      "avgPick": 130.7,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 162,
       "round": 17,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.25712",
+      "playerId": "25712",
       "playerFirstName": "Robert",
       "playerLastName": "Griffin III",
-      "avgPick": 123.3,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 163,
       "round": 17,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.28458",
+      "playerId": "28458",
       "playerFirstName": "Jaelen",
       "playerLastName": "Strong",
       "avgPick": null,
@@ -1922,40 +1942,40 @@
       "round": 17,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.25876",
+      "playerId": "25876",
       "playerFirstName": "Marvin",
       "playerLastName": "Jones Jr.",
-      "avgPick": 127.5,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 165,
       "round": 17,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.100029",
+      "playerId": "100029",
       "playerFirstName": "Panthers",
       "playerLastName": "",
-      "avgPick": 134.1,
-      "avgRound": 14.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 166,
       "round": 17,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.6243",
+      "playerId": "6243",
       "playerFirstName": "Matt",
       "playerLastName": "Bryant",
-      "avgPick": 123.5,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 167,
       "round": 17,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.24860",
+      "playerId": "24860",
       "playerFirstName": "Stevan",
       "playerLastName": "Ridley",
       "avgPick": null,
@@ -1966,7 +1986,7 @@
       "round": 17,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.28513",
+      "playerId": "28513",
       "playerFirstName": "Javorius",
       "playerLastName": "Allen",
       "avgPick": null,
@@ -1977,51 +1997,51 @@
       "round": 17,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.26644",
+      "playerId": "26644",
       "playerFirstName": "Tyler",
       "playerLastName": "Eifert",
-      "avgPick": 107.7,
-      "avgRound": 11.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 170,
       "round": 17,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.6390",
+      "playerId": "6390",
       "playerFirstName": "Anquan",
       "playerLastName": "Boldin",
-      "avgPick": 100.4,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 171,
       "round": 18,
       "teamId": "t.5",
       "teamName": "EveryDay Im Russel'n",
-      "playerId": "348.p.8565",
+      "playerId": "8565",
       "playerFirstName": "Matt",
       "playerLastName": "Prater",
-      "avgPick": 112.6,
-      "avgRound": 12.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 172,
       "round": 18,
       "teamId": "t.1",
       "teamName": "You're My Boy Blue",
-      "playerId": "348.p.25793",
+      "playerId": "25793",
       "playerFirstName": "Mohamed",
       "playerLastName": "Sanu",
-      "avgPick": 121.2,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 173,
       "round": 18,
       "teamId": "t.4",
       "teamName": "Gotta Catch Jamaal",
-      "playerId": "348.p.24000",
+      "playerId": "24000",
       "playerFirstName": "Tim",
       "playerLastName": "Tebow",
       "avgPick": null,
@@ -2032,40 +2052,40 @@
       "round": 18,
       "teamId": "t.9",
       "teamName": "CG-SOMF",
-      "playerId": "348.p.7149",
+      "playerId": "7149",
       "playerFirstName": "Malcom",
       "playerLastName": "Floyd",
-      "avgPick": 127.3,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 175,
       "round": 18,
       "teamId": "t.10",
       "teamName": "Suddenly Seymour",
-      "playerId": "348.p.8063",
+      "playerId": "8063",
       "playerFirstName": "Fred",
       "playerLastName": "Jackson",
-      "avgPick": 116.9,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 176,
       "round": 18,
       "teamId": "t.6",
       "teamName": "John Lu's Girth",
-      "playerId": "348.p.25885",
+      "playerId": "25885",
       "playerFirstName": "Blair",
       "playerLastName": "Walsh",
-      "avgPick": 131.4,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 177,
       "round": 18,
       "teamId": "t.7",
       "teamName": "Suh Girls One Cup",
-      "playerId": "348.p.28537",
+      "playerId": "28537",
       "playerFirstName": "Jay",
       "playerLastName": "Ajayi",
       "avgPick": null,
@@ -2076,33 +2096,33 @@
       "round": 18,
       "teamId": "t.3",
       "teamName": "Taboo Johnson",
-      "playerId": "348.p.7776",
+      "playerId": "7776",
       "playerFirstName": "DeAngelo",
       "playerLastName": "Williams",
-      "avgPick": 114.1,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 179,
       "round": 18,
       "teamId": "t.8",
       "teamName": "Victorious Secret",
-      "playerId": "348.p.25743",
+      "playerId": "25743",
       "playerFirstName": "Brian",
       "playerLastName": "Quick",
-      "avgPick": 130.3,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 180,
       "round": 18,
       "teamId": "t.2",
       "teamName": "CMN's Fried Chicken",
-      "playerId": "348.p.25820",
+      "playerId": "25820",
       "playerFirstName": "Ladarius",
       "playerLastName": "Green",
-      "avgPick": 135.8,
-      "avgRound": 14.7
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -3041,6 +3061,722 @@
       "isComplete": true,
       "isPlayoff": true,
       "isConsolation": false
+    }
+  ],
+  "trades": [
+    {
+      "id": "348.l.689399.tr.9",
+      "year": 2015,
+      "date": "2015-08-15T21:13:18.000Z",
+      "timestamp": 1439673198,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Taboo Johnson",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Le'Veon Bell"
+          ],
+          "received": [
+            "Demaryius Thomas",
+            "T.J. Yeldon"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "CMN's Fried Chicken",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Demaryius Thomas",
+            "T.J. Yeldon"
+          ],
+          "received": [
+            "Le'Veon Bell"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.11",
+      "year": 2015,
+      "date": "2015-08-15T21:57:34.000Z",
+      "timestamp": 1439675854,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "CMN's Fried Chicken",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Melvin Gordon III",
+            "Charles Johnson"
+          ],
+          "received": [
+            "DeAndre Hopkins"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Suddenly Seymour",
+          "manager": "Ben Roher",
+          "sent": [
+            "DeAndre Hopkins"
+          ],
+          "received": [
+            "Melvin Gordon III",
+            "Charles Johnson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.34",
+      "year": 2015,
+      "date": "2015-08-20T02:07:59.000Z",
+      "timestamp": 1440036479,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "CMN's Fried Chicken",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Amari Cooper",
+            "Davante Adams",
+            "Justin Tucker"
+          ],
+          "received": [
+            "Travis Kelce",
+            "Danny Woodhead",
+            "Dan Bailey"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Travis Kelce",
+            "Danny Woodhead",
+            "Dan Bailey"
+          ],
+          "received": [
+            "Amari Cooper",
+            "Davante Adams",
+            "Justin Tucker"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.58",
+      "year": 2015,
+      "date": "2015-08-25T00:06:01.000Z",
+      "timestamp": 1440461161,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "LeGarrette Blount",
+            "Kendall Wright"
+          ],
+          "received": [
+            "T.J. Yeldon"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Taboo Johnson",
+          "manager": "Chase Bergman",
+          "sent": [
+            "T.J. Yeldon"
+          ],
+          "received": [
+            "LeGarrette Blount",
+            "Kendall Wright"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.68",
+      "year": 2015,
+      "date": "2015-08-29T21:52:26.000Z",
+      "timestamp": 1440885146,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "CMN's Fried Chicken",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Devin Funchess",
+            "Markus Wheaton"
+          ],
+          "received": [
+            "Allen Robinson"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Suddenly Seymour",
+          "manager": "Ben Roher",
+          "sent": [
+            "Allen Robinson"
+          ],
+          "received": [
+            "Devin Funchess",
+            "Markus Wheaton"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.79",
+      "year": 2015,
+      "date": "2015-09-03T19:34:13.000Z",
+      "timestamp": 1441308853,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Taboo Johnson",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Alshon Jeffery",
+            "Nick Foles"
+          ],
+          "received": [
+            "Andre Johnson",
+            "Lamar Miller"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "You're My Boy Blue",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Andre Johnson",
+            "Lamar Miller"
+          ],
+          "received": [
+            "Alshon Jeffery",
+            "Nick Foles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.81",
+      "year": 2015,
+      "date": "2015-09-04T17:46:19.000Z",
+      "timestamp": 1441388779,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "John Lu's Girth",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Doug Martin"
+          ],
+          "received": [
+            "Tyler Eifert"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "You're My Boy Blue",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Tyler Eifert"
+          ],
+          "received": [
+            "Doug Martin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.96",
+      "year": 2015,
+      "date": "2015-09-16T22:49:21.000Z",
+      "timestamp": 1442443761,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Brandon Marshall",
+            "Golden Tate",
+            "T.J. Yeldon"
+          ],
+          "received": [
+            "Kendall Wright",
+            "Mark Ingram II"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Taboo Johnson",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Kendall Wright",
+            "Mark Ingram II"
+          ],
+          "received": [
+            "Brandon Marshall",
+            "Golden Tate",
+            "T.J. Yeldon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.109",
+      "year": 2015,
+      "date": "2015-09-24T22:53:11.000Z",
+      "timestamp": 1443135191,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "John Lu's Girth",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Latavius Murray"
+          ],
+          "received": [
+            "Donte Moncrief",
+            "Matt Jones"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Donte Moncrief",
+            "Matt Jones"
+          ],
+          "received": [
+            "Latavius Murray"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.122",
+      "year": 2015,
+      "date": "2015-09-30T18:20:53.000Z",
+      "timestamp": 1443637253,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "CMN's Fried Chicken",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Allen Robinson",
+            "Jordan Reed"
+          ],
+          "received": [
+            "Brandin Cooks",
+            "Alfred Morris"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Brandin Cooks",
+            "Alfred Morris"
+          ],
+          "received": [
+            "Allen Robinson",
+            "Jordan Reed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.187",
+      "year": 2015,
+      "date": "2015-10-30T21:58:21.000Z",
+      "timestamp": 1446242301,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "CMN's Fried Chicken",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Brian Hoyer"
+          ],
+          "received": [
+            "Travis Benjamin"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "EveryDay Im Russel'n",
+          "manager": "Alex Borje",
+          "sent": [
+            "Travis Benjamin"
+          ],
+          "received": [
+            "Brian Hoyer"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.220",
+      "year": 2015,
+      "date": "2015-11-10T20:49:02.000Z",
+      "timestamp": 1447188542,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "John Lu's Girth",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Stefon Diggs",
+            "LeSean McCoy"
+          ],
+          "received": [
+            "LeGarrette Blount",
+            "Charcandrick West"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "LeGarrette Blount",
+            "Charcandrick West"
+          ],
+          "received": [
+            "Stefon Diggs",
+            "LeSean McCoy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.221",
+      "year": 2015,
+      "date": "2015-11-10T21:23:49.000Z",
+      "timestamp": 1447190629,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Brian Hoyer",
+            "Jeremy Maclin"
+          ],
+          "received": [
+            "Devin Funchess",
+            "Blake Bortles"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Suddenly Seymour",
+          "manager": "Ben Roher",
+          "sent": [
+            "Devin Funchess",
+            "Blake Bortles"
+          ],
+          "received": [
+            "Brian Hoyer",
+            "Jeremy Maclin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.223",
+      "year": 2015,
+      "date": "2015-11-11T03:57:26.000Z",
+      "timestamp": 1447214246,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Taboo Johnson",
+          "manager": "Chase Bergman",
+          "sent": [
+            "T.J. Yeldon",
+            "Frank Gore"
+          ],
+          "received": [
+            "Travis Kelce",
+            "Tyrod Taylor"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "CMN's Fried Chicken",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Travis Kelce",
+            "Tyrod Taylor"
+          ],
+          "received": [
+            "T.J. Yeldon",
+            "Frank Gore"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.286",
+      "year": 2015,
+      "date": "2015-12-01T23:22:05.000Z",
+      "timestamp": 1449012125,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "CMN's Fried Chicken",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Randall Cobb",
+            "Frank Gore"
+          ],
+          "received": [
+            "LeSean McCoy",
+            "Karlos Williams"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "LeSean McCoy",
+            "Karlos Williams"
+          ],
+          "received": [
+            "Randall Cobb",
+            "Frank Gore"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.299",
+      "year": 2015,
+      "date": "2015-12-02T22:05:43.000Z",
+      "timestamp": 1449093943,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "David Johnson"
+          ],
+          "received": [
+            "Julius Thomas"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "John Lu's Girth",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Julius Thomas"
+          ],
+          "received": [
+            "David Johnson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.313",
+      "year": 2015,
+      "date": "2015-12-09T19:39:11.000Z",
+      "timestamp": 1449689951,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Mark Ingram II"
+          ],
+          "received": [
+            "David Johnson"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "John Lu's Girth",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "David Johnson"
+          ],
+          "received": [
+            "Mark Ingram II"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.320",
+      "year": 2015,
+      "date": "2015-12-11T21:39:55.000Z",
+      "timestamp": 1449869995,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "CMN's Fried Chicken",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Brandon LaFell"
+          ],
+          "received": [
+            "Shaun Draughn"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "CG-SOMF",
+          "manager": "Hayden Katz",
+          "sent": [
+            "Shaun Draughn"
+          ],
+          "received": [
+            "Brandon LaFell"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.324",
+      "year": 2015,
+      "date": "2015-12-16T01:03:50.000Z",
+      "timestamp": 1450227830,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "John Lu's Girth",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Stevie Johnson"
+          ],
+          "received": [
+            "Shaun Draughn"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "CMN's Fried Chicken",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Shaun Draughn"
+          ],
+          "received": [
+            "Stevie Johnson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.338",
+      "year": 2015,
+      "date": "2015-12-17T03:31:02.000Z",
+      "timestamp": 1450323062,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Allen Hurns",
+            "Julian Edelman"
+          ],
+          "received": [
+            "Ryan Fitzpatrick",
+            "Dion Lewis"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Taboo Johnson",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Ryan Fitzpatrick",
+            "Dion Lewis"
+          ],
+          "received": [
+            "Allen Hurns",
+            "Julian Edelman"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.343",
+      "year": 2015,
+      "date": "2015-12-18T03:04:27.000Z",
+      "timestamp": 1450407867,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Victorious Secret",
+          "manager": "Zach Weisleder",
+          "sent": [
+            "Ryan Fitzpatrick"
+          ],
+          "received": [
+            "Tyrod Taylor"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Taboo Johnson",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Tyrod Taylor"
+          ],
+          "received": [
+            "Ryan Fitzpatrick"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "348.l.689399.tr.352",
+      "year": 2015,
+      "date": "2015-12-23T15:10:40.000Z",
+      "timestamp": 1450883440,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "John Lu's Girth",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Danny Amendola",
+            "James Starks"
+          ],
+          "received": [
+            "Bilal Powell"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Bilal Powell"
+          ],
+          "received": [
+            "Danny Amendola",
+            "James Starks"
+          ]
+        }
+      ]
     }
   ]
 }

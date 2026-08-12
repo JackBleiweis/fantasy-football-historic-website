@@ -12,79 +12,9 @@
       "rank": 1,
       "playoffSeed": 3,
       "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56468139351_4f5c94.jpg"
-    },
-    {
-      "id": "t.2",
-      "name": "Used Meal eqv.",
-      "manager": "Dustin Pulver",
-      "wins": 10,
-      "losses": 4,
-      "ties": 0,
-      "rank": 3,
-      "playoffSeed": 2,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56484360121_e27a1e.jpg"
-    },
-    {
-      "id": "t.3",
-      "name": "Show me your TD's",
-      "manager": "Ben Roher",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "rank": 5,
-      "playoffSeed": 7,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44284260402_5ef6b1.jpg"
-    },
-    {
-      "id": "t.4",
-      "name": "James White Power",
-      "manager": "Michael Kagan",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "rank": 6,
-      "playoffSeed": 5,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/42889497870_b12dca.jpg"
-    },
-    {
-      "id": "t.5",
-      "name": "Suh Girls One Cup",
-      "manager": "Jake Mintz",
-      "wins": 5,
-      "losses": 9,
-      "ties": 0,
-      "rank": 9,
-      "playoffSeed": null,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png"
-    },
-    {
-      "id": "t.6",
-      "name": "Gordo",
-      "manager": "Chase Bergman",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "rank": 7,
-      "playoffSeed": 6,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56474581421_f9adbe.jpg"
-    },
-    {
-      "id": "t.7",
-      "name": "Big Ballage Brand",
-      "manager": "Matthew Garay",
-      "wins": 5,
-      "losses": 9,
-      "ties": 0,
-      "rank": 8,
-      "playoffSeed": 8,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/43271006630_935571.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56468139351_4f5c94.jpg",
+      "moves": 37,
+      "tradesCount": 1
     },
     {
       "id": "t.8",
@@ -96,7 +26,23 @@
       "rank": 2,
       "playoffSeed": 1,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44032247782_beebc4.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44032247782_beebc4.jpg",
+      "moves": 26,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.2",
+      "name": "Used Meal eqv.",
+      "manager": "Dustin Pulver",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "rank": 3,
+      "playoffSeed": 2,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56484360121_e27a1e.jpg",
+      "moves": 61,
+      "tradesCount": 5
     },
     {
       "id": "t.9",
@@ -108,7 +54,79 @@
       "rank": 4,
       "playoffSeed": 4,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1_b.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1_b.png",
+      "moves": 65,
+      "tradesCount": 6
+    },
+    {
+      "id": "t.3",
+      "name": "Show me your TD's",
+      "manager": "Ben Roher",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 5,
+      "playoffSeed": 7,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/44284260402_5ef6b1.jpg",
+      "moves": 15,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.4",
+      "name": "James White Power",
+      "manager": "Michael Kagan",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 5,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/42889497870_b12dca.jpg",
+      "moves": 23,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.6",
+      "name": "Gordo",
+      "manager": "Chase Bergman",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 7,
+      "playoffSeed": 6,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56474581421_f9adbe.jpg",
+      "moves": 32,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.7",
+      "name": "Big Ballage Brand",
+      "manager": "Matthew Garay",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 8,
+      "playoffSeed": 8,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/43271006630_935571.jpg",
+      "moves": 41,
+      "tradesCount": 9
+    },
+    {
+      "id": "t.5",
+      "name": "Suh Girls One Cup",
+      "manager": "Jake Mintz",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 9,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png",
+      "moves": 36,
+      "tradesCount": 2
     },
     {
       "id": "t.10",
@@ -118,9 +136,11 @@
       "losses": 10,
       "ties": 0,
       "rank": 10,
-      "playoffSeed": null,
+      "playoffSeed": 0,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_6.png",
+      "moves": 68,
+      "tradesCount": 6
     }
   ],
   "draft": [
@@ -129,1679 +149,1679 @@
       "round": 1,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.30972",
+      "playerId": "30972",
       "playerFirstName": "Saquon",
       "playerLastName": "Barkley",
-      "avgPick": 1.3,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.30121",
+      "playerId": "30121",
       "playerFirstName": "Christian",
       "playerLastName": "McCaffrey",
-      "avgPick": 3.6,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.30180",
+      "playerId": "30180",
       "playerFirstName": "Alvin",
       "playerLastName": "Kamara",
-      "avgPick": 2.7,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.29238",
+      "playerId": "29238",
       "playerFirstName": "Ezekiel",
       "playerLastName": "Elliott",
-      "avgPick": 4.1,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.30123",
+      "playerId": "30123",
       "playerFirstName": "Patrick",
       "playerLastName": "Mahomes",
-      "avgPick": 16.5,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.28474",
+      "playerId": "28474",
       "playerFirstName": "David",
       "playerLastName": "Johnson",
-      "avgPick": 7.7,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 6.9,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.27581",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 9.8,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 14.2,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.26671",
+      "playerId": "26671",
       "playerFirstName": "Le'Veon",
       "playerLastName": "Bell",
-      "avgPick": 10.9,
-      "avgRound": 1.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 2,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.24793",
+      "playerId": "24793",
       "playerFirstName": "Julio",
       "playerLastName": "Jones",
-      "avgPick": 12,
-      "avgRound": 1.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 2,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.29281",
+      "playerId": "29281",
       "playerFirstName": "Michael",
       "playerLastName": "Thomas",
-      "avgPick": 13.2,
-      "avgRound": 1.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 43,
-      "avgRound": 4.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.28398",
+      "playerId": "28398",
       "playerFirstName": "Todd",
       "playerLastName": "Gurley",
-      "avgPick": 20.3,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.29399",
+      "playerId": "29399",
       "playerFirstName": "Tyreek",
       "playerLastName": "Hill",
-      "avgPick": 20.3,
-      "avgRound": 2.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.30175",
+      "playerId": "30175",
       "playerFirstName": "JuJu",
       "playerLastName": "Smith-Schuster",
-      "avgPick": 16.8,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.30218",
+      "playerId": "30218",
       "playerFirstName": "James",
       "playerLastName": "Conner",
-      "avgPick": 10.2,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 16.1,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.24171",
+      "playerId": "24171",
       "playerFirstName": "Antonio",
       "playerLastName": "Brown",
-      "avgPick": 25,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.30154",
+      "playerId": "30154",
       "playerFirstName": "Dalvin",
       "playerLastName": "Cook",
-      "avgPick": 15.4,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 3,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.30161",
+      "playerId": "30161",
       "playerFirstName": "Joe",
       "playerLastName": "Mixon",
-      "avgPick": 20,
-      "avgRound": 2.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 3,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 23.5,
-      "avgRound": 2.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 27.6,
-      "avgRound": 3.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 3,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.25802",
+      "playerId": "25802",
       "playerFirstName": "T.Y.",
       "playerLastName": "Hilton",
-      "avgPick": 39.8,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.31005",
+      "playerId": "31005",
       "playerFirstName": "Nick",
       "playerLastName": "Chubb",
-      "avgPick": 8.1,
-      "avgRound": 1.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.28403",
+      "playerId": "28403",
       "playerFirstName": "Melvin",
       "playerLastName": "Gordon III",
-      "avgPick": 45.2,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.27277",
+      "playerId": "27277",
       "playerFirstName": "Adam",
       "playerLastName": "Thielen",
-      "avgPick": 30.1,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.30256",
+      "playerId": "30256",
       "playerFirstName": "Marlon",
       "playerLastName": "Mack",
-      "avgPick": 37,
-      "avgRound": 4.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.30295",
+      "playerId": "30295",
       "playerFirstName": "Aaron",
       "playerLastName": "Jones Sr.",
-      "avgPick": 29.6,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.31013",
+      "playerId": "31013",
       "playerFirstName": "Kerryon",
       "playerLastName": "Johnson",
-      "avgPick": 31.2,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 4,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.30259",
+      "playerId": "30259",
       "playerFirstName": "George",
       "playerLastName": "Kittle",
-      "avgPick": 22.7,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 4,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.26658",
+      "playerId": "26658",
       "playerFirstName": "Zach",
       "playerLastName": "Ertz",
-      "avgPick": 28.8,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 32,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 4,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.30125",
+      "playerId": "30125",
       "playerFirstName": "Deshaun",
       "playerLastName": "Watson",
-      "avgPick": 40.1,
-      "avgRound": 4.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 4,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 34.8,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.9496",
+      "playerId": "9496",
       "playerFirstName": "Julian",
       "playerLastName": "Edelman",
-      "avgPick": 42.5,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.27631",
+      "playerId": "27631",
       "playerFirstName": "Devonta",
       "playerLastName": "Freeman",
-      "avgPick": 32.2,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.25711",
+      "playerId": "25711",
       "playerFirstName": "Andrew",
       "playerLastName": "Luck",
-      "avgPick": 55,
-      "avgRound": 6.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.30117",
+      "playerId": "30117",
       "playerFirstName": "Leonard",
       "playerLastName": "Fournette",
-      "avgPick": 34.6,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.26664",
+      "playerId": "26664",
       "playerFirstName": "Robert",
       "playerLastName": "Woods",
-      "avgPick": 40.1,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.28115",
+      "playerId": "28115",
       "playerFirstName": "Damien",
       "playerLastName": "Williams",
-      "avgPick": 25.5,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 5,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.30182",
+      "playerId": "30182",
       "playerFirstName": "Cooper",
       "playerLastName": "Kupp",
-      "avgPick": 65,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.31856",
+      "playerId": "31856",
       "playerFirstName": "Josh",
       "playerLastName": "Jacobs",
-      "avgPick": 49.5,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 5,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 41.1,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.30209",
+      "playerId": "30209",
       "playerFirstName": "Kenny",
       "playerLastName": "Golladay",
-      "avgPick": 51.8,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 5,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.30971",
+      "playerId": "30971",
       "playerFirstName": "Baker",
       "playerLastName": "Mayfield",
-      "avgPick": 50.6,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 5,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.27658",
+      "playerId": "27658",
       "playerFirstName": "James",
       "playerLastName": "White",
-      "avgPick": 83,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.31001",
+      "playerId": "31001",
       "playerFirstName": "Sony",
       "playerLastName": "Michel",
-      "avgPick": 50.1,
-      "avgRound": 5.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.30362",
+      "playerId": "30362",
       "playerFirstName": "Chris",
       "playerLastName": "Carson",
-      "avgPick": 52.6,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.31905",
+      "playerId": "31905",
       "playerFirstName": "David",
       "playerLastName": "Montgomery",
-      "avgPick": 48.4,
-      "avgRound": 5.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 6,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.29288",
+      "playerId": "29288",
       "playerFirstName": "Tyler",
       "playerLastName": "Boyd",
-      "avgPick": 62.3,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 6,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.30197",
+      "playerId": "30197",
       "playerFirstName": "Chris",
       "playerLastName": "Godwin Jr.",
-      "avgPick": 42,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.28457",
+      "playerId": "28457",
       "playerFirstName": "Tyler",
       "playerLastName": "Lockett",
-      "avgPick": 56,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 6,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.24791",
+      "playerId": "24791",
       "playerFirstName": "A.J.",
       "playerLastName": "Green",
-      "avgPick": 85.1,
-      "avgRound": 9.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 6,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.29279",
+      "playerId": "29279",
       "playerFirstName": "Derrick",
       "playerLastName": "Henry",
-      "avgPick": 35,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 6,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.27591",
+      "playerId": "27591",
       "playerFirstName": "Jarvis",
       "playerLastName": "Landry",
-      "avgPick": 74.1,
-      "avgRound": 8.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 6,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.27589",
+      "playerId": "27589",
       "playerFirstName": "Allen",
       "playerLastName": "Robinson",
-      "avgPick": 64.9,
-      "avgRound": 7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.30994",
+      "playerId": "30994",
       "playerFirstName": "DJ",
       "playerLastName": "Moore",
-      "avgPick": 79.7,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 6,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.25755",
+      "playerId": "25755",
       "playerFirstName": "Alshon",
       "playerLastName": "Jeffery",
-      "avgPick": 77.2,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 6,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.30996",
+      "playerId": "30996",
       "playerFirstName": "Calvin",
       "playerLastName": "Ridley",
-      "avgPick": 70,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 7,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.24815",
+      "playerId": "24815",
       "playerFirstName": "Mark",
       "playerLastName": "Ingram II",
-      "avgPick": 47.7,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 7,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.30423",
+      "playerId": "30423",
       "playerFirstName": "Austin",
       "playerLastName": "Ekeler",
-      "avgPick": 100.3,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.31017",
+      "playerId": "31017",
       "playerFirstName": "Christian",
       "playerLastName": "Kirk",
-      "avgPick": 96.8,
-      "avgRound": 10.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 7,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.8780",
+      "playerId": "8780",
       "playerFirstName": "Matt",
       "playerLastName": "Ryan",
-      "avgPick": 59,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 7,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.30232",
+      "playerId": "30232",
       "playerFirstName": "Tarik",
       "playerLastName": "Cohen",
-      "avgPick": 87.5,
-      "avgRound": 9.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 7,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.30120",
+      "playerId": "30120",
       "playerFirstName": "Mike",
       "playerLastName": "Williams",
-      "avgPick": 62.2,
-      "avgRound": 6.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 7,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 67.7,
-      "avgRound": 7.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.30132",
+      "playerId": "30132",
       "playerFirstName": "O.J.",
       "playerLastName": "Howard",
-      "avgPick": 52.1,
-      "avgRound": 5.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 7,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.29236",
+      "playerId": "29236",
       "playerFirstName": "Carson",
       "playerLastName": "Wentz",
-      "avgPick": 72.9,
-      "avgRound": 8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 7,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.31014",
+      "playerId": "31014",
       "playerFirstName": "Dante",
       "playerLastName": "Pettis",
-      "avgPick": 117.1,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 8,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.31379",
+      "playerId": "31379",
       "playerFirstName": "Phillip",
       "playerLastName": "Lindsay",
-      "avgPick": 61.2,
-      "avgRound": 6.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 8,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.29785",
+      "playerId": "29785",
       "playerFirstName": "Robbie",
       "playerLastName": "Chosen",
-      "avgPick": 84.2,
-      "avgRound": 9.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.24788",
+      "playerId": "24788",
       "playerFirstName": "Cam",
       "playerLastName": "Newton",
-      "avgPick": 76.8,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 8,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.5479",
+      "playerId": "5479",
       "playerFirstName": "Drew",
       "playerLastName": "Brees",
-      "avgPick": 71.3,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 8,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.30153",
+      "playerId": "30153",
       "playerFirstName": "Curtis",
       "playerLastName": "Samuel",
-      "avgPick": 100.9,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 8,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.29269",
+      "playerId": "29269",
       "playerFirstName": "Hunter",
       "playerLastName": "Henry",
-      "avgPick": 59.7,
-      "avgRound": 6.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 8,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.29255",
+      "playerId": "29255",
       "playerFirstName": "Will",
       "playerLastName": "Fuller V",
-      "avgPick": 94,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 8,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.28461",
+      "playerId": "28461",
       "playerFirstName": "Tevin",
       "playerLastName": "Coleman",
-      "avgPick": 80.5,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 8,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.29235",
+      "playerId": "29235",
       "playerFirstName": "Jared",
       "playerLastName": "Goff",
-      "avgPick": 95.4,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 8,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.6770",
+      "playerId": "6770",
       "playerFirstName": "Ben",
       "playerLastName": "Roethlisberger",
-      "avgPick": 112.6,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 9,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.30136",
+      "playerId": "30136",
       "playerFirstName": "Evan",
       "playerLastName": "Engram",
-      "avgPick": 57.4,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 9,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.30142",
+      "playerId": "30142",
       "playerFirstName": "David",
       "playerLastName": "Njoku",
-      "avgPick": 85.1,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.31010",
+      "playerId": "31010",
       "playerFirstName": "Courtland",
       "playerLastName": "Sutton",
-      "avgPick": 123.7,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 9,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.6762",
+      "playerId": "6762",
       "playerFirstName": "Larry",
       "playerLastName": "Fitzgerald",
-      "avgPick": 110.5,
-      "avgRound": 11.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 9,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.27538",
+      "playerId": "27538",
       "playerFirstName": "Eric",
       "playerLastName": "Ebron",
-      "avgPick": 97.9,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 9,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.29307",
+      "playerId": "29307",
       "playerFirstName": "Kenyan",
       "playerLastName": "Drake",
-      "avgPick": 87.9,
-      "avgRound": 9.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 9,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.31029",
+      "playerId": "31029",
       "playerFirstName": "Derrius",
       "playerLastName": "Guice",
-      "avgPick": 102.8,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.30118",
+      "playerId": "30118",
       "playerFirstName": "Corey",
       "playerLastName": "Davis",
-      "avgPick": 100.9,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 9,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.31833",
+      "playerId": "31833",
       "playerFirstName": "Kyler",
       "playerLastName": "Murray",
-      "avgPick": 89.5,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 9,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.6763",
+      "playerId": "6763",
       "playerFirstName": "Philip",
       "playerLastName": "Rivers",
-      "avgPick": 117.7,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 10,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.29274",
+      "playerId": "29274",
       "playerFirstName": "Sterling",
       "playerLastName": "Shepard",
-      "avgPick": 106.7,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 10,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.30997",
+      "playerId": "30997",
       "playerFirstName": "Rashaad",
       "playerLastName": "Penny",
-      "avgPick": 113.3,
-      "avgRound": 12.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.25807",
+      "playerId": "25807",
       "playerFirstName": "Lamar",
       "playerLastName": "Miller",
-      "avgPick": 96.4,
-      "avgRound": 10.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 10,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.24057",
+      "playerId": "24057",
       "playerFirstName": "Emmanuel",
       "playerLastName": "Sanders",
-      "avgPick": 118.5,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 10,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.31021",
+      "playerId": "31021",
       "playerFirstName": "Anthony",
       "playerLastName": "Miller",
-      "avgPick": 129.1,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 10,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.25876",
+      "playerId": "25876",
       "playerFirstName": "Marvin",
       "playerLastName": "Jones Jr.",
-      "avgPick": 116.3,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 10,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.9353",
+      "playerId": "9353",
       "playerFirstName": "Jared",
       "playerLastName": "Cook",
-      "avgPick": 66.7,
-      "avgRound": 7.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 10,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.31002",
+      "playerId": "31002",
       "playerFirstName": "Lamar",
       "playerLastName": "Jackson",
-      "avgPick": 98.4,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 10,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.28389",
+      "playerId": "28389",
       "playerFirstName": "Jameis",
       "playerLastName": "Winston",
-      "avgPick": 114.5,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 10,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.29719",
+      "playerId": "29719",
       "playerFirstName": "Geronimo",
       "playerLastName": "Allison",
-      "avgPick": 127.5,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 11,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.30223",
+      "playerId": "30223",
       "playerFirstName": "Dede",
       "playerLastName": "Westbrook",
-      "avgPick": 98,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 11,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.27532",
+      "playerId": "27532",
       "playerFirstName": "Sammy",
       "playerLastName": "Watkins",
-      "avgPick": 98.9,
-      "avgRound": 10.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.31896",
+      "playerId": "31896",
       "playerFirstName": "DK",
       "playerLastName": "Metcalf",
-      "avgPick": 124.8,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 11,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.5228",
+      "playerId": "5228",
       "playerFirstName": "Tom",
       "playerLastName": "Brady",
-      "avgPick": 101.2,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 11,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.30199",
+      "playerId": "30199",
       "playerFirstName": "Kareem",
       "playerLastName": "Hunt",
-      "avgPick": 117.3,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 11,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.30115",
+      "playerId": "30115",
       "playerFirstName": "Mitchell",
       "playerLastName": "Trubisky",
-      "avgPick": 125,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 11,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.29384",
+      "playerId": "29384",
       "playerFirstName": "Jordan",
       "playerLastName": "Howard",
-      "avgPick": 103,
-      "avgRound": 11.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.8826",
+      "playerId": "8826",
       "playerFirstName": "DeSean",
       "playerLastName": "Jackson",
-      "avgPick": 120.3,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 11,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.31885",
+      "playerId": "31885",
       "playerFirstName": "Miles",
       "playerLastName": "Sanders",
-      "avgPick": 84.7,
-      "avgRound": 9.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 11,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.25812",
+      "playerId": "25812",
       "playerFirstName": "Kirk",
       "playerLastName": "Cousins",
-      "avgPick": 127.4,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 12,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.31144",
+      "playerId": "31144",
       "playerFirstName": "Marquez",
       "playerLastName": "Valdes-Scantling",
-      "avgPick": 124,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 12,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.31073",
+      "playerId": "31073",
       "playerFirstName": "Keke",
       "playerLastName": "Coutee",
-      "avgPick": 121.8,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.26804",
+      "playerId": "26804",
       "playerFirstName": "Latavius",
       "playerLastName": "Murray",
-      "avgPick": 102.6,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 12,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.31864",
+      "playerId": "31864",
       "playerFirstName": "N'Keal",
       "playerLastName": "Harry",
-      "avgPick": 122.6,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 12,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.29315",
+      "playerId": "29315",
       "playerFirstName": "Austin",
       "playerLastName": "Hooper",
-      "avgPick": 104.9,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 12,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.28691",
+      "playerId": "28691",
       "playerFirstName": "Tyrell",
       "playerLastName": "Williams",
-      "avgPick": 122.9,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 12,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.31221",
+      "playerId": "31221",
       "playerFirstName": "Justin",
       "playerLastName": "Jackson",
-      "avgPick": 126.4,
-      "avgRound": 14.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 12,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.30973",
+      "playerId": "30973",
       "playerFirstName": "Sam",
       "playerLastName": "Darnold",
-      "avgPick": 127.3,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 12,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.31857",
+      "playerId": "31857",
       "playerFirstName": "Hollywood",
       "playerLastName": "Brown",
-      "avgPick": 122.1,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 12,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.29369",
+      "playerId": "29369",
       "playerFirstName": "Dak",
       "playerLastName": "Prescott",
-      "avgPick": 113.4,
-      "avgRound": 12.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 13,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.30977",
+      "playerId": "30977",
       "playerFirstName": "Josh",
       "playerLastName": "Allen",
-      "avgPick": 130.2,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 13,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.27585",
+      "playerId": "27585",
       "playerFirstName": "Carlos",
       "playerLastName": "Hyde",
-      "avgPick": 123.4,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.31030",
+      "playerId": "31030",
       "playerFirstName": "James",
       "playerLastName": "Washington",
-      "avgPick": 123.4,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 13,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.27618",
+      "playerId": "27618",
       "playerFirstName": "Donte",
       "playerLastName": "Moncrief",
-      "avgPick": 125.7,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 13,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.31041",
+      "playerId": "31041",
       "playerFirstName": "Royce",
       "playerLastName": "Freeman",
-      "avgPick": 109.4,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 13,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.31008",
+      "playerId": "31008",
       "playerFirstName": "Ronald",
       "playerLastName": "Jones",
-      "avgPick": 128,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 13,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.30552",
+      "playerId": "30552",
       "playerFirstName": "Matt",
       "playerLastName": "Breida",
-      "avgPick": 114.6,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.27619",
+      "playerId": "27619",
       "playerFirstName": "John",
       "playerLastName": "Brown",
-      "avgPick": 128.6,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 13,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.31902",
+      "playerId": "31902",
       "playerFirstName": "Darrell",
       "playerLastName": "Henderson Jr.",
-      "avgPick": 120.5,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 13,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.28493",
+      "playerId": "28493",
       "playerFirstName": "Jamison",
       "playerLastName": "Crowder",
-      "avgPick": 127.4,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 14,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.31919",
+      "playerId": "31919",
       "playerFirstName": "Damien",
       "playerLastName": "Harris",
-      "avgPick": 126.2,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 14,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.25881",
+      "playerId": "25881",
       "playerFirstName": "Greg",
       "playerLastName": "Zuerlein",
-      "avgPick": 78.2,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 14,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.100003",
+      "playerId": "100003",
       "playerFirstName": "Bears",
       "playerLastName": "",
-      "avgPick": 65,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 14,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.7924",
+      "playerId": "7924",
       "playerFirstName": "Delanie",
       "playerLastName": "Walker",
-      "avgPick": 114.5,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 14,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.31051",
+      "playerId": "31051",
       "playerFirstName": "Michael",
       "playerLastName": "Gallup",
-      "avgPick": 120.3,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 14,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.26534",
+      "playerId": "26534",
       "playerFirstName": "Justin",
       "playerLastName": "Tucker",
-      "avgPick": 86,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 14,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.31960",
+      "playerId": "31960",
       "playerFirstName": "Tony",
       "playerLastName": "Pollard",
-      "avgPick": 117.1,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 14,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.8261",
+      "playerId": "8261",
       "playerFirstName": "Adrian",
       "playerLastName": "Peterson",
-      "avgPick": 121.4,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 14,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.31888",
+      "playerId": "31888",
       "playerFirstName": "Mecole",
       "playerLastName": "Hardman Jr.",
-      "avgPick": 124.2,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 14,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.24035",
+      "playerId": "24035",
       "playerFirstName": "Golden",
       "playerLastName": "Tate",
-      "avgPick": 123.6,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 15,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.30346",
+      "playerId": "30346",
       "playerFirstName": "Harrison",
       "playerLastName": "Butker",
-      "avgPick": 88.8,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 15,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.100014",
+      "playerId": "100014",
       "playerFirstName": "Rams",
       "playerLastName": "",
-      "avgPick": 75.7,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 15,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.7867",
+      "playerId": "7867",
       "playerFirstName": "Stephen",
       "playerLastName": "Gostkowski",
-      "avgPick": 94.3,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 15,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.100026",
+      "playerId": "100026",
       "playerFirstName": "Seahawks",
       "playerLastName": "",
-      "avgPick": 136.4,
-      "avgRound": 14.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 15,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.31840",
+      "playerId": "31840",
       "playerFirstName": "T.J.",
       "playerLastName": "Hockenson",
-      "avgPick": 127.3,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 15,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.29754",
+      "playerId": "29754",
       "playerFirstName": "Wil",
       "playerLastName": "Lutz",
-      "avgPick": 104.8,
-      "avgRound": 11.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 15,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.100034",
+      "playerId": "100034",
       "playerFirstName": "Texans",
       "playerLastName": "",
-      "avgPick": 118.8,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 15,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.8285",
+      "playerId": "8285",
       "playerFirstName": "Greg",
       "playerLastName": "Olsen",
-      "avgPick": 123.8,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 15,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.100021",
+      "playerId": "100021",
       "playerFirstName": "Eagles",
       "playerLastName": "",
-      "avgPick": 128.7,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 15,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.7520",
+      "playerId": "7520",
       "playerFirstName": "Robbie",
       "playerLastName": "Gould",
-      "avgPick": 122.2,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 151,
       "round": 16,
       "teamId": "t.9",
       "teamName": "Juulio Jones",
-      "playerId": "390.p.100006",
+      "playerId": "100006",
       "playerFirstName": "Cowboys",
       "playerLastName": "",
-      "avgPick": 131.1,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 152,
       "round": 16,
       "teamId": "t.8",
       "teamName": "La Viande Saumon",
-      "playerId": "390.p.27590",
+      "playerId": "27590",
       "playerFirstName": "Jimmy",
       "playerLastName": "Garoppolo",
-      "avgPick": 129.4,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 153,
       "round": 16,
       "teamId": "t.3",
       "teamName": "Show me your TD's",
-      "playerId": "390.p.25712",
+      "playerId": "25712",
       "playerFirstName": "Robert",
       "playerLastName": "Griffin III",
       "avgPick": null,
@@ -1812,77 +1832,77 @@
       "round": 16,
       "teamId": "t.4",
       "teamName": "James White Power",
-      "playerId": "390.p.29792",
+      "playerId": "29792",
       "playerFirstName": "Ka'imi",
       "playerLastName": "Fairbairn",
-      "avgPick": 108.3,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 155,
       "round": 16,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "390.p.100005",
+      "playerId": "100005",
       "playerFirstName": "Browns",
       "playerLastName": "",
-      "avgPick": 102.9,
-      "avgRound": 10.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 156,
       "round": 16,
       "teamId": "t.10",
       "teamName": "The Wife Beders",
-      "playerId": "390.p.31891",
+      "playerId": "31891",
       "playerFirstName": "Parris",
       "playerLastName": "Campbell",
-      "avgPick": 126,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 157,
       "round": 16,
       "teamId": "t.6",
       "teamName": "Gordo",
-      "playerId": "390.p.8447",
+      "playerId": "8447",
       "playerFirstName": "Mason",
       "playerLastName": "Crosby",
-      "avgPick": 123.7,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 158,
       "round": 16,
       "teamId": "t.7",
       "teamName": "Big Ballage Brand",
-      "playerId": "390.p.100033",
+      "playerId": "100033",
       "playerFirstName": "Ravens",
       "playerLastName": "",
-      "avgPick": 94.4,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 159,
       "round": 16,
       "teamId": "t.1",
       "teamName": "AB Please Stop",
-      "playerId": "390.p.30266",
+      "playerId": "30266",
       "playerFirstName": "Jake",
       "playerLastName": "Elliott",
-      "avgPick": 138.5,
-      "avgRound": 14.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 160,
       "round": 16,
       "teamId": "t.2",
       "teamName": "Used Meal eqv.",
-      "playerId": "390.p.31868",
+      "playerId": "31868",
       "playerFirstName": "Deebo",
-      "playerLastName": "Samuel",
-      "avgPick": 125,
-      "avgRound": 13.2
+      "playerLastName": "Samuel Sr.",
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -2821,6 +2841,598 @@
       "isComplete": true,
       "isPlayoff": true,
       "isConsolation": true
+    }
+  ],
+  "trades": [
+    {
+      "id": "390.l.511708.tr.29",
+      "year": 2019,
+      "date": "2019-08-25T03:18:42.000Z",
+      "timestamp": 1566703122,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Big Ballage Brand",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Alvin Kamara"
+          ],
+          "received": [
+            "Russell Wilson",
+            "JuJu Smith-Schuster",
+            "Derrius Guice"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            "Russell Wilson",
+            "JuJu Smith-Schuster",
+            "Derrius Guice"
+          ],
+          "received": [
+            "Alvin Kamara"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.35",
+      "year": 2019,
+      "date": "2019-08-31T16:41:17.000Z",
+      "timestamp": 1567269677,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Juulio Jones",
+          "manager": "Buddy Marcello",
+          "sent": [
+            "Phillip Lindsay",
+            "Kalen Ballage"
+          ],
+          "received": [
+            "Christian Kirk",
+            "Sam Darnold"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Big Ballage Brand",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Christian Kirk",
+            "Sam Darnold"
+          ],
+          "received": [
+            "Phillip Lindsay",
+            "Kalen Ballage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.113",
+      "year": 2019,
+      "date": "2019-09-18T03:53:18.000Z",
+      "timestamp": 1568778798,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Big Ballage Brand",
+          "manager": "Matthew Garay",
+          "sent": [
+            "JuJu Smith-Schuster",
+            "DJ Moore"
+          ],
+          "received": [
+            "Robert Woods",
+            "Damien Williams",
+            "Hollywood Brown"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Used Meal eqv.",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Robert Woods",
+            "Damien Williams",
+            "Hollywood Brown"
+          ],
+          "received": [
+            "JuJu Smith-Schuster",
+            "DJ Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.142",
+      "year": 2019,
+      "date": "2019-09-18T17:08:35.000Z",
+      "timestamp": 1568826515,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            "Devin Singletary",
+            "Matthew Stafford"
+          ],
+          "received": [
+            "Josh Allen",
+            "T.J. Hockenson"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Used Meal eqv.",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Josh Allen",
+            "T.J. Hockenson"
+          ],
+          "received": [
+            "Devin Singletary",
+            "Matthew Stafford"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.147",
+      "year": 2019,
+      "date": "2019-09-18T20:05:51.000Z",
+      "timestamp": 1568837151,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Gordo",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Brandin Cooks",
+            "Josh Gordon"
+          ],
+          "received": [
+            "Stefon Diggs"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Stefon Diggs"
+          ],
+          "received": [
+            "Brandin Cooks",
+            "Josh Gordon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.203",
+      "year": 2019,
+      "date": "2019-09-29T16:12:46.000Z",
+      "timestamp": 1569773566,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Big Ballage Brand",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Alexander Mattison"
+          ],
+          "received": [
+            "Rashaad Penny"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Used Meal eqv.",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Rashaad Penny"
+          ],
+          "received": [
+            "Alexander Mattison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.215",
+      "year": 2019,
+      "date": "2019-10-01T20:15:13.000Z",
+      "timestamp": 1569960913,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Big Ballage Brand",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Josh Jacobs",
+            "Travis Kelce",
+            "Phillip Dorsett II"
+          ],
+          "received": [
+            "Hunter Henry",
+            "Nick Chubb",
+            "Calvin Ridley",
+            "LeSean McCoy"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            "Hunter Henry",
+            "Nick Chubb",
+            "Calvin Ridley",
+            "LeSean McCoy"
+          ],
+          "received": [
+            "Josh Jacobs",
+            "Travis Kelce",
+            "Phillip Dorsett II"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.219",
+      "year": 2019,
+      "date": "2019-10-01T20:28:29.000Z",
+      "timestamp": 1569961709,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Big Ballage Brand",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Phillip Lindsay"
+          ],
+          "received": [
+            "Will Dissly"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Juulio Jones",
+          "manager": "Buddy Marcello",
+          "sent": [
+            "Will Dissly"
+          ],
+          "received": [
+            "Phillip Lindsay"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.264",
+      "year": 2019,
+      "date": "2019-10-08T17:44:33.000Z",
+      "timestamp": 1570556673,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Used Meal eqv.",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "JuJu Smith-Schuster",
+            "Devin Singletary"
+          ],
+          "received": [
+            "Joe Mixon"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            "Joe Mixon"
+          ],
+          "received": [
+            "JuJu Smith-Schuster",
+            "Devin Singletary"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.296",
+      "year": 2019,
+      "date": "2019-10-12T16:22:20.000Z",
+      "timestamp": 1570897340,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Juulio Jones",
+          "manager": "Buddy Marcello",
+          "sent": [
+            "Phillip Lindsay",
+            "Philip Rivers"
+          ],
+          "received": [
+            "Brandin Cooks",
+            "Curtis Samuel"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Brandin Cooks",
+            "Curtis Samuel"
+          ],
+          "received": [
+            "Phillip Lindsay",
+            "Philip Rivers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.310",
+      "year": 2019,
+      "date": "2019-10-15T20:06:21.000Z",
+      "timestamp": 1571169981,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Big Ballage Brand",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Hollywood Brown"
+          ],
+          "received": [
+            "DK Metcalf"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Gordo",
+          "manager": "Chase Bergman",
+          "sent": [
+            "DK Metcalf"
+          ],
+          "received": [
+            "Hollywood Brown"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.351",
+      "year": 2019,
+      "date": "2019-10-22T20:32:13.000Z",
+      "timestamp": 1571776333,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Juulio Jones",
+          "manager": "Buddy Marcello",
+          "sent": [
+            "Tyler Boyd"
+          ],
+          "received": [
+            "Joe Mixon"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Used Meal eqv.",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Joe Mixon"
+          ],
+          "received": [
+            "Tyler Boyd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.367",
+      "year": 2019,
+      "date": "2019-10-23T19:28:08.000Z",
+      "timestamp": 1571858888,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Juulio Jones",
+          "manager": "Buddy Marcello",
+          "sent": [
+            "Latavius Murray",
+            "Brandin Cooks"
+          ],
+          "received": [
+            "Emmanuel Sanders",
+            "Devin Singletary"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            "Emmanuel Sanders",
+            "Devin Singletary"
+          ],
+          "received": [
+            "Latavius Murray",
+            "Brandin Cooks"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.380",
+      "year": 2019,
+      "date": "2019-10-27T15:36:05.000Z",
+      "timestamp": 1572190565,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Big Ballage Brand",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Calvin Ridley"
+          ],
+          "received": [
+            "Tevin Coleman"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "AB Please Stop",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Tevin Coleman"
+          ],
+          "received": [
+            "Calvin Ridley"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.418",
+      "year": 2019,
+      "date": "2019-11-03T17:15:30.000Z",
+      "timestamp": 1572801330,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "La Viande Saumon",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Odell Beckham Jr.",
+            "Golden Tate",
+            "Daniel Jones"
+          ],
+          "received": [
+            "DeSean Jackson",
+            "Patrick Mahomes"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            "DeSean Jackson",
+            "Patrick Mahomes"
+          ],
+          "received": [
+            "Odell Beckham Jr.",
+            "Golden Tate",
+            "Daniel Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.430",
+      "year": 2019,
+      "date": "2019-11-05T18:29:57.000Z",
+      "timestamp": 1572978597,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Gordo",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Ezekiel Elliott"
+          ],
+          "received": [
+            "Marlon Mack",
+            "Amari Cooper"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "Marlon Mack",
+            "Amari Cooper"
+          ],
+          "received": [
+            "Ezekiel Elliott"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.431",
+      "year": 2019,
+      "date": "2019-11-05T19:01:34.000Z",
+      "timestamp": 1572980494,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "La Viande Saumon",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Jamaal Williams"
+          ],
+          "received": [
+            "Jamison Crowder"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            "Jamison Crowder"
+          ],
+          "received": [
+            "Jamaal Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.511708.tr.456",
+      "year": 2019,
+      "date": "2019-11-07T18:28:15.000Z",
+      "timestamp": 1573151295,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Juulio Jones",
+          "manager": "Buddy Marcello",
+          "sent": [
+            "Emmanuel Sanders",
+            "Joe Mixon"
+          ],
+          "received": [
+            "Keenan Allen"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Big Ballage Brand",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Keenan Allen"
+          ],
+          "received": [
+            "Emmanuel Sanders",
+            "Joe Mixon"
+          ]
+        }
+      ]
     }
   ]
 }

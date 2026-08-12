@@ -3,54 +3,6 @@
   "leagueId": "cwp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "Chase Loves Bailee",
-      "manager": "Jack Bleiweis",
-      "wins": 10,
-      "losses": 4,
-      "ties": 0,
-      "rank": 2,
-      "playoffSeed": 1,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25288357186_8314ffef60.jpg"
-    },
-    {
-      "id": "t.2",
-      "name": "Dusty's Dirty Landry",
-      "manager": "Ty Greenberg",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "rank": 5,
-      "playoffSeed": 8,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1.png"
-    },
-    {
-      "id": "t.3",
-      "name": "Aditi Kinkhabwala",
-      "manager": "Dustin Pulver",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 6,
-      "playoffSeed": 7,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/31360988285_b41f152fa8.jpg"
-    },
-    {
-      "id": "t.4",
-      "name": "You're kidding",
-      "manager": "--hidden--",
-      "wins": 2,
-      "losses": 12,
-      "ties": 0,
-      "rank": 10,
-      "playoffSeed": null,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_12.png"
-    },
-    {
       "id": "t.5",
       "name": "Suh Girls One Cup",
       "manager": "Jake Mintz",
@@ -60,31 +12,23 @@
       "rank": 1,
       "playoffSeed": 2,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_2.png",
+      "moves": 34,
+      "tradesCount": 2
     },
     {
-      "id": "t.6",
-      "name": "Utku Gull's Squad",
-      "manager": "Chase Bergman",
-      "wins": 9,
-      "losses": 5,
+      "id": "t.1",
+      "name": "Chase Loves Bailee",
+      "manager": "Jack Bleiweis",
+      "wins": 10,
+      "losses": 4,
       "ties": 0,
-      "rank": 4,
-      "playoffSeed": 3,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/lq/i/identity2/profile_96a.png"
-    },
-    {
-      "id": "t.7",
-      "name": "(Insert Name Here)",
-      "manager": "Jack Beder",
-      "wins": 8,
-      "losses": 6,
-      "ties": 0,
-      "rank": 8,
-      "playoffSeed": 5,
-      "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_4.png"
+      "rank": 2,
+      "playoffSeed": 1,
+      "isCommissioner": true,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25288357186_8314ffef60.jpg",
+      "moves": 39,
+      "tradesCount": 1
     },
     {
       "id": "t.8",
@@ -96,19 +40,51 @@
       "rank": 3,
       "playoffSeed": 4,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25314145025_011ffea530.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/25314145025_011ffea530.jpg",
+      "moves": 49,
+      "tradesCount": 4
     },
     {
-      "id": "t.9",
-      "name": "Eze(kiel) money",
-      "manager": "GOBOL",
-      "wins": 4,
-      "losses": 10,
+      "id": "t.6",
+      "name": "Utku Gull's Squad",
+      "manager": "Chase Bergman",
+      "wins": 9,
+      "losses": 5,
       "ties": 0,
-      "rank": 9,
-      "playoffSeed": null,
+      "rank": 4,
+      "playoffSeed": 3,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29382325881_90766afab1.jpg"
+      "imageUrl": "https://s.yimg.com/lq/i/identity2/profile_96b.png",
+      "moves": 37,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.2",
+      "name": "Dusty's Dirty Landry",
+      "manager": "Ty Greenberg",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 5,
+      "playoffSeed": 8,
+      "isCommissioner": false,
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_1.png",
+      "moves": 40,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.3",
+      "name": "Aditi Kinkhabwala",
+      "manager": "Dustin Pulver",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 7,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/31360988285_b41f152fa8.jpg",
+      "moves": 48,
+      "tradesCount": 4
     },
     {
       "id": "t.10",
@@ -120,7 +96,51 @@
       "rank": 7,
       "playoffSeed": 6,
       "isCommissioner": false,
-      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_10.png"
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_10.png",
+      "moves": 22,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.7",
+      "name": "(Insert Name Here)",
+      "manager": "Jack Beder",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "rank": 8,
+      "playoffSeed": 5,
+      "isCommissioner": false,
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_4.png",
+      "moves": 53,
+      "tradesCount": 7
+    },
+    {
+      "id": "t.9",
+      "name": "Eze(kiel) money",
+      "manager": "GOBOL",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "rank": 9,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/29382325881_90766afab1.jpg",
+      "moves": 35,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.4",
+      "name": "You're kidding",
+      "manager": "Ben Roher",
+      "wins": 2,
+      "losses": 12,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_12.png",
+      "moves": 5,
+      "tradesCount": 7
     }
   ],
   "draft": [
@@ -129,1547 +149,1547 @@
       "round": 1,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.24171",
+      "playerId": "24171",
       "playerFirstName": "Antonio",
       "playerLastName": "Brown",
-      "avgPick": 1.2,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 2.4,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 25.9,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.24793",
+      "playerId": "24793",
       "playerFirstName": "Julio",
       "playerLastName": "Jones",
-      "avgPick": 3.8,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.25711",
+      "playerId": "25711",
       "playerFirstName": "Andrew",
       "playerLastName": "Luck",
-      "avgPick": 39.8,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.24788",
+      "playerId": "24788",
       "playerFirstName": "Cam",
       "playerLastName": "Newton",
-      "avgPick": 21.4,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 8,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.28398",
+      "playerId": "28398",
       "playerFirstName": "Todd",
       "playerLastName": "Gurley",
-      "avgPick": 5.1,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.24791",
+      "playerId": "24791",
       "playerFirstName": "A.J.",
       "playerLastName": "Green",
-      "avgPick": 11.2,
-      "avgRound": 1.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.28474",
+      "playerId": "28474",
       "playerFirstName": "David",
       "playerLastName": "Johnson",
-      "avgPick": 4.5,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.23999",
+      "playerId": "23999",
       "playerFirstName": "Dez",
       "playerLastName": "Bryant",
-      "avgPick": 15.7,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.25807",
+      "playerId": "25807",
       "playerFirstName": "Lamar",
       "playerLastName": "Miller",
-      "avgPick": 10.9,
-      "avgRound": 1.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.29238",
+      "playerId": "29238",
       "playerFirstName": "Ezekiel",
       "playerLastName": "Elliott",
-      "avgPick": 6.9,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.26671",
+      "playerId": "26671",
       "playerFirstName": "Le'Veon",
       "playerLastName": "Bell",
-      "avgPick": 14.3,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.24017",
+      "playerId": "24017",
       "playerFirstName": "Rob",
       "playerLastName": "Gronkowski",
-      "avgPick": 9.4,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.8813",
+      "playerId": "8813",
       "playerFirstName": "Jordy",
       "playerLastName": "Nelson",
-      "avgPick": 24.2,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.8261",
+      "playerId": "8261",
       "playerFirstName": "Adrian",
       "playerLastName": "Peterson",
-      "avgPick": 9.4,
-      "avgRound": 1.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.8850",
+      "playerId": "8850",
       "playerFirstName": "Jamaal",
       "playerLastName": "Charles",
-      "avgPick": 27.5,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.27589",
+      "playerId": "27589",
       "playerFirstName": "Allen",
       "playerLastName": "Robinson",
-      "avgPick": 13.8,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.25755",
+      "playerId": "25755",
       "playerFirstName": "Alshon",
       "playerLastName": "Jeffery",
-      "avgPick": 23.1,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 3,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 20.2,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 3,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 34.7,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 3,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 19.8,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 3,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.6770",
+      "playerId": "6770",
       "playerFirstName": "Ben",
       "playerLastName": "Roethlisberger",
-      "avgPick": 48.1,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.7868",
+      "playerId": "7868",
       "playerFirstName": "Brandon",
       "playerLastName": "Marshall",
-      "avgPick": 15.3,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 29,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.24815",
+      "playerId": "24815",
       "playerFirstName": "Mark",
       "playerLastName": "Ingram II",
-      "avgPick": 20.4,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.25802",
+      "playerId": "25802",
       "playerFirstName": "T.Y.",
       "playerLastName": "Hilton",
-      "avgPick": 30.8,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.26684",
+      "playerId": "26684",
       "playerFirstName": "Eddie",
       "playerLastName": "Lacy",
-      "avgPick": 26.1,
-      "avgRound": 3.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 21.3,
-      "avgRound": 2.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.27532",
+      "playerId": "27532",
       "playerFirstName": "Sammy",
       "playerLastName": "Watkins",
-      "avgPick": 26.8,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.23997",
+      "playerId": "23997",
       "playerFirstName": "Demaryius",
       "playerLastName": "Thomas",
-      "avgPick": 32.7,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 4,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.9283",
+      "playerId": "9283",
       "playerFirstName": "Jeremy",
       "playerLastName": "Maclin",
-      "avgPick": 51,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.5479",
+      "playerId": "5479",
       "playerFirstName": "Drew",
       "playerLastName": "Brees",
-      "avgPick": 45.1,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 4,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.24035",
+      "playerId": "24035",
       "playerFirstName": "Golden",
       "playerLastName": "Tate",
-      "avgPick": 51.7,
-      "avgRound": 6.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 4,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.25741",
+      "playerId": "25741",
       "playerFirstName": "Doug",
       "playerLastName": "Martin",
-      "avgPick": 25.4,
-      "avgRound": 3.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.27556",
+      "playerId": "27556",
       "playerFirstName": "Kelvin",
       "playerLastName": "Benjamin",
-      "avgPick": 60.6,
-      "avgRound": 7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.24851",
+      "playerId": "24851",
       "playerFirstName": "Randall",
       "playerLastName": "Cobb",
-      "avgPick": 43.8,
-      "avgRound": 5.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.9317",
+      "playerId": "9317",
       "playerFirstName": "LeSean",
       "playerLastName": "McCoy",
-      "avgPick": 28.3,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.28714",
+      "playerId": "28714",
       "playerFirstName": "Thomas",
       "playerLastName": "Rawls",
-      "avgPick": 39.4,
-      "avgRound": 4.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 5,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.26708",
+      "playerId": "26708",
       "playerFirstName": "Jordan",
       "playerLastName": "Reed",
-      "avgPick": 38.5,
-      "avgRound": 4.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 5,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.8285",
+      "playerId": "8285",
       "playerFirstName": "Greg",
       "playerLastName": "Olsen",
-      "avgPick": 44.5,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 5,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.5228",
+      "playerId": "5228",
       "playerFirstName": "Tom",
       "playerLastName": "Brady",
-      "avgPick": 77.5,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 5,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.27531",
+      "playerId": "27531",
       "playerFirstName": "Blake",
       "playerLastName": "Bortles",
-      "avgPick": 80.5,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 5,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.27631",
+      "playerId": "27631",
       "playerFirstName": "Devonta",
       "playerLastName": "Freeman",
-      "avgPick": 24.9,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 5,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.25105",
+      "playerId": "25105",
       "playerFirstName": "Doug",
       "playerLastName": "Baldwin",
-      "avgPick": 44.2,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.9496",
+      "playerId": "9496",
       "playerFirstName": "Julian",
       "playerLastName": "Edelman",
-      "avgPick": 48.4,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 5,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.6760",
+      "playerId": "6760",
       "playerFirstName": "Eli",
       "playerLastName": "Manning",
-      "avgPick": 65.9,
-      "avgRound": 7.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.24062",
+      "playerId": "24062",
       "playerFirstName": "Eric",
       "playerLastName": "Decker",
-      "avgPick": 40,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.27591",
+      "playerId": "27591",
       "playerFirstName": "Jarvis",
       "playerLastName": "Landry",
-      "avgPick": 46.9,
-      "avgRound": 5.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 6,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.6337",
+      "playerId": "6337",
       "playerFirstName": "Carson",
       "playerLastName": "Palmer",
-      "avgPick": 56.1,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.28395",
+      "playerId": "28395",
       "playerFirstName": "Kevin",
       "playerLastName": "White",
-      "avgPick": 117.6,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 6,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.25723",
+      "playerId": "25723",
       "playerFirstName": "Michael",
       "playerLastName": "Floyd",
-      "avgPick": 64.6,
-      "avgRound": 7.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.26644",
+      "playerId": "26644",
       "playerFirstName": "Tyler",
       "playerLastName": "Eifert",
-      "avgPick": 110.9,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 6,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.26804",
+      "playerId": "26804",
       "playerFirstName": "Latavius",
       "playerLastName": "Murray",
-      "avgPick": 48.3,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 6,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.24057",
+      "playerId": "24057",
       "playerFirstName": "Emmanuel",
       "playerLastName": "Sanders",
-      "avgPick": 87.5,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 6,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.26878",
+      "playerId": "26878",
       "playerFirstName": "C.J.",
       "playerLastName": "Anderson",
-      "avgPick": 26.9,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 6,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.27585",
+      "playerId": "27585",
       "playerFirstName": "Carlos",
       "playerLastName": "Hyde",
-      "avgPick": 38.6,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 6,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.28402",
+      "playerId": "28402",
       "playerFirstName": "DeVante",
       "playerLastName": "Parker",
-      "avgPick": 96.8,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 6,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.24936",
+      "playerId": "24936",
       "playerFirstName": "Dion",
       "playerLastName": "Lewis",
-      "avgPick": 94.4,
-      "avgRound": 10.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 7,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.24858",
+      "playerId": "24858",
       "playerFirstName": "DeMarco",
       "playerLastName": "Murray",
-      "avgPick": 50.2,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 7,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.8821",
+      "playerId": "8821",
       "playerFirstName": "Matt",
       "playerLastName": "Forte",
-      "avgPick": 48.3,
-      "avgRound": 5.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 7,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.27583",
+      "playerId": "27583",
       "playerFirstName": "Jeremy",
       "playerLastName": "Hill",
-      "avgPick": 52.9,
-      "avgRound": 6.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 7,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.27874",
+      "playerId": "27874",
       "playerFirstName": "Allen",
       "playerLastName": "Hurns",
-      "avgPick": 84.6,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 7,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.8826",
+      "playerId": "8826",
       "playerFirstName": "DeSean",
       "playerLastName": "Jackson",
-      "avgPick": 93.2,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 7,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.8790",
+      "playerId": "8790",
       "playerFirstName": "Jonathan",
       "playerLastName": "Stewart",
-      "avgPick": 63.8,
-      "avgRound": 7.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.27570",
+      "playerId": "27570",
       "playerFirstName": "Jordan",
       "playerLastName": "Matthews",
-      "avgPick": 66,
-      "avgRound": 7.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 7,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 57.5,
-      "avgRound": 6.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.27618",
+      "playerId": "27618",
       "playerFirstName": "Donte",
       "playerLastName": "Moncrief",
-      "avgPick": 52.4,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 7,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.25744",
+      "playerId": "25744",
       "playerFirstName": "Coby",
       "playerLastName": "Fleener",
-      "avgPick": 65.5,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 8,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.26658",
+      "playerId": "26658",
       "playerFirstName": "Zach",
       "playerLastName": "Ertz",
-      "avgPick": 73.3,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.27619",
+      "playerId": "27619",
       "playerFirstName": "John",
       "playerLastName": "Brown",
-      "avgPick": 82.4,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 8,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.25812",
+      "playerId": "25812",
       "playerFirstName": "Kirk",
       "playerLastName": "Cousins",
-      "avgPick": 110.2,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.28457",
+      "playerId": "28457",
       "playerFirstName": "Tyler",
       "playerLastName": "Lockett",
-      "avgPick": 87.7,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 8,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.6763",
+      "playerId": "6763",
       "playerFirstName": "Philip",
       "playerLastName": "Rivers",
-      "avgPick": 79.2,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 8,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.28494",
+      "playerId": "28494",
       "playerFirstName": "Jeremy",
       "playerLastName": "Langford",
-      "avgPick": 81.9,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 8,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.7924",
+      "playerId": "7924",
       "playerFirstName": "Delanie",
       "playerLastName": "Walker",
-      "avgPick": 61.5,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 8,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.25876",
+      "playerId": "25876",
       "playerFirstName": "Marvin",
       "playerLastName": "Jones Jr.",
-      "avgPick": 84.6,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 8,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.26561",
+      "playerId": "26561",
       "playerFirstName": "Josh",
       "playerLastName": "Gordon",
-      "avgPick": 94.5,
-      "avgRound": 10.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 8,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.6624",
+      "playerId": "6624",
       "playerFirstName": "Tony",
       "playerLastName": "Romo",
-      "avgPick": 100.8,
-      "avgRound": 11.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 9,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.6762",
+      "playerId": "6762",
       "playerFirstName": "Larry",
       "playerLastName": "Fitzgerald",
-      "avgPick": 62.7,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 9,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.27564",
+      "playerId": "27564",
       "playerFirstName": "Derek",
       "playerLastName": "Carr",
-      "avgPick": 117.8,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 9,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.9274",
+      "playerId": "9274",
       "playerFirstName": "Michael",
       "playerLastName": "Crabtree",
-      "avgPick": 95.2,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 9,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.28442",
+      "playerId": "28442",
       "playerFirstName": "Ameer",
       "playerLastName": "Abdullah",
-      "avgPick": 115.6,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 9,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.28390",
+      "playerId": "28390",
       "playerFirstName": "Marcus",
       "playerLastName": "Mariota",
-      "avgPick": 121,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 9,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.24916",
+      "playerId": "24916",
       "playerFirstName": "Julius",
       "playerLastName": "Thomas",
-      "avgPick": 87.1,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.28403",
+      "playerId": "28403",
       "playerFirstName": "Melvin",
       "playerLastName": "Gordon III",
-      "avgPick": 82.6,
-      "avgRound": 9.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 9,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.7241",
+      "playerId": "7241",
       "playerFirstName": "Frank",
       "playerLastName": "Gore",
-      "avgPick": 91.8,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.23987",
+      "playerId": "23987",
       "playerFirstName": "Ryan",
       "playerLastName": "Mathews",
-      "avgPick": 76.3,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 9,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.24967",
+      "playerId": "24967",
       "playerFirstName": "Tyrod",
       "playerLastName": "Taylor",
-      "avgPick": 111.6,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 10,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.28465",
+      "playerId": "28465",
       "playerFirstName": "Duke",
       "playerLastName": "Johnson",
-      "avgPick": 107.3,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.24070",
+      "playerId": "24070",
       "playerFirstName": "Jimmy",
       "playerLastName": "Graham",
-      "avgPick": 122.8,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 10,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.28428",
+      "playerId": "28428",
       "playerFirstName": "Dorial",
       "playerLastName": "Green-Beckham",
-      "avgPick": 124.3,
-      "avgRound": 14.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.29257",
+      "playerId": "29257",
       "playerFirstName": "Laquon",
       "playerLastName": "Treadwell",
-      "avgPick": 125.5,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 10,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.27538",
+      "playerId": "27538",
       "playerFirstName": "Eric",
       "playerLastName": "Ebron",
-      "avgPick": 134.2,
-      "avgRound": 15
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 10,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.25820",
+      "playerId": "25820",
       "playerFirstName": "Ladarius",
       "playerLastName": "Green",
-      "avgPick": 120.2,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 10,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.29256",
+      "playerId": "29256",
       "playerFirstName": "Josh",
       "playerLastName": "Doctson",
-      "avgPick": 118.3,
-      "avgRound": 14.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 10,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.9527",
+      "playerId": "9527",
       "playerFirstName": "Arian",
       "playerLastName": "Foster",
-      "avgPick": 86.3,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 10,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.24400",
+      "playerId": "24400",
       "playerFirstName": "Chris",
       "playerLastName": "Ivory",
-      "avgPick": 103.9,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 10,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.7776",
+      "playerId": "7776",
       "playerFirstName": "DeAngelo",
       "playerLastName": "Williams",
-      "avgPick": 99.7,
-      "avgRound": 10.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 11,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.9265",
+      "playerId": "9265",
       "playerFirstName": "Matthew",
       "playerLastName": "Stafford",
-      "avgPick": 121.1,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 11,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.5521",
+      "playerId": "5521",
       "playerFirstName": "Steve",
       "playerLastName": "Smith",
-      "avgPick": 123.4,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 11,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.26660",
+      "playerId": "26660",
       "playerFirstName": "Giovani",
       "playerLastName": "Bernard",
-      "avgPick": 101,
-      "avgRound": 11.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 11,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.29274",
+      "playerId": "29274",
       "playerFirstName": "Sterling",
       "playerLastName": "Shepard",
-      "avgPick": 102,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 11,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.26631",
+      "playerId": "26631",
       "playerFirstName": "Tavon",
       "playerLastName": "Austin",
-      "avgPick": 108.1,
-      "avgRound": 12.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 11,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.28537",
+      "playerId": "28537",
       "playerFirstName": "Jay",
       "playerLastName": "Ajayi",
-      "avgPick": 103.7,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.9444",
+      "playerId": "9444",
       "playerFirstName": "Zach",
       "playerLastName": "Miller",
-      "avgPick": 136.2,
-      "avgRound": 15.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 11,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.9560",
+      "playerId": "9560",
       "playerFirstName": "Danny",
       "playerLastName": "Woodhead",
-      "avgPick": 116.7,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.28424",
+      "playerId": "28424",
       "playerFirstName": "T.J.",
       "playerLastName": "Yeldon",
-      "avgPick": 121.8,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 11,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.28483",
+      "playerId": "28483",
       "playerFirstName": "Matt",
       "playerLastName": "Jones",
-      "avgPick": 92.1,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 12,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.24845",
+      "playerId": "24845",
       "playerFirstName": "Torrey",
       "playerLastName": "Smith",
-      "avgPick": 120.4,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.28389",
+      "playerId": "28389",
       "playerFirstName": "Jameis",
       "playerLastName": "Winston",
-      "avgPick": 115.9,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 12,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.26702",
+      "playerId": "26702",
       "playerFirstName": "Markus",
       "playerLastName": "Wheaton",
-      "avgPick": 124.5,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 12,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.7426",
+      "playerId": "7426",
       "playerFirstName": "Ryan",
       "playerLastName": "Fitzpatrick",
-      "avgPick": 132.3,
-      "avgRound": 14.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 12,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.9010",
+      "playerId": "9010",
       "playerFirstName": "Justin",
       "playerLastName": "Forsett",
-      "avgPick": 118.7,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 12,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.8795",
+      "playerId": "8795",
       "playerFirstName": "Joe",
       "playerLastName": "Flacco",
-      "avgPick": 118.2,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 12,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.29384",
+      "playerId": "29384",
       "playerFirstName": "Jordan",
       "playerLastName": "Howard",
-      "avgPick": 115.7,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 12,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.8780",
+      "playerId": "8780",
       "playerFirstName": "Matt",
       "playerLastName": "Ryan",
-      "avgPick": 127.3,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 12,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.7177",
+      "playerId": "7177",
       "playerFirstName": "Alex",
       "playerLastName": "Smith",
-      "avgPick": 117,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 12,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.7867",
+      "playerId": "7867",
       "playerFirstName": "Stephen",
       "playerLastName": "Gostkowski",
-      "avgPick": 77.1,
-      "avgRound": 8.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 13,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.25810",
+      "playerId": "25810",
       "playerFirstName": "Travis",
       "playerLastName": "Benjamin",
-      "avgPick": 116.2,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 13,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 111.5,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 13,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.28026",
+      "playerId": "28026",
       "playerFirstName": "Willie",
       "playerLastName": "Snead IV",
-      "avgPick": 118.7,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 13,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.28475",
+      "playerId": "28475",
       "playerFirstName": "Sammie",
       "playerLastName": "Coates",
-      "avgPick": 131.1,
-      "avgRound": 14.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 13,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.9514",
+      "playerId": "9514",
       "playerFirstName": "Rashad",
       "playerLastName": "Jennings",
-      "avgPick": 104.4,
-      "avgRound": 11.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 13,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.24822",
+      "playerId": "24822",
       "playerFirstName": "Andy",
       "playerLastName": "Dalton",
-      "avgPick": 113.5,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.28543",
+      "playerId": "28543",
       "playerFirstName": "Karlos",
       "playerLastName": "Williams",
-      "avgPick": 116,
-      "avgRound": 14.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 13,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.25767",
+      "playerId": "25767",
       "playerFirstName": "Brock",
       "playerLastName": "Osweiler",
-      "avgPick": 120.2,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.7760",
+      "playerId": "7760",
       "playerFirstName": "Jay",
       "playerLastName": "Cutler",
-      "avgPick": 121.6,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 13,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.25718",
+      "playerId": "25718",
       "playerFirstName": "Ryan",
       "playerLastName": "Tannehill",
-      "avgPick": 131.2,
-      "avgRound": 14.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 14,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.26822",
+      "playerId": "26822",
       "playerFirstName": "Theo",
       "playerLastName": "Riddick",
-      "avgPick": 119.5,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 14,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.25774",
+      "playerId": "25774",
       "playerFirstName": "Dwayne",
       "playerLastName": "Allen",
-      "avgPick": 126.2,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 14,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.29249",
+      "playerId": "29249",
       "playerFirstName": "Corey",
       "playerLastName": "Coleman",
-      "avgPick": 122.2,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 14,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.29279",
+      "playerId": "29279",
       "playerFirstName": "Derrick",
       "playerLastName": "Henry",
-      "avgPick": 108,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 14,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.100026",
+      "playerId": "100026",
       "playerFirstName": "Seahawks",
       "playerLastName": "",
-      "avgPick": 71,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 14,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.28417",
+      "playerId": "28417",
       "playerFirstName": "Phillip",
       "playerLastName": "Dorsett II",
-      "avgPick": 134.6,
-      "avgRound": 15.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 14,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.100022",
+      "playerId": "100022",
       "playerFirstName": "Cardinals",
       "playerLastName": "",
-      "avgPick": 76.2,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 14,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.8838",
+      "playerId": "8838",
       "playerFirstName": "Martellus",
       "playerLastName": "Bennett",
-      "avgPick": 117.4,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 14,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.26534",
+      "playerId": "26534",
       "playerFirstName": "Justin",
       "playerLastName": "Tucker",
-      "avgPick": 110.7,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 14,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.29281",
+      "playerId": "29281",
       "playerFirstName": "Michael",
       "playerLastName": "Thomas",
-      "avgPick": 129.9,
-      "avgRound": 14.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 15,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.29324",
+      "playerId": "29324",
       "playerFirstName": "C.J.",
       "playerLastName": "Prosise",
       "avgPick": null,
@@ -1680,106 +1700,106 @@
       "round": 15,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.100007",
+      "playerId": "100007",
       "playerFirstName": "Broncos",
       "playerLastName": "",
-      "avgPick": 66.1,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 15,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.24889",
+      "playerId": "24889",
       "playerFirstName": "Jordan",
       "playerLastName": "Cameron",
-      "avgPick": 134.4,
-      "avgRound": 14.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 15,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.9066",
+      "playerId": "9066",
       "playerFirstName": "Stephen",
       "playerLastName": "Hauschka",
-      "avgPick": 105.5,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 15,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.8447",
+      "playerId": "8447",
       "playerFirstName": "Mason",
       "playerLastName": "Crosby",
-      "avgPick": 130.3,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 15,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.28103",
+      "playerId": "28103",
       "playerFirstName": "Chandler",
       "playerLastName": "Catanzaro",
-      "avgPick": 140,
-      "avgRound": 15.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 15,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.28188",
+      "playerId": "28188",
       "playerFirstName": "Chris",
       "playerLastName": "Boswell",
-      "avgPick": 102.9,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 15,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.25427",
+      "playerId": "25427",
       "playerFirstName": "Dan",
       "playerLastName": "Bailey",
-      "avgPick": 128.8,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 15,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.100034",
+      "playerId": "100034",
       "playerFirstName": "Texans",
       "playerLastName": "",
-      "avgPick": 86.2,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 15,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.8907",
+      "playerId": "8907",
       "playerFirstName": "Gary",
       "playerLastName": "Barnidge",
-      "avgPick": 88.9,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 151,
       "round": 16,
       "teamId": "t.2",
       "teamName": "Dusty's Dirty Landry",
-      "playerId": "359.p.29368",
+      "playerId": "29368",
       "playerFirstName": "Kenneth",
       "playerLastName": "Dixon",
       "avgPick": null,
@@ -1790,18 +1810,18 @@
       "round": 16,
       "teamId": "t.3",
       "teamName": "Aditi Kinkhabwala",
-      "playerId": "359.p.29293",
+      "playerId": "29293",
       "playerFirstName": "Roberto",
       "playerLastName": "Aguayo",
-      "avgPick": 130.1,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 153,
       "round": 16,
       "teamId": "t.9",
       "teamName": "Eze(kiel) money",
-      "playerId": "359.p.29383",
+      "playerId": "29383",
       "playerFirstName": "Paul",
       "playerLastName": "Perkins",
       "avgPick": null,
@@ -1812,7 +1832,7 @@
       "round": 16,
       "teamId": "t.8",
       "teamName": "Tease the Other Hyde",
-      "playerId": "359.p.28414",
+      "playerId": "28414",
       "playerFirstName": "Breshad",
       "playerLastName": "Perriman",
       "avgPick": null,
@@ -1823,29 +1843,29 @@
       "round": 16,
       "teamId": "t.4",
       "teamName": "You're kidding",
-      "playerId": "359.p.26697",
+      "playerId": "26697",
       "playerFirstName": "Terrance",
       "playerLastName": "Williams",
-      "avgPick": 122.6,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 156,
       "round": 16,
       "teamId": "t.1",
       "teamName": "Chase Loves Bailee",
-      "playerId": "359.p.100029",
+      "playerId": "100029",
       "playerFirstName": "Panthers",
       "playerLastName": "",
-      "avgPick": 73,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 157,
       "round": 16,
       "teamId": "t.7",
       "teamName": "(Insert Name Here)",
-      "playerId": "359.p.29235",
+      "playerId": "29235",
       "playerFirstName": "Jared",
       "playerLastName": "Goff",
       "avgPick": null,
@@ -1856,18 +1876,18 @@
       "round": 16,
       "teamId": "t.10",
       "teamName": "The roebuccaneers",
-      "playerId": "359.p.9526",
+      "playerId": "9526",
       "playerFirstName": "Graham",
       "playerLastName": "Gano",
-      "avgPick": 84.6,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 159,
       "round": 16,
       "teamId": "t.5",
       "teamName": "Suh Girls One Cup",
-      "playerId": "359.p.28513",
+      "playerId": "28513",
       "playerFirstName": "Javorius",
       "playerLastName": "Allen",
       "avgPick": null,
@@ -1878,11 +1898,11 @@
       "round": 16,
       "teamId": "t.6",
       "teamName": "Utku Gull's Squad",
-      "playerId": "359.p.29255",
+      "playerId": "29255",
       "playerFirstName": "Will",
       "playerLastName": "Fuller V",
-      "avgPick": 121.7,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -2821,6 +2841,554 @@
       "isComplete": true,
       "isPlayoff": true,
       "isConsolation": true
+    }
+  ],
+  "trades": [
+    {
+      "id": "359.l.717008.tr.36",
+      "year": 2016,
+      "date": "2016-08-31T19:18:25.000Z",
+      "timestamp": 1472671105,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Aditi Kinkhabwala",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "John Brown",
+            "Jay Cutler"
+          ],
+          "received": [
+            "Andy Dalton"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "You're kidding",
+          "manager": "Ben Roher",
+          "sent": [
+            "Andy Dalton"
+          ],
+          "received": [
+            "John Brown",
+            "Jay Cutler"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.46",
+      "year": 2016,
+      "date": "2016-09-04T15:36:30.000Z",
+      "timestamp": 1473003390,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Tease the Other Hyde",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Laquon Treadwell"
+          ],
+          "received": [
+            "Dak Prescott"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Dusty's Dirty Landry",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Dak Prescott"
+          ],
+          "received": [
+            "Laquon Treadwell"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.55",
+      "year": 2016,
+      "date": "2016-09-09T00:02:16.000Z",
+      "timestamp": 1473379336,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Eze(kiel) money",
+          "manager": "GOBOL",
+          "sent": [
+            "Michael Floyd"
+          ],
+          "received": [
+            "Ameer Abdullah",
+            "Kelvin Benjamin",
+            "Sterling Shepard"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "(Insert Name Here)",
+          "manager": "Jack Beder",
+          "sent": [
+            "Ameer Abdullah",
+            "Kelvin Benjamin",
+            "Sterling Shepard"
+          ],
+          "received": [
+            "Michael Floyd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.62",
+      "year": 2016,
+      "date": "2016-09-13T21:48:28.000Z",
+      "timestamp": 1473803308,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Tease the Other Hyde",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Ryan Fitzpatrick",
+            "DeAndre Hopkins",
+            "Mark Ingram II"
+          ],
+          "received": [
+            "Cam Newton",
+            "Doug Baldwin",
+            "Latavius Murray"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "You're kidding",
+          "manager": "Ben Roher",
+          "sent": [
+            "Cam Newton",
+            "Doug Baldwin",
+            "Latavius Murray"
+          ],
+          "received": [
+            "Ryan Fitzpatrick",
+            "DeAndre Hopkins",
+            "Mark Ingram II"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.119",
+      "year": 2016,
+      "date": "2016-09-28T12:41:53.000Z",
+      "timestamp": 1475066513,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Aditi Kinkhabwala",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Ryan Mathews"
+          ],
+          "received": [
+            "John Brown"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "You're kidding",
+          "manager": "Ben Roher",
+          "sent": [
+            "John Brown"
+          ],
+          "received": [
+            "Ryan Mathews"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.134",
+      "year": 2016,
+      "date": "2016-10-02T16:15:40.000Z",
+      "timestamp": 1475424940,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "Orleans Darkwa"
+          ],
+          "received": [
+            "Jay Ajayi"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "You're kidding",
+          "manager": "Ben Roher",
+          "sent": [
+            "Jay Ajayi"
+          ],
+          "received": [
+            "Orleans Darkwa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.136",
+      "year": 2016,
+      "date": "2016-10-04T16:56:54.000Z",
+      "timestamp": 1475600214,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Eze(kiel) money",
+          "manager": "GOBOL",
+          "sent": [
+            "Kelvin Benjamin",
+            "Eli Manning"
+          ],
+          "received": [
+            "Isaiah Crowell",
+            "Ben Roethlisberger"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "(Insert Name Here)",
+          "manager": "Jack Beder",
+          "sent": [
+            "Isaiah Crowell",
+            "Ben Roethlisberger"
+          ],
+          "received": [
+            "Kelvin Benjamin",
+            "Eli Manning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.162",
+      "year": 2016,
+      "date": "2016-10-08T18:05:02.000Z",
+      "timestamp": 1475949902,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Tease the Other Hyde",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Julian Edelman",
+            "Christine Michael"
+          ],
+          "received": [
+            "Alshon Jeffery"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Utku Gull's Squad",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Alshon Jeffery"
+          ],
+          "received": [
+            "Julian Edelman",
+            "Christine Michael"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.217",
+      "year": 2016,
+      "date": "2016-10-19T03:18:57.000Z",
+      "timestamp": 1476847137,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            "T.J. Yeldon"
+          ],
+          "received": [
+            "Chris Hogan"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Aditi Kinkhabwala",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Chris Hogan"
+          ],
+          "received": [
+            "T.J. Yeldon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.241",
+      "year": 2016,
+      "date": "2016-10-20T16:21:57.000Z",
+      "timestamp": 1476980517,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Chase Loves Bailee",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Darren Sproles"
+          ],
+          "received": [
+            "Jacquizz Rodgers"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "You're kidding",
+          "manager": "Ben Roher",
+          "sent": [
+            "Jacquizz Rodgers"
+          ],
+          "received": [
+            "Darren Sproles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.248",
+      "year": 2016,
+      "date": "2016-10-20T23:32:46.000Z",
+      "timestamp": 1477006366,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Aditi Kinkhabwala",
+          "manager": "Dustin Pulver",
+          "sent": [
+            "Jimmy Graham"
+          ],
+          "received": [
+            "Terrance West"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "(Insert Name Here)",
+          "manager": "Jack Beder",
+          "sent": [
+            "Terrance West"
+          ],
+          "received": [
+            "Jimmy Graham"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.257",
+      "year": 2016,
+      "date": "2016-10-25T14:23:58.000Z",
+      "timestamp": 1477405438,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Tease the Other Hyde",
+          "manager": "Matthew Garay",
+          "sent": [
+            "Alshon Jeffery",
+            "Cam Newton"
+          ],
+          "received": [
+            "Jarvis Landry",
+            "Sammy Watkins"
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Dusty's Dirty Landry",
+          "manager": "Ty Greenberg",
+          "sent": [
+            "Jarvis Landry",
+            "Sammy Watkins"
+          ],
+          "received": [
+            "Alshon Jeffery",
+            "Cam Newton"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.276",
+      "year": 2016,
+      "date": "2016-10-26T19:06:48.000Z",
+      "timestamp": 1477508808,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "(Insert Name Here)",
+          "manager": "Jack Beder",
+          "sent": [
+            "Allen Hurns"
+          ],
+          "received": [
+            "Ryan Fitzpatrick"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "You're kidding",
+          "manager": "Ben Roher",
+          "sent": [
+            "Ryan Fitzpatrick"
+          ],
+          "received": [
+            "Allen Hurns"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.329",
+      "year": 2016,
+      "date": "2016-11-06T15:17:31.000Z",
+      "timestamp": 1478445451,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Utku Gull's Squad",
+          "manager": "Chase Bergman",
+          "sent": [
+            "Torrey Smith",
+            "Derrick Henry",
+            "Will Fuller V"
+          ],
+          "received": [
+            "Darren Sproles",
+            "Allen Hurns"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "You're kidding",
+          "manager": "Ben Roher",
+          "sent": [
+            "Darren Sproles",
+            "Allen Hurns"
+          ],
+          "received": [
+            "Torrey Smith",
+            "Derrick Henry",
+            "Will Fuller V"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.354",
+      "year": 2016,
+      "date": "2016-11-10T01:01:03.000Z",
+      "timestamp": 1478739663,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Eze(kiel) money",
+          "manager": "GOBOL",
+          "sent": [
+            "Todd Gurley"
+          ],
+          "received": [
+            "Jamison Crowder",
+            "Mike Wallace"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "(Insert Name Here)",
+          "manager": "Jack Beder",
+          "sent": [
+            "Jamison Crowder",
+            "Mike Wallace"
+          ],
+          "received": [
+            "Todd Gurley"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.365",
+      "year": 2016,
+      "date": "2016-11-12T14:22:41.000Z",
+      "timestamp": 1478960561,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "(Insert Name Here)",
+          "manager": "Jack Beder",
+          "sent": [
+            "Rams"
+          ],
+          "received": [
+            "Ravens"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "The roebuccaneers",
+          "manager": "Jeff Roebuck",
+          "sent": [
+            "Ravens"
+          ],
+          "received": [
+            "Rams"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359.l.717008.tr.366",
+      "year": 2016,
+      "date": "2016-11-12T14:22:47.000Z",
+      "timestamp": 1478960567,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "(Insert Name Here)",
+          "manager": "Jack Beder",
+          "sent": [
+            "Blake Bortles",
+            "Todd Gurley"
+          ],
+          "received": [
+            "Aaron Rodgers",
+            "Jeremy Hill"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "The roebuccaneers",
+          "manager": "Jeff Roebuck",
+          "sent": [
+            "Aaron Rodgers",
+            "Jeremy Hill"
+          ],
+          "received": [
+            "Blake Bortles",
+            "Todd Gurley"
+          ]
+        }
+      ]
     }
   ]
 }

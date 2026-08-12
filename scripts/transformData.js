@@ -2,26 +2,33 @@
  * Script to transform Yahoo Fantasy Football exports into our app format.
  * Run with: node scripts/transformData.js
  *
- * Raw files should be placed in: src/data/{league}/{year}/
- * Expected files: Team.json, Draft.json, Matchup.json
- * Output goes to: src/data/{league}/{year}.json
+ * Preferred raw input (new Yahoo API dump):
+ *   src/data/{league}/{year}/season.json
  *
- * IMPORTANT: Yahoo exports only include first names for managers.
- * If you have managers with the same first name (e.g., two "Jacks"),
- * update the TEAM_TO_MANAGER_MAP below to map first names to full names.
+ * Legacy raw input (old column-oriented exports):
+ *   src/data/{league}/{year}/Team.json
+ *   src/data/{league}/{year}/Draft.json
+ *   src/data/{league}/{year}/Matchup.json
+ *
+ * Output:
+ *   src/data/{league}/{year}.json
+ *
+ * Playoff champions / runner-up / playoff teams stay in:
+ *   src/data/{league}/playoffs.json
+ *
+ * Yahoo only gives manager nicknames. Use MANAGER_NAME_MAP and
+ * TEAM_TO_MANAGER_MAP to resolve full names.
  */
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
-import { dirname, join } from 'path';
+import { readFileSync, writeFileSync, existsSync } from 'fs';
+import { join } from 'path';
 
 // =============================================================================
 // CONFIGURATION
 // =============================================================================
 
-// Base path for all data (raw files in subfolders, transformed as .json)
 const DATA_DIR = './src/data';
 
-// Which seasons to transform (add new entries here)
 const SEASONS_TO_TRANSFORM = [
   // CWP League
   { league: 'cwp', year: 2014 },
@@ -49,12 +56,6 @@ const SEASONS_TO_TRANSFORM = [
 
 // =============================================================================
 // MANAGER NAME MAPPING
-// =============================================================================
-// Map Yahoo first names to full names for consistency with playoff history data.
-// Key: lowercase first name from Yahoo export
-// Value: full name to use in the app
-//
-// IMPORTANT: This map should include ALL managers so names match playoffs.json
 // =============================================================================
 const MANAGER_NAME_MAP = {
   // CWP League managers (Jack handled specially via TEAM_TO_MANAGER_MAP)
@@ -91,137 +92,235 @@ const MANAGER_NAME_MAP = {
   declan: 'Declan Brown',
 };
 
-// Special mapping for managers where first name alone isn't unique
 // Maps: leagueId -> year -> teamId -> fullName
-// Jack Bleiweis is always t.1 (Commissioner)
-// Jack Beder's team ID varies by year
 const TEAM_TO_MANAGER_MAP = {
   cwp: {
-    // 2014-2015: Only Jack Bleiweis in the league
-    2014: {
-      't.1': 'Jack Bleiweis',
-    },
-    2015: {
-      't.1': 'Jack Bleiweis',
-    },
-    // 2016: Jack Beder joins
-    2016: {
-      't.1': 'Jack Bleiweis',
-      't.7': 'Jack Beder',
-    },
-    // 2017: Only Jack Bleiweis (Jack Beder not in league this year)
-    2017: {
-      't.1': 'Jack Bleiweis',
-    },
-    // 2018-2019: Jack Beder at t.10
-    2018: {
-      't.1': 'Jack Bleiweis',
-      't.10': 'Jack Beder',
-    },
-    2019: {
-      't.1': 'Jack Bleiweis',
-      't.10': 'Jack Beder',
-    },
-    // 2020: Jack Beder at t.9
-    2020: {
-      't.1': 'Jack Bleiweis',
-      't.9': 'Jack Beder',
-    },
-    // 2021-2023: Jack Beder at t.8
-    2021: {
-      't.1': 'Jack Bleiweis',
-      't.8': 'Jack Beder',
-    },
-    2022: {
-      't.1': 'Jack Bleiweis',
-      't.8': 'Jack Beder',
-    },
-    2023: {
-      't.1': 'Jack Bleiweis',
-      't.8': 'Jack Beder',
-    },
-    // 2024-2025: Jack Beder at t.7
-    2024: {
-      't.1': 'Jack Bleiweis',
-      't.7': 'Jack Beder',
-    },
-    2025: {
-      't.1': 'Jack Bleiweis',
-      't.7': 'Jack Beder',
-    },
+    2014: { 't.1': 'Jack Bleiweis' },
+    2015: { 't.1': 'Jack Bleiweis', 't.10': 'Ben Roher' },
+    2016: { 't.1': 'Jack Bleiweis', 't.7': 'Jack Beder', 't.4': 'Ben Roher' },
+    // 2017 t.8 "Show me your TD's" was Ben (same team name as other Ben seasons)
+    2017: { 't.1': 'Jack Bleiweis', 't.8': 'Ben Roher' },
+    2018: { 't.1': 'Jack Bleiweis', 't.10': 'Jack Beder', 't.4': 'Michael Kagan' },
+    2019: { 't.1': 'Jack Bleiweis', 't.10': 'Jack Beder' },
+    2020: { 't.1': 'Jack Bleiweis', 't.9': 'Jack Beder' },
+    2021: { 't.1': 'Jack Bleiweis', 't.8': 'Jack Beder' },
+    2022: { 't.1': 'Jack Bleiweis', 't.8': 'Jack Beder' },
+    2023: { 't.1': 'Jack Bleiweis', 't.8': 'Jack Beder' },
+    2024: { 't.1': 'Jack Bleiweis', 't.7': 'Jack Beder' },
+    2025: { 't.1': 'Jack Bleiweis', 't.7': 'Jack Beder' },
   },
   lp: {
-    // LP: Jack Bleiweis and Matthew Weintraub - team IDs vary by year
-    // Note: Matthew Weintraub (LP) is different from Matthew Garay (CWP)
-    2017: {
-      't.6': 'Jack Bleiweis',
-      't.3': 'Matthew Weintraub',
-    },
-    2018: {
-      't.6': 'Jack Bleiweis',
-      't.3': 'Matthew Weintraub',
-    },
-    2019: {
-      't.5': 'Jack Bleiweis',
-      't.10': 'Matthew Weintraub',
-    },
-    2020: {
-      't.10': 'Jack Bleiweis',
-      't.2': 'Matthew Weintraub',
-    },
-    2021: {
-      't.10': 'Jack Bleiweis',
-      't.2': 'Matthew Weintraub',
-    },
-    2022: {
-      't.10': 'Jack Bleiweis',
-      't.2': 'Matthew Weintraub',
-    },
-    2023: {
-      't.10': 'Jack Bleiweis',
-      't.2': 'Matthew Weintraub',
-    },
-    2024: {
-      't.10': 'Jack Bleiweis',
-      't.2': 'Matthew Weintraub',
-    },
+    2017: { 't.6': 'Jack Bleiweis', 't.3': 'Matthew Weintraub' },
+    2018: { 't.6': 'Jack Bleiweis', 't.3': 'Matthew Weintraub' },
+    2019: { 't.5': 'Jack Bleiweis', 't.10': 'Matthew Weintraub' },
+    2020: { 't.10': 'Jack Bleiweis', 't.2': 'Matthew Weintraub' },
+    2021: { 't.10': 'Jack Bleiweis', 't.2': 'Matthew Weintraub' },
+    2022: { 't.10': 'Jack Bleiweis', 't.2': 'Matthew Weintraub' },
+    2023: { 't.10': 'Jack Bleiweis', 't.2': 'Matthew Weintraub' },
+    2024: { 't.10': 'Jack Bleiweis', 't.2': 'Matthew Weintraub' },
   },
 };
 
 // =============================================================================
-// HELPER FUNCTIONS
+// HELPERS
 // =============================================================================
 
-// Helper to simplify Yahoo Team IDs
 function simplifyTeamId(fullId) {
-  const match = fullId.match(/t\.\d+$/);
-  return match ? match[0] : fullId;
+  if (fullId == null) return '';
+  const asString = String(fullId);
+  const match = asString.match(/t\.\d+$/);
+  if (match) return match[0];
+  if (/^\d+$/.test(asString)) return `t.${asString}`;
+  return asString;
 }
 
-// Get the correct manager name, handling duplicates
 function getManagerName(rawName, teamId, leagueId, year) {
-  // First check if this specific team has a mapped name for this year
   const yearMap = TEAM_TO_MANAGER_MAP[leagueId]?.[year];
   if (yearMap && yearMap[teamId]) {
     return yearMap[teamId];
   }
 
-  // Then check generic name mapping
-  const lowerName = rawName.toLowerCase();
+  const lowerName = String(rawName || '').toLowerCase();
   if (MANAGER_NAME_MAP[lowerName]) {
     return MANAGER_NAME_MAP[lowerName];
   }
 
-  // Otherwise return original name (preserve casing)
   return rawName;
 }
 
+function splitPlayerName(fullName) {
+  const name = String(fullName || '').trim();
+  if (!name) return { first: '', last: '' };
+  const parts = name.split(/\s+/);
+  if (parts.length === 1) return { first: parts[0], last: '' };
+  return { first: parts[0], last: parts.slice(1).join(' ') };
+}
+
+function extractPlayerId(playerKey) {
+  if (!playerKey) return '';
+  const match = String(playerKey).match(/p\.(\d+)$/);
+  return match ? match[1] : String(playerKey);
+}
+
+function getTeamLogoUrl(team) {
+  const logos = team.team_logos || [];
+  const first = logos[0]?.team_logo?.url || logos[0]?.url;
+  return first || '';
+}
+
+function getRawManagerNickname(team) {
+  const managers = team.managers || [];
+  const first = managers[0];
+  if (!first) return '';
+  if (typeof first === 'string') return first;
+  return first.nickname || '';
+}
+
+function toBooleanFlag(value) {
+  return value === true || value === 1 || value === '1';
+}
+
 // =============================================================================
-// TRANSFORM FUNCTIONS
+// NEW API DUMP TRANSFORM
 // =============================================================================
 
-// Transform Team data
-function transformTeams(raw, leagueId, year) {
+function transformApiTeams(season, leagueId, year) {
+  return season.teams.map((team) => {
+    const teamId = simplifyTeamId(team.team_key || team.team_id);
+    const standings = team.standings || {};
+    const manager = getManagerName(
+      getRawManagerNickname(team),
+      teamId,
+      leagueId,
+      year
+    );
+
+    return {
+      id: teamId,
+      name: team.name,
+      manager,
+      wins: standings.wins ?? 0,
+      losses: standings.losses ?? 0,
+      ties: standings.ties ?? 0,
+      rank: standings.rank ?? 0,
+      playoffSeed: standings.playoff_seed ?? 0,
+      isCommissioner: manager === 'Jack Bleiweis' && teamId === 't.1',
+      imageUrl: getTeamLogoUrl(team),
+      moves: Number(team.number_of_moves ?? 0),
+      tradesCount: Number(team.number_of_trades ?? 0),
+    };
+  });
+}
+
+function transformApiDraft(season) {
+  return (season.draft_results || []).map((pick) => {
+    const { first, last } = splitPlayerName(pick.player_name);
+    return {
+      pick: pick.pick,
+      round: pick.round,
+      teamId: simplifyTeamId(pick.team_key),
+      teamName: pick.team_name || '',
+      playerId: extractPlayerId(pick.player_key),
+      playerFirstName: first,
+      playerLastName: last,
+      avgPick: pick.avg_pick ?? null,
+      avgRound: pick.avg_round ?? null,
+    };
+  });
+}
+
+function transformApiMatchups(season) {
+  const matchups = [];
+
+  for (const weekBoard of season.scoreboard || []) {
+    for (const matchup of weekBoard.matchups || []) {
+      const teams = matchup.teams || [];
+      const team1 = teams[0] || {};
+      const team2 = teams[1] || {};
+
+      matchups.push({
+        week: matchup.week ?? weekBoard.week,
+        team1Id: simplifyTeamId(team1.team_key || team1.team_id),
+        team1Name: team1.name || '',
+        team1Points: Number(team1.points ?? 0),
+        team2Id: simplifyTeamId(team2.team_key || team2.team_id),
+        team2Name: team2.name || '',
+        team2Points: Number(team2.points ?? 0),
+        isComplete: matchup.status === 'postevent' || matchup.status === 'midevent',
+        isPlayoff: toBooleanFlag(matchup.is_playoffs),
+        isConsolation: toBooleanFlag(matchup.is_consolation),
+      });
+    }
+  }
+
+  return matchups;
+}
+
+function transformApiTrades(season, teams, year) {
+  const managerByTeam = new Map(teams.map((t) => [t.id, t.manager]));
+
+  return (season.trades || []).map((trade, index) => ({
+    id: trade.transaction_key || `${year}-trade-${index}`,
+    year,
+    date: trade.date || null,
+    timestamp: trade.timestamp || null,
+    sides: (trade.sides || []).map((side) => {
+      const teamId = simplifyTeamId(side.team_key);
+      return {
+        teamId,
+        teamName: side.team_name || '',
+        manager: managerByTeam.get(teamId) || '',
+        sent: side.sent || [],
+        received: side.received || [],
+      };
+    }),
+  }));
+}
+
+function transformApiRosters(season, league, year) {
+  const weeks = {};
+
+  for (const weekBoard of season.weekly_rosters || []) {
+    const week = weekBoard.week;
+    weeks[week] = (weekBoard.teams || []).map((team) => ({
+      teamId: simplifyTeamId(team.team_key),
+      players: (team.players || []).map((player) => ({
+        name: player.name || '',
+        position: player.display_position || '',
+        slot: player.selected_position || '',
+        points: Number(player.points ?? 0),
+        statLine: player.stat_line || {},
+      })),
+    }));
+  }
+
+  if (Object.keys(weeks).length === 0) return null;
+
+  return {
+    year,
+    leagueId: league,
+    weeks,
+  };
+}
+
+function transformApiSeason(season, league, year) {
+  const teams = transformApiTeams(season, league, year);
+  return {
+    year,
+    leagueId: league,
+    teams,
+    draft: transformApiDraft(season),
+    matchups: transformApiMatchups(season),
+    trades: transformApiTrades(season, teams, year),
+    rosters: transformApiRosters(season, league, year),
+  };
+}
+
+// =============================================================================
+// LEGACY COLUMN-ORIENTED TRANSFORM
+// =============================================================================
+
+function transformLegacyTeams(raw, leagueId, year) {
   const count = raw.ID.length;
   const teams = [];
 
@@ -244,8 +343,7 @@ function transformTeams(raw, leagueId, year) {
   return teams;
 }
 
-// Transform Draft data
-function transformDraft(raw) {
+function transformLegacyDraft(raw) {
   const count = raw.Pick.length;
   const picks = [];
 
@@ -266,8 +364,7 @@ function transformDraft(raw) {
   return picks;
 }
 
-// Transform Matchup data
-function transformMatchups(raw) {
+function transformLegacyMatchups(raw) {
   const count = raw.Week.length;
   const matchups = [];
 
@@ -289,58 +386,73 @@ function transformMatchups(raw) {
   return matchups;
 }
 
-// Main transformation for a single season
+// =============================================================================
+// MAIN
+// =============================================================================
+
 function transformSeason(league, year) {
-  // Raw files in: src/data/{league}/{year}/
-  // Output to: src/data/{league}/{year}.json
   const inputDir = join(DATA_DIR, league, String(year));
+  const apiPath = join(inputDir, 'season.json');
   const teamPath = join(inputDir, 'Team.json');
   const draftPath = join(inputDir, 'Draft.json');
   const matchupPath = join(inputDir, 'Matchup.json');
-
-  // Check if files exist
-  if (!existsSync(teamPath)) {
-    console.log(`⏭️  Skipping ${league}/${year} - Team.json not found`);
-    return null;
-  }
-  if (!existsSync(draftPath)) {
-    console.log(`⏭️  Skipping ${league}/${year} - Draft.json not found`);
-    return null;
-  }
-  if (!existsSync(matchupPath)) {
-    console.log(`⏭️  Skipping ${league}/${year} - Matchup.json not found`);
-    return null;
-  }
-
-  console.log(`📂 Transforming ${league}/${year}...`);
-
-  const rawTeam = JSON.parse(readFileSync(teamPath, 'utf-8'));
-  const rawDraft = JSON.parse(readFileSync(draftPath, 'utf-8'));
-  const rawMatchup = JSON.parse(readFileSync(matchupPath, 'utf-8'));
-
-  const data = {
-    year,
-    leagueId: league,
-    teams: transformTeams(rawTeam, league, year),
-    draft: transformDraft(rawDraft),
-    matchups: transformMatchups(rawMatchup),
-  };
-
-  // Write output as {year}.json in the league folder
   const outputPath = join(DATA_DIR, league, `${year}.json`);
-  writeFileSync(outputPath, JSON.stringify(data, null, 2));
 
-  console.log(`✅ Wrote ${outputPath}`);
-  console.log(`   - ${data.teams.length} teams`);
-  console.log(`   - ${data.draft.length} draft picks`);
-  console.log(`   - ${data.matchups.length} matchups`);
+  let data;
+  let source;
 
-  return data;
+  if (existsSync(apiPath)) {
+    console.log(`📂 Transforming ${league}/${year} (API dump)...`);
+    const season = JSON.parse(readFileSync(apiPath, 'utf-8'));
+    data = transformApiSeason(season, league, year);
+    source = 'season.json';
+  } else if (
+    existsSync(teamPath) &&
+    existsSync(draftPath) &&
+    existsSync(matchupPath)
+  ) {
+    console.log(`📂 Transforming ${league}/${year} (legacy export)...`);
+    data = {
+      year,
+      leagueId: league,
+      teams: transformLegacyTeams(
+        JSON.parse(readFileSync(teamPath, 'utf-8')),
+        league,
+        year
+      ),
+      draft: transformLegacyDraft(JSON.parse(readFileSync(draftPath, 'utf-8'))),
+      matchups: transformLegacyMatchups(
+        JSON.parse(readFileSync(matchupPath, 'utf-8'))
+      ),
+      trades: [],
+      rosters: null,
+    };
+    source = 'Team/Draft/Matchup.json';
+  } else {
+    console.log(`⏭️  Skipping ${league}/${year} - no raw files found`);
+    return null;
+  }
+
+  const { rosters, ...seasonOutput } = data;
+  writeFileSync(outputPath, JSON.stringify(seasonOutput, null, 2));
+  console.log(`✅ Wrote ${outputPath} from ${source}`);
+  console.log(`   - ${seasonOutput.teams.length} teams`);
+  console.log(`   - ${seasonOutput.draft.length} draft picks`);
+  console.log(`   - ${seasonOutput.matchups.length} matchups`);
+  if (seasonOutput.trades?.length) {
+    console.log(`   - ${seasonOutput.trades.length} trades`);
+  }
+  if (rosters) {
+    const rosterPath = join(DATA_DIR, league, `${year}-rosters.json`);
+    writeFileSync(rosterPath, JSON.stringify(rosters));
+    console.log(`   - wrote ${rosterPath}`);
+  }
+  console.log(
+    `   - managers: ${seasonOutput.teams.map((t) => t.manager).join(', ')}`
+  );
+
+  return seasonOutput;
 }
-
-// =============================================================================
-// MAIN EXECUTION
-// =============================================================================
 
 console.log('🏈 Fantasy Football Data Transformer\n');
 

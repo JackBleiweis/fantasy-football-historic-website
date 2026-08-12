@@ -8,16 +8,18 @@ import { Drafts } from './pages/Drafts/Drafts';
 import { Standings } from './pages/Standings/Standings';
 import { Records } from './pages/Records/Records';
 import { Season } from './pages/Season/Season';
+import { Playoffs } from './pages/Playoffs/Playoffs';
+import { ManagerProfile } from './pages/ManagerProfile/ManagerProfile';
+import { Managers } from './pages/Managers/Managers';
+import { MatchupDetail } from './pages/MatchupDetail/MatchupDetail';
 
 function App() {
   return (
     <ManagerModalProvider>
       <BrowserRouter>
         <Routes>
-          {/* Home - League Selector */}
           <Route path="/" element={<Home />} />
 
-          {/* League Routes */}
           <Route path="/:leagueId" element={<Layout />}>
             <Route index element={<LeagueHome />} />
             <Route path="drafts" element={<Drafts />} />
@@ -26,14 +28,21 @@ function App() {
             <Route path="standings/:year" element={<Standings />} />
             <Route path="season" element={<Season />} />
             <Route path="season/:year" element={<Season />} />
+            <Route
+              path="season/:year/matchup/:week/:team1Id"
+              element={<MatchupDetail />}
+            />
+            <Route path="playoffs" element={<Playoffs />} />
+            <Route path="playoffs/:year" element={<Playoffs />} />
             <Route path="records" element={<Records />} />
+            <Route path="managers" element={<Managers />} />
+            <Route path="managers/:managerId" element={<ManagerProfile />} />
           </Route>
 
-          {/* Fallback */}
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
+        <ManagerModal />
       </BrowserRouter>
-      <ManagerModal />
     </ManagerModalProvider>
   );
 }

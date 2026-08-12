@@ -18,9 +18,11 @@ export function Layout() {
 
   const navItems = [
     { to: `/${leagueId}`, label: 'Home', end: true },
+    { to: `/${leagueId}/managers`, label: 'Managers', end: false },
     { to: `/${leagueId}/drafts`, label: 'Drafts', end: false },
     { to: `/${leagueId}/standings`, label: 'Standings', end: false },
     { to: `/${leagueId}/season`, label: 'Season', end: false },
+    { to: `/${leagueId}/playoffs`, label: 'Playoffs', end: false },
     { to: `/${leagueId}/records`, label: 'Records', end: false },
   ];
 
