@@ -2736,13 +2736,14 @@
       "week": 17,
       "team1Id": "t.2",
       "team1Name": "Johnny 🧌",
-      "team1Points": 299.66,
+      "team1Points": 145.62,
       "team2Id": "t.10",
       "team2Name": "Cracker of the day",
-      "team2Points": 244.82,
+      "team2Points": 134.12,
       "isComplete": true,
       "isPlayoff": true,
-      "isConsolation": false
+      "isConsolation": false,
+      "isMultiWeekFinal": true
     },
     {
       "week": 17,

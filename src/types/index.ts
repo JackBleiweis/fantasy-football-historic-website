@@ -54,6 +54,12 @@ export interface Matchup {
   isComplete: boolean;
   isPlayoff: boolean;
   isConsolation: boolean;
+  /**
+   * Championship final that Yahoo stored as a multi-week combined total.
+   * Points on this row are the single-week (usually week-17) score after transform.
+   * See scripts/LEAGUE_QUIRKS.md.
+   */
+  isMultiWeekFinal?: boolean;
 }
 
 /**

@@ -2870,13 +2870,14 @@
       "week": 17,
       "team1Id": "t.9",
       "team1Name": "It’s Over I lost Everything",
-      "team1Points": 275.88,
+      "team1Points": 152.02,
       "team2Id": "t.10",
       "team2Name": "Sucky Sucky Kirky Kirky",
-      "team2Points": 331.96,
+      "team2Points": 158.58,
       "isComplete": true,
       "isPlayoff": true,
-      "isConsolation": false
+      "isConsolation": false,
+      "isMultiWeekFinal": true
     }
   ],
   "trades": [

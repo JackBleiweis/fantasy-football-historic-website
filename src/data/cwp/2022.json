@@ -2724,13 +2724,14 @@
       "week": 17,
       "team1Id": "t.1",
       "team1Name": "You Know What I’m Sayin’",
-      "team1Points": 250.42,
+      "team1Points": 128.42,
       "team2Id": "t.6",
       "team2Name": "Show me your TD's",
-      "team2Points": 318,
+      "team2Points": 158.14,
       "isComplete": true,
       "isPlayoff": true,
-      "isConsolation": false
+      "isConsolation": false,
+      "isMultiWeekFinal": true
     },
     {
       "week": 17,

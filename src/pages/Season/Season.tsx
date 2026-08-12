@@ -197,6 +197,7 @@ function MatchupCard({
     matchup.isComplete && matchup.team1Points === matchup.team2Points;
 
   const getMatchupType = () => {
+    if (matchup.isMultiWeekFinal) return 'Final (week 2 of 2)';
     if (matchup.isConsolation) return 'Consolation';
     if (matchup.isPlayoff) return 'Playoff';
     return null;

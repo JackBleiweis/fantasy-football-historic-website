@@ -18,6 +18,9 @@
  *
  * Yahoo only gives manager nicknames. Use MANAGER_NAME_MAP and
  * TEAM_TO_MANAGER_MAP to resolve full names.
+ *
+ * League-specific scoring quirks (e.g. CWP two-week finals):
+ *   scripts/LEAGUE_QUIRKS.md
  */
 
 import { readFileSync, writeFileSync, existsSync } from 'fs';
@@ -148,6 +151,23 @@ const TEAM_TO_MANAGER_MAP = {
       't.11': 'Joe Glibbery',
       't.12': 'Heri Hickl Szabo',
     },
+  },
+};
+
+/**
+ * CWP championship finals that Yahoo stores as a multi-week COMBINED total on
+ * one matchup row (usually week 17). See scripts/LEAGUE_QUIRKS.md.
+ *
+ * When listed here, transform rewrites that week's matchup points to the
+ * single-week roster starter total and sets isMultiWeekFinal: true.
+ */
+const MULTI_WEEK_CHAMPIONSHIP_FINALS = {
+  cwp: {
+    2021: { week: 17 },
+    2022: { week: 17 },
+    2023: { week: 17 },
+    2024: { week: 17 },
+    2025: { week: 17 },
   },
 };
 
@@ -434,9 +454,81 @@ function transformApiRosters(season, league, year) {
   };
 }
 
+function starterPointsFromRosters(rosters, week, teamId) {
+  if (!rosters?.weeks?.[week]) return null;
+  const team = rosters.weeks[week].find((t) => t.teamId === teamId);
+  if (!team) return null;
+  return team.players
+    .filter((p) => p.slot !== 'BN' && p.slot !== 'IR' && p.slot !== 'NA')
+    .reduce((sum, p) => sum + Number(p.points || 0), 0);
+}
+
+/**
+ * Rewrite Yahoo's combined two-week championship total into a single-week score.
+ */
+function applyMultiWeekFinalFix(data, league, year) {
+  const config = MULTI_WEEK_CHAMPIONSHIP_FINALS[league]?.[year];
+  if (!config || !data.rosters) return data;
+
+  const { week } = config;
+  let fixed = 0;
+
+  for (const matchup of data.matchups) {
+    if (matchup.week !== week) continue;
+    if (!matchup.isPlayoff || matchup.isConsolation) continue;
+
+    const team1WeekPts = starterPointsFromRosters(
+      data.rosters,
+      week,
+      matchup.team1Id
+    );
+    const team2WeekPts = starterPointsFromRosters(
+      data.rosters,
+      week,
+      matchup.team2Id
+    );
+
+    // Only rewrite when Yahoo's total looks like a multi-week sum
+    // (matchup points ≈ this week + previous week starters).
+    const prev1 = starterPointsFromRosters(
+      data.rosters,
+      week - 1,
+      matchup.team1Id
+    );
+    const prev2 = starterPointsFromRosters(
+      data.rosters,
+      week - 1,
+      matchup.team2Id
+    );
+
+    if (team1WeekPts == null || team2WeekPts == null) continue;
+
+    const looksCombined =
+      prev1 != null &&
+      prev2 != null &&
+      Math.abs(matchup.team1Points - (prev1 + team1WeekPts)) < 0.5 &&
+      Math.abs(matchup.team2Points - (prev2 + team2WeekPts)) < 0.5;
+
+    if (!looksCombined) continue;
+
+    matchup.team1Points = Number(team1WeekPts.toFixed(2));
+    matchup.team2Points = Number(team2WeekPts.toFixed(2));
+    matchup.isMultiWeekFinal = true;
+    fixed += 1;
+  }
+
+  if (fixed > 0) {
+    console.log(
+      `   - multi-week final fix: rewrote ${fixed} week-${week} championship matchup(s) to single-week points`
+    );
+  }
+
+  return data;
+}
+
 function transformApiSeason(season, league, year) {
   const teams = transformApiTeams(season, league, year);
-  return {
+  const data = {
     year,
     leagueId: league,
     teams,
@@ -445,6 +537,7 @@ function transformApiSeason(season, league, year) {
     trades: transformApiTrades(season, teams, year),
     rosters: transformApiRosters(season, league, year),
   };
+  return applyMultiWeekFinalFix(data, league, year);
 }
 
 // =============================================================================

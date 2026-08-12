@@ -2736,13 +2736,14 @@
       "week": 17,
       "team1Id": "t.2",
       "team1Name": "Leek/him 🧊",
-      "team1Points": 309.6,
+      "team1Points": 147.06,
       "team2Id": "t.4",
       "team2Name": "Not Etienne Brooke’s Stinkybox",
-      "team2Points": 295.82,
+      "team2Points": 129.88,
       "isComplete": true,
       "isPlayoff": true,
-      "isConsolation": false
+      "isConsolation": false,
+      "isMultiWeekFinal": true
     },
     {
       "week": 17,

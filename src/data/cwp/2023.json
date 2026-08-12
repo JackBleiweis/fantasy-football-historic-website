@@ -2724,13 +2724,14 @@
       "week": 17,
       "team1Id": "t.1",
       "team1Name": "The Coopa Pukas",
-      "team1Points": 297.22,
+      "team1Points": 123.18,
       "team2Id": "t.8",
       "team2Name": "Ty Reeks",
-      "team2Points": 299.12,
+      "team2Points": 163.46,
       "isComplete": true,
       "isPlayoff": true,
-      "isConsolation": false
+      "isConsolation": false,
+      "isMultiWeekFinal": true
     },
     {
       "week": 17,

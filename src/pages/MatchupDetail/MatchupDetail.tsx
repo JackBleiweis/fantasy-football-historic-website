@@ -144,11 +144,13 @@ export function MatchupDetail() {
       <header className={styles.header}>
         <p>
           Week {matchup.week}
-          {matchup.isConsolation
-            ? ' • Consolation'
-            : matchup.isPlayoff
-              ? ' • Playoff'
-              : ''}
+          {matchup.isMultiWeekFinal
+            ? ' • Championship final (week 2 of 2)'
+            : matchup.isConsolation
+              ? ' • Consolation'
+              : matchup.isPlayoff
+                ? ' • Playoff'
+                : ''}
         </p>
         <div className={styles.scoreboard}>
           <div>
