@@ -2649,7 +2649,7 @@
       "team2Name": "Drew de la Chance",
       "team2Points": 101.74,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2661,7 +2661,7 @@
       "team2Name": "Dippmar dipprozan",
       "team2Points": 141.34,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2697,7 +2697,7 @@
       "team2Name": "Smoke A.J.",
       "team2Points": 103.76,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2709,7 +2709,7 @@
       "team2Name": "Dippmar dipprozan",
       "team2Points": 49,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

@@ -2693,7 +2693,7 @@
       "team2Name": "Show me your TD's",
       "team2Points": 79.7,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2705,7 +2705,7 @@
       "team2Name": "RIP 🏆",
       "team2Points": 167.9,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2753,7 +2753,7 @@
       "team2Name": "RIP 🏆",
       "team2Points": 131.58,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2765,7 +2765,7 @@
       "team2Name": "Suh Girls One Cup",
       "team2Points": 138.58,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

@@ -62,8 +62,11 @@ export function MatchupModal({ matchupData, isOpen, onClose }: MatchupModalProps
           <h2 id="matchup-title" className={styles.title}>
             {year} Season - Week {matchup.week}
           </h2>
-          {matchup.isPlayoff && (
+          {matchup.isPlayoff && !matchup.isConsolation && (
             <span className={styles.playoffBadge}>🏆 Playoff Game</span>
+          )}
+          {matchup.isConsolation && (
+            <span className={styles.playoffBadge}>Consolation</span>
           )}
         </header>
 
@@ -133,7 +136,11 @@ export function MatchupModal({ matchupData, isOpen, onClose }: MatchupModalProps
           <div className={styles.statRow}>
             <span className={styles.statLabel}>Game Type</span>
             <span className={styles.statValue}>
-              {matchup.isPlayoff ? 'Playoff' : 'Regular Season'}
+              {matchup.isConsolation
+                ? 'Consolation'
+                : matchup.isPlayoff
+                  ? 'Playoff'
+                  : 'Regular Season'}
             </span>
           </div>
         </div>

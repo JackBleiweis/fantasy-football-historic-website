@@ -39,7 +39,7 @@
       "ties": 0,
       "rank": 3,
       "playoffSeed": 3,
-      "isCommissioner": false,
+      "isCommissioner": true,
       "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c539b35e4265824ce9a102d8797aa099489af5a0212ec553c098db449950f675.jpg",
       "moves": 34,
       "tradesCount": 3
@@ -2931,7 +2931,7 @@
       "team2Name": "St. Terrance",
       "team2Points": 128.64,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2943,7 +2943,7 @@
       "team2Name": "House of Cards",
       "team2Points": 98.74,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2955,7 +2955,7 @@
       "team2Name": "C.Otton Picker",
       "team2Points": 133.76,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2991,7 +2991,7 @@
       "team2Name": "Hall Pass",
       "team2Points": 91.94,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3003,7 +3003,7 @@
       "team2Name": "House of Cards",
       "team2Points": 114.7,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3027,7 +3027,7 @@
       "team2Name": "Hall Pass",
       "team2Points": 90,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3051,7 +3051,7 @@
       "team2Name": "Stroud Boys",
       "team2Points": 117.2,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {

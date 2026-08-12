@@ -2791,7 +2791,7 @@
       "team2Name": "The Wife Beders",
       "team2Points": 149,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2815,7 +2815,7 @@
       "team2Name": "Show me your TD's",
       "team2Points": 126.54,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2851,7 +2851,7 @@
       "team2Name": "Jimothy's Jumping Bumblebees",
       "team2Points": 113.64,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2863,7 +2863,7 @@
       "team2Name": "The Wife Beders",
       "team2Points": 140.16,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {

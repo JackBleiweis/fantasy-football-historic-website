@@ -39,7 +39,7 @@
       "ties": 0,
       "rank": 3,
       "playoffSeed": 4,
-      "isCommissioner": false,
+      "isCommissioner": true,
       "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg",
       "moves": 20,
       "tradesCount": 4
@@ -2835,7 +2835,7 @@
       "team2Name": "Aaron It Out",
       "team2Points": 102.9,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2871,7 +2871,7 @@
       "team2Name": "Sherlock Mahomes",
       "team2Points": 70.12,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2883,7 +2883,7 @@
       "team2Name": "Antonio Gibson Fan",
       "team2Points": 103.64,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2895,7 +2895,7 @@
       "team2Name": "SaqOuin",
       "team2Points": 115.52,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2943,7 +2943,7 @@
       "team2Name": "Aaron It Out",
       "team2Points": 107.42,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2955,7 +2955,7 @@
       "team2Name": "SaqOuin",
       "team2Points": 84.22,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2967,7 +2967,7 @@
       "team2Name": "Antonio Gibson Fan",
       "team2Points": 99.58,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {

@@ -2681,7 +2681,7 @@
       "team2Name": "Suh Girls One Cup",
       "team2Points": 175.02,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2717,7 +2717,7 @@
       "team2Name": "Jermain Franklin",
       "team2Points": 129.98,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2741,7 +2741,7 @@
       "team2Name": "Jermain Franklin",
       "team2Points": 116.5,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2765,7 +2765,7 @@
       "team2Name": "Free win for you",
       "team2Points": 97.96,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

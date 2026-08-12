@@ -67,7 +67,7 @@
       "ties": 0,
       "rank": 5,
       "playoffSeed": 3,
-      "isCommissioner": false,
+      "isCommissioner": true,
       "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg",
       "moves": 21,
       "tradesCount": 8
@@ -3111,7 +3111,7 @@
       "team2Name": "Woods you let me win",
       "team2Points": 104.48,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3135,7 +3135,7 @@
       "team2Name": "#Smoothie4Ian",
       "team2Points": 84.78,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3171,7 +3171,7 @@
       "team2Name": "#Smoothie4Ian",
       "team2Points": 100.18,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3183,7 +3183,7 @@
       "team2Name": "Justin cucker",
       "team2Points": 80.16,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3195,7 +3195,7 @@
       "team2Name": "Woods you let me win",
       "team2Points": 132.96,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3231,7 +3231,7 @@
       "team2Name": "Woods you let me win",
       "team2Points": 165.26,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3243,7 +3243,7 @@
       "team2Name": "Justin cucker",
       "team2Points": 120.48,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {

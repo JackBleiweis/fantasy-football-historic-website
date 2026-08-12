@@ -2767,7 +2767,7 @@
       "team2Name": "(Insert Name Here)",
       "team2Points": 136.22,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2779,7 +2779,7 @@
       "team2Name": "The roebuccaneers",
       "team2Points": 107.46,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2815,7 +2815,7 @@
       "team2Name": "Aditi Kinkhabwala",
       "team2Points": 103.6,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2839,7 +2839,7 @@
       "team2Name": "The roebuccaneers",
       "team2Points": 170.34,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

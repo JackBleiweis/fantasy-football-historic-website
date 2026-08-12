@@ -2779,7 +2779,7 @@
       "team2Name": "Washington Foreskins",
       "team2Points": 211.62,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2791,7 +2791,7 @@
       "team2Name": "Dak Out For Haramabe",
       "team2Points": 144.58,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2827,7 +2827,7 @@
       "team2Name": "Dak Out For Haramabe",
       "team2Points": 106.14,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2839,7 +2839,7 @@
       "team2Name": "Washington Foreskins",
       "team2Points": 149.22,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

@@ -2681,7 +2681,7 @@
       "team2Name": "JOe 🧌",
       "team2Points": 99,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2717,7 +2717,7 @@
       "team2Name": "Suh Girls One Cup",
       "team2Points": 113.5,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2741,7 +2741,7 @@
       "team2Name": "Suh Girls One Cup",
       "team2Points": 87.9,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2765,7 +2765,7 @@
       "team2Name": "JOe 🧌",
       "team2Points": 108.86,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

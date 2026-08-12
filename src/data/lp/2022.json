@@ -39,7 +39,7 @@
       "ties": 0,
       "rank": 3,
       "playoffSeed": 4,
-      "isCommissioner": false,
+      "isCommissioner": true,
       "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg",
       "moves": 36,
       "tradesCount": 0
@@ -2919,7 +2919,7 @@
       "team2Name": "Goff and Country Club",
       "team2Points": 119,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2931,7 +2931,7 @@
       "team2Name": "Rhamondraymond Green",
       "team2Points": 129.32,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2967,7 +2967,7 @@
       "team2Name": "Rhamondraymond Green",
       "team2Points": 95.9,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2979,7 +2979,7 @@
       "team2Name": "Infinity Christian McChickens",
       "team2Points": 131.8,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2991,7 +2991,7 @@
       "team2Name": "Goff and Country Club",
       "team2Points": 122.86,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3027,7 +3027,7 @@
       "team2Name": "Fournettecation",
       "team2Points": 59.48,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3051,7 +3051,7 @@
       "team2Name": "Infinity Christian McChickens",
       "team2Points": 87.5,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {

@@ -2975,7 +2975,7 @@
       "team2Name": "EveryDay Im Russel'n",
       "team2Points": 196.92,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2999,7 +2999,7 @@
       "team2Name": "CG-SOMF",
       "team2Points": 177.42,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3023,7 +3023,7 @@
       "team2Name": "Gotta Catch Jamaal",
       "team2Points": 126.34,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3047,7 +3047,7 @@
       "team2Name": "CG-SOMF",
       "team2Points": 98.8,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {

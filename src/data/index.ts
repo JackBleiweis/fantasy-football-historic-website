@@ -34,6 +34,7 @@ import lp2021 from './lp/2021.json';
 import lp2022 from './lp/2022.json';
 import lp2023 from './lp/2023.json';
 import lp2024 from './lp/2024.json';
+import lp2025 from './lp/2025.json';
 import lpPlayoffs from './lp/playoffs.json';
 
 /**
@@ -52,7 +53,7 @@ export const leagues: Record<LeagueId, LeagueInfo> = {
     name: 'Dirty Dozen',
     shortName: 'DD',
     description: 'The Dirty Dozen Fantasy Football League',
-    years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017],
+    years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017],
   },
 };
 
@@ -83,6 +84,7 @@ const seasonDataMap: Record<LeagueId, Record<number, SeasonData>> = {
     2022: lp2022 as SeasonData,
     2023: lp2023 as SeasonData,
     2024: lp2024 as SeasonData,
+    2025: lp2025 as SeasonData,
   },
 };
 

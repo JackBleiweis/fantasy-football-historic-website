@@ -2755,7 +2755,7 @@
       "team2Name": "Turn Down for Watt",
       "team2Points": 122.76,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2791,7 +2791,7 @@
       "team2Name": "Roher Sucks",
       "team2Points": 144.68,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2803,7 +2803,7 @@
       "team2Name": "Blackmon are hung",
       "team2Points": 144.72,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2839,7 +2839,7 @@
       "team2Name": "Turn Down for Watt",
       "team2Points": 140.42,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

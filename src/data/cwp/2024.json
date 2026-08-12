@@ -2669,7 +2669,7 @@
       "team2Name": "LeBron Bijan",
       "team2Points": 179.3,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2705,7 +2705,7 @@
       "team2Name": "Cracker of the day",
       "team2Points": 132.9,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2729,7 +2729,7 @@
       "team2Name": "Show me your TD's",
       "team2Points": 120.88,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2753,7 +2753,7 @@
       "team2Name": "Cracker of the day",
       "team2Points": 151.56,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {

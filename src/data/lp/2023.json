@@ -25,7 +25,7 @@
       "ties": 0,
       "rank": 2,
       "playoffSeed": 3,
-      "isCommissioner": false,
+      "isCommissioner": true,
       "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/ae93a74855220a2f709fe84097bf130d067389a190a7001e62f7325dbcb61d56.png",
       "moves": 39,
       "tradesCount": 4
@@ -2907,7 +2907,7 @@
       "team2Name": "Orthodox Jeudy",
       "team2Points": 108.04,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2919,7 +2919,7 @@
       "team2Name": "Saquon My Balls",
       "team2Points": 97.5,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2955,7 +2955,7 @@
       "team2Name": "Saquon My Balls",
       "team2Points": 93.3,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2967,7 +2967,7 @@
       "team2Name": "Diggs Out For Harambe",
       "team2Points": 122.58,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3015,7 +3015,7 @@
       "team2Name": "Orthodox Jeudy",
       "team2Points": 81.26,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3027,7 +3027,7 @@
       "team2Name": "Orthodox Jeudy",
       "team2Points": 72.44,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3063,7 +3063,7 @@
       "team2Name": "Nacua Matata",
       "team2Points": 130.68,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

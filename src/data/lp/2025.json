@@ -1,0 +1,3356 @@
+{
+  "year": 2025,
+  "leagueId": "lp",
+  "teams": [
+    {
+      "id": "t.1",
+      "name": "Tee Time",
+      "manager": "James Ellement",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/1afaa621c614595d7c97a4927d427b55",
+      "moves": 56,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.2",
+      "name": "Samuel Lamperts",
+      "manager": "Lucas Stagliano",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "rank": 2,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/3ba9b13839d8aae42305608dfbb1bfe2",
+      "moves": 87,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.3",
+      "name": "McCalf Hurts",
+      "manager": "Harrison Wood",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "rank": 4,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/6dcbee5f295974c3ea459f3aa1e3ba02",
+      "moves": 32,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.4",
+      "name": "Keenan the Sheets",
+      "manager": "Jack Bleiweis",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 11,
+      "playoffSeed": 0,
+      "isCommissioner": true,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/b9690adfcd9c022bdfdcb92b3b5eb104",
+      "moves": 34,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.5",
+      "name": "Michaels Room",
+      "manager": "Gabriel Nadra",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "",
+      "moves": 57,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.6",
+      "name": "Travis Swift",
+      "manager": "Kevin McCreary",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 7,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/a61ca935c639af5b3117eb01c27df253",
+      "moves": 24,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.7",
+      "name": "Emeka This Comeback",
+      "manager": "William Davison",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 9,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/0c5ef330248a20eee64df1b6f955a7b6",
+      "moves": 18,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.8",
+      "name": "Cock Brock ",
+      "manager": "Matthew Weintraub",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "rank": 1,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/ecad2e76dcae272c9754620822853f36",
+      "moves": 52,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.9",
+      "name": "Addison Rae’s ",
+      "manager": "Ryan Schwartz",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "rank": 12,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/2526294cf5f9136abd5582a11da493be",
+      "moves": 48,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.10",
+      "name": "Hall Pass Part II",
+      "manager": "Ian O'Handley",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 8,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/d55d1f7075eda01948318de4af616075",
+      "moves": 10,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.11",
+      "name": "Skat in the Hat",
+      "manager": "Joe Glibbery",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "rank": 3,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/ecac617a47f4b2109f51d6fa3b8d17c3",
+      "moves": 29,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.12",
+      "name": "Easy Drake Oven",
+      "manager": "Heri Hickl Szabo",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 5,
+      "playoffSeed": 0,
+      "isCommissioner": false,
+      "imageUrl": "https://sleepercdn.com/avatars/thumbs/bae4c660fb86a0320a36f0911e56bcd4",
+      "moves": 52,
+      "tradesCount": 3
+    }
+  ],
+  "draft": [
+    {
+      "pick": 1,
+      "round": 1,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "7564",
+      "playerFirstName": "Ja'Marr",
+      "playerLastName": "Chase",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 2,
+      "round": 1,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "4866",
+      "playerFirstName": "Saquon",
+      "playerLastName": "Barkley",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 3,
+      "round": 1,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "6786",
+      "playerFirstName": "CeeDee",
+      "playerLastName": "Lamb",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 4,
+      "round": 1,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "9221",
+      "playerFirstName": "Jahmyr",
+      "playerLastName": "Gibbs",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 5,
+      "round": 1,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "9509",
+      "playerFirstName": "Bijan",
+      "playerLastName": "Robinson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 6,
+      "round": 1,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "6794",
+      "playerFirstName": "Justin",
+      "playerLastName": "Jefferson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 7,
+      "round": 1,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "7547",
+      "playerFirstName": "Amon-Ra",
+      "playerLastName": "St. Brown",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 8,
+      "round": 1,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "4034",
+      "playerFirstName": "Christian",
+      "playerLastName": "McCaffrey",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 9,
+      "round": 1,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "12527",
+      "playerFirstName": "Ashton",
+      "playerLastName": "Jeanty",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 10,
+      "round": 1,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "3198",
+      "playerFirstName": "Derrick",
+      "playerLastName": "Henry",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 11,
+      "round": 1,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "9493",
+      "playerFirstName": "Puka",
+      "playerLastName": "Nacua",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 12,
+      "round": 1,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "11632",
+      "playerFirstName": "Malik",
+      "playerLastName": "Nabers",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 13,
+      "round": 2,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "8112",
+      "playerFirstName": "Drake",
+      "playerLastName": "London",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 14,
+      "round": 2,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "7569",
+      "playerFirstName": "Nico",
+      "playerLastName": "Collins",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 15,
+      "round": 2,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "5850",
+      "playerFirstName": "Josh",
+      "playerLastName": "Jacobs",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 16,
+      "round": 2,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "11631",
+      "playerFirstName": "Brian",
+      "playerLastName": "Thomas",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 17,
+      "round": 2,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "6813",
+      "playerFirstName": "Jonathan",
+      "playerLastName": "Taylor",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 18,
+      "round": 2,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "11584",
+      "playerFirstName": "Bucky",
+      "playerLastName": "Irving",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 19,
+      "round": 2,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "9226",
+      "playerFirstName": "De'Von",
+      "playerLastName": "Achane",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 20,
+      "round": 2,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "5859",
+      "playerFirstName": "A.J.",
+      "playerLastName": "Brown",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 21,
+      "round": 2,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "11635",
+      "playerFirstName": "Ladd",
+      "playerLastName": "McConkey",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 22,
+      "round": 2,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "9224",
+      "playerFirstName": "Chase",
+      "playerLastName": "Brown",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 23,
+      "round": 2,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "3321",
+      "playerFirstName": "Tyreek",
+      "playerLastName": "Hill",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 24,
+      "round": 2,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "11604",
+      "playerFirstName": "Brock",
+      "playerLastName": "Bowers",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 25,
+      "round": 3,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "6801",
+      "playerFirstName": "Tee",
+      "playerLastName": "Higgins",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 26,
+      "round": 3,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "8130",
+      "playerFirstName": "Trey",
+      "playerLastName": "McBride",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 27,
+      "round": 3,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "5927",
+      "playerFirstName": "Terry",
+      "playerLastName": "McLaurin",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 28,
+      "round": 3,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "8150",
+      "playerFirstName": "Kyren",
+      "playerLastName": "Williams",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 29,
+      "round": 3,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "5846",
+      "playerFirstName": "DK",
+      "playerLastName": "Metcalf",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 30,
+      "round": 3,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "9488",
+      "playerFirstName": "Jaxon",
+      "playerLastName": "Smith-Njigba",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 31,
+      "round": 3,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "8151",
+      "playerFirstName": "Kenneth",
+      "playerLastName": "Walker",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 32,
+      "round": 3,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "4984",
+      "playerFirstName": "Josh",
+      "playerLastName": "Allen",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 33,
+      "round": 3,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "8138",
+      "playerFirstName": "James",
+      "playerLastName": "Cook",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 34,
+      "round": 3,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "12507",
+      "playerFirstName": "Omarion",
+      "playerLastName": "Hampton",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 35,
+      "round": 3,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "4035",
+      "playerFirstName": "Alvin",
+      "playerLastName": "Kamara",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 36,
+      "round": 3,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "8146",
+      "playerFirstName": "Garrett",
+      "playerLastName": "Wilson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 37,
+      "round": 4,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "12529",
+      "playerFirstName": "TreVeyon",
+      "playerLastName": "Henderson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 38,
+      "round": 4,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "4881",
+      "playerFirstName": "Lamar",
+      "playerLastName": "Jackson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 39,
+      "round": 4,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "7525",
+      "playerFirstName": "DeVonta",
+      "playerLastName": "Smith",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 40,
+      "round": 4,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "12526",
+      "playerFirstName": "Tetairoa",
+      "playerLastName": "McMillan",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 41,
+      "round": 4,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "2216",
+      "playerFirstName": "Mike",
+      "playerLastName": "Evans",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 42,
+      "round": 4,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "4217",
+      "playerFirstName": "George",
+      "playerLastName": "Kittle",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 43,
+      "round": 4,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "5045",
+      "playerFirstName": "Courtland",
+      "playerLastName": "Sutton",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 44,
+      "round": 4,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "6904",
+      "playerFirstName": "Jalen",
+      "playerLastName": "Hurts",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 45,
+      "round": 4,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "11628",
+      "playerFirstName": "Marvin",
+      "playerLastName": "Harrison",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 46,
+      "round": 4,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "11566",
+      "playerFirstName": "Jayden",
+      "playerLastName": "Daniels",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 47,
+      "round": 4,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "6770",
+      "playerFirstName": "Joe",
+      "playerLastName": "Burrow",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 48,
+      "round": 4,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "7594",
+      "playerFirstName": "Chuba",
+      "playerLastName": "Hubbard",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 49,
+      "round": 5,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "8205",
+      "playerFirstName": "Isiah",
+      "playerLastName": "Pacheco",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 50,
+      "round": 5,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "8155",
+      "playerFirstName": "Breece",
+      "playerLastName": "Hall",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 51,
+      "round": 5,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "2133",
+      "playerFirstName": "Davante",
+      "playerLastName": "Adams",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 52,
+      "round": 5,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "4137",
+      "playerFirstName": "James",
+      "playerLastName": "Conner",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 53,
+      "round": 5,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "4983",
+      "playerFirstName": "DJ",
+      "playerLastName": "Moore",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 54,
+      "round": 5,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "9997",
+      "playerFirstName": "Zay",
+      "playerLastName": "Flowers",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 55,
+      "round": 5,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "8148",
+      "playerFirstName": "Jameson",
+      "playerLastName": "Williams",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 56,
+      "round": 5,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "4981",
+      "playerFirstName": "Calvin",
+      "playerLastName": "Ridley",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 57,
+      "round": 5,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "8137",
+      "playerFirstName": "George",
+      "playerLastName": "Pickens",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 58,
+      "round": 5,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "12514",
+      "playerFirstName": "Emeka",
+      "playerLastName": "Egbuka",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 59,
+      "round": 5,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "11624",
+      "playerFirstName": "Xavier",
+      "playerLastName": "Worthy",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 60,
+      "round": 5,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "7526",
+      "playerFirstName": "Jaylen",
+      "playerLastName": "Waddle",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 61,
+      "round": 6,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "6790",
+      "playerFirstName": "D'Andre",
+      "playerLastName": "Swift",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 62,
+      "round": 6,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "9756",
+      "playerFirstName": "Jordan",
+      "playerLastName": "Addison",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 63,
+      "round": 6,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "8144",
+      "playerFirstName": "Chris",
+      "playerLastName": "Olave",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 64,
+      "round": 6,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "11620",
+      "playerFirstName": "Rome",
+      "playerLastName": "Odunze",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 65,
+      "round": 6,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "12489",
+      "playerFirstName": "RJ",
+      "playerLastName": "Harvey",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 66,
+      "round": 6,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "11638",
+      "playerFirstName": "Ricky",
+      "playerLastName": "Pearsall",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 67,
+      "round": 6,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "5967",
+      "playerFirstName": "Tony",
+      "playerLastName": "Pollard",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 68,
+      "round": 6,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "12530",
+      "playerFirstName": "Travis",
+      "playerLastName": "Hunter",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 69,
+      "round": 6,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "10229",
+      "playerFirstName": "Rashee",
+      "playerLastName": "Rice",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 70,
+      "round": 6,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "12518",
+      "playerFirstName": "Tyler",
+      "playerLastName": "Warren",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 71,
+      "round": 6,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "5892",
+      "playerFirstName": "David",
+      "playerLastName": "Montgomery",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 72,
+      "round": 6,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "5844",
+      "playerFirstName": "T.J.",
+      "playerLastName": "Hockenson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 73,
+      "round": 7,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "12504",
+      "playerFirstName": "Kaleb",
+      "playerLastName": "Johnson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 74,
+      "round": 7,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "6783",
+      "playerFirstName": "Jerry",
+      "playerLastName": "Jeudy",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 75,
+      "round": 7,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "5947",
+      "playerFirstName": "Jakobi",
+      "playerLastName": "Meyers",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 76,
+      "round": 7,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "11637",
+      "playerFirstName": "Keon",
+      "playerLastName": "Coleman",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 77,
+      "round": 7,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "10859",
+      "playerFirstName": "Sam",
+      "playerLastName": "LaPorta",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 78,
+      "round": 7,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "1466",
+      "playerFirstName": "Travis",
+      "playerLastName": "Kelce",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 79,
+      "round": 7,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "2449",
+      "playerFirstName": "Stefon",
+      "playerLastName": "Diggs",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 80,
+      "round": 7,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "5872",
+      "playerFirstName": "Deebo",
+      "playerLastName": "Samuel",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 81,
+      "round": 7,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "12501",
+      "playerFirstName": "Matthew",
+      "playerLastName": "Golden",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 82,
+      "round": 7,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "4046",
+      "playerFirstName": "Patrick",
+      "playerLastName": "Mahomes",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 83,
+      "round": 7,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "7049",
+      "playerFirstName": "Jauan",
+      "playerLastName": "Jennings",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 84,
+      "round": 7,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "4199",
+      "playerFirstName": "Aaron",
+      "playerLastName": "Jones",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 85,
+      "round": 8,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "11655",
+      "playerFirstName": "Tyrone",
+      "playerLastName": "Tracy",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 86,
+      "round": 8,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "8134",
+      "playerFirstName": "Khalil",
+      "playerLastName": "Shakir",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 87,
+      "round": 8,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "9500",
+      "playerFirstName": "Josh",
+      "playerLastName": "Downs",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 88,
+      "round": 8,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "5012",
+      "playerFirstName": "Mark",
+      "playerLastName": "Andrews",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 89,
+      "round": 8,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "4033",
+      "playerFirstName": "David",
+      "playerLastName": "Njoku",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 90,
+      "round": 8,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "10222",
+      "playerFirstName": "Jayden",
+      "playerLastName": "Reed",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 91,
+      "round": 8,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "9753",
+      "playerFirstName": "Zach",
+      "playerLastName": "Charbonnet",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 92,
+      "round": 8,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "4039",
+      "playerFirstName": "Cooper",
+      "playerLastName": "Kupp",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 93,
+      "round": 8,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "8228",
+      "playerFirstName": "Jaylen",
+      "playerLastName": "Warren",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 94,
+      "round": 8,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "12512",
+      "playerFirstName": "Quinshon",
+      "playerLastName": "Judkins",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 95,
+      "round": 8,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "7543",
+      "playerFirstName": "Travis",
+      "playerLastName": "Etienne",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 96,
+      "round": 8,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "8408",
+      "playerFirstName": "Jordan",
+      "playerLastName": "Mason",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 97,
+      "round": 9,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "6819",
+      "playerFirstName": "Michael",
+      "playerLastName": "Pittman",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 98,
+      "round": 9,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "8676",
+      "playerFirstName": "Rashid",
+      "playerLastName": "Shaheed",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 99,
+      "round": 9,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "12484",
+      "playerFirstName": "Jayden",
+      "playerLastName": "Higgins",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 100,
+      "round": 9,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "11563",
+      "playerFirstName": "Bo",
+      "playerLastName": "Nix",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 101,
+      "round": 9,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "4037",
+      "playerFirstName": "Chris",
+      "playerLastName": "Godwin",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 102,
+      "round": 9,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "11576",
+      "playerFirstName": "Braelon",
+      "playerLastName": "Allen",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 103,
+      "round": 9,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "12481",
+      "playerFirstName": "Cam",
+      "playerLastName": "Skattebo",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 104,
+      "round": 9,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "7588",
+      "playerFirstName": "Javonte",
+      "playerLastName": "Williams",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 105,
+      "round": 9,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "12533",
+      "playerFirstName": "Jacory",
+      "playerLastName": "Croskey-Merritt",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 106,
+      "round": 9,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "12509",
+      "playerFirstName": "Tre'",
+      "playerLastName": "Harris",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 107,
+      "round": 9,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "6806",
+      "playerFirstName": "J.K.",
+      "playerLastName": "Dobbins",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 108,
+      "round": 9,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "9494",
+      "playerFirstName": "Marvin",
+      "playerLastName": "Mims",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 109,
+      "round": 10,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "5849",
+      "playerFirstName": "Kyler",
+      "playerLastName": "Murray",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 110,
+      "round": 10,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "4066",
+      "playerFirstName": "Evan",
+      "playerLastName": "Engram",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 111,
+      "round": 10,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "7553",
+      "playerFirstName": "Kyle",
+      "playerLastName": "Pitts",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 112,
+      "round": 10,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "12517",
+      "playerFirstName": "Colston",
+      "playerLastName": "Loveland",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 113,
+      "round": 10,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "7090",
+      "playerFirstName": "Darnell",
+      "playerLastName": "Mooney",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 114,
+      "round": 10,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "12519",
+      "playerFirstName": "Luther",
+      "playerLastName": "Burden",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 115,
+      "round": 10,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "6803",
+      "playerFirstName": "Brandon",
+      "playerLastName": "Aiyuk",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 116,
+      "round": 10,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "4663",
+      "playerFirstName": "Austin",
+      "playerLastName": "Ekeler",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 117,
+      "round": 10,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "7611",
+      "playerFirstName": "Rhamondre",
+      "playerLastName": "Stevenson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 118,
+      "round": 10,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "9225",
+      "playerFirstName": "Tank",
+      "playerLastName": "Bigsby",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 119,
+      "round": 10,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "12457",
+      "playerFirstName": "Jaydon",
+      "playerLastName": "Blue",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 120,
+      "round": 10,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "3294",
+      "playerFirstName": "Dak",
+      "playerLastName": "Prescott",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 121,
+      "round": 11,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "11589",
+      "playerFirstName": "Trey",
+      "playerLastName": "Benson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 122,
+      "round": 11,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "5022",
+      "playerFirstName": "Dallas",
+      "playerLastName": "Goedert",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 123,
+      "round": 11,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "12541",
+      "playerFirstName": "Dont'e",
+      "playerLastName": "Thornton",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 124,
+      "round": 11,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "12495",
+      "playerFirstName": "Ollie",
+      "playerLastName": "Gordon",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 125,
+      "round": 11,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "4988",
+      "playerFirstName": "Nick",
+      "playerLastName": "Chubb",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 126,
+      "round": 11,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "8154",
+      "playerFirstName": "Brian",
+      "playerLastName": "Robinson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 127,
+      "round": 11,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "12490",
+      "playerFirstName": "Bhayshul",
+      "playerLastName": "Tuten",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 128,
+      "round": 11,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "4950",
+      "playerFirstName": "Christian",
+      "playerLastName": "Kirk",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 129,
+      "round": 11,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "12469",
+      "playerFirstName": "Dylan",
+      "playerLastName": "Sampson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 130,
+      "round": 11,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "11575",
+      "playerFirstName": "Ray",
+      "playerLastName": "Davis",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 131,
+      "round": 11,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "1479",
+      "playerFirstName": "Keenan",
+      "playerLastName": "Allen",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 132,
+      "round": 11,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "8132",
+      "playerFirstName": "Tyler",
+      "playerLastName": "Allgeier",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 133,
+      "round": 12,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "9484",
+      "playerFirstName": "Tucker",
+      "playerLastName": "Kraft",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 134,
+      "round": 12,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "8136",
+      "playerFirstName": "Rachaad",
+      "playerLastName": "White",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 135,
+      "round": 12,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "10236",
+      "playerFirstName": "Dalton",
+      "playerLastName": "Kincaid",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 136,
+      "round": 12,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "11564",
+      "playerFirstName": "Drake",
+      "playerLastName": "Maye",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 137,
+      "round": 12,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "8143",
+      "playerFirstName": "Jerome",
+      "playerLastName": "Ford",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 138,
+      "round": 12,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "12474",
+      "playerFirstName": "Woody",
+      "playerLastName": "Marks",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 139,
+      "round": 12,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "3163",
+      "playerFirstName": "Jared",
+      "playerLastName": "Goff",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 140,
+      "round": 12,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "8129",
+      "playerFirstName": "Dameon",
+      "playerLastName": "Pierce",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 141,
+      "round": 12,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "3214",
+      "playerFirstName": "Hunter",
+      "playerLastName": "Henry",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 142,
+      "round": 12,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "4892",
+      "playerFirstName": "Baker",
+      "playerLastName": "Mayfield",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 143,
+      "round": 12,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "1689",
+      "playerFirstName": "Adam",
+      "playerLastName": "Thielen",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 144,
+      "round": 12,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "12497",
+      "playerFirstName": "Tory",
+      "playerLastName": "Horton",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 145,
+      "round": 13,
+      "teamId": "t.6",
+      "teamName": "Travis Swift",
+      "playerId": "5848",
+      "playerFirstName": "Marquise",
+      "playerLastName": "Brown",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 146,
+      "round": 13,
+      "teamId": "t.10",
+      "teamName": "Hall Pass Part II",
+      "playerId": "7571",
+      "playerFirstName": "Rashod",
+      "playerLastName": "Bateman",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 147,
+      "round": 13,
+      "teamId": "t.9",
+      "teamName": "Addison Rae’s ",
+      "playerId": "8110",
+      "playerFirstName": "Jake",
+      "playerLastName": "Ferguson",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 148,
+      "round": 13,
+      "teamId": "t.5",
+      "teamName": "Michaels Room",
+      "playerId": "11626",
+      "playerFirstName": "Xavier",
+      "playerLastName": "Legette",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 149,
+      "round": 13,
+      "teamId": "t.3",
+      "teamName": "McCalf Hurts",
+      "playerId": "8121",
+      "playerFirstName": "Romeo",
+      "playerLastName": "Doubs",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 150,
+      "round": 13,
+      "teamId": "t.12",
+      "teamName": "Easy Drake Oven",
+      "playerId": "8183",
+      "playerFirstName": "Brock",
+      "playerLastName": "Purdy",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 151,
+      "round": 13,
+      "teamId": "t.11",
+      "teamName": "Skat in the Hat",
+      "playerId": "7591",
+      "playerFirstName": "Justin",
+      "playerLastName": "Fields",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 152,
+      "round": 13,
+      "teamId": "t.2",
+      "teamName": "Samuel Lamperts",
+      "playerId": "7528",
+      "playerFirstName": "Najee",
+      "playerLastName": "Harris",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 153,
+      "round": 13,
+      "teamId": "t.8",
+      "teamName": "Cock Brock ",
+      "playerId": "9501",
+      "playerFirstName": "DeMario",
+      "playerLastName": "Douglas",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 154,
+      "round": 13,
+      "teamId": "t.7",
+      "teamName": "Emeka This Comeback",
+      "playerId": "9508",
+      "playerFirstName": "Tyjae",
+      "playerLastName": "Spears",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 155,
+      "round": 13,
+      "teamId": "t.4",
+      "teamName": "Keenan the Sheets",
+      "playerId": "12547",
+      "playerFirstName": "Kyle",
+      "playerLastName": "Williams",
+      "avgPick": null,
+      "avgRound": null
+    },
+    {
+      "pick": 156,
+      "round": 13,
+      "teamId": "t.1",
+      "teamName": "Tee Time",
+      "playerId": "11560",
+      "playerFirstName": "Caleb",
+      "playerLastName": "Williams",
+      "avgPick": null,
+      "avgRound": null
+    }
+  ],
+  "matchups": [
+    {
+      "week": 1,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 107.72,
+      "team2Id": "t.8",
+      "team2Name": "Cock Brock ",
+      "team2Points": 109.18,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 1,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 126.96,
+      "team2Id": "t.3",
+      "team2Name": "McCalf Hurts",
+      "team2Points": 119.98,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 1,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 99.36,
+      "team2Id": "t.6",
+      "team2Name": "Travis Swift",
+      "team2Points": 94.52,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 1,
+      "team1Id": "t.5",
+      "team1Name": "Michaels Room",
+      "team1Points": 118.64,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 120.12,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 1,
+      "team1Id": "t.7",
+      "team1Name": "Emeka This Comeback",
+      "team1Points": 129.52,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 107.72,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 1,
+      "team1Id": "t.9",
+      "team1Name": "Addison Rae’s ",
+      "team1Points": 126.62,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 131.32,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 2,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 118.9,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 118.4,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 2,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 118.42,
+      "team2Id": "t.5",
+      "team2Name": "Michaels Room",
+      "team2Points": 77.94,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 2,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 107.64,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 114.08,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 2,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 115.6,
+      "team2Id": "t.7",
+      "team2Name": "Emeka This Comeback",
+      "team2Points": 102.78,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 2,
+      "team1Id": "t.6",
+      "team1Name": "Travis Swift",
+      "team1Points": 124.74,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 117.64,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 2,
+      "team1Id": "t.8",
+      "team1Name": "Cock Brock ",
+      "team1Points": 161.3,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 156.76,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 3,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 105.06,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 126.38,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 3,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 113.92,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 121.62,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 3,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 136.34,
+      "team2Id": "t.5",
+      "team2Name": "Michaels Room",
+      "team2Points": 92.92,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 3,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 128.22,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 117.62,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 3,
+      "team1Id": "t.6",
+      "team1Name": "Travis Swift",
+      "team1Points": 104.94,
+      "team2Id": "t.7",
+      "team2Name": "Emeka This Comeback",
+      "team2Points": 112.26,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 3,
+      "team1Id": "t.8",
+      "team1Name": "Cock Brock ",
+      "team1Points": 154.92,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 105.42,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 4,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 93.58,
+      "team2Id": "t.2",
+      "team2Name": "Samuel Lamperts",
+      "team2Points": 115.46,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 4,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 144.2,
+      "team2Id": "t.8",
+      "team2Name": "Cock Brock ",
+      "team2Points": 146.82,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 4,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 105.28,
+      "team2Id": "t.5",
+      "team2Name": "Michaels Room",
+      "team2Points": 130.14,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 4,
+      "team1Id": "t.6",
+      "team1Name": "Travis Swift",
+      "team1Points": 127.1,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 121.04,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 4,
+      "team1Id": "t.7",
+      "team1Name": "Emeka This Comeback",
+      "team1Points": 116.82,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 154.96,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 4,
+      "team1Id": "t.10",
+      "team1Name": "Hall Pass Part II",
+      "team1Points": 127.18,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 160.96,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 5,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 120.84,
+      "team2Id": "t.3",
+      "team2Name": "McCalf Hurts",
+      "team2Points": 143.6,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 5,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 149.72,
+      "team2Id": "t.8",
+      "team2Name": "Cock Brock ",
+      "team2Points": 117.12,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 5,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 119.08,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 130.42,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 5,
+      "team1Id": "t.5",
+      "team1Name": "Michaels Room",
+      "team1Points": 120.28,
+      "team2Id": "t.6",
+      "team2Name": "Travis Swift",
+      "team2Points": 128.3,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 5,
+      "team1Id": "t.7",
+      "team1Name": "Emeka This Comeback",
+      "team1Points": 147.52,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 153.32,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 5,
+      "team1Id": "t.9",
+      "team1Name": "Addison Rae’s ",
+      "team1Points": 111.04,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 123.8,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 6,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 111.38,
+      "team2Id": "t.5",
+      "team2Name": "Michaels Room",
+      "team2Points": 108.64,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 6,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 142.9,
+      "team2Id": "t.7",
+      "team2Name": "Emeka This Comeback",
+      "team2Points": 102.26,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 6,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 140.42,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 98.38,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 6,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 96.3,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 118.84,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 6,
+      "team1Id": "t.6",
+      "team1Name": "Travis Swift",
+      "team1Points": 146.54,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 102.62,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 6,
+      "team1Id": "t.8",
+      "team1Name": "Cock Brock ",
+      "team1Points": 120.34,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 133.68,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 7,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 88.56,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 76.08,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 7,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 113.64,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 97.32,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 7,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 145.44,
+      "team2Id": "t.7",
+      "team2Name": "Emeka This Comeback",
+      "team2Points": 160.94,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 7,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 153.62,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 154.54,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 7,
+      "team1Id": "t.5",
+      "team1Name": "Michaels Room",
+      "team1Points": 126.96,
+      "team2Id": "t.8",
+      "team2Name": "Cock Brock ",
+      "team2Points": 115.18,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 7,
+      "team1Id": "t.6",
+      "team1Name": "Travis Swift",
+      "team1Points": 160.96,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 107.14,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 8,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 150.7,
+      "team2Id": "t.4",
+      "team2Name": "Keenan the Sheets",
+      "team2Points": 97.82,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 8,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 76.62,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 95.08,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 8,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 130.96,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 109.92,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 8,
+      "team1Id": "t.5",
+      "team1Name": "Michaels Room",
+      "team1Points": 118.38,
+      "team2Id": "t.7",
+      "team2Name": "Emeka This Comeback",
+      "team2Points": 143.46,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 8,
+      "team1Id": "t.6",
+      "team1Name": "Travis Swift",
+      "team1Points": 87.32,
+      "team2Id": "t.8",
+      "team2Name": "Cock Brock ",
+      "team2Points": 144.48,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 8,
+      "team1Id": "t.10",
+      "team1Name": "Hall Pass Part II",
+      "team1Points": 102.74,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 123.7,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 9,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 104.52,
+      "team2Id": "t.6",
+      "team2Name": "Travis Swift",
+      "team2Points": 138.2,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 9,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 137.52,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 116.36,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 9,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 150.58,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 93.92,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 9,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 115.86,
+      "team2Id": "t.8",
+      "team2Name": "Cock Brock ",
+      "team2Points": 124.26,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 9,
+      "team1Id": "t.5",
+      "team1Name": "Michaels Room",
+      "team1Points": 154.74,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 126.08,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 9,
+      "team1Id": "t.7",
+      "team1Name": "Emeka This Comeback",
+      "team1Points": 92.3,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 150.5,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 10,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 131.74,
+      "team2Id": "t.7",
+      "team2Name": "Emeka This Comeback",
+      "team2Points": 127.5,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 10,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 106.34,
+      "team2Id": "t.4",
+      "team2Name": "Keenan the Sheets",
+      "team2Points": 106.74,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 10,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 116.32,
+      "team2Id": "t.6",
+      "team2Name": "Travis Swift",
+      "team2Points": 75.34,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 10,
+      "team1Id": "t.5",
+      "team1Name": "Michaels Room",
+      "team1Points": 144,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 112.32,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 10,
+      "team1Id": "t.8",
+      "team1Name": "Cock Brock ",
+      "team1Points": 119.8,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 146.8,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 10,
+      "team1Id": "t.11",
+      "team1Name": "Skat in the Hat",
+      "team1Points": 171.7,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 119.9,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 11,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 76.66,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 134.16,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 11,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 156.08,
+      "team2Id": "t.6",
+      "team2Name": "Travis Swift",
+      "team2Points": 116.82,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 11,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 108,
+      "team2Id": "t.4",
+      "team2Name": "Keenan the Sheets",
+      "team2Points": 69.92,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 11,
+      "team1Id": "t.5",
+      "team1Name": "Michaels Room",
+      "team1Points": 141.7,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 92.9,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 11,
+      "team1Id": "t.7",
+      "team1Name": "Emeka This Comeback",
+      "team1Points": 80.14,
+      "team2Id": "t.8",
+      "team2Name": "Cock Brock ",
+      "team2Points": 131.44,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 11,
+      "team1Id": "t.9",
+      "team1Name": "Addison Rae’s ",
+      "team1Points": 81.62,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 164.72,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 12,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 87.48,
+      "team2Id": "t.8",
+      "team2Name": "Cock Brock ",
+      "team2Points": 160.16,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 12,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 112.92,
+      "team2Id": "t.3",
+      "team2Name": "McCalf Hurts",
+      "team2Points": 161.36,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 12,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 150.62,
+      "team2Id": "t.6",
+      "team2Name": "Travis Swift",
+      "team2Points": 108.76,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 12,
+      "team1Id": "t.5",
+      "team1Name": "Michaels Room",
+      "team1Points": 144.32,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 90.86,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 12,
+      "team1Id": "t.7",
+      "team1Name": "Emeka This Comeback",
+      "team1Points": 104.78,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 116.74,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 12,
+      "team1Id": "t.9",
+      "team1Name": "Addison Rae’s ",
+      "team1Points": 75.44,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 132.36,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 13,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 64.84,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 105.16,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 13,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 147.52,
+      "team2Id": "t.5",
+      "team2Name": "Michaels Room",
+      "team2Points": 86.72,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 13,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 97.6,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 100.66,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 13,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 97.94,
+      "team2Id": "t.7",
+      "team2Name": "Emeka This Comeback",
+      "team2Points": 138.34,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 13,
+      "team1Id": "t.6",
+      "team1Name": "Travis Swift",
+      "team1Points": 113.2,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 124.64,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 13,
+      "team1Id": "t.8",
+      "team1Name": "Cock Brock ",
+      "team1Points": 141.48,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 111.54,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 14,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 129.16,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 101.36,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 14,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 159.54,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 92.26,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 14,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 84.4,
+      "team2Id": "t.5",
+      "team2Name": "Michaels Room",
+      "team2Points": 112.94,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 14,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 86.26,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 139.06,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 14,
+      "team1Id": "t.6",
+      "team1Name": "Travis Swift",
+      "team1Points": 112.84,
+      "team2Id": "t.7",
+      "team2Name": "Emeka This Comeback",
+      "team2Points": 97.1,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 14,
+      "team1Id": "t.8",
+      "team1Name": "Cock Brock ",
+      "team1Points": 135.76,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 105.28,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": false
+    },
+    {
+      "week": 15,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 90.24,
+      "team2Id": "t.6",
+      "team2Name": "Travis Swift",
+      "team2Points": 133.56,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 15,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 139.7,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 137.9,
+      "isComplete": true,
+      "isPlayoff": true,
+      "isConsolation": false
+    },
+    {
+      "week": 15,
+      "team1Id": "t.5",
+      "team1Name": "Michaels Room",
+      "team1Points": 114.22,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 165.9,
+      "isComplete": true,
+      "isPlayoff": true,
+      "isConsolation": false
+    },
+    {
+      "week": 15,
+      "team1Id": "t.7",
+      "team1Name": "Emeka This Comeback",
+      "team1Points": 154.56,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 151,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 16,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 104.78,
+      "team2Id": "t.4",
+      "team2Name": "Keenan the Sheets",
+      "team2Points": 59.54,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 16,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 134.5,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 144.86,
+      "isComplete": true,
+      "isPlayoff": true,
+      "isConsolation": false
+    },
+    {
+      "week": 16,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 143.5,
+      "team2Id": "t.8",
+      "team2Name": "Cock Brock ",
+      "team2Points": 116,
+      "isComplete": true,
+      "isPlayoff": true,
+      "isConsolation": false
+    },
+    {
+      "week": 16,
+      "team1Id": "t.5",
+      "team1Name": "Michaels Room",
+      "team1Points": 182.98,
+      "team2Id": "t.12",
+      "team2Name": "Easy Drake Oven",
+      "team2Points": 113.56,
+      "isComplete": true,
+      "isPlayoff": true,
+      "isConsolation": false
+    },
+    {
+      "week": 16,
+      "team1Id": "t.6",
+      "team1Name": "Travis Swift",
+      "team1Points": 108.56,
+      "team2Id": "t.7",
+      "team2Name": "Emeka This Comeback",
+      "team2Points": 161.1,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 16,
+      "team1Id": "t.9",
+      "team1Name": "Addison Rae’s ",
+      "team1Points": 99.8,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 137.66,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 17,
+      "team1Id": "t.1",
+      "team1Name": "Tee Time",
+      "team1Points": 49.8,
+      "team2Id": "t.10",
+      "team2Name": "Hall Pass Part II",
+      "team2Points": 121.3,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    },
+    {
+      "week": 17,
+      "team1Id": "t.2",
+      "team1Name": "Samuel Lamperts",
+      "team1Points": 148.68,
+      "team2Id": "t.8",
+      "team2Name": "Cock Brock ",
+      "team2Points": 99.44,
+      "isComplete": true,
+      "isPlayoff": true,
+      "isConsolation": false
+    },
+    {
+      "week": 17,
+      "team1Id": "t.3",
+      "team1Name": "McCalf Hurts",
+      "team1Points": 129.9,
+      "team2Id": "t.11",
+      "team2Name": "Skat in the Hat",
+      "team2Points": 108.62,
+      "isComplete": true,
+      "isPlayoff": true,
+      "isConsolation": false
+    },
+    {
+      "week": 17,
+      "team1Id": "t.4",
+      "team1Name": "Keenan the Sheets",
+      "team1Points": 94.2,
+      "team2Id": "t.9",
+      "team2Name": "Addison Rae’s ",
+      "team2Points": 89.84,
+      "isComplete": true,
+      "isPlayoff": false,
+      "isConsolation": true
+    }
+  ],
+  "trades": [
+    {
+      "id": "1274585272285171712",
+      "year": 2025,
+      "date": "2025-09-19T02:01:58.864Z",
+      "timestamp": 1758247318,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Michaels Room",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Rhamondre Stevenson"
+          ],
+          "received": [
+            "Juwan Johnson"
+          ]
+        },
+        {
+          "teamId": "t.12",
+          "teamName": "Easy Drake Oven",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Juwan Johnson"
+          ],
+          "received": [
+            "Rhamondre Stevenson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1277118030043713536",
+      "year": 2025,
+      "date": "2025-09-26T01:46:15.369Z",
+      "timestamp": 1758851175,
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Keenan the Sheets",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Saquon Barkley",
+            "Jordan Addison",
+            "Xavier Worthy"
+          ],
+          "received": [
+            "Davante Adams",
+            "Derrick Henry",
+            "Terry McLaurin"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Addison Rae’s ",
+          "manager": "Ryan Schwartz",
+          "sent": [
+            "Davante Adams",
+            "Derrick Henry",
+            "Terry McLaurin"
+          ],
+          "received": [
+            "Saquon Barkley",
+            "Jordan Addison",
+            "Xavier Worthy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1277084720521297920",
+      "year": 2025,
+      "date": "2025-09-25T23:33:53.760Z",
+      "timestamp": 1758843233,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Addison Rae’s ",
+          "manager": "Ryan Schwartz",
+          "sent": [
+            "Quinshon Judkins"
+          ],
+          "received": [
+            "Tony Pollard",
+            "Braelon Allen"
+          ]
+        },
+        {
+          "teamId": "t.12",
+          "teamName": "Easy Drake Oven",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Tony Pollard",
+            "Braelon Allen"
+          ],
+          "received": [
+            "Quinshon Judkins"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1276707553081839616",
+      "year": 2025,
+      "date": "2025-09-24T22:35:10.036Z",
+      "timestamp": 1758753310,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Tee Time",
+          "manager": "James Ellement",
+          "sent": [
+            "Kyler Murray",
+            "D'Andre Swift",
+            "Ja'Marr Chase",
+            "Garrett Wilson"
+          ],
+          "received": [
+            "Tee Higgins",
+            "Chuba Hubbard",
+            "Trey Benson",
+            "Malik Nabers"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Travis Swift",
+          "manager": "Kevin McCreary",
+          "sent": [
+            "Tee Higgins",
+            "Chuba Hubbard",
+            "Trey Benson",
+            "Malik Nabers"
+          ],
+          "received": [
+            "Kyler Murray",
+            "D'Andre Swift",
+            "Ja'Marr Chase",
+            "Garrett Wilson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1281736862968340480",
+      "year": 2025,
+      "date": "2025-10-08T19:39:50.953Z",
+      "timestamp": 1759952390,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Tee Time",
+          "manager": "James Ellement",
+          "sent": [
+            "Brock Bowers"
+          ],
+          "received": [
+            "Ladd McConkey"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Cock Brock ",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            "Ladd McConkey"
+          ],
+          "received": [
+            "Brock Bowers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1295587757179047936",
+      "year": 2025,
+      "date": "2025-11-16T00:58:21.470Z",
+      "timestamp": 1763254701,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Michaels Room",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Kyren Williams",
+            "Rashee Rice",
+            "Brian Thomas",
+            "Keon Coleman"
+          ],
+          "received": [
+            "James Cook",
+            "Rome Odunze",
+            "Oronde Gadsden",
+            "Tetairoa McMillan"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Cock Brock ",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            "James Cook",
+            "Rome Odunze",
+            "Oronde Gadsden",
+            "Tetairoa McMillan"
+          ],
+          "received": [
+            "Kyren Williams",
+            "Rashee Rice",
+            "Brian Thomas",
+            "Keon Coleman"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1294718931012976640",
+      "year": 2025,
+      "date": "2025-11-13T15:25:57.169Z",
+      "timestamp": 1763047557,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Travis Swift",
+          "manager": "Kevin McCreary",
+          "sent": [
+            "Dalton Schultz",
+            "Drake London",
+            "Garrett Wilson"
+          ],
+          "received": [
+            "Travis Kelce",
+            "Courtland Sutton",
+            "Zay Flowers"
+          ]
+        },
+        {
+          "teamId": "t.12",
+          "teamName": "Easy Drake Oven",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Travis Kelce",
+            "Courtland Sutton",
+            "Zay Flowers"
+          ],
+          "received": [
+            "Dalton Schultz",
+            "Drake London",
+            "Garrett Wilson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1294503257934172160",
+      "year": 2025,
+      "date": "2025-11-13T01:08:56.701Z",
+      "timestamp": 1762996136,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Tee Time",
+          "manager": "James Ellement",
+          "sent": [
+            "TreVeyon Henderson"
+          ],
+          "received": [
+            "Cade Otton",
+            "Ricky Pearsall"
+          ]
+        },
+        {
+          "teamId": "t.11",
+          "teamName": "Skat in the Hat",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Cade Otton",
+            "Ricky Pearsall"
+          ],
+          "received": [
+            "TreVeyon Henderson"
+          ]
+        }
+      ]
+    }
+  ]
+}

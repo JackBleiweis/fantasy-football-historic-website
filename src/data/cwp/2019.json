@@ -2767,7 +2767,7 @@
       "team2Name": "Gordo",
       "team2Points": 114.22,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2779,7 +2779,7 @@
       "team2Name": "Big Ballage Brand",
       "team2Points": 141.82,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2827,7 +2827,7 @@
       "team2Name": "James White Power",
       "team2Points": 104.02,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2839,7 +2839,7 @@
       "team2Name": "Big Ballage Brand",
       "team2Points": 117.58,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

@@ -2767,7 +2767,7 @@
       "team2Name": "Hispanics for Trump",
       "team2Points": 170.12,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2791,7 +2791,7 @@
       "team2Name": "Alligator Fuckhouse",
       "team2Points": 127.26,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2815,7 +2815,7 @@
       "team2Name": "Utku Gull's Squad",
       "team2Points": 96.68,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2827,7 +2827,7 @@
       "team2Name": "Alligator Fuckhouse",
       "team2Points": 178.32,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {

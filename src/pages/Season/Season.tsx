@@ -197,8 +197,8 @@ function MatchupCard({
     matchup.isComplete && matchup.team1Points === matchup.team2Points;
 
   const getMatchupType = () => {
-    if (matchup.isPlayoff) return 'Playoff';
     if (matchup.isConsolation) return 'Consolation';
+    if (matchup.isPlayoff) return 'Playoff';
     return null;
   };
 
@@ -207,7 +207,7 @@ function MatchupCard({
   return (
     <Link
       to={`/${leagueId}/season/${year}/matchup/${matchup.week}/${matchup.team1Id}`}
-      className={`${styles.matchupCard} ${matchup.isPlayoff ? styles.playoff : ''} ${matchup.isConsolation ? styles.consolation : ''}`}
+      className={`${styles.matchupCard} ${matchup.isConsolation ? styles.consolation : ''} ${matchup.isPlayoff && !matchup.isConsolation ? styles.playoff : ''}`}
     >
       {(showWeek || matchupType) && (
         <div className={styles.matchupMeta}>

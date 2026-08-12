@@ -2767,7 +2767,7 @@
       "team2Name": "The Wife Beders",
       "team2Points": 180.76,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2779,7 +2779,7 @@
       "team2Name": "Wafah Dafour",
       "team2Points": 140.98,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2815,7 +2815,7 @@
       "team2Name": "get on ur brees",
       "team2Points": 163.6,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2839,7 +2839,7 @@
       "team2Name": "Wafah Dafour",
       "team2Points": 149.9,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

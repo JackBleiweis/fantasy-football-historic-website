@@ -52,6 +52,7 @@ const SEASONS_TO_TRANSFORM = [
   { league: 'lp', year: 2022 },
   { league: 'lp', year: 2023 },
   { league: 'lp', year: 2024 },
+  { league: 'lp', year: 2025 },
 ];
 
 // =============================================================================
@@ -90,6 +91,20 @@ const MANAGER_NAME_MAP = {
   william: 'William Davison',
   will: 'William Davison',
   declan: 'Declan Brown',
+
+  // Sleeper usernames (Dirty Dozen 2025+)
+  je10je10: 'James Ellement',
+  lucasstagzz: 'Lucas Stagliano',
+  nextlevelwood7: 'Harrison Wood',
+  jackb9: 'Jack Bleiweis',
+  gabenadra: 'Gabriel Nadra',
+  kevinmcc17: 'Kevin McCreary',
+  willdvsn: 'William Davison',
+  buartszn: 'Matthew Weintraub',
+  ryguy3333333: 'Ryan Schwartz',
+  iohandley: "Ian O'Handley",
+  jglibb47: 'Joe Glibbery',
+  herisanders: 'Heri Hickl Szabo',
 };
 
 // Maps: leagueId -> year -> teamId -> fullName
@@ -118,6 +133,21 @@ const TEAM_TO_MANAGER_MAP = {
     2022: { 't.10': 'Jack Bleiweis', 't.2': 'Matthew Weintraub' },
     2023: { 't.10': 'Jack Bleiweis', 't.2': 'Matthew Weintraub' },
     2024: { 't.10': 'Jack Bleiweis', 't.2': 'Matthew Weintraub' },
+    // Sleeper 2025: team IDs are roster IDs; map every team for safety
+    2025: {
+      't.1': 'James Ellement',
+      't.2': 'Lucas Stagliano',
+      't.3': 'Harrison Wood',
+      't.4': 'Jack Bleiweis',
+      't.5': 'Gabriel Nadra',
+      't.6': 'Kevin McCreary',
+      't.7': 'William Davison',
+      't.8': 'Matthew Weintraub',
+      't.9': 'Ryan Schwartz',
+      't.10': "Ian O'Handley",
+      't.11': 'Joe Glibbery',
+      't.12': 'Heri Hickl Szabo',
+    },
   },
 };
 
@@ -158,14 +188,18 @@ function splitPlayerName(fullName) {
 
 function extractPlayerId(playerKey) {
   if (!playerKey) return '';
-  const match = String(playerKey).match(/p\.(\d+)$/);
+  const match = String(playerKey).match(/\.p\.(\d+)$/) || String(playerKey).match(/^(\d+)$/);
   return match ? match[1] : String(playerKey);
 }
 
 function getTeamLogoUrl(team) {
   const logos = team.team_logos || [];
   const first = logos[0]?.team_logo?.url || logos[0]?.url;
-  return first || '';
+  if (first) return first;
+  if (team.avatar) {
+    return `https://sleepercdn.com/avatars/thumbs/${team.avatar}`;
+  }
+  return '';
 }
 
 function getRawManagerNickname(team) {
@@ -173,11 +207,74 @@ function getRawManagerNickname(team) {
   const first = managers[0];
   if (!first) return '';
   if (typeof first === 'string') return first;
-  return first.nickname || '';
+  return first.nickname || first.username || '';
 }
 
 function toBooleanFlag(value) {
   return value === true || value === 1 || value === '1';
+}
+
+function isSleeperSeason(season) {
+  return (
+    season?.platform === 'sleeper' ||
+    String(season?.league_key || '').startsWith('sleeper.') ||
+    String(season?.source || '').includes('sleeper')
+  );
+}
+
+/**
+ * Sleeper standings often include H2H + vs-median (~2x). Rebuild W/L/T
+ * from regular-season scoreboard games instead.
+ */
+function recalculateRecordsFromScoreboard(season) {
+  const records = new Map();
+
+  const ensure = (teamId) => {
+    if (!records.has(teamId)) {
+      records.set(teamId, { wins: 0, losses: 0, ties: 0 });
+    }
+    return records.get(teamId);
+  };
+
+  for (const weekBoard of season.scoreboard || []) {
+    for (const matchup of weekBoard.matchups || []) {
+      if (toBooleanFlag(matchup.is_playoffs) || toBooleanFlag(matchup.is_consolation)) {
+        continue;
+      }
+      const teams = matchup.teams || [];
+      if (teams.length < 2) continue;
+
+      const team1Id = simplifyTeamId(teams[0].team_key || teams[0].team_id);
+      const team2Id = simplifyTeamId(teams[1].team_key || teams[1].team_id);
+      const p1 = Number(teams[0].points ?? 0);
+      const p2 = Number(teams[1].points ?? 0);
+      const r1 = ensure(team1Id);
+      const r2 = ensure(team2Id);
+
+      if (p1 > p2) {
+        r1.wins += 1;
+        r2.losses += 1;
+      } else if (p2 > p1) {
+        r2.wins += 1;
+        r1.losses += 1;
+      } else {
+        r1.ties += 1;
+        r2.ties += 1;
+      }
+    }
+  }
+
+  return records;
+}
+
+function buildRosterIdToTeamId(season) {
+  const map = new Map();
+  for (const team of season.teams || []) {
+    if (team.roster_id != null) {
+      map.set(team.roster_id, simplifyTeamId(team.team_key || team.team_id));
+    }
+  }
+  return map;
 }
 
 // =============================================================================
@@ -185,6 +282,10 @@ function toBooleanFlag(value) {
 // =============================================================================
 
 function transformApiTeams(season, leagueId, year) {
+  const sleeperRecords = isSleeperSeason(season)
+    ? recalculateRecordsFromScoreboard(season)
+    : null;
+
   return season.teams.map((team) => {
     const teamId = simplifyTeamId(team.team_key || team.team_id);
     const standings = team.standings || {};
@@ -194,17 +295,18 @@ function transformApiTeams(season, leagueId, year) {
       leagueId,
       year
     );
+    const rebuilt = sleeperRecords?.get(teamId);
 
     return {
       id: teamId,
       name: team.name,
       manager,
-      wins: standings.wins ?? 0,
-      losses: standings.losses ?? 0,
-      ties: standings.ties ?? 0,
+      wins: rebuilt?.wins ?? standings.wins ?? 0,
+      losses: rebuilt?.losses ?? standings.losses ?? 0,
+      ties: rebuilt?.ties ?? standings.ties ?? 0,
       rank: standings.rank ?? 0,
       playoffSeed: standings.playoff_seed ?? 0,
-      isCommissioner: manager === 'Jack Bleiweis' && teamId === 't.1',
+      isCommissioner: manager === 'Jack Bleiweis',
       imageUrl: getTeamLogoUrl(team),
       moves: Number(team.number_of_moves ?? 0),
       tradesCount: Number(team.number_of_trades ?? 0),
@@ -218,9 +320,11 @@ function transformApiDraft(season) {
     return {
       pick: pick.pick,
       round: pick.round,
-      teamId: simplifyTeamId(pick.team_key),
+      teamId: simplifyTeamId(
+        pick.team_key || (pick.roster_id != null ? `t.${pick.roster_id}` : '')
+      ),
       teamName: pick.team_name || '',
-      playerId: extractPlayerId(pick.player_key),
+      playerId: extractPlayerId(pick.player_key) || String(pick.player_id || ''),
       playerFirstName: first,
       playerLastName: last,
       avgPick: pick.avg_pick ?? null,
@@ -231,24 +335,44 @@ function transformApiDraft(season) {
 
 function transformApiMatchups(season) {
   const matchups = [];
+  const consolationPairs = new Set();
+
+  // Sleeper: losers bracket games are consolation, not playoffs
+  for (const game of season.losers_bracket || []) {
+    if (game.t1 == null || game.t2 == null) continue;
+    const a = String(game.t1);
+    const b = String(game.t2);
+    consolationPairs.add([a, b].sort().join(':'));
+  }
 
   for (const weekBoard of season.scoreboard || []) {
     for (const matchup of weekBoard.matchups || []) {
       const teams = matchup.teams || [];
       const team1 = teams[0] || {};
       const team2 = teams[1] || {};
+      const team1Id = simplifyTeamId(team1.team_key || team1.team_id);
+      const team2Id = simplifyTeamId(team2.team_key || team2.team_id);
+
+      const pairKey = [team1Id.replace(/^t\./, ''), team2Id.replace(/^t\./, '')]
+        .sort()
+        .join(':');
+      const isConsolation =
+        toBooleanFlag(matchup.is_consolation) || consolationPairs.has(pairKey);
+      // Consolation games should never count/display as playoffs
+      const isPlayoff = toBooleanFlag(matchup.is_playoffs) && !isConsolation;
 
       matchups.push({
         week: matchup.week ?? weekBoard.week,
-        team1Id: simplifyTeamId(team1.team_key || team1.team_id),
+        team1Id,
         team1Name: team1.name || '',
         team1Points: Number(team1.points ?? 0),
-        team2Id: simplifyTeamId(team2.team_key || team2.team_id),
+        team2Id,
         team2Name: team2.name || '',
         team2Points: Number(team2.points ?? 0),
-        isComplete: matchup.status === 'postevent' || matchup.status === 'midevent',
-        isPlayoff: toBooleanFlag(matchup.is_playoffs),
-        isConsolation: toBooleanFlag(matchup.is_consolation),
+        isComplete:
+          matchup.status === 'postevent' || matchup.status === 'midevent',
+        isPlayoff,
+        isConsolation,
       });
     }
   }
@@ -258,14 +382,21 @@ function transformApiMatchups(season) {
 
 function transformApiTrades(season, teams, year) {
   const managerByTeam = new Map(teams.map((t) => [t.id, t.manager]));
+  const rosterIdToTeamId = buildRosterIdToTeamId(season);
 
   return (season.trades || []).map((trade, index) => ({
-    id: trade.transaction_key || `${year}-trade-${index}`,
+    id:
+      trade.transaction_key ||
+      trade.transaction_id ||
+      `${year}-trade-${index}`,
     year,
     date: trade.date || null,
     timestamp: trade.timestamp || null,
     sides: (trade.sides || []).map((side) => {
-      const teamId = simplifyTeamId(side.team_key);
+      const teamId =
+        simplifyTeamId(side.team_key) ||
+        rosterIdToTeamId.get(side.roster_id) ||
+        (side.roster_id != null ? `t.${side.roster_id}` : '');
       return {
         teamId,
         teamName: side.team_name || '',
@@ -369,6 +500,8 @@ function transformLegacyMatchups(raw) {
   const matchups = [];
 
   for (let i = 0; i < count; i++) {
+    const isConsolation = !!raw.Consolation[i];
+    const isPlayoff = !!raw.Playoff[i] && !isConsolation;
     matchups.push({
       week: raw.Week[i],
       team1Id: simplifyTeamId(raw['Team 1 ID'][i]),
@@ -378,8 +511,8 @@ function transformLegacyMatchups(raw) {
       team2Name: raw['Team 2 Name'][i],
       team2Points: raw['Team 2 Points'][i],
       isComplete: raw.Complete[i],
-      isPlayoff: raw.Playoff[i],
-      isConsolation: raw.Consolation[i],
+      isPlayoff,
+      isConsolation,
     });
   }
 

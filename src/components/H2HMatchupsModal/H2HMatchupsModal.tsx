@@ -97,8 +97,11 @@ export function H2HMatchupsModal({
                     <span className={styles.when}>
                       {game.year} · Week {game.week}
                     </span>
-                    {game.isPlayoff && (
+                    {game.isPlayoff && !game.isConsolation && (
                       <span className={styles.playoff}>Playoff</span>
+                    )}
+                    {game.isConsolation && (
+                      <span className={styles.playoff}>Consolation</span>
                     )}
                   </div>
                   <div className={styles.scoreRow}>

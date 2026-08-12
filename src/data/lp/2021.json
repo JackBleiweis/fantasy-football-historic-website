@@ -151,7 +151,7 @@
       "ties": 0,
       "rank": 11,
       "playoffSeed": 11,
-      "isCommissioner": false,
+      "isCommissioner": true,
       "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg",
       "moves": 17,
       "tradesCount": 3
@@ -2931,7 +2931,7 @@
       "team2Name": "Josh Allen is Shit",
       "team2Points": 94.9,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2943,7 +2943,7 @@
       "team2Name": "Hide & Zeke",
       "team2Points": 82.06,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2979,7 +2979,7 @@
       "team2Name": "Tim Patrick for MVP",
       "team2Points": 84.08,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3003,7 +3003,7 @@
       "team2Name": "Hide & Zeke",
       "team2Points": 88.18,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3015,7 +3015,7 @@
       "team2Name": "Josh Allen is Shit",
       "team2Points": 121.26,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3051,7 +3051,7 @@
       "team2Name": "Josh Allen is Shit",
       "team2Points": 124.3,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -3063,7 +3063,7 @@
       "team2Name": "Hide & Zeke",
       "team2Points": 108.06,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],

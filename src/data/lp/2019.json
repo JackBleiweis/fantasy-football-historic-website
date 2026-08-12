@@ -25,7 +25,7 @@
       "ties": 0,
       "rank": 2,
       "playoffSeed": 2,
-      "isCommissioner": false,
+      "isCommissioner": true,
       "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg",
       "moves": 25,
       "tradesCount": 3
@@ -2835,7 +2835,7 @@
       "team2Name": "Moore Life",
       "team2Points": 145.58,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2871,7 +2871,7 @@
       "team2Name": "Dirty Kenyan",
       "team2Points": 84.48,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2883,7 +2883,7 @@
       "team2Name": "Moore Life",
       "team2Points": 137.08,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2895,7 +2895,7 @@
       "team2Name": "Legally Blonde",
       "team2Points": 100.16,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2943,7 +2943,7 @@
       "team2Name": "For The Boyd’s",
       "team2Points": 96.72,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2955,7 +2955,7 @@
       "team2Name": "For The Boyd’s",
       "team2Points": 131.44,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     },
     {
@@ -2991,7 +2991,7 @@
       "team2Name": "Dirty Kenyan",
       "team2Points": 141.06,
       "isComplete": true,
-      "isPlayoff": true,
+      "isPlayoff": false,
       "isConsolation": true
     }
   ],
