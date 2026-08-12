@@ -3,42 +3,6 @@
   "leagueId": "lp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "Justin Ept",
-      "manager": "James Ellement",
-      "wins": 5,
-      "losses": 9,
-      "ties": 0,
-      "rank": 11,
-      "playoffSeed": 9,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d6e85579bb33f970202ac7859abdb0640634678ff3cd285ca2efc6f31e07094c.jpg"
-    },
-    {
-      "id": "t.2",
-      "name": "Andrew Schulz",
-      "manager": "Matthew Weintraub",
-      "wins": 4,
-      "losses": 10,
-      "ties": 0,
-      "rank": 9,
-      "playoffSeed": 11,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/b9e09868db3cc6f05764c175f339100d9cb9f15b901472b7ef63b3d25681bc70.jpg"
-    },
-    {
-      "id": "t.3",
-      "name": "Zynladen",
-      "manager": "Joe Glibbery",
-      "wins": 10,
-      "losses": 4,
-      "ties": 0,
-      "rank": 4,
-      "playoffSeed": 2,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/cabbccd7ccf5033ea5f26dff29249a6a70f9124916a90f3c09542a24b78fcb18.png"
-    },
-    {
       "id": "t.4",
       "name": "The Browns",
       "manager": "Harrison Wood",
@@ -48,67 +12,9 @@
       "rank": 1,
       "playoffSeed": 1,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24fef7c68dbb8ecb43cff34c5b3f7d430d87e1223e2895cbf2cc88bef69754c9.jpg"
-    },
-    {
-      "id": "t.5",
-      "name": "Diggs Out For Harambe",
-      "manager": "Lucas Stagliano",
-      "wins": 6,
-      "losses": 8,
-      "ties": 0,
-      "rank": 8,
-      "playoffSeed": 8,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c00534777bf62050ac6175810ffaf305fc6b90914bb78e81dd2e87b8cd3d6702.jpg"
-    },
-    {
-      "id": "t.6",
-      "name": "All You Can Etienne",
-      "manager": "Heri Hickl Szabo",
-      "wins": 8,
-      "losses": 6,
-      "ties": 0,
-      "rank": 6,
-      "playoffSeed": 4,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/4f7941a2eb7a626d46011bae0672e0e805a02fc469844a5b7220e80c1e682aab.png"
-    },
-    {
-      "id": "t.7",
-      "name": "Jack Bleiweis is a fraud",
-      "manager": "Kevin McCreary",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 5,
-      "playoffSeed": 6,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/eed1bf343e79c756f0a873d0c15ff190c2e8a509d1d56fec3181be4cfd0610f9.png"
-    },
-    {
-      "id": "t.8",
-      "name": "Saquon My Balls",
-      "manager": "Ryan Schwartz",
-      "wins": 5,
-      "losses": 9,
-      "ties": 0,
-      "rank": 12,
-      "playoffSeed": 10,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/e58de393ba5af56fec778c86228654e40d4588334ff9be04d85ca2243201fe7c.jpg"
-    },
-    {
-      "id": "t.9",
-      "name": "Nacua Matata",
-      "manager": "Gabriel Nadra",
-      "wins": 7,
-      "losses": 7,
-      "ties": 0,
-      "rank": 7,
-      "playoffSeed": 7,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/861a80268f09c3e23626cc039da205244f4f6aeff6317e8167455f18a83e5fda.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/24fef7c68dbb8ecb43cff34c5b3f7d430d87e1223e2895cbf2cc88bef69754c9.jpg",
+      "moves": 32,
+      "tradesCount": 0
     },
     {
       "id": "t.10",
@@ -120,19 +26,9 @@
       "rank": 2,
       "playoffSeed": 3,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/ae93a74855220a2f709fe84097bf130d067389a190a7001e62f7325dbcb61d56.png"
-    },
-    {
-      "id": "t.11",
-      "name": "Orthodox Jeudy",
-      "manager": "Ian O'Handley",
-      "wins": 4,
-      "losses": 10,
-      "ties": 0,
-      "rank": 10,
-      "playoffSeed": 12,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36468119463_b0af86.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/ae93a74855220a2f709fe84097bf130d067389a190a7001e62f7325dbcb61d56.png",
+      "moves": 39,
+      "tradesCount": 4
     },
     {
       "id": "t.12",
@@ -144,7 +40,135 @@
       "rank": 3,
       "playoffSeed": 5,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/759e34e9532c493a5c2c3cebc3ef72e6d4929622724c33d73f9adc2da3ea92dc.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/759e34e9532c493a5c2c3cebc3ef72e6d4929622724c33d73f9adc2da3ea92dc.jpg",
+      "moves": 30,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.3",
+      "name": "Zynladen",
+      "manager": "Joe Glibbery",
+      "wins": 10,
+      "losses": 4,
+      "ties": 0,
+      "rank": 4,
+      "playoffSeed": 2,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/cabbccd7ccf5033ea5f26dff29249a6a70f9124916a90f3c09542a24b78fcb18.png",
+      "moves": 24,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.7",
+      "name": "Jack Bleiweis is a fraud",
+      "manager": "Kevin McCreary",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 5,
+      "playoffSeed": 6,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/eed1bf343e79c756f0a873d0c15ff190c2e8a509d1d56fec3181be4cfd0610f9.png",
+      "moves": 9,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.6",
+      "name": "All You Can Etienne",
+      "manager": "Heri Hickl Szabo",
+      "wins": 8,
+      "losses": 6,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 4,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/4f7941a2eb7a626d46011bae0672e0e805a02fc469844a5b7220e80c1e682aab.png",
+      "moves": 49,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.9",
+      "name": "Nacua Matata",
+      "manager": "Gabriel Nadra",
+      "wins": 7,
+      "losses": 7,
+      "ties": 0,
+      "rank": 7,
+      "playoffSeed": 7,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/861a80268f09c3e23626cc039da205244f4f6aeff6317e8167455f18a83e5fda.jpg",
+      "moves": 30,
+      "tradesCount": 4
+    },
+    {
+      "id": "t.5",
+      "name": "Diggs Out For Harambe",
+      "manager": "Lucas Stagliano",
+      "wins": 6,
+      "losses": 8,
+      "ties": 0,
+      "rank": 8,
+      "playoffSeed": 8,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c00534777bf62050ac6175810ffaf305fc6b90914bb78e81dd2e87b8cd3d6702.jpg",
+      "moves": 19,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.2",
+      "name": "Andrew Schulz",
+      "manager": "Matthew Weintraub",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "rank": 9,
+      "playoffSeed": 11,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/b9e09868db3cc6f05764c175f339100d9cb9f15b901472b7ef63b3d25681bc70.jpg",
+      "moves": 29,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.11",
+      "name": "Orthodox Jeudy",
+      "manager": "Ian O'Handley",
+      "wins": 4,
+      "losses": 10,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 12,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36468119463_b0af86.jpg",
+      "moves": 9,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.1",
+      "name": "Justin Ept",
+      "manager": "James Ellement",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 11,
+      "playoffSeed": 9,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d6e85579bb33f970202ac7859abdb0640634678ff3cd285ca2efc6f31e07094c.jpg",
+      "moves": 30,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.8",
+      "name": "Saquon My Balls",
+      "manager": "Ryan Schwartz",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 12,
+      "playoffSeed": 10,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/e58de393ba5af56fec778c86228654e40d4588334ff9be04d85ca2243201fe7c.jpg",
+      "moves": 29,
+      "tradesCount": 3
     }
   ],
   "draft": [
@@ -153,1448 +177,1448 @@
       "round": 1,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.32692",
+      "playerId": "32692",
       "playerFirstName": "Justin",
       "playerLastName": "Jefferson",
-      "avgPick": 1.5,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.33393",
+      "playerId": "33393",
       "playerFirstName": "Ja'Marr",
       "playerLastName": "Chase",
-      "avgPick": 3.1,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.29399",
+      "playerId": "29399",
       "playerFirstName": "Tyreek",
       "playerLastName": "Hill",
-      "avgPick": 6.3,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.30121",
+      "playerId": "30121",
       "playerFirstName": "Christian",
       "playerLastName": "McCaffrey",
-      "avgPick": 2.5,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.30423",
+      "playerId": "30423",
       "playerFirstName": "Austin",
       "playerLastName": "Ekeler",
-      "avgPick": 5.3,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 9.6,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.40055",
+      "playerId": "40055",
       "playerFirstName": "Bijan",
       "playerLastName": "Robinson",
-      "avgPick": 9.6,
-      "avgRound": 1.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.27581",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 17.1,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.31960",
+      "playerId": "31960",
       "playerFirstName": "Tony",
       "playerLastName": "Pollard",
-      "avgPick": 14.2,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.32687",
+      "playerId": "32687",
       "playerFirstName": "CeeDee",
       "playerLastName": "Lamb",
-      "avgPick": 14.7,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 1,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.33965",
+      "playerId": "33965",
       "playerFirstName": "Garrett",
       "playerLastName": "Wilson",
-      "avgPick": 20.7,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 1,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.31883",
+      "playerId": "31883",
       "playerFirstName": "A.J.",
       "playerLastName": "Brown",
-      "avgPick": 14.4,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.33500",
+      "playerId": "33500",
       "playerFirstName": "Amon-Ra",
       "playerLastName": "St. Brown",
-      "avgPick": 19,
-      "avgRound": 2.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.31005",
+      "playerId": "31005",
       "playerFirstName": "Nick",
       "playerLastName": "Chubb",
-      "avgPick": 8.7,
-      "avgRound": 1.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.33966",
+      "playerId": "33966",
       "playerFirstName": "Chris",
       "playerLastName": "Olave",
-      "avgPick": 27.6,
-      "avgRound": 3.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.30996",
+      "playerId": "30996",
       "playerFirstName": "Calvin",
       "playerLastName": "Ridley",
-      "avgPick": 35.4,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.30972",
+      "playerId": "30972",
       "playerFirstName": "Saquon",
       "playerLastName": "Barkley",
-      "avgPick": 12,
-      "avgRound": 1.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.33394",
+      "playerId": "33394",
       "playerFirstName": "Jaylen",
       "playerLastName": "Waddle",
-      "avgPick": 24.1,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.29279",
+      "playerId": "29279",
       "playerFirstName": "Derrick",
       "playerLastName": "Henry",
-      "avgPick": 15.6,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 7.7,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 2,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 46.5,
-      "avgRound": 5.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 2,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.40059",
+      "playerId": "40059",
       "playerFirstName": "Jahmyr",
       "playerLastName": "Gibbs",
-      "avgPick": 35.5,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 2,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.30182",
+      "playerId": "30182",
       "playerFirstName": "Cooper",
       "playerLastName": "Kupp",
-      "avgPick": 16.6,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 2,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.33398",
+      "playerId": "33398",
       "playerFirstName": "DeVonta",
       "playerLastName": "Smith",
-      "avgPick": 26.5,
-      "avgRound": 3.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.31856",
+      "playerId": "31856",
       "playerFirstName": "Josh",
       "playerLastName": "Jacobs",
-      "avgPick": 18.9,
-      "avgRound": 2.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.32723",
+      "playerId": "32723",
       "playerFirstName": "Jalen",
       "playerLastName": "Hurts",
-      "avgPick": 21.3,
-      "avgRound": 2.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.33413",
+      "playerId": "33413",
       "playerFirstName": "Travis",
       "playerLastName": "Etienne Jr.",
-      "avgPick": 25.7,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.32703",
+      "playerId": "32703",
       "playerFirstName": "Tee",
       "playerLastName": "Higgins",
-      "avgPick": 31.7,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.31056",
+      "playerId": "31056",
       "playerFirstName": "Mark",
       "playerLastName": "Andrews",
-      "avgPick": 34,
-      "avgRound": 3.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.30161",
+      "playerId": "30161",
       "playerFirstName": "Joe",
       "playerLastName": "Mixon",
-      "avgPick": 30.2,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 3,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.30295",
+      "playerId": "30295",
       "playerFirstName": "Aaron",
       "playerLastName": "Jones Sr.",
-      "avgPick": 33,
-      "avgRound": 3.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.31896",
+      "playerId": "31896",
       "playerFirstName": "DK",
       "playerLastName": "Metcalf",
-      "avgPick": 35.6,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.33963",
+      "playerId": "33963",
       "playerFirstName": "Drake",
       "playerLastName": "London",
-      "avgPick": 63.3,
-      "avgRound": 6.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.33412",
+      "playerId": "33412",
       "playerFirstName": "Najee",
       "playerLastName": "Harris",
-      "avgPick": 30.4,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 3,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.33508",
+      "playerId": "33508",
       "playerFirstName": "Rhamondre",
       "playerLastName": "Stevenson",
-      "avgPick": 32.9,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 3,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 41.1,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.30977",
+      "playerId": "30977",
       "playerFirstName": "Josh",
       "playerLastName": "Allen",
-      "avgPick": 24.3,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.31868",
+      "playerId": "31868",
       "playerFirstName": "Deebo",
-      "playerLastName": "Samuel",
-      "avgPick": 40.2,
-      "avgRound": 4.6
+      "playerLastName": "Samuel Sr.",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.30994",
+      "playerId": "30994",
       "playerFirstName": "DJ",
       "playerLastName": "Moore",
-      "avgPick": 55.9,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.33996",
+      "playerId": "33996",
       "playerFirstName": "Kenneth",
       "playerLastName": "Walker III",
-      "avgPick": 44.9,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.30123",
+      "playerId": "30123",
       "playerFirstName": "Patrick",
       "playerLastName": "Mahomes",
-      "avgPick": 15.6,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 4,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.31002",
+      "playerId": "31002",
       "playerFirstName": "Lamar",
       "playerLastName": "Jackson",
-      "avgPick": 36.3,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 4,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 62.3,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 4,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.33991",
+      "playerId": "33991",
       "playerFirstName": "Breece",
       "playerLastName": "Hall",
-      "avgPick": 38.3,
-      "avgRound": 4.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 4,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.31934",
+      "playerId": "31934",
       "playerFirstName": "Alexander",
       "playerLastName": "Mattison",
-      "avgPick": 58.6,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 4,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.30197",
+      "playerId": "30197",
       "playerFirstName": "Chris",
       "playerLastName": "Godwin Jr.",
-      "avgPick": 75.5,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 4,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.31908",
+      "playerId": "31908",
       "playerFirstName": "Terry",
       "playerLastName": "McLaurin",
-      "avgPick": 65.3,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 4,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.28457",
+      "playerId": "28457",
       "playerFirstName": "Tyler",
       "playerLastName": "Lockett",
-      "avgPick": 54.7,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.33989",
+      "playerId": "33989",
       "playerFirstName": "Christian",
       "playerLastName": "Watson",
-      "avgPick": 76.7,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.28592",
+      "playerId": "28592",
       "playerFirstName": "Darren",
       "playerLastName": "Waller",
-      "avgPick": 57.1,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 5,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.32695",
+      "playerId": "32695",
       "playerFirstName": "Brandon",
       "playerLastName": "Aiyuk",
-      "avgPick": 62.4,
-      "avgRound": 6.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 5,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.31898",
+      "playerId": "31898",
       "playerFirstName": "Diontae",
       "playerLastName": "Johnson",
-      "avgPick": 76.7,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 5,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.30120",
+      "playerId": "30120",
       "playerFirstName": "Mike",
       "playerLastName": "Williams",
-      "avgPick": 80.1,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 5,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 84.9,
-      "avgRound": 9.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 5,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.32685",
+      "playerId": "32685",
       "playerFirstName": "Jerry",
       "playerLastName": "Jeudy",
-      "avgPick": 86.7,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.34007",
+      "playerId": "34007",
       "playerFirstName": "George",
       "playerLastName": "Pickens",
-      "avgPick": 91.5,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.31840",
+      "playerId": "31840",
       "playerFirstName": "T.J.",
       "playerLastName": "Hockenson",
-      "avgPick": 44.8,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.32676",
+      "playerId": "32676",
       "playerFirstName": "Justin",
       "playerLastName": "Herbert",
-      "avgPick": 54.1,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.33971",
+      "playerId": "33971",
       "playerFirstName": "Jahan",
       "playerLastName": "Dotson",
-      "avgPick": 95.2,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 5,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.32725",
+      "playerId": "32725",
       "playerFirstName": "J.K.",
       "playerLastName": "Dobbins",
-      "avgPick": 45.1,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 6,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.32704",
+      "playerId": "32704",
       "playerFirstName": "Michael",
       "playerLastName": "Pittman Jr.",
-      "avgPick": 82.9,
-      "avgRound": 8.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 6,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.40039",
+      "playerId": "40039",
       "playerFirstName": "Zay",
       "playerLastName": "Flowers",
-      "avgPick": 115.5,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.34019",
+      "playerId": "34019",
       "playerFirstName": "James",
       "playerLastName": "Cook III",
-      "avgPick": 69.9,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.31017",
+      "playerId": "31017",
       "playerFirstName": "Christian",
       "playerLastName": "Kirk",
-      "avgPick": 89.4,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.31885",
+      "playerId": "31885",
       "playerFirstName": "Miles",
       "playerLastName": "Sanders",
-      "avgPick": 52.6,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 6,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.31857",
+      "playerId": "31857",
       "playerFirstName": "Hollywood",
       "playerLastName": "Brown",
-      "avgPick": 100.2,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 6,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.34063",
+      "playerId": "34063",
       "playerFirstName": "Dameon",
       "playerLastName": "Pierce",
-      "avgPick": 45.5,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 6,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.40042",
+      "playerId": "40042",
       "playerFirstName": "Jordan",
       "playerLastName": "Addison",
-      "avgPick": 105.5,
-      "avgRound": 11.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 6,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.32671",
+      "playerId": "32671",
       "playerFirstName": "Joe",
       "playerLastName": "Burrow",
-      "avgPick": 44.6,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 6,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.32722",
+      "playerId": "32722",
       "playerFirstName": "Cam",
       "playerLastName": "Akers",
-      "avgPick": 59.9,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 6,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.40041",
+      "playerId": "40041",
       "playerFirstName": "Jaxon",
       "playerLastName": "Smith-Njigba",
-      "avgPick": 111.4,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 6,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.33423",
+      "playerId": "33423",
       "playerFirstName": "Javonte",
       "playerLastName": "Williams",
-      "avgPick": 75.4,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 7,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.30259",
+      "playerId": "30259",
       "playerFirstName": "George",
       "playerLastName": "Kittle",
-      "avgPick": 47.3,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 7,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.32736",
+      "playerId": "32736",
       "playerFirstName": "Antonio",
       "playerLastName": "Gibson",
-      "avgPick": 110,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 7,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.30180",
+      "playerId": "30180",
       "playerFirstName": "Alvin",
       "playerLastName": "Kamara",
-      "avgPick": 81.2,
-      "avgRound": 8.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 7,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.30218",
+      "playerId": "30218",
       "playerFirstName": "James",
       "playerLastName": "Conner",
-      "avgPick": 58.3,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 7,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.27277",
+      "playerId": "27277",
       "playerFirstName": "Adam",
       "playerLastName": "Thielen",
-      "avgPick": 127,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 7,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.33399",
+      "playerId": "33399",
       "playerFirstName": "Justin",
       "playerLastName": "Fields",
-      "avgPick": 48.8,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 7,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.34047",
+      "playerId": "34047",
       "playerFirstName": "Rachaad",
       "playerLastName": "White",
-      "avgPick": 85.2,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 113.6,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.33389",
+      "playerId": "33389",
       "playerFirstName": "Trevor",
       "playerLastName": "Lawrence",
-      "avgPick": 58.7,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.32798",
+      "playerId": "32798",
       "playerFirstName": "Gabe",
       "playerLastName": "Davis",
-      "avgPick": 100.4,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 7,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.31019",
+      "playerId": "31019",
       "playerFirstName": "Dallas",
       "playerLastName": "Goedert",
-      "avgPick": 58.7,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 7,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.32711",
+      "playerId": "32711",
       "playerFirstName": "Jonathan",
       "playerLastName": "Taylor",
-      "avgPick": 41.8,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 8,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.33605",
+      "playerId": "33605",
       "playerFirstName": "Khalil",
       "playerLastName": "Herbert",
-      "avgPick": 95.3,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 8,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.34009",
+      "playerId": "34009",
       "playerFirstName": "Skyy",
       "playerLastName": "Moore",
-      "avgPick": 123.4,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 8,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.34207",
+      "playerId": "34207",
       "playerFirstName": "Isiah",
       "playerLastName": "Pacheco",
-      "avgPick": 76.7,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.32705",
+      "playerId": "32705",
       "playerFirstName": "D'Andre",
       "playerLastName": "Swift",
-      "avgPick": 86.4,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.30136",
+      "playerId": "30136",
       "playerFirstName": "Evan",
       "playerLastName": "Engram",
-      "avgPick": 77.4,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 8,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.29281",
+      "playerId": "29281",
       "playerFirstName": "Michael",
       "playerLastName": "Thomas",
-      "avgPick": 115,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 8,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.31010",
+      "playerId": "31010",
       "playerFirstName": "Courtland",
       "playerLastName": "Sutton",
-      "avgPick": 120.4,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 8,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.33408",
+      "playerId": "33408",
       "playerFirstName": "Kadarius",
       "playerLastName": "Toney",
-      "avgPick": 123.7,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 8,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.33415",
+      "playerId": "33415",
       "playerFirstName": "Rashod",
       "playerLastName": "Bateman",
-      "avgPick": 123.7,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 8,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.33477",
+      "playerId": "33477",
       "playerFirstName": "Nico",
       "playerLastName": "Collins",
-      "avgPick": 125,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 8,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.40118",
+      "playerId": "40118",
       "playerFirstName": "De'Von",
       "playerLastName": "Achane",
-      "avgPick": 125.7,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 8,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.32732",
-      "playerFirstName": "A.J.",
+      "playerId": "32732",
+      "playerFirstName": "AJ",
       "playerLastName": "Dillon",
-      "avgPick": 102.2,
-      "avgRound": 10.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 9,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.33973",
+      "playerId": "33973",
       "playerFirstName": "Treylon",
       "playerLastName": "Burks",
-      "avgPick": 123.1,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 9,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.40051",
+      "playerId": "40051",
       "playerFirstName": "Quentin",
       "playerLastName": "Johnston",
-      "avgPick": 128.4,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 9,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.30154",
+      "playerId": "30154",
       "playerFirstName": "Dalvin",
       "playerLastName": "Cook",
-      "avgPick": 75.3,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 9,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.33392",
+      "playerId": "33392",
       "playerFirstName": "Kyle",
       "playerLastName": "Pitts Sr.",
-      "avgPick": 60.4,
-      "avgRound": 6.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 9,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.31905",
+      "playerId": "31905",
       "playerFirstName": "David",
       "playerLastName": "Montgomery",
-      "avgPick": 77.4,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 9,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.33443",
+      "playerId": "33443",
       "playerFirstName": "Pat",
       "playerLastName": "Freiermuth",
-      "avgPick": 77.8,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 9,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.30227",
+      "playerId": "30227",
       "playerFirstName": "Samaje",
       "playerLastName": "Perine",
-      "avgPick": 119.2,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.40075",
+      "playerId": "40075",
       "playerFirstName": "Zach",
       "playerLastName": "Charbonnet",
-      "avgPick": 117.2,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.29288",
+      "playerId": "29288",
       "playerFirstName": "Tyler",
       "playerLastName": "Boyd",
-      "avgPick": 128.6,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.33422",
+      "playerId": "33422",
       "playerFirstName": "Elijah",
       "playerLastName": "Moore",
-      "avgPick": 119.8,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 9,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.34447",
+      "playerId": "34447",
       "playerFirstName": "Jaylen",
       "playerLastName": "Warren",
-      "avgPick": 125.8,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 9,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.32843",
+      "playerId": "32843",
       "playerFirstName": "Darnell",
       "playerLastName": "Mooney",
-      "avgPick": 131.5,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 10,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.34054",
+      "playerId": "34054",
       "playerFirstName": "Brian",
-      "playerLastName": "Robinson Jr.",
-      "avgPick": 103.1,
-      "avgRound": 11
+      "playerLastName": "Robinson",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 10,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.28654",
+      "playerId": "28654",
       "playerFirstName": "Raheem",
       "playerLastName": "Mostert",
-      "avgPick": 115.2,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 10,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.30142",
+      "playerId": "30142",
       "playerFirstName": "David",
       "playerLastName": "Njoku",
-      "avgPick": 94.3,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.33967",
+      "playerId": "33967",
       "playerFirstName": "Jameson",
       "playerLastName": "Williams",
-      "avgPick": 128.6,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.40128",
+      "playerId": "40128",
       "playerFirstName": "Jalin",
       "playerLastName": "Hyatt",
-      "avgPick": 126.3,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 10,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.40048",
+      "playerId": "40048",
       "playerFirstName": "Dalton",
       "playerLastName": "Kincaid",
-      "avgPick": 121,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 10,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.30247",
+      "playerId": "30247",
       "playerFirstName": "Jamaal",
       "playerLastName": "Williams",
-      "avgPick": 106.9,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 10,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.31268",
+      "playerId": "31268",
       "playerFirstName": "Allen",
       "playerLastName": "Lazard",
-      "avgPick": 126.9,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 10,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.30175",
+      "playerId": "30175",
       "playerFirstName": "JuJu",
       "playerLastName": "Smith-Schuster",
-      "avgPick": 125.6,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 10,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 117.4,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 10,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.40108",
+      "playerId": "40108",
       "playerFirstName": "Kendre",
       "playerLastName": "Miller",
-      "avgPick": 128.9,
-      "avgRound": 14.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 10,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.25812",
+      "playerId": "25812",
       "playerFirstName": "Kirk",
       "playerLastName": "Cousins",
-      "avgPick": 116.2,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 11,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.40095",
+      "playerId": "40095",
       "playerFirstName": "Tank",
       "playerLastName": "Bigsby",
-      "avgPick": 128,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 11,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.34107",
+      "playerId": "34107",
       "playerFirstName": "Tyler",
       "playerLastName": "Allgeier",
-      "avgPick": 125.1,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 11,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.29344",
+      "playerId": "29344",
       "playerFirstName": "Tyler",
       "playerLastName": "Higbee",
-      "avgPick": 122.7,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 11,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.27624",
+      "playerId": "27624",
       "playerFirstName": "Jerick",
       "playerLastName": "McKinnon",
-      "avgPick": 123.9,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 11,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.32231",
+      "playerId": "32231",
       "playerFirstName": "Jakobi",
       "playerLastName": "Meyers",
-      "avgPick": 129,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 11,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.33538",
-      "playerFirstName": "Kenneth",
+      "playerId": "33538",
+      "playerFirstName": "Kenny",
       "playerLastName": "Gainwell",
-      "avgPick": 122.4,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 11,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.33582",
+      "playerId": "33582",
       "playerFirstName": "Elijah",
       "playerLastName": "Mitchell",
-      "avgPick": 125.7,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.33798",
+      "playerId": "33798",
       "playerFirstName": "Deon",
       "playerLastName": "Jackson",
-      "avgPick": 130.5,
-      "avgRound": 15.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.40090",
+      "playerId": "40090",
       "playerFirstName": "Marvin",
       "playerLastName": "Mims Jr.",
-      "avgPick": 129.2,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.40162",
+      "playerId": "40162",
       "playerFirstName": "Roschon",
       "playerLastName": "Johnson",
-      "avgPick": 127.8,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 11,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.30997",
+      "playerId": "30997",
       "playerFirstName": "Rashaad",
       "playerLastName": "Penny",
-      "avgPick": 112.7,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 11,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.40073",
+      "playerId": "40073",
       "playerFirstName": "Jonathan",
       "playerLastName": "Mingo",
       "avgPick": null,
@@ -1605,18 +1629,18 @@
       "round": 12,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.32702",
+      "playerId": "32702",
       "playerFirstName": "Clyde",
       "playerLastName": "Edwards-Helaire",
-      "avgPick": 123,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 12,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.34125",
+      "playerId": "34125",
       "playerFirstName": "Ty",
       "playerLastName": "Chandler",
       "avgPick": null,
@@ -1627,40 +1651,40 @@
       "round": 12,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.34036",
+      "playerId": "34036",
       "playerFirstName": "Greg",
       "playerLastName": "Dulcich",
-      "avgPick": 122.9,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.40084",
+      "playerId": "40084",
       "playerFirstName": "Rashee",
       "playerLastName": "Rice",
-      "avgPick": 127.4,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 12,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.30150",
+      "playerId": "30150",
       "playerFirstName": "Zay",
       "playerLastName": "Jones",
-      "avgPick": 128.4,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 12,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.34440",
+      "playerId": "34440",
       "playerFirstName": "Justyn",
       "playerLastName": "Ross",
       "avgPick": null,
@@ -1671,40 +1695,40 @@
       "round": 12,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.34088",
+      "playerId": "34088",
       "playerFirstName": "Romeo",
       "playerLastName": "Doubs",
-      "avgPick": 126.2,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 12,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.32675",
+      "playerId": "32675",
       "playerFirstName": "Tua",
       "playerLastName": "Tagovailoa",
-      "avgPick": 95.6,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 12,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.40240",
+      "playerId": "40240",
       "playerFirstName": "Deuce",
       "playerLastName": "Vaughn",
-      "avgPick": 123.1,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 12,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.32857",
+      "playerId": "32857",
       "playerFirstName": "Donovan",
       "playerLastName": "Peoples-Jones",
       "avgPick": null,
@@ -1715,18 +1739,18 @@
       "round": 12,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.40119",
+      "playerId": "40119",
       "playerFirstName": "Tyjae",
       "playerLastName": "Spears",
-      "avgPick": 130.3,
-      "avgRound": 14.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 12,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.33437",
+      "playerId": "33437",
       "playerFirstName": "Rondale",
       "playerLastName": "Moore",
       "avgPick": null,
@@ -1737,40 +1761,40 @@
       "round": 13,
       "teamId": "t.1",
       "teamName": "Justin Ept",
-      "playerId": "423.p.30125",
+      "playerId": "30125",
       "playerFirstName": "Deshaun",
       "playerLastName": "Watson",
-      "avgPick": 95,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 13,
       "teamId": "t.12",
       "teamName": "The Chase Begins",
-      "playerId": "423.p.30995",
+      "playerId": "30995",
       "playerFirstName": "Hayden",
       "playerLastName": "Hurst",
-      "avgPick": 128.9,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 13,
       "teamId": "t.6",
       "teamName": "All You Can Etienne",
-      "playerId": "423.p.29369",
+      "playerId": "29369",
       "playerFirstName": "Dak",
       "playerLastName": "Prescott",
-      "avgPick": 78.4,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 13,
       "teamId": "t.10",
       "teamName": "49 Christian McChickens",
-      "playerId": "423.p.32846",
+      "playerId": "32846",
       "playerFirstName": "K.J.",
       "playerLastName": "Osborn",
       "avgPick": null,
@@ -1781,62 +1805,62 @@
       "round": 13,
       "teamId": "t.9",
       "teamName": "Nacua Matata",
-      "playerId": "423.p.31838",
+      "playerId": "31838",
       "playerFirstName": "Daniel",
       "playerLastName": "Jones",
-      "avgPick": 94.4,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 13,
       "teamId": "t.5",
       "teamName": "Diggs Out For Harambe",
-      "playerId": "423.p.32727",
+      "playerId": "32727",
       "playerFirstName": "Van",
       "playerLastName": "Jefferson",
-      "avgPick": 126.2,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 151,
       "round": 13,
       "teamId": "t.11",
       "teamName": "Orthodox Jeudy",
-      "playerId": "423.p.40064",
+      "playerId": "40064",
       "playerFirstName": "Sam",
       "playerLastName": "LaPorta",
-      "avgPick": 128.6,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 152,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Saquon My Balls",
-      "playerId": "423.p.31394",
+      "playerId": "31394",
       "playerFirstName": "Jeff",
       "playerLastName": "Wilson Jr.",
-      "avgPick": 130.3,
-      "avgRound": 14.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 153,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Zynladen",
-      "playerId": "423.p.30199",
+      "playerId": "30199",
       "playerFirstName": "Kareem",
       "playerLastName": "Hunt",
-      "avgPick": 129.8,
-      "avgRound": 14.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 154,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Jack Bleiweis is a fraud",
-      "playerId": "423.p.34008",
+      "playerId": "34008",
       "playerFirstName": "Alec",
       "playerLastName": "Pierce",
       "avgPick": null,
@@ -1847,22 +1871,22 @@
       "round": 13,
       "teamId": "t.2",
       "teamName": "Andrew Schulz",
-      "playerId": "423.p.26662",
+      "playerId": "26662",
       "playerFirstName": "Geno",
       "playerLastName": "Smith",
-      "avgPick": 115.3,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 156,
       "round": 13,
       "teamId": "t.4",
       "teamName": "The Browns",
-      "playerId": "423.p.31107",
+      "playerId": "31107",
       "playerFirstName": "Dalton",
       "playerLastName": "Schultz",
-      "avgPick": 128.1,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -3043,5 +3067,342 @@
       "isConsolation": true
     }
   ],
-  "trades": []
+  "trades": [
+    {
+      "id": "423.l.338079.tr.101",
+      "year": 2023,
+      "date": "2023-09-27T14:44:30.000Z",
+      "timestamp": 1695825870,
+      "sides": [
+        {
+          "teamId": "t.12",
+          "teamName": "The Chase Begins",
+          "manager": "William Davison",
+          "sent": [
+            "Terry McLaurin"
+          ],
+          "received": [
+            "Breece Hall"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Nacua Matata",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Breece Hall"
+          ],
+          "received": [
+            "Terry McLaurin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.338079.tr.120",
+      "year": 2023,
+      "date": "2023-10-03T01:06:45.000Z",
+      "timestamp": 1696295205,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "49 Christian McChickens",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Diontae Johnson"
+          ],
+          "received": [
+            "Christian Kirk"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Zynladen",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Christian Kirk"
+          ],
+          "received": [
+            "Diontae Johnson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.338079.tr.188",
+      "year": 2023,
+      "date": "2023-10-14T04:13:04.000Z",
+      "timestamp": 1697256784,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "49 Christian McChickens",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Christian Kirk"
+          ],
+          "received": [
+            "Justin Jefferson"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "Justin Ept",
+          "manager": "James Ellement",
+          "sent": [
+            "Justin Jefferson"
+          ],
+          "received": [
+            "Christian Kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.338079.tr.193",
+      "year": 2023,
+      "date": "2023-10-14T16:14:14.000Z",
+      "timestamp": 1697300054,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Justin Ept",
+          "manager": "James Ellement",
+          "sent": [
+            "Christian Kirk"
+          ],
+          "received": [
+            "Justin Jefferson"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "49 Christian McChickens",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Justin Jefferson"
+          ],
+          "received": [
+            "Christian Kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.338079.tr.194",
+      "year": 2023,
+      "date": "2023-10-14T18:01:25.000Z",
+      "timestamp": 1697306485,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Nacua Matata",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Mark Andrews",
+            "Jerome Ford"
+          ],
+          "received": [
+            "Kyren Williams"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "All You Can Etienne",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Kyren Williams"
+          ],
+          "received": [
+            "Mark Andrews",
+            "Jerome Ford"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.338079.tr.415",
+      "year": 2023,
+      "date": "2023-11-28T18:28:36.000Z",
+      "timestamp": 1701196116,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Saquon My Balls",
+          "manager": "Ryan Schwartz",
+          "sent": [
+            "Evan Engram"
+          ],
+          "received": [
+            "Chris Godwin Jr."
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "All You Can Etienne",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Chris Godwin Jr."
+          ],
+          "received": [
+            "Evan Engram"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.338079.tr.416",
+      "year": 2023,
+      "date": "2023-11-28T18:28:39.000Z",
+      "timestamp": 1701196119,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Saquon My Balls",
+          "manager": "Ryan Schwartz",
+          "sent": [
+            "Saquon Barkley",
+            "Davante Adams"
+          ],
+          "received": [
+            "Austin Ekeler",
+            "Terry McLaurin"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Nacua Matata",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Austin Ekeler",
+            "Terry McLaurin"
+          ],
+          "received": [
+            "Saquon Barkley",
+            "Davante Adams"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.338079.tr.417",
+      "year": 2023,
+      "date": "2023-11-28T18:46:50.000Z",
+      "timestamp": 1701197210,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Zynladen",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Keaton Mitchell"
+          ],
+          "received": [
+            "Brock Purdy"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "Justin Ept",
+          "manager": "James Ellement",
+          "sent": [
+            "Brock Purdy"
+          ],
+          "received": [
+            "Keaton Mitchell"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.338079.tr.428",
+      "year": 2023,
+      "date": "2023-11-29T21:07:48.000Z",
+      "timestamp": 1701292068,
+      "sides": [
+        {
+          "teamId": "t.12",
+          "teamName": "The Chase Begins",
+          "manager": "William Davison",
+          "sent": [
+            "Adam Thielen"
+          ],
+          "received": [
+            "DK Metcalf"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Saquon My Balls",
+          "manager": "Ryan Schwartz",
+          "sent": [
+            "DK Metcalf"
+          ],
+          "received": [
+            "Adam Thielen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.338079.tr.432",
+      "year": 2023,
+      "date": "2023-11-30T18:27:04.000Z",
+      "timestamp": 1701368824,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "Diggs Out For Harambe",
+          "manager": "Lucas Stagliano",
+          "sent": [
+            "Justin Fields"
+          ],
+          "received": [
+            "Tee Higgins"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "49 Christian McChickens",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Tee Higgins"
+          ],
+          "received": [
+            "Justin Fields"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "423.l.338079.tr.440",
+      "year": 2023,
+      "date": "2023-12-03T02:36:35.000Z",
+      "timestamp": 1701570995,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "All You Can Etienne",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Jameson Williams"
+          ],
+          "received": [
+            "Jakobi Meyers"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Nacua Matata",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Jakobi Meyers"
+          ],
+          "received": [
+            "Jameson Williams"
+          ]
+        }
+      ]
+    }
+  ]
 }

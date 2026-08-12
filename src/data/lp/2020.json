@@ -3,42 +3,6 @@
   "leagueId": "lp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "Reagor Bombs",
-      "manager": "James Ellement",
-      "wins": 4,
-      "losses": 9,
-      "ties": 0,
-      "rank": 7,
-      "playoffSeed": 11,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56514164523_22ab93.jpg"
-    },
-    {
-      "id": "t.2",
-      "name": "Mrs. Robinson",
-      "manager": "Matthew Weintraub",
-      "wins": 6,
-      "losses": 7,
-      "ties": 0,
-      "rank": 9,
-      "playoffSeed": 7,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c0100819891a46641e531af6807c16d05ff92cb407c362844bb7fd422634a7e4.png"
-    },
-    {
-      "id": "t.3",
-      "name": "Peter Parker",
-      "manager": "Joe Glibbery",
-      "wins": 9,
-      "losses": 4,
-      "ties": 0,
-      "rank": 6,
-      "playoffSeed": 3,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36798709740_daf88b.jpg"
-    },
-    {
       "id": "t.4",
       "name": "Tannewill to live",
       "manager": "Harrison Wood",
@@ -48,31 +12,9 @@
       "rank": 1,
       "playoffSeed": 1,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56513235443_d8ba71.jpg"
-    },
-    {
-      "id": "t.5",
-      "name": "Prince of Helaire",
-      "manager": "Lucas Stagliano",
-      "wins": 7,
-      "losses": 6,
-      "ties": 0,
-      "rank": 5,
-      "playoffSeed": 5,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/55273665672_dbd830.jpg"
-    },
-    {
-      "id": "t.6",
-      "name": "SaqOuin",
-      "manager": "Heri Hickl Szabo",
-      "wins": 3,
-      "losses": 10,
-      "ties": 0,
-      "rank": 8,
-      "playoffSeed": 12,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c143b2e611e6abef437d61747d6c204e9a58514354d2449fb9d7e57ab06fc783.png"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56513235443_d8ba71.jpg",
+      "moves": 20,
+      "tradesCount": 3
     },
     {
       "id": "t.7",
@@ -84,31 +26,9 @@
       "rank": 2,
       "playoffSeed": 2,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/91d6da9069d77b907b081758e82005e7534656abfa8907a5396057e77ed5c7f6.jpg"
-    },
-    {
-      "id": "t.8",
-      "name": "Sherlock Mahomes",
-      "manager": "Declan Brown",
-      "wins": 5,
-      "losses": 8,
-      "ties": 0,
-      "rank": 12,
-      "playoffSeed": 9,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/ba3d1298cce0695ebc29e539a7d0e55bf8d5e27f437f6ea2351dca1df620e26b.jpg"
-    },
-    {
-      "id": "t.9",
-      "name": "Antonio Gibson Fan",
-      "manager": "Gabriel Nadra",
-      "wins": 6,
-      "losses": 7,
-      "ties": 0,
-      "rank": 10,
-      "playoffSeed": 8,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36458152584_82c5ad.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/91d6da9069d77b907b081758e82005e7534656abfa8907a5396057e77ed5c7f6.jpg",
+      "moves": 12,
+      "tradesCount": 1
     },
     {
       "id": "t.10",
@@ -120,7 +40,9 @@
       "rank": 3,
       "playoffSeed": 4,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg",
+      "moves": 20,
+      "tradesCount": 4
     },
     {
       "id": "t.11",
@@ -132,7 +54,93 @@
       "rank": 4,
       "playoffSeed": 6,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36468119463_b0af86.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36468119463_b0af86.jpg",
+      "moves": 8,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.5",
+      "name": "Prince of Helaire",
+      "manager": "Lucas Stagliano",
+      "wins": 7,
+      "losses": 6,
+      "ties": 0,
+      "rank": 5,
+      "playoffSeed": 5,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/55273665672_dbd830.jpg",
+      "moves": 36,
+      "tradesCount": 0
+    },
+    {
+      "id": "t.3",
+      "name": "Peter Parker",
+      "manager": "Joe Glibbery",
+      "wins": 9,
+      "losses": 4,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 3,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36798709740_daf88b.jpg",
+      "moves": 49,
+      "tradesCount": 10
+    },
+    {
+      "id": "t.1",
+      "name": "Reagor Bombs",
+      "manager": "James Ellement",
+      "wins": 4,
+      "losses": 9,
+      "ties": 0,
+      "rank": 7,
+      "playoffSeed": 11,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56514164523_22ab93.jpg",
+      "moves": 26,
+      "tradesCount": 6
+    },
+    {
+      "id": "t.6",
+      "name": "SaqOuin",
+      "manager": "Heri Hickl Szabo",
+      "wins": 3,
+      "losses": 10,
+      "ties": 0,
+      "rank": 8,
+      "playoffSeed": 12,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c143b2e611e6abef437d61747d6c204e9a58514354d2449fb9d7e57ab06fc783.png",
+      "moves": 51,
+      "tradesCount": 8
+    },
+    {
+      "id": "t.2",
+      "name": "Mrs. Robinson",
+      "manager": "Matthew Weintraub",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "rank": 9,
+      "playoffSeed": 7,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c0100819891a46641e531af6807c16d05ff92cb407c362844bb7fd422634a7e4.png",
+      "moves": 48,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.9",
+      "name": "Antonio Gibson Fan",
+      "manager": "Gabriel Nadra",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 8,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36458152584_82c5ad.jpg",
+      "moves": 54,
+      "tradesCount": 10
     },
     {
       "id": "t.12",
@@ -144,7 +152,23 @@
       "rank": 11,
       "playoffSeed": 10,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1d941ba90379c785715ab55b3a4e892be8790a449d6ce14e4afee50dc3ebdf0b.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1d941ba90379c785715ab55b3a4e892be8790a449d6ce14e4afee50dc3ebdf0b.jpg",
+      "moves": 28,
+      "tradesCount": 5
+    },
+    {
+      "id": "t.8",
+      "name": "Sherlock Mahomes",
+      "manager": "Declan Brown",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "rank": 12,
+      "playoffSeed": 9,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/ba3d1298cce0695ebc29e539a7d0e55bf8d5e27f437f6ea2351dca1df620e26b.jpg",
+      "moves": 11,
+      "tradesCount": 3
     }
   ],
   "draft": [
@@ -153,1415 +177,1415 @@
       "round": 1,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.30121",
+      "playerId": "30121",
       "playerFirstName": "Christian",
       "playerLastName": "McCaffrey",
-      "avgPick": 1.2,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.30972",
+      "playerId": "30972",
       "playerFirstName": "Saquon",
       "playerLastName": "Barkley",
-      "avgPick": 2.4,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.29238",
+      "playerId": "29238",
       "playerFirstName": "Ezekiel",
       "playerLastName": "Elliott",
-      "avgPick": 3.5,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.30180",
+      "playerId": "30180",
       "playerFirstName": "Alvin",
       "playerLastName": "Kamara",
-      "avgPick": 4.7,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.29281",
+      "playerId": "29281",
       "playerFirstName": "Michael",
       "playerLastName": "Thomas",
-      "avgPick": 7.3,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.27581",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 11.1,
-      "avgRound": 1.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.31885",
+      "playerId": "31885",
       "playerFirstName": "Miles",
       "playerLastName": "Sanders",
-      "avgPick": 22,
-      "avgRound": 2.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.32702",
+      "playerId": "32702",
       "playerFirstName": "Clyde",
       "playerLastName": "Edwards-Helaire",
-      "avgPick": 9.5,
-      "avgRound": 1.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.29279",
+      "playerId": "29279",
       "playerFirstName": "Derrick",
       "playerLastName": "Henry",
-      "avgPick": 5.6,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.30161",
+      "playerId": "30161",
       "playerFirstName": "Joe",
       "playerLastName": "Mixon",
-      "avgPick": 12.3,
-      "avgRound": 1.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.31856",
+      "playerId": "31856",
       "playerFirstName": "Josh",
       "playerLastName": "Jacobs",
-      "avgPick": 17.9,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 1,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.30154",
+      "playerId": "30154",
       "playerFirstName": "Dalvin",
       "playerLastName": "Cook",
-      "avgPick": 8.1,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.24793",
+      "playerId": "24793",
       "playerFirstName": "Julio",
       "playerLastName": "Jones",
-      "avgPick": 15.1,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.29399",
+      "playerId": "29399",
       "playerFirstName": "Tyreek",
       "playerLastName": "Hill",
-      "avgPick": 12.4,
-      "avgRound": 1.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.29307",
+      "playerId": "29307",
       "playerFirstName": "Kenyan",
       "playerLastName": "Drake",
-      "avgPick": 18.1,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.30197",
+      "playerId": "30197",
       "playerFirstName": "Chris",
       "playerLastName": "Godwin Jr.",
-      "avgPick": 24.3,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.31005",
+      "playerId": "31005",
       "playerFirstName": "Nick",
       "playerLastName": "Chubb",
-      "avgPick": 14.1,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.30423",
+      "playerId": "30423",
       "playerFirstName": "Austin",
       "playerLastName": "Ekeler",
-      "avgPick": 21.2,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 18.8,
-      "avgRound": 2.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.30295",
+      "playerId": "30295",
       "playerFirstName": "Aaron",
       "playerLastName": "Jones Sr.",
-      "avgPick": 20.3,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 2,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.30209",
+      "playerId": "30209",
       "playerFirstName": "Kenny",
       "playerLastName": "Golladay",
-      "avgPick": 29.7,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 2,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 30.5,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.27277",
+      "playerId": "27277",
       "playerFirstName": "Adam",
       "playerLastName": "Thielen",
-      "avgPick": 29.8,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 2,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 18.4,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.30259",
+      "playerId": "30259",
       "playerFirstName": "George",
       "playerLastName": "Kittle",
-      "avgPick": 17.7,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.30994",
+      "playerId": "30994",
       "playerFirstName": "DJ",
       "playerLastName": "Moore",
-      "avgPick": 39,
-      "avgRound": 4.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 40.6,
-      "avgRound": 4.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.30362",
+      "playerId": "30362",
       "playerFirstName": "Chris",
       "playerLastName": "Carson",
-      "avgPick": 31.7,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.28398",
+      "playerId": "28398",
       "playerFirstName": "Todd",
       "playerLastName": "Gurley",
-      "avgPick": 35.2,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.27589",
+      "playerId": "27589",
       "playerFirstName": "Allen",
       "playerLastName": "Robinson",
-      "avgPick": 28.6,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 3,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.30996",
+      "playerId": "30996",
       "playerFirstName": "Calvin",
       "playerLastName": "Ridley",
-      "avgPick": 51.3,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 3,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.30175",
+      "playerId": "30175",
       "playerFirstName": "JuJu",
       "playerLastName": "Smith-Schuster",
-      "avgPick": 36.7,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 3,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.28457",
+      "playerId": "28457",
       "playerFirstName": "Tyler",
       "playerLastName": "Lockett",
-      "avgPick": 50.4,
-      "avgRound": 5.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 3,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 32.4,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.30218",
+      "playerId": "30218",
       "playerFirstName": "James",
       "playerLastName": "Conner",
-      "avgPick": 28.5,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 3,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.26664",
+      "playerId": "26664",
       "playerFirstName": "Robert",
       "playerLastName": "Woods",
-      "avgPick": 68.4,
-      "avgRound": 7.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.26671",
+      "playerId": "26671",
       "playerFirstName": "Le'Veon",
       "playerLastName": "Bell",
-      "avgPick": 49,
-      "avgRound": 5.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.31010",
+      "playerId": "31010",
       "playerFirstName": "Courtland",
       "playerLastName": "Sutton",
-      "avgPick": 63.1,
-      "avgRound": 6.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.32711",
+      "playerId": "32711",
       "playerFirstName": "Jonathan",
       "playerLastName": "Taylor",
-      "avgPick": 37.5,
-      "avgRound": 4.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.31883",
+      "playerId": "31883",
       "playerFirstName": "A.J.",
       "playerLastName": "Brown",
-      "avgPick": 40.5,
-      "avgRound": 4.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 4,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.30182",
+      "playerId": "30182",
       "playerFirstName": "Cooper",
       "playerLastName": "Kupp",
-      "avgPick": 45.8,
-      "avgRound": 5.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.31031",
+      "playerId": "31031",
       "playerFirstName": "DJ",
       "playerLastName": "Chark",
-      "avgPick": 56.5,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 4,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.28474",
+      "playerId": "28474",
       "playerFirstName": "David",
       "playerLastName": "Johnson",
-      "avgPick": 51.5,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 4,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 63.7,
-      "avgRound": 7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 4,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.31908",
+      "playerId": "31908",
       "playerFirstName": "Terry",
       "playerLastName": "McLaurin",
-      "avgPick": 49,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 4,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.25802",
+      "playerId": "25802",
       "playerFirstName": "T.Y.",
       "playerLastName": "Hilton",
-      "avgPick": 72.7,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.31056",
+      "playerId": "31056",
       "playerFirstName": "Mark",
       "playerLastName": "Andrews",
-      "avgPick": 37.7,
-      "avgRound": 4.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 4,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.30117",
+      "playerId": "30117",
       "playerFirstName": "Leonard",
       "playerLastName": "Fournette",
-      "avgPick": 67.6,
-      "avgRound": 7.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 72.5,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.30123",
+      "playerId": "30123",
       "playerFirstName": "Patrick",
       "playerLastName": "Mahomes",
-      "avgPick": 12,
-      "avgRound": 1.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 5,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.28403",
+      "playerId": "28403",
       "playerFirstName": "Melvin",
       "playerLastName": "Gordon III",
-      "avgPick": 35.6,
-      "avgRound": 4.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 5,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.26658",
+      "playerId": "26658",
       "playerFirstName": "Zach",
       "playerLastName": "Ertz",
-      "avgPick": 45.4,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 5,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.31896",
+      "playerId": "31896",
       "playerFirstName": "DK",
       "playerLastName": "Metcalf",
-      "avgPick": 54.5,
-      "avgRound": 6.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 5,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.28402",
+      "playerId": "28402",
       "playerFirstName": "DeVante",
       "playerLastName": "Parker",
-      "avgPick": 74.1,
-      "avgRound": 8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.31002",
+      "playerId": "31002",
       "playerFirstName": "Lamar",
       "playerLastName": "Jackson",
-      "avgPick": 17.2,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 5,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.31905",
+      "playerId": "31905",
       "playerFirstName": "David",
       "playerLastName": "Montgomery",
-      "avgPick": 81.6,
-      "avgRound": 8.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 5,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.31906",
+      "playerId": "31906",
       "playerFirstName": "Devin",
       "playerLastName": "Singletary",
-      "avgPick": 73.9,
-      "avgRound": 8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 5,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.31857",
+      "playerId": "31857",
       "playerFirstName": "Hollywood",
       "playerLastName": "Brown",
-      "avgPick": 80.2,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.24815",
+      "playerId": "24815",
       "playerFirstName": "Mark",
       "playerLastName": "Ingram II",
-      "avgPick": 41.9,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 5,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.28592",
+      "playerId": "28592",
       "playerFirstName": "Darren",
       "playerLastName": "Waller",
-      "avgPick": 61.7,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 6,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.32705",
+      "playerId": "32705",
       "playerFirstName": "D'Andre",
       "playerLastName": "Swift",
-      "avgPick": 72,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.31051",
+      "playerId": "31051",
       "playerFirstName": "Michael",
       "playerLastName": "Gallup",
-      "avgPick": 80.1,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 6,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.9496",
+      "playerId": "9496",
       "playerFirstName": "Julian",
       "playerLastName": "Edelman",
-      "avgPick": 100.4,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 6,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 41.8,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 6,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.29255",
+      "playerId": "29255",
       "playerFirstName": "Will",
       "playerLastName": "Fuller V",
-      "avgPick": 93.1,
-      "avgRound": 10
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 6,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.29288",
+      "playerId": "29288",
       "playerFirstName": "Tyler",
       "playerLastName": "Boyd",
-      "avgPick": 88.3,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 6,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.28654",
+      "playerId": "28654",
       "playerFirstName": "Raheem",
       "playerLastName": "Mostert",
-      "avgPick": 49.6,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 6,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.27591",
+      "playerId": "27591",
       "playerFirstName": "Jarvis",
       "playerLastName": "Landry",
-      "avgPick": 90.9,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 6,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 116.1,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 6,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.30125",
+      "playerId": "30125",
       "playerFirstName": "Deshaun",
       "playerLastName": "Watson",
-      "avgPick": 52.5,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.30199",
+      "playerId": "30199",
       "playerFirstName": "Kareem",
       "playerLastName": "Hunt",
-      "avgPick": 70.9,
-      "avgRound": 7.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 6,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.25876",
+      "playerId": "25876",
       "playerFirstName": "Marvin",
       "playerLastName": "Jones Jr.",
-      "avgPick": 107.3,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 7,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.28493",
+      "playerId": "28493",
       "playerFirstName": "Jamison",
       "playerLastName": "Crowder",
-      "avgPick": 118,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.24791",
+      "playerId": "24791",
       "playerFirstName": "A.J.",
       "playerLastName": "Green",
-      "avgPick": 91.3,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 7,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.31008",
+      "playerId": "31008",
       "playerFirstName": "Ronald",
       "playerLastName": "Jones",
-      "avgPick": 83.2,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 7,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.31017",
+      "playerId": "31017",
       "playerFirstName": "Christian",
       "playerLastName": "Kirk",
-      "avgPick": 127,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 7,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.30136",
+      "playerId": "30136",
       "playerFirstName": "Evan",
       "playerLastName": "Engram",
-      "avgPick": 85.6,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 7,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.32722",
+      "playerId": "32722",
       "playerFirstName": "Cam",
       "playerLastName": "Akers",
-      "avgPick": 64.6,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 7,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.31898",
+      "playerId": "31898",
       "playerFirstName": "Diontae",
       "playerLastName": "Johnson",
-      "avgPick": 108,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 7,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.31868",
+      "playerId": "31868",
       "playerFirstName": "Deebo",
-      "playerLastName": "Samuel",
-      "avgPick": 101.3,
-      "avgRound": 10.8
+      "playerLastName": "Samuel Sr.",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 7,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.29269",
+      "playerId": "29269",
       "playerFirstName": "Hunter",
       "playerLastName": "Henry",
-      "avgPick": 74.6,
-      "avgRound": 8.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 7,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.27658",
+      "playerId": "27658",
       "playerFirstName": "James",
       "playerLastName": "White",
-      "avgPick": 109.2,
-      "avgRound": 11.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.31833",
+      "playerId": "31833",
       "playerFirstName": "Kyler",
       "playerLastName": "Murray",
-      "avgPick": 52.1,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 7,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.29274",
+      "playerId": "29274",
       "playerFirstName": "Sterling",
       "playerLastName": "Shepard",
-      "avgPick": 121,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 8,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.32725",
+      "playerId": "32725",
       "playerFirstName": "J.K.",
       "playerLastName": "Dobbins",
-      "avgPick": 87.9,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.24035",
+      "playerId": "24035",
       "playerFirstName": "Golden",
       "playerLastName": "Tate",
-      "avgPick": 131.1,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 8,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.32687",
+      "playerId": "32687",
       "playerFirstName": "CeeDee",
       "playerLastName": "Lamb",
-      "avgPick": 109.8,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 8,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.32003",
+      "playerId": "32003",
       "playerFirstName": "Darius",
       "playerLastName": "Slayton",
-      "avgPick": 120.5,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 8,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.29344",
+      "playerId": "29344",
       "playerFirstName": "Tyler",
       "playerLastName": "Higbee",
-      "avgPick": 61.7,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 8,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.31379",
+      "playerId": "31379",
       "playerFirstName": "Phillip",
       "playerLastName": "Lindsay",
-      "avgPick": 108.4,
-      "avgRound": 11.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 8,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.24057",
+      "playerId": "24057",
       "playerFirstName": "Emmanuel",
       "playerLastName": "Sanders",
-      "avgPick": 121,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 8,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.30256",
+      "playerId": "30256",
       "playerFirstName": "Marlon",
       "playerLastName": "Mack",
-      "avgPick": 111.6,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 8,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.29369",
+      "playerId": "29369",
       "playerFirstName": "Dak",
       "playerLastName": "Prescott",
-      "avgPick": 44.5,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 8,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.32692",
+      "playerId": "32692",
       "playerFirstName": "Justin",
       "playerLastName": "Jefferson",
-      "avgPick": 126,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.32682",
+      "playerId": "32682",
       "playerFirstName": "Henry",
       "playerLastName": "Ruggs III",
-      "avgPick": 121.5,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 8,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.30120",
+      "playerId": "30120",
       "playerFirstName": "Mike",
       "playerLastName": "Williams",
-      "avgPick": 128.4,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 9,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.31888",
+      "playerId": "31888",
       "playerFirstName": "Mecole",
       "playerLastName": "Hardman Jr.",
-      "avgPick": 125.1,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.32685",
+      "playerId": "32685",
       "playerFirstName": "Jerry",
       "playerLastName": "Jeudy",
-      "avgPick": 120.7,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 9,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.30995",
+      "playerId": "30995",
       "playerFirstName": "Hayden",
       "playerLastName": "Hurst",
-      "avgPick": 103.1,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 9,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.27619",
+      "playerId": "27619",
       "playerFirstName": "John",
       "playerLastName": "Brown",
-      "avgPick": 119,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 9,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.29785",
+      "playerId": "29785",
       "playerFirstName": "Robbie",
       "playerLastName": "Chosen",
-      "avgPick": 122.4,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 9,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.8261",
+      "playerId": "8261",
       "playerFirstName": "Adrian",
       "playerLastName": "Peterson",
-      "avgPick": 126.8,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 9,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.32691",
+      "playerId": "32691",
       "playerFirstName": "Jalen",
       "playerLastName": "Reagor",
-      "avgPick": 125.8,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 9,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.30977",
+      "playerId": "30977",
       "playerFirstName": "Josh",
       "playerLastName": "Allen",
-      "avgPick": 70.9,
-      "avgRound": 7.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 9,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.30232",
+      "playerId": "30232",
       "playerFirstName": "Tarik",
       "playerLastName": "Cohen",
-      "avgPick": 120.5,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 9,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.26804",
+      "playerId": "26804",
       "playerFirstName": "Latavius",
       "playerLastName": "Murray",
-      "avgPick": 123.7,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.31013",
+      "playerId": "31013",
       "playerFirstName": "Kerryon",
       "playerLastName": "Johnson",
-      "avgPick": 121.8,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 9,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.31021",
+      "playerId": "31021",
       "playerFirstName": "Anthony",
       "playerLastName": "Miller",
-      "avgPick": 131,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 10,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.31934",
+      "playerId": "31934",
       "playerFirstName": "Alexander",
       "playerLastName": "Mattison",
-      "avgPick": 121.7,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.31019",
+      "playerId": "31019",
       "playerFirstName": "Dallas",
       "playerLastName": "Goedert",
-      "avgPick": 130.2,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 10,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.29236",
+      "playerId": "29236",
       "playerFirstName": "Carson",
       "playerLastName": "Wentz",
-      "avgPick": 86.5,
-      "avgRound": 9.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 10,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.8826",
+      "playerId": "8826",
       "playerFirstName": "DeSean",
       "playerLastName": "Jackson",
-      "avgPick": 125.5,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 10,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.32447",
+      "playerId": "32447",
       "playerFirstName": "Preston",
       "playerLastName": "Williams",
-      "avgPick": 128.5,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 10,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.29384",
+      "playerId": "29384",
       "playerFirstName": "Jordan",
       "playerLastName": "Howard",
-      "avgPick": 88.9,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 10,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.31012",
+      "playerId": "31012",
       "playerFirstName": "Mike",
       "playerLastName": "Gesicki",
-      "avgPick": 121.6,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 10,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.5228",
+      "playerId": "5228",
       "playerFirstName": "Tom",
       "playerLastName": "Brady",
-      "avgPick": 85.3,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 10,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.30552",
+      "playerId": "30552",
       "playerFirstName": "Matt",
       "playerLastName": "Breida",
-      "avgPick": 101.1,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 10,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.28465",
+      "playerId": "28465",
       "playerFirstName": "Duke",
       "playerLastName": "Johnson",
-      "avgPick": 128.5,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.31104",
+      "playerId": "31104",
       "playerFirstName": "Chase",
       "playerLastName": "Edmonds",
-      "avgPick": 127.6,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 10,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.31891",
+      "playerId": "31891",
       "playerFirstName": "Parris",
       "playerLastName": "Campbell",
-      "avgPick": 127.7,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 11,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.31268",
+      "playerId": "31268",
       "playerFirstName": "Allen",
       "playerLastName": "Lazard",
-      "avgPick": 128,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.28461",
+      "playerId": "28461",
       "playerFirstName": "Tevin",
       "playerLastName": "Coleman",
-      "avgPick": 122.3,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 11,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.31001",
+      "playerId": "31001",
       "playerFirstName": "Sony",
       "playerLastName": "Michel",
-      "avgPick": 110.9,
-      "avgRound": 11.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 11,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.31960",
+      "playerId": "31960",
       "playerFirstName": "Tony",
       "playerLastName": "Pollard",
-      "avgPick": 127,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 11,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.32704",
+      "playerId": "32704",
       "playerFirstName": "Michael",
       "playerLastName": "Pittman Jr.",
-      "avgPick": 129.2,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 11,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.28414",
+      "playerId": "28414",
       "playerFirstName": "Breshad",
       "playerLastName": "Perriman",
-      "avgPick": 130.6,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 11,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.9353",
+      "playerId": "9353",
       "playerFirstName": "Jared",
       "playerLastName": "Cook",
-      "avgPick": 71.1,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 11,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.32746",
+      "playerId": "32746",
       "playerFirstName": "Ke'Shawn",
       "playerLastName": "Vaughn",
-      "avgPick": 118.5,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 11,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.24851",
+      "playerId": "24851",
       "playerFirstName": "Randall",
       "playerLastName": "Cobb",
       "avgPick": null,
@@ -1572,7 +1596,7 @@
       "round": 11,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.31944",
+      "playerId": "31944",
       "playerFirstName": "Bryce",
       "playerLastName": "Love",
       "avgPick": null,
@@ -1583,128 +1607,128 @@
       "round": 11,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.31840",
+      "playerId": "31840",
       "playerFirstName": "T.J.",
       "playerLastName": "Hockenson",
-      "avgPick": 123.8,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 11,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.27532",
+      "playerId": "27532",
       "playerFirstName": "Sammy",
       "playerLastName": "Watkins",
-      "avgPick": 121.2,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 12,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.8780",
+      "playerId": "8780",
       "playerFirstName": "Matt",
       "playerLastName": "Ryan",
-      "avgPick": 69.6,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.31852",
+      "playerId": "31852",
       "playerFirstName": "Noah",
       "playerLastName": "Fant",
-      "avgPick": 119,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 12,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.29315",
+      "playerId": "29315",
       "playerFirstName": "Austin",
       "playerLastName": "Hooper",
-      "avgPick": 119.2,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 12,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.24017",
+      "playerId": "24017",
       "playerFirstName": "Rob",
       "playerLastName": "Gronkowski",
-      "avgPick": 81,
-      "avgRound": 8.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 12,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.30153",
+      "playerId": "30153",
       "playerFirstName": "Curtis",
       "playerLastName": "Samuel",
-      "avgPick": 130,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 12,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.32756",
+      "playerId": "32756",
       "playerFirstName": "Zack",
       "playerLastName": "Moss",
-      "avgPick": 100.1,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 12,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.32736",
+      "playerId": "32736",
       "playerFirstName": "Antonio",
       "playerLastName": "Gibson",
-      "avgPick": 109.4,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 12,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.31902",
+      "playerId": "31902",
       "playerFirstName": "Darrell",
       "playerLastName": "Henderson Jr.",
-      "avgPick": 123.5,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 12,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.32695",
+      "playerId": "32695",
       "playerFirstName": "Brandon",
       "playerLastName": "Aiyuk",
-      "avgPick": 130.2,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 12,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.31164",
+      "playerId": "31164",
       "playerFirstName": "Russell",
       "playerLastName": "Gage Jr.",
       "avgPick": null,
@@ -1715,117 +1739,117 @@
       "round": 12,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.30213",
+      "playerId": "30213",
       "playerFirstName": "Jonnu",
       "playerLastName": "Smith",
-      "avgPick": 129.3,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 12,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.27585",
+      "playerId": "27585",
       "playerFirstName": "Carlos",
       "playerLastName": "Hyde",
-      "avgPick": 128,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 13,
       "teamId": "t.9",
       "teamName": "Antonio Gibson Fan",
-      "playerId": "399.p.5479",
+      "playerId": "5479",
       "playerFirstName": "Drew",
       "playerLastName": "Brees",
-      "avgPick": 72.9,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Sherlock Mahomes",
-      "playerId": "399.p.6762",
+      "playerId": "6762",
       "playerFirstName": "Larry",
       "playerLastName": "Fitzgerald",
-      "avgPick": 123.2,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 147,
       "round": 13,
       "teamId": "t.7",
       "teamName": "My butthole Hurst",
-      "playerId": "399.p.27538",
+      "playerId": "27538",
       "playerFirstName": "Eric",
       "playerLastName": "Ebron",
-      "avgPick": 126.4,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 13,
       "teamId": "t.4",
       "teamName": "Tannewill to live",
-      "playerId": "399.p.27299",
+      "playerId": "27299",
       "playerFirstName": "Jack",
       "playerLastName": "Doyle",
-      "avgPick": 132.5,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 13,
       "teamId": "t.10",
       "teamName": "KAllen's Apple Juice",
-      "playerId": "399.p.24788",
+      "playerId": "24788",
       "playerFirstName": "Cam",
       "playerLastName": "Newton",
-      "avgPick": 110.9,
-      "avgRound": 11.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 13,
       "teamId": "t.1",
       "teamName": "Reagor Bombs",
-      "playerId": "399.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 98,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 151,
       "round": 13,
       "teamId": "t.2",
       "teamName": "Mrs. Robinson",
-      "playerId": "399.p.31171",
+      "playerId": "31171",
       "playerFirstName": "Boston",
       "playerLastName": "Scott",
-      "avgPick": 129.2,
-      "avgRound": 14.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 152,
       "round": 13,
       "teamId": "t.5",
       "teamName": "Prince of Helaire",
-      "playerId": "399.p.31864",
+      "playerId": "31864",
       "playerFirstName": "N'Keal",
       "playerLastName": "Harry",
-      "avgPick": 130.6,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 153,
       "round": 13,
       "teamId": "t.11",
       "teamName": "Darius slaytonpussy",
-      "playerId": "399.p.26060",
+      "playerId": "26060",
       "playerFirstName": "Cole",
       "playerLastName": "Beasley",
       "avgPick": null,
@@ -1836,18 +1860,18 @@
       "round": 13,
       "teamId": "t.12",
       "teamName": "Aaron It Out",
-      "playerId": "399.p.30971",
+      "playerId": "30971",
       "playerFirstName": "Baker",
       "playerLastName": "Mayfield",
-      "avgPick": 124.7,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 155,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Peter Parker",
-      "playerId": "399.p.28691",
+      "playerId": "28691",
       "playerFirstName": "Tyrell",
       "playerLastName": "Williams",
       "avgPick": null,
@@ -1858,11 +1882,11 @@
       "round": 13,
       "teamId": "t.6",
       "teamName": "SaqOuin",
-      "playerId": "399.p.24171",
+      "playerId": "24171",
       "playerFirstName": "Antonio",
       "playerLastName": "Brown",
-      "avgPick": 130.5,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -2971,5 +2995,856 @@
       "isConsolation": false
     }
   ],
-  "trades": []
+  "trades": [
+    {
+      "id": "399.l.72524.tr.16",
+      "year": 2020,
+      "date": "2020-08-31T18:48:53.000Z",
+      "timestamp": 1598899733,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "SaqOuin",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Dalvin Cook",
+            "Anthony Miller",
+            "Julio Jones"
+          ],
+          "received": [
+            "DJ Moore",
+            "A.J. Green",
+            "Saquon Barkley"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Sherlock Mahomes",
+          "manager": "Declan Brown",
+          "sent": [
+            "DJ Moore",
+            "A.J. Green",
+            "Saquon Barkley"
+          ],
+          "received": [
+            "Dalvin Cook",
+            "Anthony Miller",
+            "Julio Jones"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.47",
+      "year": 2020,
+      "date": "2020-09-15T21:04:55.000Z",
+      "timestamp": 1600203895,
+      "sides": [
+        {
+          "teamId": "t.12",
+          "teamName": "Aaron It Out",
+          "manager": "William Davison",
+          "sent": [
+            "Kenyan Drake",
+            "CeeDee Lamb",
+            "Joe Mixon"
+          ],
+          "received": [
+            "Leonard Fournette",
+            "Christian McCaffrey"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Antonio Gibson Fan",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Leonard Fournette",
+            "Christian McCaffrey"
+          ],
+          "received": [
+            "Kenyan Drake",
+            "CeeDee Lamb",
+            "Joe Mixon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.69",
+      "year": 2020,
+      "date": "2020-09-16T15:16:19.000Z",
+      "timestamp": 1600269379,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "SaqOuin",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Jason Witten"
+          ],
+          "received": [
+            "T.J. Hockenson"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Peter Parker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "T.J. Hockenson"
+          ],
+          "received": [
+            "Jason Witten"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.78",
+      "year": 2020,
+      "date": "2020-09-18T21:34:48.000Z",
+      "timestamp": 1600464888,
+      "sides": [
+        {
+          "teamId": "t.12",
+          "teamName": "Aaron It Out",
+          "manager": "William Davison",
+          "sent": [
+            "Leonard Fournette"
+          ],
+          "received": [
+            "Jonnu Smith"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Sherlock Mahomes",
+          "manager": "Declan Brown",
+          "sent": [
+            "Jonnu Smith"
+          ],
+          "received": [
+            "Leonard Fournette"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.93",
+      "year": 2020,
+      "date": "2020-09-23T04:25:13.000Z",
+      "timestamp": 1600835113,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "SaqOuin",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Saquon Barkley"
+          ],
+          "received": [
+            "Jerick McKinnon"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Peter Parker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Jerick McKinnon"
+          ],
+          "received": [
+            "Saquon Barkley"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.111",
+      "year": 2020,
+      "date": "2020-09-23T15:04:27.000Z",
+      "timestamp": 1600873467,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Reagor Bombs",
+          "manager": "James Ellement",
+          "sent": [
+            "DeVante Parker"
+          ],
+          "received": [
+            "James Robinson"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Peter Parker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "James Robinson"
+          ],
+          "received": [
+            "DeVante Parker"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.117",
+      "year": 2020,
+      "date": "2020-09-23T17:10:06.000Z",
+      "timestamp": 1600881006,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Reagor Bombs",
+          "manager": "James Ellement",
+          "sent": [
+            "Allen Robinson"
+          ],
+          "received": [
+            "Terry McLaurin"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Tannewill to live",
+          "manager": "Harrison Wood",
+          "sent": [
+            "Terry McLaurin"
+          ],
+          "received": [
+            "Allen Robinson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.118",
+      "year": 2020,
+      "date": "2020-09-24T03:16:10.000Z",
+      "timestamp": 1600917370,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "KAllen's Apple Juice",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Jarvis Landry",
+            "Michael Thomas"
+          ],
+          "received": [
+            "Travis Kelce",
+            "Stefon Diggs"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Antonio Gibson Fan",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Travis Kelce",
+            "Stefon Diggs"
+          ],
+          "received": [
+            "Jarvis Landry",
+            "Michael Thomas"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.147",
+      "year": 2020,
+      "date": "2020-09-29T21:23:30.000Z",
+      "timestamp": 1601414610,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Peter Parker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "James Conner"
+          ],
+          "received": [
+            "Kareem Hunt"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Sherlock Mahomes",
+          "manager": "Declan Brown",
+          "sent": [
+            "Kareem Hunt"
+          ],
+          "received": [
+            "James Conner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.195",
+      "year": 2020,
+      "date": "2020-10-06T15:47:51.000Z",
+      "timestamp": 1601999271,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Antonio Gibson Fan",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Kenyan Drake",
+            "Damien Harris",
+            "Jarvis Landry"
+          ],
+          "received": [
+            "J.K. Dobbins",
+            "Darrel Williams",
+            "Robert Woods"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "SaqOuin",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "J.K. Dobbins",
+            "Darrel Williams",
+            "Robert Woods"
+          ],
+          "received": [
+            "Kenyan Drake",
+            "Damien Harris",
+            "Jarvis Landry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.197",
+      "year": 2020,
+      "date": "2020-10-06T17:08:06.000Z",
+      "timestamp": 1602004086,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Antonio Gibson Fan",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Jared Goff"
+          ],
+          "received": [
+            "Brian Hill"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "SaqOuin",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Brian Hill"
+          ],
+          "received": [
+            "Jared Goff"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.198",
+      "year": 2020,
+      "date": "2020-10-06T18:37:21.000Z",
+      "timestamp": 1602009441,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Peter Parker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Mark Ingram II"
+          ],
+          "received": [
+            "Evan Engram"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "KAllen's Apple Juice",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Evan Engram"
+          ],
+          "received": [
+            "Mark Ingram II"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.207",
+      "year": 2020,
+      "date": "2020-10-07T14:34:23.000Z",
+      "timestamp": 1602081263,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Reagor Bombs",
+          "manager": "James Ellement",
+          "sent": [
+            "Antonio Gibson",
+            "David Johnson",
+            "DeAndre Hopkins"
+          ],
+          "received": [
+            "Joe Mixon",
+            "George Kittle",
+            "CeeDee Lamb"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Antonio Gibson Fan",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Joe Mixon",
+            "George Kittle",
+            "CeeDee Lamb"
+          ],
+          "received": [
+            "Antonio Gibson",
+            "David Johnson",
+            "DeAndre Hopkins"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.210",
+      "year": 2020,
+      "date": "2020-10-07T17:52:53.000Z",
+      "timestamp": 1602093173,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Mrs. Robinson",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            "Miles Sanders",
+            "Jalen Reagor",
+            "Calvin Ridley"
+          ],
+          "received": [
+            "Davante Adams",
+            "Cam Akers",
+            "James Robinson"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "Reagor Bombs",
+          "manager": "James Ellement",
+          "sent": [
+            "Davante Adams",
+            "Cam Akers",
+            "James Robinson"
+          ],
+          "received": [
+            "Miles Sanders",
+            "Jalen Reagor",
+            "Calvin Ridley"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.237",
+      "year": 2020,
+      "date": "2020-10-15T03:47:48.000Z",
+      "timestamp": 1602733668,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Reagor Bombs",
+          "manager": "James Ellement",
+          "sent": [
+            "Nyheim Miller-Hines",
+            "Tee Higgins"
+          ],
+          "received": [
+            "Latavius Murray",
+            "Carson Wentz"
+          ]
+        },
+        {
+          "teamId": "t.12",
+          "teamName": "Aaron It Out",
+          "manager": "William Davison",
+          "sent": [
+            "Latavius Murray",
+            "Carson Wentz"
+          ],
+          "received": [
+            "Nyheim Miller-Hines",
+            "Tee Higgins"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.238",
+      "year": 2020,
+      "date": "2020-10-15T03:47:51.000Z",
+      "timestamp": 1602733671,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Mrs. Robinson",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            "Joshua Kelley",
+            "Lamar Jackson",
+            "Austin Ekeler",
+            "Tyler Boyd"
+          ],
+          "received": [
+            "Drew Brees",
+            "Mike Williams",
+            "David Johnson",
+            "Michael Thomas"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Antonio Gibson Fan",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Drew Brees",
+            "Mike Williams",
+            "David Johnson",
+            "Michael Thomas"
+          ],
+          "received": [
+            "Joshua Kelley",
+            "Lamar Jackson",
+            "Austin Ekeler",
+            "Tyler Boyd"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.240",
+      "year": 2020,
+      "date": "2020-10-15T03:47:54.000Z",
+      "timestamp": 1602733674,
+      "sides": [
+        {
+          "teamId": "t.12",
+          "teamName": "Aaron It Out",
+          "manager": "William Davison",
+          "sent": [
+            "Hollywood Brown",
+            "Odell Beckham Jr."
+          ],
+          "received": [
+            "Robert Woods",
+            "Jamison Crowder",
+            "J.K. Dobbins"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Antonio Gibson Fan",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Robert Woods",
+            "Jamison Crowder",
+            "J.K. Dobbins"
+          ],
+          "received": [
+            "Hollywood Brown",
+            "Odell Beckham Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.262",
+      "year": 2020,
+      "date": "2020-10-15T19:57:04.000Z",
+      "timestamp": 1602791824,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Antonio Gibson Fan",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Lamar Jackson"
+          ],
+          "received": [
+            "Kyler Murray"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Peter Parker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Kyler Murray"
+          ],
+          "received": [
+            "Lamar Jackson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.263",
+      "year": 2020,
+      "date": "2020-10-15T23:20:35.000Z",
+      "timestamp": 1602804035,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "SaqOuin",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Darren Waller",
+            "Le'Veon Bell",
+            "DJ Moore"
+          ],
+          "received": [
+            "T.Y. Hilton",
+            "Ezekiel Elliott"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "My butthole Hurst",
+          "manager": "Kevin McCreary",
+          "sent": [
+            "T.Y. Hilton",
+            "Ezekiel Elliott"
+          ],
+          "received": [
+            "Darren Waller",
+            "Le'Veon Bell",
+            "DJ Moore"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.278",
+      "year": 2020,
+      "date": "2020-10-17T20:21:45.000Z",
+      "timestamp": 1602966105,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Peter Parker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Chase Claypool"
+          ],
+          "received": [
+            "J.K. Dobbins"
+          ]
+        },
+        {
+          "teamId": "t.12",
+          "teamName": "Aaron It Out",
+          "manager": "William Davison",
+          "sent": [
+            "J.K. Dobbins"
+          ],
+          "received": [
+            "Chase Claypool"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.280",
+      "year": 2020,
+      "date": "2020-10-18T13:51:04.000Z",
+      "timestamp": 1603029064,
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Tannewill to live",
+          "manager": "Harrison Wood",
+          "sent": [
+            "Christian Kirk"
+          ],
+          "received": [
+            "Mark Ingram II"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "KAllen's Apple Juice",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Mark Ingram II"
+          ],
+          "received": [
+            "Christian Kirk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.290",
+      "year": 2020,
+      "date": "2020-10-20T15:08:51.000Z",
+      "timestamp": 1603206531,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Peter Parker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Evan Engram"
+          ],
+          "received": [
+            "Justin Herbert"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Antonio Gibson Fan",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Justin Herbert"
+          ],
+          "received": [
+            "Evan Engram"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.303",
+      "year": 2020,
+      "date": "2020-10-21T12:46:43.000Z",
+      "timestamp": 1603284403,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Peter Parker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Randall Cobb"
+          ],
+          "received": [
+            "Emmanuel Sanders"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "Reagor Bombs",
+          "manager": "James Ellement",
+          "sent": [
+            "Emmanuel Sanders"
+          ],
+          "received": [
+            "Randall Cobb"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.308",
+      "year": 2020,
+      "date": "2020-10-21T17:03:09.000Z",
+      "timestamp": 1603299789,
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Tannewill to live",
+          "manager": "Harrison Wood",
+          "sent": [
+            "Mark Ingram II"
+          ],
+          "received": [
+            "Robert Tonyan"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "KAllen's Apple Juice",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Robert Tonyan"
+          ],
+          "received": [
+            "Mark Ingram II"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.321",
+      "year": 2020,
+      "date": "2020-10-24T13:09:00.000Z",
+      "timestamp": 1603544940,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Antonio Gibson Fan",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Marvin Jones Jr."
+          ],
+          "received": [
+            "James Washington"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "SaqOuin",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "James Washington"
+          ],
+          "received": [
+            "Marvin Jones Jr."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399.l.72524.tr.333",
+      "year": 2020,
+      "date": "2020-10-25T23:32:35.000Z",
+      "timestamp": 1603668755,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Peter Parker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Lamar Jackson"
+          ],
+          "received": [
+            "Sterling Shepard"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "SaqOuin",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Sterling Shepard"
+          ],
+          "received": [
+            "Lamar Jackson"
+          ]
+        }
+      ]
+    }
+  ]
 }

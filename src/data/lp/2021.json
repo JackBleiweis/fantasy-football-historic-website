@@ -3,28 +3,18 @@
   "leagueId": "lp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "Kupp Runneth Over",
-      "manager": "James Ellement",
-      "wins": 10,
-      "losses": 4,
-      "ties": 0,
-      "rank": 5,
-      "playoffSeed": 3,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d6e85579bb33f970202ac7859abdb0640634678ff3cd285ca2efc6f31e07094c.jpg"
-    },
-    {
-      "id": "t.2",
-      "name": "McGriddy",
-      "manager": "Matthew Weintraub",
+      "id": "t.5",
+      "name": "CeeDeez Nuts",
+      "manager": "Lucas Stagliano",
       "wins": 11,
       "losses": 3,
       "ties": 0,
-      "rank": 3,
-      "playoffSeed": 2,
+      "rank": 1,
+      "playoffSeed": 1,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/975dc96118fd1b30a5dcee3b36e6c7bd41a1b0d1b323947bed4ab691ab7f8f04.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c73614a842658305bf792543e18f1b7075ec0af6de575d5a5b88a5f1a34872bf.jpg",
+      "moves": 26,
+      "tradesCount": 1
     },
     {
       "id": "t.3",
@@ -36,43 +26,23 @@
       "rank": 2,
       "playoffSeed": 5,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36798709740_daf88b.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36798709740_daf88b.jpg",
+      "moves": 74,
+      "tradesCount": 2
     },
     {
-      "id": "t.4",
-      "name": "Back to tee bagging",
-      "manager": "Harrison Wood",
-      "wins": 5,
-      "losses": 9,
-      "ties": 0,
-      "rank": 12,
-      "playoffSeed": 9,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56513235443_d8ba71.jpg"
-    },
-    {
-      "id": "t.5",
-      "name": "CeeDeez Nuts",
-      "manager": "Lucas Stagliano",
+      "id": "t.2",
+      "name": "McGriddy",
+      "manager": "Matthew Weintraub",
       "wins": 11,
       "losses": 3,
       "ties": 0,
-      "rank": 1,
-      "playoffSeed": 1,
+      "rank": 3,
+      "playoffSeed": 2,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c73614a842658305bf792543e18f1b7075ec0af6de575d5a5b88a5f1a34872bf.jpg"
-    },
-    {
-      "id": "t.6",
-      "name": "Hock ‘n' Roll",
-      "manager": "Heri Hickl Szabo",
-      "wins": 5,
-      "losses": 9,
-      "ties": 0,
-      "rank": 9,
-      "playoffSeed": 8,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/0f0fd893d704e8b2f25a9933e0238a68a553b701ff2591a25e31da81906cb160.png"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/975dc96118fd1b30a5dcee3b36e6c7bd41a1b0d1b323947bed4ab691ab7f8f04.jpg",
+      "moves": 33,
+      "tradesCount": 0
     },
     {
       "id": "t.7",
@@ -84,19 +54,23 @@
       "rank": 4,
       "playoffSeed": 6,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/23884003f2c39040f44eb47d79bb0e20ca84ce69e1d75daa0261d12c2a31b411.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/23884003f2c39040f44eb47d79bb0e20ca84ce69e1d75daa0261d12c2a31b411.jpg",
+      "moves": 37,
+      "tradesCount": 1
     },
     {
-      "id": "t.8",
-      "name": "Joe Chase(s) Kittle Girls",
-      "manager": "Declan Brown",
-      "wins": 6,
-      "losses": 8,
+      "id": "t.1",
+      "name": "Kupp Runneth Over",
+      "manager": "James Ellement",
+      "wins": 10,
+      "losses": 4,
       "ties": 0,
-      "rank": 7,
-      "playoffSeed": 7,
+      "rank": 5,
+      "playoffSeed": 3,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/0a95a69181e8d6bbfdde57d0e927060a78224a2161668270edc259de68ad0d3a.png"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d6e85579bb33f970202ac7859abdb0640634678ff3cd285ca2efc6f31e07094c.jpg",
+      "moves": 19,
+      "tradesCount": 2
     },
     {
       "id": "t.9",
@@ -108,31 +82,23 @@
       "rank": 6,
       "playoffSeed": 4,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/baa26d65159b18106fd724eb871a776353f8ea8131eef92488024c06e38c5525.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/baa26d65159b18106fd724eb871a776353f8ea8131eef92488024c06e38c5525.jpg",
+      "moves": 41,
+      "tradesCount": 4
     },
     {
-      "id": "t.10",
-      "name": "Tim Patrick for MVP",
-      "manager": "Jack Bleiweis",
-      "wins": 5,
-      "losses": 9,
+      "id": "t.8",
+      "name": "Joe Chase(s) Kittle Girls",
+      "manager": "Declan Brown",
+      "wins": 6,
+      "losses": 8,
       "ties": 0,
-      "rank": 11,
-      "playoffSeed": 11,
+      "rank": 7,
+      "playoffSeed": 7,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg"
-    },
-    {
-      "id": "t.11",
-      "name": "Josh Allen is Shit",
-      "manager": "Ian O'Handley",
-      "wins": 5,
-      "losses": 9,
-      "ties": 0,
-      "rank": 10,
-      "playoffSeed": 12,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36468119463_b0af86.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/0a95a69181e8d6bbfdde57d0e927060a78224a2161668270edc259de68ad0d3a.png",
+      "moves": 19,
+      "tradesCount": 2
     },
     {
       "id": "t.12",
@@ -144,7 +110,65 @@
       "rank": 8,
       "playoffSeed": 10,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1319c4984b2da38b26b0b0f890f06519655b81d111256d74e83b906b693f3f32.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1319c4984b2da38b26b0b0f890f06519655b81d111256d74e83b906b693f3f32.jpg",
+      "moves": 26,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.6",
+      "name": "Hock ‘n’ Roll",
+      "manager": "Heri Hickl Szabo",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 9,
+      "playoffSeed": 8,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/0f0fd893d704e8b2f25a9933e0238a68a553b701ff2591a25e31da81906cb160.png",
+      "moves": 74,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.11",
+      "name": "Josh Allen is Shit",
+      "manager": "Ian O'Handley",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 12,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36468119463_b0af86.jpg",
+      "moves": 9,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.10",
+      "name": "Tim Patrick for MVP",
+      "manager": "Jack Bleiweis",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 11,
+      "playoffSeed": 11,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg",
+      "moves": 17,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.4",
+      "name": "Back to tee bagging",
+      "manager": "Harrison Wood",
+      "wins": 5,
+      "losses": 9,
+      "ties": 0,
+      "rank": 12,
+      "playoffSeed": 9,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56513235443_d8ba71.jpg",
+      "moves": 18,
+      "tradesCount": 0
     }
   ],
   "draft": [
@@ -153,1459 +177,1459 @@
       "round": 1,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.30121",
+      "playerId": "30121",
       "playerFirstName": "Christian",
       "playerLastName": "McCaffrey",
-      "avgPick": 1.2,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.30154",
+      "playerId": "30154",
       "playerFirstName": "Dalvin",
       "playerLastName": "Cook",
-      "avgPick": 2.4,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.30180",
+      "playerId": "30180",
       "playerFirstName": "Alvin",
       "playerLastName": "Kamara",
-      "avgPick": 4.4,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.29279",
+      "playerId": "29279",
       "playerFirstName": "Derrick",
       "playerLastName": "Henry",
-      "avgPick": 4,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.29238",
+      "playerId": "29238",
       "playerFirstName": "Ezekiel",
       "playerLastName": "Elliott",
-      "avgPick": 5,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.27581",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 10.1,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.30972",
+      "playerId": "30972",
       "playerFirstName": "Saquon",
       "playerLastName": "Barkley",
-      "avgPick": 11.6,
-      "avgRound": 1.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 13,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.30423",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "30423",
       "playerFirstName": "Austin",
       "playerLastName": "Ekeler",
-      "avgPick": 15.5,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.29399",
+      "playerId": "29399",
       "playerFirstName": "Tyreek",
       "playerLastName": "Hill",
-      "avgPick": 9.3,
-      "avgRound": 1.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 1,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.30996",
+      "playerId": "30996",
       "playerFirstName": "Calvin",
       "playerLastName": "Ridley",
-      "avgPick": 18.7,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 1,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.30295",
+      "playerId": "30295",
       "playerFirstName": "Aaron",
       "playerLastName": "Jones Sr.",
-      "avgPick": 8.5,
-      "avgRound": 1.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.33412",
+      "playerId": "33412",
       "playerFirstName": "Najee",
       "playerLastName": "Harris",
-      "avgPick": 18,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.31005",
+      "playerId": "31005",
       "playerFirstName": "Nick",
       "playerLastName": "Chubb",
-      "avgPick": 7.1,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 12.4,
-      "avgRound": 1.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.26650",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 18.8,
-      "avgRound": 2.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.30259",
+      "playerId": "30259",
       "playerFirstName": "George",
       "playerLastName": "Kittle",
-      "avgPick": 31,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.30161",
+      "playerId": "30161",
       "playerFirstName": "Joe",
       "playerLastName": "Mixon",
-      "avgPick": 22.1,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.31883",
+      "playerId": "31883",
       "playerFirstName": "A.J.",
       "playerLastName": "Brown",
-      "avgPick": 24.7,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.32736",
+      "playerId": "32736",
       "playerFirstName": "Antonio",
       "playerLastName": "Gibson",
-      "avgPick": 17.7,
-      "avgRound": 2.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 2,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.32711",
+      "playerId": "32711",
       "playerFirstName": "Jonathan",
       "playerLastName": "Taylor",
-      "avgPick": 10.7,
-      "avgRound": 1.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 2,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.31896",
+      "playerId": "31896",
       "playerFirstName": "DK",
       "playerLastName": "Metcalf",
-      "avgPick": 19.9,
-      "avgRound": 2.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 2,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 30.3,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 2,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.32702",
+      "playerId": "32702",
       "playerFirstName": "Clyde",
       "playerLastName": "Edwards-Helaire",
-      "avgPick": 24.8,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.32692",
+      "playerId": "32692",
       "playerFirstName": "Justin",
       "playerLastName": "Jefferson",
-      "avgPick": 22.8,
-      "avgRound": 2.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.27589",
+      "playerId": "27589",
       "playerFirstName": "Allen",
       "playerLastName": "Robinson",
-      "avgPick": 30.5,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.31908",
+      "playerId": "31908",
       "playerFirstName": "Terry",
       "playerLastName": "McLaurin",
-      "avgPick": 30.4,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.32687",
+      "playerId": "32687",
       "playerFirstName": "CeeDee",
       "playerLastName": "Lamb",
-      "avgPick": 33.1,
-      "avgRound": 3.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.28592",
+      "playerId": "28592",
       "playerFirstName": "Darren",
       "playerLastName": "Waller",
-      "avgPick": 25.3,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.32705",
+      "playerId": "32705",
       "playerFirstName": "D'Andre",
       "playerLastName": "Swift",
-      "avgPick": 44.2,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 3,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 35.9,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.31905",
+      "playerId": "31905",
       "playerFirstName": "David",
       "playerLastName": "Montgomery",
-      "avgPick": 32.7,
-      "avgRound": 3.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 3,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.28392",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 42.2,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.30197",
+      "playerId": "30197",
       "playerFirstName": "Chris",
       "playerLastName": "Godwin Jr.",
-      "avgPick": 35.9,
-      "avgRound": 4.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 3,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.30182",
+      "playerId": "30182",
       "playerFirstName": "Cooper",
       "playerLastName": "Kupp",
-      "avgPick": 42,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 3,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.26664",
+      "playerId": "26664",
       "playerFirstName": "Robert",
       "playerLastName": "Woods",
-      "avgPick": 44.8,
-      "avgRound": 5.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.24793",
+      "playerId": "24793",
       "playerFirstName": "Julio",
       "playerLastName": "Jones",
-      "avgPick": 52,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.28457",
+      "playerId": "28457",
       "playerFirstName": "Tyler",
       "playerLastName": "Lockett",
-      "avgPick": 47.3,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.33138",
+      "playerId": "33138",
       "playerFirstName": "James",
       "playerLastName": "Robinson",
-      "avgPick": 51.5,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.30362",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "30362",
       "playerFirstName": "Chris",
       "playerLastName": "Carson",
-      "avgPick": 31.7,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.32725",
+      "playerId": "32725",
       "playerFirstName": "J.K.",
       "playerLastName": "Dobbins",
-      "avgPick": 30.2,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 4,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.27277",
+      "playerId": "27277",
       "playerFirstName": "Adam",
       "playerLastName": "Thielen",
-      "avgPick": 53.9,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.31056",
+      "playerId": "31056",
       "playerFirstName": "Mark",
       "playerLastName": "Andrews",
-      "avgPick": 50.4,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 4,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.30994",
+      "playerId": "30994",
       "playerFirstName": "DJ",
       "playerLastName": "Moore",
-      "avgPick": 52.3,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 4,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.31898",
+      "playerId": "31898",
       "playerFirstName": "Diontae",
       "playerLastName": "Johnson",
-      "avgPick": 61.6,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 4,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.31856",
+      "playerId": "31856",
       "playerFirstName": "Josh",
       "playerLastName": "Jacobs",
-      "avgPick": 42,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 4,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.31885",
+      "playerId": "31885",
       "playerFirstName": "Miles",
       "playerLastName": "Sanders",
-      "avgPick": 44.5,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 4,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.32695",
+      "playerId": "32695",
       "playerFirstName": "Brandon",
       "playerLastName": "Aiyuk",
-      "avgPick": 64.6,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.32703",
+      "playerId": "32703",
       "playerFirstName": "Tee",
       "playerLastName": "Higgins",
-      "avgPick": 71.6,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.30977",
+      "playerId": "30977",
       "playerFirstName": "Josh",
       "playerLastName": "Allen",
-      "avgPick": 29.7,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 5,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.29785",
+      "playerId": "29785",
       "playerFirstName": "Robbie",
       "playerLastName": "Chosen",
-      "avgPick": 84.9,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 5,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.28514",
+      "playerId": "28514",
       "playerFirstName": "Mike",
       "playerLastName": "Davis",
-      "avgPick": 64.3,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 5,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 77.6,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.32719",
+      "playerId": "32719",
       "playerFirstName": "Chase",
       "playerLastName": "Claypool",
-      "avgPick": 74.7,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.33398",
+      "playerId": "33398",
       "playerFirstName": "DeVonta",
       "playerLastName": "Smith",
-      "avgPick": 111.2,
-      "avgRound": 11.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.33393",
+      "playerId": "33393",
       "playerFirstName": "Ja'Marr",
       "playerLastName": "Chase",
-      "avgPick": 87.2,
-      "avgRound": 9.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 5,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.31840",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "31840",
       "playerFirstName": "T.J.",
       "playerLastName": "Hockenson",
-      "avgPick": 53.7,
-      "avgRound": 6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.30199",
+      "playerId": "30199",
       "playerFirstName": "Kareem",
       "playerLastName": "Hunt",
-      "avgPick": 63.8,
-      "avgRound": 7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 5,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.32685",
+      "playerId": "32685",
       "playerFirstName": "Jerry",
       "playerLastName": "Jeudy",
-      "avgPick": 82.2,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 5,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.24171",
+      "playerId": "24171",
       "playerFirstName": "Antonio",
       "playerLastName": "Brown",
-      "avgPick": 97.9,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 6,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.30118",
+      "playerId": "30118",
       "playerFirstName": "Corey",
       "playerLastName": "Davis",
-      "avgPick": 109.7,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 6,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.31919",
+      "playerId": "31919",
       "playerFirstName": "Damien",
       "playerLastName": "Harris",
-      "avgPick": 65.5,
-      "avgRound": 7.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.30123",
+      "playerId": "30123",
       "playerFirstName": "Patrick",
       "playerLastName": "Mahomes",
-      "avgPick": 16.6,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 6,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.27548",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 106.5,
-      "avgRound": 11.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.31104",
+      "playerId": "31104",
       "playerFirstName": "Chase",
       "playerLastName": "Edmonds",
-      "avgPick": 78.8,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 6,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.29288",
+      "playerId": "29288",
       "playerFirstName": "Tyler",
       "playerLastName": "Boyd",
-      "avgPick": 98.5,
-      "avgRound": 10.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 6,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.32066",
+      "playerId": "32066",
       "playerFirstName": "Myles",
       "playerLastName": "Gaskin",
-      "avgPick": 64.7,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 6,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.31010",
+      "playerId": "31010",
       "playerFirstName": "Courtland",
       "playerLastName": "Sutton",
-      "avgPick": 98.9,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 6,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.31868",
+      "playerId": "31868",
       "playerFirstName": "Deebo",
-      "playerLastName": "Samuel",
-      "avgPick": 92.5,
-      "avgRound": 10
+      "playerLastName": "Samuel Sr.",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 6,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.31833",
+      "playerId": "31833",
       "playerFirstName": "Kyler",
       "playerLastName": "Murray",
-      "avgPick": 43.6,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 6,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.33392",
+      "playerId": "33392",
       "playerFirstName": "Kyle",
       "playerLastName": "Pitts Sr.",
-      "avgPick": 47.4,
-      "avgRound": 5.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 6,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.30209",
+      "playerId": "30209",
       "playerFirstName": "Kenny",
       "playerLastName": "Golladay",
-      "avgPick": 94.1,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 7,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.31002",
+      "playerId": "31002",
       "playerFirstName": "Lamar",
       "playerLastName": "Jackson",
-      "avgPick": 42.2,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 7,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.33476",
+      "playerId": "33476",
       "playerFirstName": "Trey",
       "playerLastName": "Sermon",
-      "avgPick": 80.9,
-      "avgRound": 8.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 7,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.30120",
+      "playerId": "30120",
       "playerFirstName": "Mike",
       "playerLastName": "Williams",
-      "avgPick": 120.3,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 7,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.31902",
+      "playerId": "31902",
       "playerFirstName": "Darrell",
       "playerLastName": "Henderson Jr.",
-      "avgPick": 52.5,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 7,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.30175",
+      "playerId": "30175",
       "playerFirstName": "JuJu",
       "playerLastName": "Smith-Schuster",
-      "avgPick": 91.7,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 7,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.7200",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 59.6,
-      "avgRound": 6.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 7,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.29281",
+      "playerId": "29281",
       "playerFirstName": "Michael",
       "playerLastName": "Thomas",
-      "avgPick": 103.8,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 53.3,
-      "avgRound": 5.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 7,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.27591",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "27591",
       "playerFirstName": "Jarvis",
       "playerLastName": "Landry",
-      "avgPick": 119.8,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.29255",
+      "playerId": "29255",
       "playerFirstName": "Will",
       "playerLastName": "Fuller V",
-      "avgPick": 120.3,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 7,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.33423",
+      "playerId": "33423",
       "playerFirstName": "Javonte",
       "playerLastName": "Williams",
-      "avgPick": 84.3,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 7,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.30777",
+      "playerId": "30777",
       "playerFirstName": "Robert",
       "playerLastName": "Tonyan",
-      "avgPick": 82.5,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 8,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.29369",
+      "playerId": "29369",
       "playerFirstName": "Dak",
       "playerLastName": "Prescott",
-      "avgPick": 53.3,
-      "avgRound": 5.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 8,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.32704",
+      "playerId": "32704",
       "playerFirstName": "Michael",
       "playerLastName": "Pittman Jr.",
-      "avgPick": 124.4,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 8,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.30153",
+      "playerId": "30153",
       "playerFirstName": "Curtis",
       "playerLastName": "Samuel",
-      "avgPick": 124.3,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 8,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.28403",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "28403",
       "playerFirstName": "Melvin",
       "playerLastName": "Gordon III",
-      "avgPick": 92.3,
-      "avgRound": 9.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.31031",
+      "playerId": "31031",
       "playerFirstName": "DJ",
       "playerLastName": "Chark",
-      "avgPick": 115,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 8,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.33394",
+      "playerId": "33394",
       "playerFirstName": "Jaylen",
       "playerLastName": "Waddle",
-      "avgPick": 121.9,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.33495",
+      "playerId": "33495",
       "playerFirstName": "Michael",
       "playerLastName": "Carter",
-      "avgPick": 113.2,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 8,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.28654",
+      "playerId": "28654",
       "playerFirstName": "Raheem",
       "playerLastName": "Mostert",
-      "avgPick": 78.8,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 8,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.27648",
+      "playerId": "27648",
       "playerFirstName": "Logan",
       "playerLastName": "Thomas",
-      "avgPick": 74.6,
-      "avgRound": 8.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 8,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.26060",
+      "playerId": "26060",
       "playerFirstName": "Cole",
       "playerLastName": "Beasley",
-      "avgPick": 122.8,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 8,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.32712",
+      "playerId": "32712",
       "playerFirstName": "Laviska",
       "playerLastName": "Shenault Jr.",
-      "avgPick": 118.1,
-      "avgRound": 12.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 8,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.31852",
+      "playerId": "31852",
       "playerFirstName": "Noah",
       "playerLastName": "Fant",
-      "avgPick": 90.3,
-      "avgRound": 9.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 9,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.30117",
+      "playerId": "30117",
       "playerFirstName": "Leonard",
       "playerLastName": "Fournette",
-      "avgPick": 100.1,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 9,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.31051",
+      "playerId": "31051",
       "playerFirstName": "Michael",
       "playerLastName": "Gallup",
-      "avgPick": 119.7,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 9,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.32843",
+      "playerId": "32843",
       "playerFirstName": "Darnell",
       "playerLastName": "Mooney",
-      "avgPick": 127.4,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 9,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.32676",
+      "playerId": "32676",
       "playerFirstName": "Justin",
       "playerLastName": "Herbert",
-      "avgPick": 61.1,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 9,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.28402",
+      "playerId": "28402",
       "playerFirstName": "DeVante",
       "playerLastName": "Parker",
-      "avgPick": 129.2,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.31008",
+      "playerId": "31008",
       "playerFirstName": "Ronald",
       "playerLastName": "Jones",
-      "avgPick": 84.4,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 9,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.31012",
+      "playerId": "31012",
       "playerFirstName": "Mike",
       "playerLastName": "Gesicki",
-      "avgPick": 116.6,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.32682",
+      "playerId": "32682",
       "playerFirstName": "Henry",
       "playerLastName": "Ruggs III",
-      "avgPick": 125.2,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 9,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.25876",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "25876",
       "playerFirstName": "Marvin",
       "playerLastName": "Jones Jr.",
-      "avgPick": 126.5,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.31424",
+      "playerId": "31424",
       "playerFirstName": "Gus",
       "playerLastName": "Edwards",
-      "avgPick": 75.9,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 9,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.32723",
+      "playerId": "32723",
       "playerFirstName": "Jalen",
       "playerLastName": "Hurts",
-      "avgPick": 80.7,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 9,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.30218",
+      "playerId": "30218",
       "playerFirstName": "James",
       "playerLastName": "Conner",
-      "avgPick": 106.1,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 10,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.29307",
+      "playerId": "29307",
       "playerFirstName": "Kenyan",
       "playerLastName": "Drake",
-      "avgPick": 118.2,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 10,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.31019",
+      "playerId": "31019",
       "playerFirstName": "Dallas",
       "playerLastName": "Goedert",
-      "avgPick": 95.8,
-      "avgRound": 10.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 10,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.31164",
+      "playerId": "31164",
       "playerFirstName": "Russell",
       "playerLastName": "Gage Jr.",
-      "avgPick": 129.3,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 10,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.32756",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "32756",
       "playerFirstName": "Zack",
       "playerLastName": "Moss",
-      "avgPick": 108.1,
-      "avgRound": 11.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.31888",
+      "playerId": "31888",
       "playerFirstName": "Mecole",
       "playerLastName": "Hardman Jr.",
-      "avgPick": 125.4,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 10,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.28474",
+      "playerId": "28474",
       "playerFirstName": "David",
       "playerLastName": "Johnson",
-      "avgPick": 111.1,
-      "avgRound": 12
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.33422",
+      "playerId": "33422",
       "playerFirstName": "Elijah",
       "playerLastName": "Moore",
-      "avgPick": 129.3,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 10,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.33109",
+      "playerId": "33109",
       "playerFirstName": "Marquez",
       "playerLastName": "Callaway",
-      "avgPick": 118.7,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 10,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.32231",
+      "playerId": "32231",
       "playerFirstName": "Jakobi",
       "playerLastName": "Meyers",
-      "avgPick": 125.3,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 10,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.31074",
+      "playerId": "31074",
       "playerFirstName": "Nyheim",
       "playerLastName": "Miller-Hines",
-      "avgPick": 125.1,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 10,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.31960",
+      "playerId": "31960",
       "playerFirstName": "Tony",
       "playerLastName": "Pollard",
-      "avgPick": 125.6,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 10,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.32732",
-      "playerFirstName": "A.J.",
+      "playerId": "32732",
+      "playerFirstName": "AJ",
       "playerLastName": "Dillon",
-      "avgPick": 103.1,
-      "avgRound": 11.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 11,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.25802",
+      "playerId": "25802",
       "playerFirstName": "T.Y.",
       "playerLastName": "Hilton",
-      "avgPick": 127.5,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 11,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.31379",
+      "playerId": "31379",
       "playerFirstName": "Phillip",
       "playerLastName": "Lindsay",
-      "avgPick": 128.4,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 11,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.29344",
+      "playerId": "29344",
       "playerFirstName": "Tyler",
       "playerLastName": "Higbee",
-      "avgPick": 72.1,
-      "avgRound": 7.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 11,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.31857",
+      "playerId": "31857",
       "playerFirstName": "Hollywood",
       "playerLastName": "Brown",
-      "avgPick": 126.9,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 11,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.25718",
+      "playerId": "25718",
       "playerFirstName": "Ryan",
       "playerLastName": "Tannehill",
-      "avgPick": 94.4,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.31001",
+      "playerId": "31001",
       "playerFirstName": "Sony",
       "playerLastName": "Michel",
-      "avgPick": 108.2,
-      "avgRound": 11.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 11,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.24791",
+      "playerId": "24791",
       "playerFirstName": "A.J.",
       "playerLastName": "Green",
-      "avgPick": 121.3,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 128,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.31934",
+      "playerId": "31934",
       "playerFirstName": "Alexander",
       "playerLastName": "Mattison",
-      "avgPick": 129.2,
-      "avgRound": 14.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 11,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.5228",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "5228",
       "playerFirstName": "Tom",
       "playerLastName": "Brady",
-      "avgPick": 63.5,
-      "avgRound": 7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.29650",
+      "playerId": "29650",
       "playerFirstName": "J.D.",
       "playerLastName": "McKissic",
-      "avgPick": 130,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 11,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.31906",
+      "playerId": "31906",
       "playerFirstName": "Devin",
       "playerLastName": "Singletary",
-      "avgPick": 118.2,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 11,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.33447",
+      "playerId": "33447",
       "playerFirstName": "Terrace",
-      "playerLastName": "Marshall",
-      "avgPick": 129.2,
-      "avgRound": 14.2
+      "playerLastName": "Marshall Jr.",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 12,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.33500",
+      "playerId": "33500",
       "playerFirstName": "Amon-Ra",
       "playerLastName": "St. Brown",
       "avgPick": null,
@@ -1616,18 +1640,18 @@
       "round": 12,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.26804",
+      "playerId": "26804",
       "playerFirstName": "Latavius",
       "playerLastName": "Murray",
-      "avgPick": 127.2,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 12,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.31268",
+      "playerId": "31268",
       "playerFirstName": "Allen",
       "playerLastName": "Lazard",
       "avgPick": null,
@@ -1637,8 +1661,8 @@
       "pick": 136,
       "round": 12,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.32751",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "32751",
       "playerFirstName": "Bryan",
       "playerLastName": "Edwards",
       "avgPick": null,
@@ -1649,7 +1673,7 @@
       "round": 12,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.32870",
+      "playerId": "32870",
       "playerFirstName": "Quez",
       "playerLastName": "Watkins",
       "avgPick": null,
@@ -1660,7 +1684,7 @@
       "round": 12,
       "teamId": "t.10",
       "teamName": "Tim Patrick for MVP",
-      "playerId": "406.p.29370",
+      "playerId": "29370",
       "playerFirstName": "Devontae",
       "playerLastName": "Booker",
       "avgPick": null,
@@ -1671,84 +1695,84 @@
       "round": 12,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.33437",
+      "playerId": "33437",
       "playerFirstName": "Rondale",
       "playerLastName": "Moore",
-      "avgPick": 125,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 12,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.27658",
+      "playerId": "27658",
       "playerFirstName": "James",
       "playerLastName": "White",
-      "avgPick": 126.5,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 12,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.29274",
+      "playerId": "29274",
       "playerFirstName": "Sterling",
       "playerLastName": "Shepard",
-      "avgPick": 127.3,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 142,
       "round": 12,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.30247",
+      "playerId": "30247",
       "playerFirstName": "Jamaal",
       "playerLastName": "Williams",
-      "avgPick": 115.7,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 12,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.24057",
+      "playerId": "24057",
       "playerFirstName": "Emmanuel",
       "playerLastName": "Sanders",
-      "avgPick": 122.9,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 12,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.27585",
+      "playerId": "27585",
       "playerFirstName": "Carlos",
       "playerLastName": "Hyde",
-      "avgPick": 127.2,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 13,
       "teamId": "t.4",
       "teamName": "Back to tee bagging",
-      "playerId": "406.p.33514",
+      "playerId": "33514",
       "playerFirstName": "Chuba",
       "playerLastName": "Hubbard",
-      "avgPick": 128.9,
-      "avgRound": 14.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 13,
       "teamId": "t.11",
       "teamName": "Josh Allen is Shit",
-      "playerId": "406.p.8826",
+      "playerId": "8826",
       "playerFirstName": "DeSean",
       "playerLastName": "Jackson",
       "avgPick": null,
@@ -1759,62 +1783,62 @@
       "round": 13,
       "teamId": "t.9",
       "teamName": "Show me the Mooney",
-      "playerId": "406.p.31017",
+      "playerId": "31017",
       "playerFirstName": "Christian",
       "playerLastName": "Kirk",
-      "avgPick": 121.6,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 13,
       "teamId": "t.5",
       "teamName": "CeeDeez Nuts",
-      "playerId": "406.p.28461",
+      "playerId": "28461",
       "playerFirstName": "Tevin",
       "playerLastName": "Coleman",
-      "avgPick": 128.9,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 13,
       "teamId": "t.12",
       "teamName": "Hide & Zeke",
-      "playerId": "406.p.9265",
+      "playerId": "9265",
       "playerFirstName": "Matthew",
       "playerLastName": "Stafford",
-      "avgPick": 96.1,
-      "avgRound": 10.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.33399",
+      "playerId": "33399",
       "playerFirstName": "Justin",
       "playerLastName": "Fields",
-      "avgPick": 127,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 151,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Cousins fucker",
-      "playerId": "406.p.33391",
+      "playerId": "33391",
       "playerFirstName": "Trey",
       "playerLastName": "Lance",
-      "avgPick": 131,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 152,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Joe Chase(s) Kittle Girls",
-      "playerId": "406.p.32123",
+      "playerId": "32123",
       "playerFirstName": "Olamide",
       "playerLastName": "Zaccheaus",
       "avgPick": null,
@@ -1824,30 +1848,30 @@
       "pick": 153,
       "round": 13,
       "teamId": "t.6",
-      "teamName": "Hock ‘n' Roll",
-      "playerId": "406.p.33415",
+      "teamName": "Hock ‘n’ Roll",
+      "playerId": "33415",
       "playerFirstName": "Rashod",
       "playerLastName": "Bateman",
-      "avgPick": 131.4,
-      "avgRound": 14.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 154,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Russell Gage WR1",
-      "playerId": "406.p.24851",
+      "playerId": "24851",
       "playerFirstName": "Randall",
       "playerLastName": "Cobb",
-      "avgPick": 121.8,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 155,
       "round": 13,
       "teamId": "t.1",
       "teamName": "Kupp Runneth Over",
-      "playerId": "406.p.33265",
+      "playerId": "33265",
       "playerFirstName": "Salvon",
       "playerLastName": "Ahmed",
       "avgPick": null,
@@ -1858,11 +1882,11 @@
       "round": 13,
       "teamId": "t.2",
       "teamName": "McGriddy",
-      "playerId": "406.p.33508",
+      "playerId": "33508",
       "playerFirstName": "Rhamondre",
       "playerLastName": "Stevenson",
-      "avgPick": 127.2,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     }
   ],
   "matchups": [
@@ -1917,7 +1941,7 @@
     {
       "week": 1,
       "team1Id": "t.6",
-      "team1Name": "Hock ‘n' Roll",
+      "team1Name": "Hock ‘n’ Roll",
       "team1Points": 180.06,
       "team2Id": "t.12",
       "team2Name": "Hide & Zeke",
@@ -1989,7 +2013,7 @@
     {
       "week": 2,
       "team1Id": "t.6",
-      "team1Name": "Hock ‘n' Roll",
+      "team1Name": "Hock ‘n’ Roll",
       "team1Points": 133.34,
       "team2Id": "t.7",
       "team2Name": "Russell Gage WR1",
@@ -2040,7 +2064,7 @@
       "team1Name": "Cousins fucker",
       "team1Points": 146.12,
       "team2Id": "t.6",
-      "team2Name": "Hock ‘n' Roll",
+      "team2Name": "Hock ‘n’ Roll",
       "team2Points": 114.18,
       "isComplete": true,
       "isPlayoff": false,
@@ -2133,7 +2157,7 @@
     {
       "week": 4,
       "team1Id": "t.6",
-      "team1Name": "Hock ‘n' Roll",
+      "team1Name": "Hock ‘n’ Roll",
       "team1Points": 94.56,
       "team2Id": "t.8",
       "team2Name": "Joe Chase(s) Kittle Girls",
@@ -2160,7 +2184,7 @@
       "team1Name": "Kupp Runneth Over",
       "team1Points": 130.02,
       "team2Id": "t.6",
-      "team2Name": "Hock ‘n' Roll",
+      "team2Name": "Hock ‘n’ Roll",
       "team2Points": 122.44,
       "isComplete": true,
       "isPlayoff": false,
@@ -2265,7 +2289,7 @@
     {
       "week": 6,
       "team1Id": "t.6",
-      "team1Name": "Hock ‘n' Roll",
+      "team1Name": "Hock ‘n’ Roll",
       "team1Points": 147.38,
       "team2Id": "t.11",
       "team2Name": "Josh Allen is Shit",
@@ -2352,7 +2376,7 @@
       "team1Name": "CeeDeez Nuts",
       "team1Points": 121.74,
       "team2Id": "t.6",
-      "team2Name": "Hock ‘n' Roll",
+      "team2Name": "Hock ‘n’ Roll",
       "team2Points": 84.34,
       "isComplete": true,
       "isPlayoff": false,
@@ -2421,7 +2445,7 @@
     {
       "week": 8,
       "team1Id": "t.6",
-      "team1Name": "Hock ‘n' Roll",
+      "team1Name": "Hock ‘n’ Roll",
       "team1Points": 129.7,
       "team2Id": "t.10",
       "team2Name": "Tim Patrick for MVP",
@@ -2460,7 +2484,7 @@
       "team1Name": "McGriddy",
       "team1Points": 105.58,
       "team2Id": "t.6",
-      "team2Name": "Hock ‘n' Roll",
+      "team2Name": "Hock ‘n’ Roll",
       "team2Points": 75.64,
       "isComplete": true,
       "isPlayoff": false,
@@ -2544,7 +2568,7 @@
       "team1Name": "Back to tee bagging",
       "team1Points": 130.82,
       "team2Id": "t.6",
-      "team2Name": "Hock ‘n' Roll",
+      "team2Name": "Hock ‘n’ Roll",
       "team2Points": 113,
       "isComplete": true,
       "isPlayoff": false,
@@ -2637,7 +2661,7 @@
     {
       "week": 11,
       "team1Id": "t.6",
-      "team1Name": "Hock ‘n' Roll",
+      "team1Name": "Hock ‘n’ Roll",
       "team1Points": 128.78,
       "team2Id": "t.9",
       "team2Name": "Show me the Mooney",
@@ -2709,7 +2733,7 @@
     {
       "week": 12,
       "team1Id": "t.6",
-      "team1Name": "Hock ‘n' Roll",
+      "team1Name": "Hock ‘n’ Roll",
       "team1Points": 118.64,
       "team2Id": "t.12",
       "team2Name": "Hide & Zeke",
@@ -2781,7 +2805,7 @@
     {
       "week": 13,
       "team1Id": "t.6",
-      "team1Name": "Hock ‘n' Roll",
+      "team1Name": "Hock ‘n’ Roll",
       "team1Points": 110.92,
       "team2Id": "t.7",
       "team2Name": "Russell Gage WR1",
@@ -2832,7 +2856,7 @@
       "team1Name": "Cousins fucker",
       "team1Points": 133.52,
       "team2Id": "t.6",
-      "team2Name": "Hock ‘n' Roll",
+      "team2Name": "Hock ‘n’ Roll",
       "team2Points": 123.42,
       "isComplete": true,
       "isPlayoff": false,
@@ -2973,7 +2997,7 @@
     {
       "week": 16,
       "team1Id": "t.6",
-      "team1Name": "Hock ‘n' Roll",
+      "team1Name": "Hock ‘n’ Roll",
       "team1Points": 63.98,
       "team2Id": "t.12",
       "team2Name": "Hide & Zeke",
@@ -3021,7 +3045,7 @@
     {
       "week": 17,
       "team1Id": "t.6",
-      "team1Name": "Hock ‘n' Roll",
+      "team1Name": "Hock ‘n’ Roll",
       "team1Points": 142.3,
       "team2Id": "t.11",
       "team2Name": "Josh Allen is Shit",
@@ -3043,5 +3067,366 @@
       "isConsolation": true
     }
   ],
-  "trades": []
+  "trades": [
+    {
+      "id": "406.l.565641.tr.73",
+      "year": 2021,
+      "date": "2021-09-15T18:13:01.000Z",
+      "timestamp": 1631729581,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Cousins fucker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Chase Claypool"
+          ],
+          "received": [
+            "Mike Williams"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Show me the Mooney",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Mike Williams"
+          ],
+          "received": [
+            "Chase Claypool"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.565641.tr.83",
+      "year": 2021,
+      "date": "2021-09-17T17:10:40.000Z",
+      "timestamp": 1631898640,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Show me the Mooney",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Cole Beasley"
+          ],
+          "received": [
+            "Trey Sermon"
+          ]
+        },
+        {
+          "teamId": "t.11",
+          "teamName": "Josh Allen is Shit",
+          "manager": "Ian O'Handley",
+          "sent": [
+            "Trey Sermon"
+          ],
+          "received": [
+            "Cole Beasley"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.565641.tr.153",
+      "year": 2021,
+      "date": "2021-10-06T18:55:40.000Z",
+      "timestamp": 1633546540,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Hock ‘n’ Roll",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Amari Cooper",
+            "Zack Moss",
+            "Jarvis Landry"
+          ],
+          "received": [
+            "Stefon Diggs"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Joe Chase(s) Kittle Girls",
+          "manager": "Declan Brown",
+          "sent": [
+            "Stefon Diggs"
+          ],
+          "received": [
+            "Amari Cooper",
+            "Zack Moss",
+            "Jarvis Landry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.565641.tr.188",
+      "year": 2021,
+      "date": "2021-10-13T12:20:40.000Z",
+      "timestamp": 1634127640,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Show me the Mooney",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Chase Claypool",
+            "Cordarrelle Patterson"
+          ],
+          "received": [
+            "Michael Thomas",
+            "Saquon Barkley"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Tim Patrick for MVP",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Michael Thomas",
+            "Saquon Barkley"
+          ],
+          "received": [
+            "Chase Claypool",
+            "Cordarrelle Patterson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.565641.tr.201",
+      "year": 2021,
+      "date": "2021-10-15T03:35:26.000Z",
+      "timestamp": 1634268926,
+      "sides": [
+        {
+          "teamId": "t.12",
+          "teamName": "Hide & Zeke",
+          "manager": "William Davison",
+          "sent": [
+            "Courtland Sutton"
+          ],
+          "received": [
+            "Tyler Boyd"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Tim Patrick for MVP",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Tyler Boyd"
+          ],
+          "received": [
+            "Courtland Sutton"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.565641.tr.208",
+      "year": 2021,
+      "date": "2021-10-17T16:11:43.000Z",
+      "timestamp": 1634487103,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Hock ‘n’ Roll",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Melvin Gordon III"
+          ],
+          "received": [
+            "Kadarius Toney"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Cousins fucker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Kadarius Toney"
+          ],
+          "received": [
+            "Melvin Gordon III"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.565641.tr.231",
+      "year": 2021,
+      "date": "2021-10-20T21:46:32.000Z",
+      "timestamp": 1634766392,
+      "sides": [
+        {
+          "teamId": "t.5",
+          "teamName": "CeeDeez Nuts",
+          "manager": "Lucas Stagliano",
+          "sent": [
+            "Rashod Bateman"
+          ],
+          "received": [
+            "Deshaun Watson"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Show me the Mooney",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Deshaun Watson"
+          ],
+          "received": [
+            "Rashod Bateman"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.565641.tr.253",
+      "year": 2021,
+      "date": "2021-10-26T22:09:38.000Z",
+      "timestamp": 1635286178,
+      "sides": [
+        {
+          "teamId": "t.11",
+          "teamName": "Josh Allen is Shit",
+          "manager": "Ian O'Handley",
+          "sent": [
+            "Dalvin Cook",
+            "Joe Burrow",
+            "Bryan Edwards"
+          ],
+          "received": [
+            "Calvin Ridley",
+            "Damien Harris",
+            "Javonte Williams"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "Kupp Runneth Over",
+          "manager": "James Ellement",
+          "sent": [
+            "Calvin Ridley",
+            "Damien Harris",
+            "Javonte Williams"
+          ],
+          "received": [
+            "Dalvin Cook",
+            "Joe Burrow",
+            "Bryan Edwards"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.565641.tr.255",
+      "year": 2021,
+      "date": "2021-10-26T22:57:40.000Z",
+      "timestamp": 1635289060,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Kupp Runneth Over",
+          "manager": "James Ellement",
+          "sent": [
+            "Joe Burrow"
+          ],
+          "received": [
+            "Alexander Mattison"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Joe Chase(s) Kittle Girls",
+          "manager": "Declan Brown",
+          "sent": [
+            "Alexander Mattison"
+          ],
+          "received": [
+            "Joe Burrow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.565641.tr.344",
+      "year": 2021,
+      "date": "2021-11-10T23:14:42.000Z",
+      "timestamp": 1636586082,
+      "sides": [
+        {
+          "teamId": "t.12",
+          "teamName": "Hide & Zeke",
+          "manager": "William Davison",
+          "sent": [
+            "Darren Waller"
+          ],
+          "received": [
+            "Mike Gesicki",
+            "Chase Claypool"
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Tim Patrick for MVP",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Mike Gesicki",
+            "Chase Claypool"
+          ],
+          "received": [
+            "Darren Waller"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "406.l.565641.tr.345",
+      "year": 2021,
+      "date": "2021-11-11T03:05:21.000Z",
+      "timestamp": 1636599921,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Russell Gage WR1",
+          "manager": "Kevin McCreary",
+          "sent": [
+            "Travis Kelce",
+            "Marquez Valdes-Scantling",
+            "Ty Johnson",
+            "Carlos Hyde"
+          ],
+          "received": [
+            "Marvin Jones Jr.",
+            "DeAndre Hopkins",
+            "Jeremy McNichols",
+            "Tyler Conklin"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Hock ‘n’ Roll",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Marvin Jones Jr.",
+            "DeAndre Hopkins",
+            "Jeremy McNichols",
+            "Tyler Conklin"
+          ],
+          "received": [
+            "Travis Kelce",
+            "Marquez Valdes-Scantling",
+            "Ty Johnson",
+            "Carlos Hyde"
+          ]
+        }
+      ]
+    }
+  ]
 }

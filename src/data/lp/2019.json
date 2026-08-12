@@ -3,30 +3,6 @@
   "leagueId": "lp",
   "teams": [
     {
-      "id": "t.1",
-      "name": "Scary Terry",
-      "manager": "James Ellement",
-      "wins": 6,
-      "losses": 7,
-      "ties": 0,
-      "rank": 10,
-      "playoffSeed": 7,
-      "isCommissioner": true,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56514164523_22ab93.jpg"
-    },
-    {
-      "id": "t.2",
-      "name": "Stef Diggs My Grave",
-      "manager": "William Davison",
-      "wins": 5,
-      "losses": 8,
-      "ties": 0,
-      "rank": 12,
-      "playoffSeed": 11,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/6c620974452c97647c7d143c492b8f6a0084b81390b833f7bf3fd3eb0143b368.png"
-    },
-    {
       "id": "t.3",
       "name": "Dippmar dipprozan",
       "manager": "Joe Glibbery",
@@ -36,19 +12,9 @@
       "rank": 1,
       "playoffSeed": 1,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36798709740_daf88b.jpg"
-    },
-    {
-      "id": "t.4",
-      "name": "Mahomosexuals",
-      "manager": "Kevin McCreary",
-      "wins": 8,
-      "losses": 5,
-      "ties": 0,
-      "rank": 3,
-      "playoffSeed": 3,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/30436269098_6ef1d9.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36798709740_daf88b.jpg",
+      "moves": 93,
+      "tradesCount": 5
     },
     {
       "id": "t.5",
@@ -60,7 +26,23 @@
       "rank": 2,
       "playoffSeed": 2,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36610037686_b779fd.jpg",
+      "moves": 25,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.4",
+      "name": "Mahomosexuals",
+      "manager": "Kevin McCreary",
+      "wins": 8,
+      "losses": 5,
+      "ties": 0,
+      "rank": 3,
+      "playoffSeed": 3,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/30436269098_6ef1d9.jpg",
+      "moves": 25,
+      "tradesCount": 1
     },
     {
       "id": "t.6",
@@ -72,43 +54,9 @@
       "rank": 4,
       "playoffSeed": 4,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36468119463_b0af86.jpg"
-    },
-    {
-      "id": "t.7",
-      "name": "Legally Blonde",
-      "manager": "Heri Hickl Szabo",
-      "wins": 4,
-      "losses": 9,
-      "ties": 0,
-      "rank": 11,
-      "playoffSeed": 12,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/8744305ed457297efd73bae13267b730b28b5aec56895442f2eb93453dd849d8.png"
-    },
-    {
-      "id": "t.8",
-      "name": "Moore Life",
-      "manager": "Declan Brown",
-      "wins": 5,
-      "losses": 8,
-      "ties": 0,
-      "rank": 8,
-      "playoffSeed": 10,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/59601946542_5d6b6d.jpg"
-    },
-    {
-      "id": "t.9",
-      "name": "Quon Solo",
-      "manager": "Gabriel Nadra",
-      "wins": 7,
-      "losses": 6,
-      "ties": 0,
-      "rank": 6,
-      "playoffSeed": 6,
-      "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/957a34f6a0d8780032045d421ff4b7fdcb0ab2969b28c92353baa239d34be02f.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36468119463_b0af86.jpg",
+      "moves": 7,
+      "tradesCount": 2
     },
     {
       "id": "t.10",
@@ -120,7 +68,23 @@
       "rank": 5,
       "playoffSeed": 5,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56483349271_8b724e.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56483349271_8b724e.jpg",
+      "moves": 39,
+      "tradesCount": 3
+    },
+    {
+      "id": "t.9",
+      "name": "Quon Solo",
+      "manager": "Gabriel Nadra",
+      "wins": 7,
+      "losses": 6,
+      "ties": 0,
+      "rank": 6,
+      "playoffSeed": 6,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/957a34f6a0d8780032045d421ff4b7fdcb0ab2969b28c92353baa239d34be02f.jpg",
+      "moves": 30,
+      "tradesCount": 14
     },
     {
       "id": "t.11",
@@ -132,11 +96,27 @@
       "rank": 7,
       "playoffSeed": 9,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56513235443_d8ba71.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56513235443_d8ba71.jpg",
+      "moves": 9,
+      "tradesCount": 2
+    },
+    {
+      "id": "t.8",
+      "name": "Moore Life",
+      "manager": "Declan Brown",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "rank": 8,
+      "playoffSeed": 10,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/59601946542_5d6b6d.jpg",
+      "moves": 20,
+      "tradesCount": 5
     },
     {
       "id": "t.12",
-      "name": "For The Boyd's",
+      "name": "For The Boyd’s",
       "manager": "Lucas Stagliano",
       "wins": 6,
       "losses": 7,
@@ -144,7 +124,51 @@
       "rank": 9,
       "playoffSeed": 8,
       "isCommissioner": false,
-      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56515226283_c7c1a9.jpg"
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56515226283_c7c1a9.jpg",
+      "moves": 27,
+      "tradesCount": 1
+    },
+    {
+      "id": "t.1",
+      "name": "Scary Terry",
+      "manager": "James Ellement",
+      "wins": 6,
+      "losses": 7,
+      "ties": 0,
+      "rank": 10,
+      "playoffSeed": 7,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56514164523_22ab93.jpg",
+      "moves": 36,
+      "tradesCount": 8
+    },
+    {
+      "id": "t.7",
+      "name": "Legally Blonde",
+      "manager": "Heri Hickl Szabo",
+      "wins": 4,
+      "losses": 9,
+      "ties": 0,
+      "rank": 11,
+      "playoffSeed": 12,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/8744305ed457297efd73bae13267b730b28b5aec56895442f2eb93453dd849d8.png",
+      "moves": 42,
+      "tradesCount": 13
+    },
+    {
+      "id": "t.2",
+      "name": "Stef Diggs My Grave",
+      "manager": "William Davison",
+      "wins": 5,
+      "losses": 8,
+      "ties": 0,
+      "rank": 12,
+      "playoffSeed": 11,
+      "isCommissioner": false,
+      "imageUrl": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/6c620974452c97647c7d143c492b8f6a0084b81390b833f7bf3fd3eb0143b368.png",
+      "moves": 22,
+      "tradesCount": 1
     }
   ],
   "draft": [
@@ -153,1393 +177,1393 @@
       "round": 1,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.30972",
+      "playerId": "30972",
       "playerFirstName": "Saquon",
       "playerLastName": "Barkley",
-      "avgPick": 1.3,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 2,
       "round": 1,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.30121",
+      "playerId": "30121",
       "playerFirstName": "Christian",
       "playerLastName": "McCaffrey",
-      "avgPick": 3.6,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 3,
       "round": 1,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.30180",
+      "playerId": "30180",
       "playerFirstName": "Alvin",
       "playerLastName": "Kamara",
-      "avgPick": 2.7,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 4,
       "round": 1,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.29238",
+      "playerId": "29238",
       "playerFirstName": "Ezekiel",
       "playerLastName": "Elliott",
-      "avgPick": 4.1,
-      "avgRound": 1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 5,
       "round": 1,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.28474",
+      "playerId": "28474",
       "playerFirstName": "David",
       "playerLastName": "Johnson",
-      "avgPick": 7.7,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 6,
       "round": 1,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.31005",
+      "playerId": "31005",
       "playerFirstName": "Nick",
       "playerLastName": "Chubb",
-      "avgPick": 8.1,
-      "avgRound": 1.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 7,
       "round": 1,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.27581",
+      "teamName": "For The Boyd’s",
+      "playerId": "27581",
       "playerFirstName": "Davante",
       "playerLastName": "Adams",
-      "avgPick": 9.8,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 8,
       "round": 1,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.29281",
+      "playerId": "29281",
       "playerFirstName": "Michael",
       "playerLastName": "Thomas",
-      "avgPick": 13.2,
-      "avgRound": 1.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 9,
       "round": 1,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.26650",
+      "playerId": "26650",
       "playerFirstName": "DeAndre",
       "playerLastName": "Hopkins",
-      "avgPick": 6.9,
-      "avgRound": 1.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 10,
       "round": 1,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.24793",
+      "playerId": "24793",
       "playerFirstName": "Julio",
       "playerLastName": "Jones",
-      "avgPick": 12,
-      "avgRound": 1.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 11,
       "round": 1,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.27540",
+      "playerId": "27540",
       "playerFirstName": "Odell",
       "playerLastName": "Beckham Jr.",
-      "avgPick": 14.2,
-      "avgRound": 2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 12,
       "round": 1,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.30175",
+      "playerId": "30175",
       "playerFirstName": "JuJu",
       "playerLastName": "Smith-Schuster",
-      "avgPick": 16.8,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 13,
       "round": 2,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.29399",
+      "playerId": "29399",
       "playerFirstName": "Tyreek",
       "playerLastName": "Hill",
-      "avgPick": 20.3,
-      "avgRound": 2.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 14,
       "round": 2,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.26686",
+      "playerId": "26686",
       "playerFirstName": "Travis",
       "playerLastName": "Kelce",
-      "avgPick": 16.1,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 15,
       "round": 2,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.26671",
+      "playerId": "26671",
       "playerFirstName": "Le'Veon",
       "playerLastName": "Bell",
-      "avgPick": 10.9,
-      "avgRound": 1.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 16,
       "round": 2,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.28398",
+      "playerId": "28398",
       "playerFirstName": "Todd",
       "playerLastName": "Gurley",
-      "avgPick": 20.3,
-      "avgRound": 2.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 17,
       "round": 2,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.30218",
+      "playerId": "30218",
       "playerFirstName": "James",
       "playerLastName": "Conner",
-      "avgPick": 10.2,
-      "avgRound": 1.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 18,
       "round": 2,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.30154",
+      "teamName": "For The Boyd’s",
+      "playerId": "30154",
       "playerFirstName": "Dalvin",
       "playerLastName": "Cook",
-      "avgPick": 15.4,
-      "avgRound": 2.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 19,
       "round": 2,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.27535",
+      "playerId": "27535",
       "playerFirstName": "Mike",
       "playerLastName": "Evans",
-      "avgPick": 23.5,
-      "avgRound": 2.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 20,
       "round": 2,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.26699",
+      "playerId": "26699",
       "playerFirstName": "Keenan",
       "playerLastName": "Allen",
-      "avgPick": 27.6,
-      "avgRound": 3.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 21,
       "round": 2,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.30161",
+      "playerId": "30161",
       "playerFirstName": "Joe",
       "playerLastName": "Mixon",
-      "avgPick": 20,
-      "avgRound": 2.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 22,
       "round": 2,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.27277",
+      "playerId": "27277",
       "playerFirstName": "Adam",
       "playerLastName": "Thielen",
-      "avgPick": 30.1,
-      "avgRound": 3.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 23,
       "round": 2,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.24171",
+      "playerId": "24171",
       "playerFirstName": "Antonio",
       "playerLastName": "Brown",
-      "avgPick": 25,
-      "avgRound": 3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 24,
       "round": 2,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.31013",
+      "playerId": "31013",
       "playerFirstName": "Kerryon",
       "playerLastName": "Johnson",
-      "avgPick": 31.2,
-      "avgRound": 3.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 25,
       "round": 3,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.9496",
+      "playerId": "9496",
       "playerFirstName": "Julian",
       "playerLastName": "Edelman",
-      "avgPick": 42.5,
-      "avgRound": 4.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 26,
       "round": 3,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.28115",
+      "playerId": "28115",
       "playerFirstName": "Damien",
       "playerLastName": "Williams",
-      "avgPick": 25.5,
-      "avgRound": 3.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 27,
       "round": 3,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.30295",
+      "playerId": "30295",
       "playerFirstName": "Aaron",
       "playerLastName": "Jones Sr.",
-      "avgPick": 29.6,
-      "avgRound": 3.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 28,
       "round": 3,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.28392",
+      "playerId": "28392",
       "playerFirstName": "Amari",
       "playerLastName": "Cooper",
-      "avgPick": 32,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 29,
       "round": 3,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.30259",
+      "playerId": "30259",
       "playerFirstName": "George",
       "playerLastName": "Kittle",
-      "avgPick": 22.7,
-      "avgRound": 2.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 30,
       "round": 3,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.28534",
+      "playerId": "28534",
       "playerFirstName": "Stefon",
       "playerLastName": "Diggs",
-      "avgPick": 34.8,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 31,
       "round": 3,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.27631",
+      "teamName": "For The Boyd’s",
+      "playerId": "27631",
       "playerFirstName": "Devonta",
       "playerLastName": "Freeman",
-      "avgPick": 32.2,
-      "avgRound": 3.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 32,
       "round": 3,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.26664",
+      "playerId": "26664",
       "playerFirstName": "Robert",
       "playerLastName": "Woods",
-      "avgPick": 40.1,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 33,
       "round": 3,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.30117",
+      "playerId": "30117",
       "playerFirstName": "Leonard",
       "playerLastName": "Fournette",
-      "avgPick": 34.6,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 34,
       "round": 3,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.27548",
+      "playerId": "27548",
       "playerFirstName": "Brandin",
       "playerLastName": "Cooks",
-      "avgPick": 41.1,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 35,
       "round": 3,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.30362",
+      "playerId": "30362",
       "playerFirstName": "Chris",
       "playerLastName": "Carson",
-      "avgPick": 52.6,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 36,
       "round": 3,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.26658",
+      "playerId": "26658",
       "playerFirstName": "Zach",
       "playerLastName": "Ertz",
-      "avgPick": 28.8,
-      "avgRound": 3.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 37,
       "round": 4,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.30182",
+      "playerId": "30182",
       "playerFirstName": "Cooper",
       "playerLastName": "Kupp",
-      "avgPick": 65,
-      "avgRound": 7.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 38,
       "round": 4,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.30996",
+      "playerId": "30996",
       "playerFirstName": "Calvin",
       "playerLastName": "Ridley",
-      "avgPick": 70,
-      "avgRound": 7.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 39,
       "round": 4,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.30256",
+      "playerId": "30256",
       "playerFirstName": "Marlon",
       "playerLastName": "Mack",
-      "avgPick": 37,
-      "avgRound": 4.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 40,
       "round": 4,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.31905",
+      "playerId": "31905",
       "playerFirstName": "David",
       "playerLastName": "Montgomery",
-      "avgPick": 48.4,
-      "avgRound": 5.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 41,
       "round": 4,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.30209",
+      "playerId": "30209",
       "playerFirstName": "Kenny",
       "playerLastName": "Golladay",
-      "avgPick": 51.8,
-      "avgRound": 5.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 42,
       "round": 4,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.29288",
+      "teamName": "For The Boyd’s",
+      "playerId": "29288",
       "playerFirstName": "Tyler",
       "playerLastName": "Boyd",
-      "avgPick": 62.3,
-      "avgRound": 6.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 43,
       "round": 4,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.25802",
+      "playerId": "25802",
       "playerFirstName": "T.Y.",
       "playerLastName": "Hilton",
-      "avgPick": 39.8,
-      "avgRound": 4.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 44,
       "round": 4,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.31856",
+      "playerId": "31856",
       "playerFirstName": "Josh",
       "playerLastName": "Jacobs",
-      "avgPick": 49.5,
-      "avgRound": 5.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 45,
       "round": 4,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.30197",
+      "playerId": "30197",
       "playerFirstName": "Chris",
       "playerLastName": "Godwin Jr.",
-      "avgPick": 42,
-      "avgRound": 4.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 46,
       "round": 4,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.30123",
+      "playerId": "30123",
       "playerFirstName": "Patrick",
       "playerLastName": "Mahomes",
-      "avgPick": 16.5,
-      "avgRound": 2.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 47,
       "round": 4,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.31001",
+      "playerId": "31001",
       "playerFirstName": "Sony",
       "playerLastName": "Michel",
-      "avgPick": 50.1,
-      "avgRound": 5.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 48,
       "round": 4,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.28457",
+      "playerId": "28457",
       "playerFirstName": "Tyler",
       "playerLastName": "Lockett",
-      "avgPick": 56,
-      "avgRound": 6.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 49,
       "round": 5,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.29785",
+      "playerId": "29785",
       "playerFirstName": "Robbie",
       "playerLastName": "Chosen",
-      "avgPick": 84.2,
-      "avgRound": 9.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 50,
       "round": 5,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.30994",
+      "playerId": "30994",
       "playerFirstName": "DJ",
       "playerLastName": "Moore",
-      "avgPick": 79.7,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 51,
       "round": 5,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.31029",
+      "playerId": "31029",
       "playerFirstName": "Derrius",
       "playerLastName": "Guice",
-      "avgPick": 102.8,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 52,
       "round": 5,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.30132",
+      "playerId": "30132",
       "playerFirstName": "O.J.",
       "playerLastName": "Howard",
-      "avgPick": 52.1,
-      "avgRound": 5.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 53,
       "round": 5,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.28403",
+      "playerId": "28403",
       "playerFirstName": "Melvin",
       "playerLastName": "Gordon III",
-      "avgPick": 45.2,
-      "avgRound": 5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 54,
       "round": 5,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.28461",
+      "playerId": "28461",
       "playerFirstName": "Tevin",
       "playerLastName": "Coleman",
-      "avgPick": 80.5,
-      "avgRound": 8.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 55,
       "round": 5,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.27658",
+      "teamName": "For The Boyd’s",
+      "playerId": "27658",
       "playerFirstName": "James",
       "playerLastName": "White",
-      "avgPick": 83,
-      "avgRound": 9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 56,
       "round": 5,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.30136",
+      "playerId": "30136",
       "playerFirstName": "Evan",
       "playerLastName": "Engram",
-      "avgPick": 57.4,
-      "avgRound": 6.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 57,
       "round": 5,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.27591",
+      "playerId": "27591",
       "playerFirstName": "Jarvis",
       "playerLastName": "Landry",
-      "avgPick": 74.1,
-      "avgRound": 8.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 58,
       "round": 5,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.25755",
+      "playerId": "25755",
       "playerFirstName": "Alshon",
       "playerLastName": "Jeffery",
-      "avgPick": 77.2,
-      "avgRound": 8.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 59,
       "round": 5,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.29279",
+      "playerId": "29279",
       "playerFirstName": "Derrick",
       "playerLastName": "Henry",
-      "avgPick": 35,
-      "avgRound": 4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 60,
       "round": 5,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.24815",
+      "playerId": "24815",
       "playerFirstName": "Mark",
       "playerLastName": "Ingram II",
-      "avgPick": 47.7,
-      "avgRound": 5.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 61,
       "round": 6,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.30423",
+      "playerId": "30423",
       "playerFirstName": "Austin",
       "playerLastName": "Ekeler",
-      "avgPick": 100.3,
-      "avgRound": 10.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 62,
       "round": 6,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.27589",
+      "playerId": "27589",
       "playerFirstName": "Allen",
       "playerLastName": "Robinson",
-      "avgPick": 64.9,
-      "avgRound": 7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 63,
       "round": 6,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.30125",
+      "playerId": "30125",
       "playerFirstName": "Deshaun",
       "playerLastName": "Watson",
-      "avgPick": 40.1,
-      "avgRound": 4.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 64,
       "round": 6,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.30120",
+      "playerId": "30120",
       "playerFirstName": "Mike",
       "playerLastName": "Williams",
-      "avgPick": 62.2,
-      "avgRound": 6.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 65,
       "round": 6,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.31379",
+      "playerId": "31379",
       "playerFirstName": "Phillip",
       "playerLastName": "Lindsay",
-      "avgPick": 61.2,
-      "avgRound": 6.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 66,
       "round": 6,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.30223",
+      "teamName": "For The Boyd’s",
+      "playerId": "30223",
       "playerFirstName": "Dede",
       "playerLastName": "Westbrook",
-      "avgPick": 98,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 67,
       "round": 6,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.28465",
+      "playerId": "28465",
       "playerFirstName": "Duke",
       "playerLastName": "Johnson",
-      "avgPick": 78.9,
-      "avgRound": 8.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 68,
       "round": 6,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.27532",
+      "playerId": "27532",
       "playerFirstName": "Sammy",
       "playerLastName": "Watkins",
-      "avgPick": 98.9,
-      "avgRound": 10.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 69,
       "round": 6,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.26561",
+      "playerId": "26561",
       "playerFirstName": "Josh",
       "playerLastName": "Gordon",
-      "avgPick": 79.7,
-      "avgRound": 8.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 70,
       "round": 6,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.29274",
+      "playerId": "29274",
       "playerFirstName": "Sterling",
       "playerLastName": "Shepard",
-      "avgPick": 106.7,
-      "avgRound": 11.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 71,
       "round": 6,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.31885",
+      "playerId": "31885",
       "playerFirstName": "Miles",
       "playerLastName": "Sanders",
-      "avgPick": 84.7,
-      "avgRound": 9.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 72,
       "round": 6,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.30232",
+      "playerId": "30232",
       "playerFirstName": "Tarik",
       "playerLastName": "Cohen",
-      "avgPick": 87.5,
-      "avgRound": 9.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 73,
       "round": 7,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.24791",
+      "playerId": "24791",
       "playerFirstName": "A.J.",
       "playerLastName": "Green",
-      "avgPick": 85.1,
-      "avgRound": 9.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 74,
       "round": 7,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.31017",
+      "playerId": "31017",
       "playerFirstName": "Christian",
       "playerLastName": "Kirk",
-      "avgPick": 96.8,
-      "avgRound": 10.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 75,
       "round": 7,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.29269",
+      "playerId": "29269",
       "playerFirstName": "Hunter",
       "playerLastName": "Henry",
-      "avgPick": 59.7,
-      "avgRound": 6.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 76,
       "round": 7,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.30153",
+      "playerId": "30153",
       "playerFirstName": "Curtis",
       "playerLastName": "Samuel",
-      "avgPick": 100.9,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 77,
       "round": 7,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.29255",
+      "playerId": "29255",
       "playerFirstName": "Will",
       "playerLastName": "Fuller V",
-      "avgPick": 94,
-      "avgRound": 10.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 78,
       "round": 7,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.9353",
+      "playerId": "9353",
       "playerFirstName": "Jared",
       "playerLastName": "Cook",
-      "avgPick": 66.7,
-      "avgRound": 7.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 79,
       "round": 7,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.7200",
+      "teamName": "For The Boyd’s",
+      "playerId": "7200",
       "playerFirstName": "Aaron",
       "playerLastName": "Rodgers",
-      "avgPick": 43,
-      "avgRound": 4.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 80,
       "round": 7,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.29560",
-      "playerFirstName": "Kenneth",
+      "playerId": "29560",
+      "playerFirstName": "Peyton",
       "playerLastName": "Barber",
-      "avgPick": 126.9,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 81,
       "round": 7,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.31014",
+      "playerId": "31014",
       "playerFirstName": "Dante",
       "playerLastName": "Pettis",
-      "avgPick": 117.1,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 82,
       "round": 7,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.29307",
+      "playerId": "29307",
       "playerFirstName": "Kenyan",
       "playerLastName": "Drake",
-      "avgPick": 87.9,
-      "avgRound": 9.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 83,
       "round": 7,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.26804",
+      "playerId": "26804",
       "playerFirstName": "Latavius",
       "playerLastName": "Murray",
-      "avgPick": 102.6,
-      "avgRound": 11
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 84,
       "round": 7,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.25876",
+      "playerId": "25876",
       "playerFirstName": "Marvin",
       "playerLastName": "Jones Jr.",
-      "avgPick": 116.3,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 85,
       "round": 8,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.31010",
+      "playerId": "31010",
       "playerFirstName": "Courtland",
       "playerLastName": "Sutton",
-      "avgPick": 123.7,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 86,
       "round": 8,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.8826",
+      "playerId": "8826",
       "playerFirstName": "DeSean",
       "playerLastName": "Jackson",
-      "avgPick": 120.3,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 87,
       "round": 8,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.31144",
+      "playerId": "31144",
       "playerFirstName": "Marquez",
       "playerLastName": "Valdes-Scantling",
-      "avgPick": 124,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 88,
       "round": 8,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.28493",
+      "playerId": "28493",
       "playerFirstName": "Jamison",
       "playerLastName": "Crowder",
-      "avgPick": 127.4,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 89,
       "round": 8,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.24057",
+      "playerId": "24057",
       "playerFirstName": "Emmanuel",
       "playerLastName": "Sanders",
-      "avgPick": 118.5,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 90,
       "round": 8,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.26678",
+      "teamName": "For The Boyd’s",
+      "playerId": "26678",
       "playerFirstName": "Vance",
       "playerLastName": "McDonald",
-      "avgPick": 82,
-      "avgRound": 8.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 91,
       "round": 8,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.31100",
+      "playerId": "31100",
       "playerFirstName": "Kalen",
       "playerLastName": "Ballage",
-      "avgPick": 127.9,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 92,
       "round": 8,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.30118",
+      "playerId": "30118",
       "playerFirstName": "Corey",
       "playerLastName": "Davis",
-      "avgPick": 100.9,
-      "avgRound": 10.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 93,
       "round": 8,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.30552",
+      "playerId": "30552",
       "playerFirstName": "Matt",
       "playerLastName": "Breida",
-      "avgPick": 114.6,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 94,
       "round": 8,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.6762",
+      "playerId": "6762",
       "playerFirstName": "Larry",
       "playerLastName": "Fitzgerald",
-      "avgPick": 110.5,
-      "avgRound": 11.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 95,
       "round": 8,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.31041",
+      "playerId": "31041",
       "playerFirstName": "Royce",
       "playerLastName": "Freeman",
-      "avgPick": 109.4,
-      "avgRound": 11.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 96,
       "round": 8,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.30997",
+      "playerId": "30997",
       "playerFirstName": "Rashaad",
       "playerLastName": "Penny",
-      "avgPick": 113.3,
-      "avgRound": 12.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 97,
       "round": 9,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.31073",
+      "playerId": "31073",
       "playerFirstName": "Keke",
       "playerLastName": "Coutee",
-      "avgPick": 121.8,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 98,
       "round": 9,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.29719",
+      "playerId": "29719",
       "playerFirstName": "Geronimo",
       "playerLastName": "Allison",
-      "avgPick": 127.5,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 99,
       "round": 9,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.27619",
+      "playerId": "27619",
       "playerFirstName": "John",
       "playerLastName": "Brown",
-      "avgPick": 128.6,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 100,
       "round": 9,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.31902",
+      "playerId": "31902",
       "playerFirstName": "Darrell",
       "playerLastName": "Henderson Jr.",
-      "avgPick": 120.5,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 101,
       "round": 9,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.29236",
+      "playerId": "29236",
       "playerFirstName": "Carson",
       "playerLastName": "Wentz",
-      "avgPick": 72.9,
-      "avgRound": 8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 102,
       "round": 9,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.32046",
+      "playerId": "32046",
       "playerFirstName": "Darwin",
       "playerLastName": "Thompson",
-      "avgPick": 124.9,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 103,
       "round": 9,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.31021",
+      "teamName": "For The Boyd’s",
+      "playerId": "31021",
       "playerFirstName": "Anthony",
       "playerLastName": "Miller",
-      "avgPick": 129.1,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 104,
       "round": 9,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.30971",
+      "playerId": "30971",
       "playerFirstName": "Baker",
       "playerLastName": "Mayfield",
-      "avgPick": 50.6,
-      "avgRound": 5.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 105,
       "round": 9,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.29384",
+      "playerId": "29384",
       "playerFirstName": "Jordan",
       "playerLastName": "Howard",
-      "avgPick": 103,
-      "avgRound": 11.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 106,
       "round": 9,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.30142",
+      "playerId": "30142",
       "playerFirstName": "David",
       "playerLastName": "Njoku",
-      "avgPick": 85.1,
-      "avgRound": 9.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 107,
       "round": 9,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.31008",
+      "playerId": "31008",
       "playerFirstName": "Ronald",
       "playerLastName": "Jones",
-      "avgPick": 128,
-      "avgRound": 14
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 108,
       "round": 9,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.25785",
+      "playerId": "25785",
       "playerFirstName": "Russell",
       "playerLastName": "Wilson",
-      "avgPick": 67.7,
-      "avgRound": 7.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 109,
       "round": 10,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.31960",
+      "playerId": "31960",
       "playerFirstName": "Tony",
       "playerLastName": "Pollard",
-      "avgPick": 117.1,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 110,
       "round": 10,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.31945",
+      "playerId": "31945",
       "playerFirstName": "Justice",
       "playerLastName": "Hill",
-      "avgPick": 126.6,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 111,
       "round": 10,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.24035",
+      "playerId": "24035",
       "playerFirstName": "Golden",
       "playerLastName": "Tate",
-      "avgPick": 123.6,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 112,
       "round": 10,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.29315",
+      "playerId": "29315",
       "playerFirstName": "Austin",
       "playerLastName": "Hooper",
-      "avgPick": 104.9,
-      "avgRound": 11.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 113,
       "round": 10,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.31906",
+      "playerId": "31906",
       "playerFirstName": "Devin",
       "playerLastName": "Singletary",
-      "avgPick": 113.5,
-      "avgRound": 12.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 114,
       "round": 10,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.31030",
+      "teamName": "For The Boyd’s",
+      "playerId": "31030",
       "playerFirstName": "James",
       "playerLastName": "Washington",
-      "avgPick": 123.4,
-      "avgRound": 13.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 115,
       "round": 10,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.5479",
+      "playerId": "5479",
       "playerFirstName": "Drew",
       "playerLastName": "Brees",
-      "avgPick": 71.3,
-      "avgRound": 7.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 116,
       "round": 10,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.28691",
+      "playerId": "28691",
       "playerFirstName": "Tyrell",
       "playerLastName": "Williams",
-      "avgPick": 122.9,
-      "avgRound": 13
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 117,
       "round": 10,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.31919",
+      "playerId": "31919",
       "playerFirstName": "Damien",
       "playerLastName": "Harris",
-      "avgPick": 126.2,
-      "avgRound": 13.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 118,
       "round": 10,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.27618",
+      "playerId": "27618",
       "playerFirstName": "Donte",
       "playerLastName": "Moncrief",
-      "avgPick": 125.7,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 119,
       "round": 10,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.31833",
+      "playerId": "31833",
       "playerFirstName": "Kyler",
       "playerLastName": "Murray",
-      "avgPick": 89.5,
-      "avgRound": 9.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 120,
       "round": 10,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.31002",
+      "playerId": "31002",
       "playerFirstName": "Lamar",
       "playerLastName": "Jackson",
-      "avgPick": 98.4,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 121,
       "round": 11,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.31051",
+      "playerId": "31051",
       "playerFirstName": "Michael",
       "playerLastName": "Gallup",
-      "avgPick": 120.3,
-      "avgRound": 12.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 122,
       "round": 11,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.27538",
+      "playerId": "27538",
       "playerFirstName": "Eric",
       "playerLastName": "Ebron",
-      "avgPick": 97.9,
-      "avgRound": 10.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 123,
       "round": 11,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.24936",
+      "playerId": "24936",
       "playerFirstName": "Dion",
       "playerLastName": "Lewis",
-      "avgPick": 129.1,
-      "avgRound": 13.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 124,
       "round": 11,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.28389",
+      "playerId": "28389",
       "playerFirstName": "Jameis",
       "playerLastName": "Winston",
-      "avgPick": 114.5,
-      "avgRound": 12.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 125,
       "round": 11,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.9317",
+      "playerId": "9317",
       "playerFirstName": "LeSean",
       "playerLastName": "McCoy",
-      "avgPick": 115.2,
-      "avgRound": 12.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 126,
       "round": 11,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.25793",
+      "playerId": "25793",
       "playerFirstName": "Mohamed",
       "playerLastName": "Sanu",
-      "avgPick": 127.3,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 127,
       "round": 11,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.28046",
+      "teamName": "For The Boyd’s",
+      "playerId": "28046",
       "playerFirstName": "Albert",
       "playerLastName": "Wilson",
       "avgPick": null,
@@ -1550,150 +1574,150 @@
       "round": 11,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.8780",
+      "playerId": "8780",
       "playerFirstName": "Matt",
       "playerLastName": "Ryan",
-      "avgPick": 59,
-      "avgRound": 6.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 129,
       "round": 11,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.6763",
+      "playerId": "6763",
       "playerFirstName": "Philip",
       "playerLastName": "Rivers",
-      "avgPick": 117.7,
-      "avgRound": 12.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 130,
       "round": 11,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.31135",
+      "playerId": "31135",
       "playerFirstName": "Jaylen",
       "playerLastName": "Samuels",
-      "avgPick": 126.8,
-      "avgRound": 13.6
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 131,
       "round": 11,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.31221",
+      "playerId": "31221",
       "playerFirstName": "Justin",
       "playerLastName": "Jackson",
-      "avgPick": 126.4,
-      "avgRound": 14.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 132,
       "round": 11,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.31888",
+      "playerId": "31888",
       "playerFirstName": "Mecole",
       "playerLastName": "Hardman Jr.",
-      "avgPick": 124.2,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 133,
       "round": 12,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.27624",
+      "playerId": "27624",
       "playerFirstName": "Jerick",
       "playerLastName": "McKinnon",
-      "avgPick": 119.6,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 134,
       "round": 12,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.29070",
+      "playerId": "29070",
       "playerFirstName": "Adam",
       "playerLastName": "Humphries",
-      "avgPick": 125.1,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 135,
       "round": 12,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.26767",
+      "playerId": "26767",
       "playerFirstName": "Kenny",
       "playerLastName": "Stills",
-      "avgPick": 126.9,
-      "avgRound": 13.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 136,
       "round": 12,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.31934",
+      "playerId": "31934",
       "playerFirstName": "Alexander",
       "playerLastName": "Mattison",
-      "avgPick": 129,
-      "avgRound": 14.7
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 137,
       "round": 12,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.8261",
+      "playerId": "8261",
       "playerFirstName": "Adrian",
       "playerLastName": "Peterson",
-      "avgPick": 121.4,
-      "avgRound": 12.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 138,
       "round": 12,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.26708",
+      "teamName": "For The Boyd’s",
+      "playerId": "26708",
       "playerFirstName": "Jordan",
       "playerLastName": "Reed",
-      "avgPick": 133.8,
-      "avgRound": 14.1
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 139,
       "round": 12,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.31868",
+      "playerId": "31868",
       "playerFirstName": "Deebo",
-      "playerLastName": "Samuel",
-      "avgPick": 125,
-      "avgRound": 13.2
+      "playerLastName": "Samuel Sr.",
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 140,
       "round": 12,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.31096",
+      "playerId": "31096",
       "playerFirstName": "Ito",
       "playerLastName": "Smith",
-      "avgPick": 129.6,
-      "avgRound": 14.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 141,
       "round": 12,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.31925",
+      "playerId": "31925",
       "playerFirstName": "Miles",
       "playerLastName": "Boykin",
       "avgPick": null,
@@ -1704,51 +1728,51 @@
       "round": 12,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.27585",
+      "playerId": "27585",
       "playerFirstName": "Carlos",
       "playerLastName": "Hyde",
-      "avgPick": 123.4,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 143,
       "round": 12,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.24788",
+      "playerId": "24788",
       "playerFirstName": "Cam",
       "playerLastName": "Newton",
-      "avgPick": 76.8,
-      "avgRound": 8.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 144,
       "round": 12,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.30199",
+      "playerId": "30199",
       "playerFirstName": "Kareem",
       "playerLastName": "Hunt",
-      "avgPick": 117.3,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 145,
       "round": 13,
       "teamId": "t.10",
       "teamName": "2da hair saquon😢",
-      "playerId": "390.p.31056",
+      "playerId": "31056",
       "playerFirstName": "Mark",
       "playerLastName": "Andrews",
-      "avgPick": 116.6,
-      "avgRound": 12.4
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 146,
       "round": 13,
       "teamId": "t.9",
       "teamName": "Quon Solo",
-      "playerId": "390.p.31083",
+      "playerId": "31083",
       "playerFirstName": "DaeSean",
       "playerLastName": "Hamilton",
       "avgPick": null,
@@ -1759,106 +1783,106 @@
       "round": 13,
       "teamId": "t.4",
       "teamName": "Mahomosexuals",
-      "playerId": "390.p.29235",
+      "playerId": "29235",
       "playerFirstName": "Jared",
       "playerLastName": "Goff",
-      "avgPick": 95.4,
-      "avgRound": 10.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 148,
       "round": 13,
       "teamId": "t.3",
       "teamName": "Dippmar dipprozan",
-      "playerId": "390.p.31077",
+      "playerId": "31077",
       "playerFirstName": "Chris",
       "playerLastName": "Herndon",
-      "avgPick": 132.4,
-      "avgRound": 14.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 149,
       "round": 13,
       "teamId": "t.8",
       "teamName": "Moore Life",
-      "playerId": "390.p.31896",
+      "playerId": "31896",
       "playerFirstName": "DK",
       "playerLastName": "Metcalf",
-      "avgPick": 124.8,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 150,
       "round": 13,
       "teamId": "t.2",
       "teamName": "Stef Diggs My Grave",
-      "playerId": "390.p.26660",
+      "playerId": "26660",
       "playerFirstName": "Giovani",
       "playerLastName": "Bernard",
-      "avgPick": 126,
-      "avgRound": 13.9
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 151,
       "round": 13,
       "teamId": "t.12",
-      "teamName": "For The Boyd's",
-      "playerId": "390.p.31074",
+      "teamName": "For The Boyd’s",
+      "playerId": "31074",
       "playerFirstName": "Nyheim",
       "playerLastName": "Miller-Hines",
-      "avgPick": 125.8,
-      "avgRound": 13.2
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 152,
       "round": 13,
       "teamId": "t.6",
       "teamName": "Shake and Bakers",
-      "playerId": "390.p.26701",
+      "playerId": "26701",
       "playerFirstName": "Marquise",
       "playerLastName": "Goodwin",
-      "avgPick": 126.7,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 153,
       "round": 13,
       "teamId": "t.7",
       "teamName": "Legally Blonde",
-      "playerId": "390.p.28990",
+      "playerId": "28990",
       "playerFirstName": "Malcolm",
       "playerLastName": "Brown",
-      "avgPick": 121,
-      "avgRound": 13.5
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 154,
       "round": 13,
       "teamId": "t.11",
       "teamName": "Dirty Kenyan",
-      "playerId": "390.p.31857",
+      "playerId": "31857",
       "playerFirstName": "Hollywood",
       "playerLastName": "Brown",
-      "avgPick": 122.1,
-      "avgRound": 12.8
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 155,
       "round": 13,
       "teamId": "t.1",
       "teamName": "Scary Terry",
-      "playerId": "390.p.30115",
+      "playerId": "30115",
       "playerFirstName": "Mitchell",
       "playerLastName": "Trubisky",
-      "avgPick": 125,
-      "avgRound": 13.3
+      "avgPick": null,
+      "avgRound": null
     },
     {
       "pick": 156,
       "round": 13,
       "teamId": "t.5",
       "teamName": "Running Backs R Gayy",
-      "playerId": "390.p.32471",
+      "playerId": "32471",
       "playerFirstName": "Damion",
       "playerLastName": "Willis",
       "avgPick": null,
@@ -1932,7 +1956,7 @@
       "team1Name": "2da hair saquon😢",
       "team1Points": 130.44,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 98.32,
       "isComplete": true,
       "isPlayoff": false,
@@ -2004,7 +2028,7 @@
       "team1Name": "Dirty Kenyan",
       "team1Points": 102.86,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 117.16,
       "isComplete": true,
       "isPlayoff": false,
@@ -2064,7 +2088,7 @@
       "team1Name": "Running Backs R Gayy",
       "team1Points": 183.84,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 114.9,
       "isComplete": true,
       "isPlayoff": false,
@@ -2088,7 +2112,7 @@
       "team1Name": "Scary Terry",
       "team1Points": 124.38,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 130.38,
       "isComplete": true,
       "isPlayoff": false,
@@ -2220,7 +2244,7 @@
       "team1Name": "Legally Blonde",
       "team1Points": 99.04,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 123.92,
       "isComplete": true,
       "isPlayoff": false,
@@ -2244,7 +2268,7 @@
       "team1Name": "Stef Diggs My Grave",
       "team1Points": 143.56,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 98.62,
       "isComplete": true,
       "isPlayoff": false,
@@ -2352,7 +2376,7 @@
       "team1Name": "Moore Life",
       "team1Points": 64.36,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 154.16,
       "isComplete": true,
       "isPlayoff": false,
@@ -2412,7 +2436,7 @@
       "team1Name": "Mahomosexuals",
       "team1Points": 122.06,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 108.1,
       "isComplete": true,
       "isPlayoff": false,
@@ -2472,7 +2496,7 @@
       "team1Name": "Dippmar dipprozan",
       "team1Points": 118.7,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 80.64,
       "isComplete": true,
       "isPlayoff": false,
@@ -2568,7 +2592,7 @@
       "team1Name": "Shake and Bakers",
       "team1Points": 132.58,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 110.82,
       "isComplete": true,
       "isPlayoff": false,
@@ -2652,7 +2676,7 @@
       "team1Name": "Quon Solo",
       "team1Points": 117.32,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 85.32,
       "isComplete": true,
       "isPlayoff": false,
@@ -2724,7 +2748,7 @@
       "team1Name": "2da hair saquon😢",
       "team1Points": 88.36,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 91.56,
       "isComplete": true,
       "isPlayoff": false,
@@ -2796,7 +2820,7 @@
       "team1Name": "Dirty Kenyan",
       "team1Points": 92.36,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 143.32,
       "isComplete": true,
       "isPlayoff": false,
@@ -2916,7 +2940,7 @@
       "team1Name": "Dirty Kenyan",
       "team1Points": 150.32,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 96.72,
       "isComplete": true,
       "isPlayoff": true,
@@ -2928,7 +2952,7 @@
       "team1Name": "Scary Terry",
       "team1Points": 127.56,
       "team2Id": "t.12",
-      "team2Name": "For The Boyd's",
+      "team2Name": "For The Boyd’s",
       "team2Points": 131.44,
       "isComplete": true,
       "isPlayoff": true,
@@ -2971,5 +2995,960 @@
       "isConsolation": true
     }
   ],
-  "trades": []
+  "trades": [
+    {
+      "id": "390.l.31020.tr.14",
+      "year": 2019,
+      "date": "2019-08-26T20:44:23.000Z",
+      "timestamp": 1566852263,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Scary Terry",
+          "manager": "James Ellement",
+          "sent": [
+            "Justin Jackson"
+          ],
+          "received": [
+            "Corey Davis"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Moore Life",
+          "manager": "Declan Brown",
+          "sent": [
+            "Corey Davis"
+          ],
+          "received": [
+            "Justin Jackson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.35",
+      "year": 2019,
+      "date": "2019-09-01T19:51:50.000Z",
+      "timestamp": 1567367510,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "LeSean McCoy"
+          ],
+          "received": [
+            "Matt Breida"
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Dippmar dipprozan",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Matt Breida"
+          ],
+          "received": [
+            "LeSean McCoy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.39",
+      "year": 2019,
+      "date": "2019-09-04T22:00:35.000Z",
+      "timestamp": 1567634435,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Antonio Brown",
+            "Miles Sanders"
+          ],
+          "received": [
+            "Todd Gurley",
+            "Dante Pettis"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Todd Gurley",
+            "Dante Pettis"
+          ],
+          "received": [
+            "Antonio Brown",
+            "Miles Sanders"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.54",
+      "year": 2019,
+      "date": "2019-09-10T20:59:24.000Z",
+      "timestamp": 1568149164,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "2da hair saquon😢",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            "Robbie Chosen",
+            "Tarik Cohen"
+          ],
+          "received": [
+            "Damien Williams",
+            "Geronimo Allison"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Damien Williams",
+            "Geronimo Allison"
+          ],
+          "received": [
+            "Robbie Chosen",
+            "Tarik Cohen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.81",
+      "year": 2019,
+      "date": "2019-09-15T16:16:39.000Z",
+      "timestamp": 1568564199,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Danny Amendola"
+          ],
+          "received": [
+            "Jared Goff"
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Mahomosexuals",
+          "manager": "Kevin McCreary",
+          "sent": [
+            "Jared Goff"
+          ],
+          "received": [
+            "Danny Amendola"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.89",
+      "year": 2019,
+      "date": "2019-09-18T03:33:25.000Z",
+      "timestamp": 1568777605,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Todd Gurley"
+          ],
+          "received": [
+            "Jarvis Landry",
+            "Mike Williams",
+            "Matt Breida"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Jarvis Landry",
+            "Mike Williams",
+            "Matt Breida"
+          ],
+          "received": [
+            "Todd Gurley"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.116",
+      "year": 2019,
+      "date": "2019-09-20T19:08:26.000Z",
+      "timestamp": 1569006506,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Dippmar dipprozan",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Josh Gordon"
+          ],
+          "received": [
+            "Courtland Sutton"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Running Backs R Gayy",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Courtland Sutton"
+          ],
+          "received": [
+            "Josh Gordon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.129",
+      "year": 2019,
+      "date": "2019-09-25T00:18:41.000Z",
+      "timestamp": 1569370721,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Scary Terry",
+          "manager": "James Ellement",
+          "sent": [
+            "Dak Prescott",
+            "Derrick Henry",
+            "Allen Robinson"
+          ],
+          "received": [
+            "Robert Woods",
+            "James Conner",
+            "Matt Ryan"
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Shake and Bakers",
+          "manager": "Ian O'Handley",
+          "sent": [
+            "Robert Woods",
+            "James Conner",
+            "Matt Ryan"
+          ],
+          "received": [
+            "Dak Prescott",
+            "Derrick Henry",
+            "Allen Robinson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.141",
+      "year": 2019,
+      "date": "2019-09-25T20:12:39.000Z",
+      "timestamp": 1569442359,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Dippmar dipprozan",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Joe Mixon",
+            "Curtis Samuel"
+          ],
+          "received": [
+            "Todd Gurley",
+            "Corey Davis"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Todd Gurley",
+            "Corey Davis"
+          ],
+          "received": [
+            "Joe Mixon",
+            "Curtis Samuel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.144",
+      "year": 2019,
+      "date": "2019-09-26T21:06:33.000Z",
+      "timestamp": 1569531993,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "2da hair saquon😢",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            "John Ross",
+            "DK Metcalf",
+            "Kerryon Johnson",
+            "Saquon Barkley"
+          ],
+          "received": [
+            "David Montgomery",
+            "Jamison Crowder",
+            "Joe Mixon",
+            "Deebo Samuel Sr."
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "David Montgomery",
+            "Jamison Crowder",
+            "Joe Mixon",
+            "Deebo Samuel Sr."
+          ],
+          "received": [
+            "John Ross",
+            "DK Metcalf",
+            "Kerryon Johnson",
+            "Saquon Barkley"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.168",
+      "year": 2019,
+      "date": "2019-10-02T20:54:11.000Z",
+      "timestamp": 1570049651,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Scary Terry",
+          "manager": "James Ellement",
+          "sent": [
+            "Matt Ryan",
+            "Chris Carson",
+            "Robert Woods"
+          ],
+          "received": [
+            "David Johnson",
+            "Carson Wentz",
+            "Will Fuller V"
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Moore Life",
+          "manager": "Declan Brown",
+          "sent": [
+            "David Johnson",
+            "Carson Wentz",
+            "Will Fuller V"
+          ],
+          "received": [
+            "Matt Ryan",
+            "Chris Carson",
+            "Robert Woods"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.200",
+      "year": 2019,
+      "date": "2019-10-09T19:40:51.000Z",
+      "timestamp": 1570650051,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Moore Life",
+          "manager": "Declan Brown",
+          "sent": [
+            "Robert Woods",
+            "Jamaal Williams"
+          ],
+          "received": [
+            "Jarvis Landry",
+            "DJ Moore"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Jarvis Landry",
+            "DJ Moore"
+          ],
+          "received": [
+            "Robert Woods",
+            "Jamaal Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.205",
+      "year": 2019,
+      "date": "2019-10-09T22:06:11.000Z",
+      "timestamp": 1570658771,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Scary Terry",
+          "manager": "James Ellement",
+          "sent": [
+            "David Johnson",
+            "Calvin Ridley"
+          ],
+          "received": [
+            "Saquon Barkley",
+            "Miles Sanders"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Saquon Barkley",
+            "Miles Sanders"
+          ],
+          "received": [
+            "David Johnson",
+            "Calvin Ridley"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.208",
+      "year": 2019,
+      "date": "2019-10-10T02:25:49.000Z",
+      "timestamp": 1570674349,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "DK Metcalf",
+            "Auden Tate"
+          ],
+          "received": [
+            "Tarik Cohen",
+            "Robbie Chosen"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Tarik Cohen",
+            "Robbie Chosen"
+          ],
+          "received": [
+            "DK Metcalf",
+            "Auden Tate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.218",
+      "year": 2019,
+      "date": "2019-10-13T04:01:00.000Z",
+      "timestamp": 1570939260,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Gerald Everett"
+          ],
+          "received": [
+            "O.J. Howard"
+          ]
+        },
+        {
+          "teamId": "t.11",
+          "teamName": "Dirty Kenyan",
+          "manager": "Harrison Wood",
+          "sent": [
+            "O.J. Howard"
+          ],
+          "received": [
+            "Gerald Everett"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.225",
+      "year": 2019,
+      "date": "2019-10-15T17:05:42.000Z",
+      "timestamp": 1571159142,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Philip Rivers"
+          ],
+          "received": [
+            "Jared Goff"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Jared Goff"
+          ],
+          "received": [
+            "Philip Rivers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.226",
+      "year": 2019,
+      "date": "2019-10-15T18:45:59.000Z",
+      "timestamp": 1571165159,
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Philip Rivers"
+          ],
+          "received": [
+            "Delanie Walker"
+          ]
+        },
+        {
+          "teamId": "t.12",
+          "teamName": "For The Boyd’s",
+          "manager": "Lucas Stagliano",
+          "sent": [
+            "Delanie Walker"
+          ],
+          "received": [
+            "Philip Rivers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.240",
+      "year": 2019,
+      "date": "2019-10-16T20:52:41.000Z",
+      "timestamp": 1571259161,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Moore Life",
+          "manager": "Declan Brown",
+          "sent": [
+            "Jarvis Landry"
+          ],
+          "received": [
+            "Robbie Chosen"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Robbie Chosen"
+          ],
+          "received": [
+            "Jarvis Landry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.242",
+      "year": 2019,
+      "date": "2019-10-17T02:33:25.000Z",
+      "timestamp": 1571279605,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Tarik Cohen"
+          ],
+          "received": [
+            "Dante Pettis"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Dante Pettis"
+          ],
+          "received": [
+            "Tarik Cohen"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.246",
+      "year": 2019,
+      "date": "2019-10-17T19:04:24.000Z",
+      "timestamp": 1571339064,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Dippmar dipprozan",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Courtland Sutton",
+            "Todd Gurley",
+            "Ezekiel Elliott"
+          ],
+          "received": [
+            "Christian McCaffrey",
+            "Auden Tate",
+            "Matt Breida"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Christian McCaffrey",
+            "Auden Tate",
+            "Matt Breida"
+          ],
+          "received": [
+            "Courtland Sutton",
+            "Todd Gurley",
+            "Ezekiel Elliott"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.267",
+      "year": 2019,
+      "date": "2019-10-22T19:26:20.000Z",
+      "timestamp": 1571772380,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Scary Terry",
+          "manager": "James Ellement",
+          "sent": [
+            "Saquon Barkley",
+            "Miles Sanders"
+          ],
+          "received": [
+            "Robert Woods",
+            "Ezekiel Elliott"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Robert Woods",
+            "Ezekiel Elliott"
+          ],
+          "received": [
+            "Saquon Barkley",
+            "Miles Sanders"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.291",
+      "year": 2019,
+      "date": "2019-10-24T20:50:11.000Z",
+      "timestamp": 1571950211,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Scary Terry",
+          "manager": "James Ellement",
+          "sent": [
+            "Odell Beckham Jr.",
+            "Ezekiel Elliott",
+            "Chase Edmonds"
+          ],
+          "received": [
+            "Leonard Fournette",
+            "DeAndre Hopkins",
+            "Ty Johnson"
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Leonard Fournette",
+            "DeAndre Hopkins",
+            "Ty Johnson"
+          ],
+          "received": [
+            "Odell Beckham Jr.",
+            "Ezekiel Elliott",
+            "Chase Edmonds"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.294",
+      "year": 2019,
+      "date": "2019-10-25T02:59:00.000Z",
+      "timestamp": 1571972340,
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Moore Life",
+          "manager": "Declan Brown",
+          "sent": [
+            "Josh Jacobs"
+          ],
+          "received": [
+            "Austin Ekeler"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Running Backs R Gayy",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Austin Ekeler"
+          ],
+          "received": [
+            "Josh Jacobs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.301",
+      "year": 2019,
+      "date": "2019-10-25T20:49:28.000Z",
+      "timestamp": 1572036568,
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Legally Blonde",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            "Jarvis Landry",
+            "Greg Olsen",
+            "Damien Williams"
+          ],
+          "received": [
+            "Eric Ebron",
+            "Sony Michel",
+            "Tarik Cohen"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Eric Ebron",
+            "Sony Michel",
+            "Tarik Cohen"
+          ],
+          "received": [
+            "Jarvis Landry",
+            "Greg Olsen",
+            "Damien Williams"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.304",
+      "year": 2019,
+      "date": "2019-10-27T00:18:20.000Z",
+      "timestamp": 1572135500,
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Dippmar dipprozan",
+          "manager": "Joe Glibbery",
+          "sent": [
+            "Matt Breida"
+          ],
+          "received": [
+            "Kenny Stills"
+          ]
+        },
+        {
+          "teamId": "t.11",
+          "teamName": "Dirty Kenyan",
+          "manager": "Harrison Wood",
+          "sent": [
+            "Kenny Stills"
+          ],
+          "received": [
+            "Matt Breida"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.347",
+      "year": 2019,
+      "date": "2019-11-04T19:01:32.000Z",
+      "timestamp": 1572894092,
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Scary Terry",
+          "manager": "James Ellement",
+          "sent": [
+            "Will Fuller V"
+          ],
+          "received": [
+            "Zach Pascal"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Zach Pascal"
+          ],
+          "received": [
+            "Will Fuller V"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.352",
+      "year": 2019,
+      "date": "2019-11-05T21:10:32.000Z",
+      "timestamp": 1572988232,
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Stef Diggs My Grave",
+          "manager": "William Davison",
+          "sent": [
+            "Duke Johnson"
+          ],
+          "received": [
+            "Damien Williams"
+          ]
+        },
+        {
+          "teamId": "t.9",
+          "teamName": "Quon Solo",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            "Damien Williams"
+          ],
+          "received": [
+            "Duke Johnson"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.372",
+      "year": 2019,
+      "date": "2019-11-08T01:17:46.000Z",
+      "timestamp": 1573175866,
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "2da hair saquon😢",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            "A.J. Green"
+          ],
+          "received": [
+            "Carlos Hyde"
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Running Backs R Gayy",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            "Carlos Hyde"
+          ],
+          "received": [
+            "A.J. Green"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390.l.31020.tr.373",
+      "year": 2019,
+      "date": "2019-11-08T02:58:08.000Z",
+      "timestamp": 1573181888,
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Shake and Bakers",
+          "manager": "Ian O'Handley",
+          "sent": [
+            "J.D. McKissic"
+          ],
+          "received": [
+            "Derrius Guice"
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "Scary Terry",
+          "manager": "James Ellement",
+          "sent": [
+            "Derrius Guice"
+          ],
+          "received": [
+            "J.D. McKissic"
+          ]
+        }
+      ]
+    }
+  ]
 }
