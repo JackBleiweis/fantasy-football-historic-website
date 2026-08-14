@@ -23,6 +23,7 @@ export function Layout() {
     { to: `/${leagueId}/standings`, label: 'Standings', end: false },
     { to: `/${leagueId}/season`, label: 'Season', end: false },
     { to: `/${leagueId}/playoffs`, label: 'Playoffs', end: false },
+    { to: `/${leagueId}/champions`, label: 'Champions', end: false },
     { to: `/${leagueId}/records`, label: 'Records', end: false },
   ];
 

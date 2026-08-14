@@ -50,9 +50,9 @@ export const leagues: Record<LeagueId, LeagueInfo> = {
   },
   lp: {
     id: 'lp',
-    name: 'Dirty Dozen',
-    shortName: 'DD',
-    description: 'The Dirty Dozen Fantasy Football League',
+    name: 'Lawrence Park',
+    shortName: 'LP',
+    description: 'The Lawrence Park Fantasy Football League',
     years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017],
   },
 };

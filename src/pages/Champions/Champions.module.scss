@@ -1,0 +1,73 @@
+@use '../../styles/variables' as *;
+@use '../../styles/mixins' as *;
+
+.champions {
+  @include container;
+  padding-top: $space-24;
+  padding-bottom: calc(#{$space-48} + env(safe-area-inset-bottom, 0px));
+
+  @media (min-width: $breakpoint-md) {
+    padding-top: $space-32;
+  }
+}
+
+.header {
+  margin-bottom: $space-24;
+
+  h1 {
+    margin: 0 0 $space-8;
+    font-size: $font-size-2xl;
+
+    @media (min-width: $breakpoint-md) {
+      font-size: $font-size-4xl;
+    }
+  }
+
+  p {
+    margin: 0;
+    color: var(--color-text-secondary);
+  }
+}
+
+.empty {
+  @include card;
+  text-align: center;
+  padding: $space-48;
+  color: var(--color-text-secondary);
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: $space-12;
+}
+
+.row {
+  @include card;
+  display: flex;
+  align-items: center;
+  gap: $space-16;
+  padding: $space-16;
+
+  @media (min-width: $breakpoint-md) {
+    padding: $space-20 $space-24;
+    gap: $space-24;
+  }
+}
+
+.year {
+  flex-shrink: 0;
+  min-width: 4.5rem;
+  font-size: $font-size-xl;
+  font-weight: $font-weight-bold;
+  color: var(--color-gold);
+  font-variant-numeric: tabular-nums;
+
+  @media (min-width: $breakpoint-md) {
+    font-size: $font-size-2xl;
+    min-width: 5.5rem;
+  }
+}

@@ -9,6 +9,7 @@ import { Standings } from './pages/Standings/Standings';
 import { Records } from './pages/Records/Records';
 import { Season } from './pages/Season/Season';
 import { Playoffs } from './pages/Playoffs/Playoffs';
+import { Champions } from './pages/Champions/Champions';
 import { ManagerProfile } from './pages/ManagerProfile/ManagerProfile';
 import { Managers } from './pages/Managers/Managers';
 import { MatchupDetail } from './pages/MatchupDetail/MatchupDetail';
@@ -34,6 +35,7 @@ function App() {
             />
             <Route path="playoffs" element={<Playoffs />} />
             <Route path="playoffs/:year" element={<Playoffs />} />
+            <Route path="champions" element={<Champions />} />
             <Route path="records" element={<Records />} />
             <Route path="managers" element={<Managers />} />
             <Route path="managers/:managerId" element={<ManagerProfile />} />
