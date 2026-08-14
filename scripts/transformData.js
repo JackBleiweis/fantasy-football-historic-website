@@ -16,6 +16,10 @@
  * Playoff champions / runner-up / playoff teams stay in:
  *   src/data/{league}/playoffs.json
  *
+ * Draft-day pick trades are curated separately (not from Yahoo transactions):
+ *   src/data/{league}/draft-day-trades.json
+ * Propose new years with: node scripts/inferDraftDayTrades.js cwp 2026
+ *
  * Yahoo only gives manager nicknames. Use MANAGER_NAME_MAP and
  * TEAM_TO_MANAGER_MAP to resolve full names.
  *
@@ -46,6 +50,7 @@ const SEASONS_TO_TRANSFORM = [
   { league: 'cwp', year: 2023 },
   { league: 'cwp', year: 2024 },
   { league: 'cwp', year: 2025 },
+  { league: 'cwp', year: 2026 },
   // LP League
   { league: 'lp', year: 2017 },
   { league: 'lp', year: 2018 },
@@ -118,7 +123,11 @@ const TEAM_TO_MANAGER_MAP = {
     2016: { 't.1': 'Jack Bleiweis', 't.7': 'Jack Beder', 't.4': 'Ben Roher' },
     // 2017 t.8 "Show me your TD's" was Ben (same team name as other Ben seasons)
     2017: { 't.1': 'Jack Bleiweis', 't.8': 'Ben Roher' },
-    2018: { 't.1': 'Jack Bleiweis', 't.10': 'Jack Beder', 't.4': 'Michael Kagan' },
+    2018: {
+      't.1': 'Jack Bleiweis',
+      't.10': 'Jack Beder',
+      't.4': 'Michael Kagan',
+    },
     2019: { 't.1': 'Jack Bleiweis', 't.10': 'Jack Beder' },
     2020: { 't.1': 'Jack Bleiweis', 't.9': 'Jack Beder' },
     2021: { 't.1': 'Jack Bleiweis', 't.8': 'Jack Beder' },
@@ -126,6 +135,7 @@ const TEAM_TO_MANAGER_MAP = {
     2023: { 't.1': 'Jack Bleiweis', 't.8': 'Jack Beder' },
     2024: { 't.1': 'Jack Bleiweis', 't.7': 'Jack Beder' },
     2025: { 't.1': 'Jack Bleiweis', 't.7': 'Jack Beder' },
+    2026: { 't.1': 'Jack Bleiweis', 't.7': 'Jack Beder' },
   },
   lp: {
     2017: { 't.6': 'Jack Bleiweis', 't.3': 'Matthew Weintraub' },
@@ -208,7 +218,9 @@ function splitPlayerName(fullName) {
 
 function extractPlayerId(playerKey) {
   if (!playerKey) return '';
-  const match = String(playerKey).match(/\.p\.(\d+)$/) || String(playerKey).match(/^(\d+)$/);
+  const match =
+    String(playerKey).match(/\.p\.(\d+)$/) ||
+    String(playerKey).match(/^(\d+)$/);
   return match ? match[1] : String(playerKey);
 }
 
@@ -258,7 +270,10 @@ function recalculateRecordsFromScoreboard(season) {
 
   for (const weekBoard of season.scoreboard || []) {
     for (const matchup of weekBoard.matchups || []) {
-      if (toBooleanFlag(matchup.is_playoffs) || toBooleanFlag(matchup.is_consolation)) {
+      if (
+        toBooleanFlag(matchup.is_playoffs) ||
+        toBooleanFlag(matchup.is_consolation)
+      ) {
         continue;
       }
       const teams = matchup.teams || [];
@@ -344,7 +359,8 @@ function transformApiDraft(season) {
         pick.team_key || (pick.roster_id != null ? `t.${pick.roster_id}` : '')
       ),
       teamName: pick.team_name || '',
-      playerId: extractPlayerId(pick.player_key) || String(pick.player_id || ''),
+      playerId:
+        extractPlayerId(pick.player_key) || String(pick.player_id || ''),
       playerFirstName: first,
       playerLastName: last,
       avgPick: pick.avg_pick ?? null,
@@ -406,9 +422,7 @@ function transformApiTrades(season, teams, year) {
 
   return (season.trades || []).map((trade, index) => ({
     id:
-      trade.transaction_key ||
-      trade.transaction_id ||
-      `${year}-trade-${index}`,
+      trade.transaction_key || trade.transaction_id || `${year}-trade-${index}`,
     year,
     date: trade.date || null,
     timestamp: trade.timestamp || null,

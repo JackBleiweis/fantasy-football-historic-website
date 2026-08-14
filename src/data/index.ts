@@ -8,6 +8,9 @@ import type {
   LeagueId,
   PlayoffHistory,
   PlayoffYear,
+  DraftDayTrade,
+  DraftDayUnresolved,
+  DraftDayTradesFile,
 } from '../types';
 
 // Import CWP data
@@ -23,7 +26,9 @@ import cwp2022 from './cwp/2022.json';
 import cwp2023 from './cwp/2023.json';
 import cwp2024 from './cwp/2024.json';
 import cwp2025 from './cwp/2025.json';
+import cwp2026 from './cwp/2026.json';
 import cwpPlayoffs from './cwp/playoffs.json';
+import cwpDraftDayTrades from './cwp/draft-day-trades.json';
 
 // Import LP data
 import lp2017 from './lp/2017.json';
@@ -46,7 +51,10 @@ export const leagues: Record<LeagueId, LeagueInfo> = {
     name: 'CWP Fantasy League',
     shortName: 'CWP',
     description: 'The CWP Fantasy Football League',
-    years: [2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012],
+    years: [
+      2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015,
+      2014, 2013, 2012,
+    ],
   },
   lp: {
     id: 'lp',
@@ -74,6 +82,7 @@ const seasonDataMap: Record<LeagueId, Record<number, SeasonData>> = {
     2023: cwp2023 as SeasonData,
     2024: cwp2024 as SeasonData,
     2025: cwp2025 as SeasonData,
+    2026: cwp2026 as SeasonData,
   },
   lp: {
     2017: lp2017 as SeasonData,
@@ -95,6 +104,28 @@ const playoffHistoryMap: Record<LeagueId, PlayoffHistory | null> = {
   cwp: cwpPlayoffs as PlayoffHistory,
   lp: lpPlayoffs as PlayoffHistory,
 };
+
+const draftDayTradesByLeague: Partial<Record<LeagueId, DraftDayTradesFile>> = {
+  cwp: cwpDraftDayTrades as unknown as DraftDayTradesFile,
+};
+
+export function getDraftDayTrades(
+  leagueId: LeagueId,
+  year: number
+): DraftDayTrade[] {
+  return (draftDayTradesByLeague[leagueId]?.trades ?? []).filter(
+    (trade) => trade.year === year
+  );
+}
+
+export function getDraftDayUnresolved(
+  leagueId: LeagueId,
+  year: number
+): DraftDayUnresolved[] {
+  return (draftDayTradesByLeague[leagueId]?.unresolved ?? []).filter(
+    (item) => item.year === year
+  );
+}
 
 /**
  * Get season data for a specific league and year

@@ -41,6 +41,63 @@ export interface DraftPick {
 }
 
 /**
+ * A pick involved in a draft-day trade. The player is who that pick
+ * became after the swap, not a player who was traded.
+ */
+export interface DraftDayTradePick {
+  pick: number;
+  round: number;
+  roundPick: number;
+  slot: number;
+  label: string;
+  playerId: string;
+  playerFirstName: string;
+  playerLastName: string;
+}
+
+export interface DraftDayTradeSide {
+  teamId: string;
+  teamName: string;
+  manager: string;
+  sent: DraftDayTradePick[];
+  received: DraftDayTradePick[];
+}
+
+export type DraftDayTradeConfidence = 'needs_review';
+
+export interface DraftDayTrade {
+  id: string;
+  leagueId: LeagueId;
+  year: number;
+  confidence: DraftDayTradeConfidence;
+  sides: [DraftDayTradeSide, DraftDayTradeSide];
+}
+
+export interface DraftDayUnresolvedPick extends DraftDayTradePick {
+  originalManager: string;
+  originalTeamName: string;
+  actualManager: string;
+  actualTeamName: string;
+  actualTeamId: string;
+}
+
+export interface DraftDayUnresolved {
+  id: string;
+  leagueId: LeagueId;
+  year: number;
+  round: number;
+  confidence: DraftDayTradeConfidence;
+  notes: string;
+  picks: DraftDayUnresolvedPick[];
+}
+
+export interface DraftDayTradesFile {
+  leagueId: LeagueId;
+  trades: DraftDayTrade[];
+  unresolved: DraftDayUnresolved[];
+}
+
+/**
  * Weekly matchup between two teams
  */
 export interface Matchup {

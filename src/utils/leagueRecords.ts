@@ -71,6 +71,7 @@ function normalizeTeamName(name: string) {
   return name.replace(/['\u2018\u2019]/g, "'").toLowerCase();
 }
 
+/**
  * Prefer single-week scores. Multi-week championship finals (Yahoo combined
  * totals) are rewritten in transform; skip any leftover flagged rows.
  */
