@@ -113,15 +113,17 @@ function DraftDayTradesSection({
                           />
                         </div>
                         <span className={styles.teamName}>{side.teamName}</span>
-                        <p className={styles.sentLabel}>Gave these picks</p>
+                        <p className={styles.sentLabel}>Got these picks</p>
                         <ul className={styles.chipRow}>
-                          {side.sent.map((pick) => (
+                          {side.received.map((pick) => (
                             <PickChip
                               key={pick.pick}
                               pick={pick}
                               fromManager={acquiredFromManager(
                                 pick,
-                                side.teamId,
+                                trade.sides.find(
+                                  (other) => other.teamId !== side.teamId
+                                )?.teamId ?? '',
                                 trades,
                                 trade.id
                               )}

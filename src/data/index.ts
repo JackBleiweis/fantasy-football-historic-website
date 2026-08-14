@@ -41,6 +41,7 @@ import lp2023 from './lp/2023.json';
 import lp2024 from './lp/2024.json';
 import lp2025 from './lp/2025.json';
 import lpPlayoffs from './lp/playoffs.json';
+import lpDraftDayTrades from './lp/draft-day-trades.json';
 
 /**
  * League metadata
@@ -107,6 +108,7 @@ const playoffHistoryMap: Record<LeagueId, PlayoffHistory | null> = {
 
 const draftDayTradesByLeague: Partial<Record<LeagueId, DraftDayTradesFile>> = {
   cwp: cwpDraftDayTrades as unknown as DraftDayTradesFile,
+  lp: lpDraftDayTrades as unknown as DraftDayTradesFile,
 };
 
 export function getDraftDayTrades(

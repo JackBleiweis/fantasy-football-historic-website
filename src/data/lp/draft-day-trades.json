@@ -1,0 +1,1428 @@
+{
+  "leagueId": "lp",
+  "trades": [
+    {
+      "id": "lp-2021-draft-trade-1",
+      "leagueId": "lp",
+      "year": 2021,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Tim Patrick for MVP",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            {
+              "pick": 55,
+              "round": 5,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "5.07",
+              "playerId": "33398",
+              "playerFirstName": "DeVonta",
+              "playerLastName": "Smith"
+            },
+            {
+              "pick": 151,
+              "round": 13,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "13.07",
+              "playerId": "33391",
+              "playerFirstName": "Trey",
+              "playerLastName": "Lance"
+            }
+          ],
+          "received": [
+            {
+              "pick": 67,
+              "round": 6,
+              "roundPick": 7,
+              "slot": 6,
+              "label": "6.07",
+              "playerId": "32066",
+              "playerFirstName": "Myles",
+              "playerLastName": "Gaskin"
+            },
+            {
+              "pick": 78,
+              "round": 7,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "7.06",
+              "playerId": "7200",
+              "playerFirstName": "Aaron",
+              "playerLastName": "Rodgers"
+            }
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Cousins fucker",
+          "manager": "Joe Glibbery",
+          "sent": [
+            {
+              "pick": 67,
+              "round": 6,
+              "roundPick": 7,
+              "slot": 6,
+              "label": "6.07",
+              "playerId": "32066",
+              "playerFirstName": "Myles",
+              "playerLastName": "Gaskin"
+            },
+            {
+              "pick": 78,
+              "round": 7,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "7.06",
+              "playerId": "7200",
+              "playerFirstName": "Aaron",
+              "playerLastName": "Rodgers"
+            }
+          ],
+          "received": [
+            {
+              "pick": 55,
+              "round": 5,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "5.07",
+              "playerId": "33398",
+              "playerFirstName": "DeVonta",
+              "playerLastName": "Smith"
+            },
+            {
+              "pick": 151,
+              "round": 13,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "13.07",
+              "playerId": "33391",
+              "playerFirstName": "Trey",
+              "playerLastName": "Lance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp-2021-draft-trade-2",
+      "leagueId": "lp",
+      "year": 2021,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Back to tee bagging",
+          "manager": "Harrison Wood",
+          "sent": [
+            {
+              "pick": 144,
+              "round": 12,
+              "roundPick": 12,
+              "slot": 1,
+              "label": "12.12",
+              "playerId": "27585",
+              "playerFirstName": "Carlos",
+              "playerLastName": "Hyde"
+            }
+          ],
+          "received": [
+            {
+              "pick": 133,
+              "round": 12,
+              "roundPick": 1,
+              "slot": 12,
+              "label": "12.01",
+              "playerId": "33500",
+              "playerFirstName": "Amon-Ra",
+              "playerLastName": "St. Brown"
+            }
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "McGriddy",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            {
+              "pick": 133,
+              "round": 12,
+              "roundPick": 1,
+              "slot": 12,
+              "label": "12.01",
+              "playerId": "33500",
+              "playerFirstName": "Amon-Ra",
+              "playerLastName": "St. Brown"
+            }
+          ],
+          "received": [
+            {
+              "pick": 144,
+              "round": 12,
+              "roundPick": 12,
+              "slot": 1,
+              "label": "12.12",
+              "playerId": "27585",
+              "playerFirstName": "Carlos",
+              "playerLastName": "Hyde"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-trade-1",
+      "leagueId": "lp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "Alvin& the chipmunks",
+          "manager": "Ian O'Handley",
+          "sent": [
+            {
+              "pick": 5,
+              "round": 1,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "1.05",
+              "playerId": "371.p.27540",
+              "playerFirstName": "Odell",
+              "playerLastName": "Beckham Jr."
+            },
+            {
+              "pick": 136,
+              "round": 14,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "14.06",
+              "playerId": "371.p.25711",
+              "playerFirstName": "Andrew",
+              "playerLastName": "Luck"
+            }
+          ],
+          "received": [
+            {
+              "pick": 8,
+              "round": 1,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "1.08",
+              "playerId": "371.p.8813",
+              "playerFirstName": "Jordy",
+              "playerLastName": "Nelson"
+            },
+            {
+              "pick": 93,
+              "round": 10,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "10.03",
+              "playerId": "371.p.7867",
+              "playerFirstName": "Stephen",
+              "playerLastName": "Gostkowski"
+            }
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Tater tots 🦁",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            {
+              "pick": 8,
+              "round": 1,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "1.08",
+              "playerId": "371.p.8813",
+              "playerFirstName": "Jordy",
+              "playerLastName": "Nelson"
+            },
+            {
+              "pick": 93,
+              "round": 10,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "10.03",
+              "playerId": "371.p.7867",
+              "playerFirstName": "Stephen",
+              "playerLastName": "Gostkowski"
+            }
+          ],
+          "received": [
+            {
+              "pick": 5,
+              "round": 1,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "1.05",
+              "playerId": "371.p.27540",
+              "playerFirstName": "Odell",
+              "playerLastName": "Beckham Jr."
+            },
+            {
+              "pick": 136,
+              "round": 14,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "14.06",
+              "playerId": "371.p.25711",
+              "playerFirstName": "Andrew",
+              "playerLastName": "Luck"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-trade-2",
+      "leagueId": "lp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Diggs Out",
+          "manager": "James Ellement",
+          "sent": [
+            {
+              "pick": 26,
+              "round": 3,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "3.06",
+              "playerId": "371.p.28398",
+              "playerFirstName": "Todd",
+              "playerLastName": "Gurley"
+            }
+          ],
+          "received": [
+            {
+              "pick": 9,
+              "round": 1,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "1.09",
+              "playerId": "371.p.24791",
+              "playerFirstName": "A.J.",
+              "playerLastName": "Green"
+            }
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Krispy Kareem",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            {
+              "pick": 9,
+              "round": 1,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "1.09",
+              "playerId": "371.p.24791",
+              "playerFirstName": "A.J.",
+              "playerLastName": "Green"
+            }
+          ],
+          "received": [
+            {
+              "pick": 26,
+              "round": 3,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "3.06",
+              "playerId": "371.p.28398",
+              "playerFirstName": "Todd",
+              "playerLastName": "Gurley"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-trade-3",
+      "leagueId": "lp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Diggs Out",
+          "manager": "James Ellement",
+          "sent": [
+            {
+              "pick": 15,
+              "round": 2,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "2.05",
+              "playerId": "371.p.25105",
+              "playerFirstName": "Doug",
+              "playerLastName": "Baldwin"
+            }
+          ],
+          "received": [
+            {
+              "pick": 33,
+              "round": 4,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "4.03",
+              "playerId": "371.p.28014",
+              "playerFirstName": "Isaiah",
+              "playerLastName": "Crowell"
+            }
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Tater tots 🦁",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            {
+              "pick": 33,
+              "round": 4,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "4.03",
+              "playerId": "371.p.28014",
+              "playerFirstName": "Isaiah",
+              "playerLastName": "Crowell"
+            }
+          ],
+          "received": [
+            {
+              "pick": 15,
+              "round": 2,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "2.05",
+              "playerId": "371.p.25105",
+              "playerFirstName": "Doug",
+              "playerLastName": "Baldwin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-trade-4",
+      "leagueId": "lp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Dak Brown Band",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            {
+              "pick": 19,
+              "round": 2,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "2.09",
+              "playerId": "371.p.23999",
+              "playerFirstName": "Dez",
+              "playerLastName": "Bryant"
+            },
+            {
+              "pick": 22,
+              "round": 3,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "3.02",
+              "playerId": "371.p.24017",
+              "playerFirstName": "Rob",
+              "playerLastName": "Gronkowski"
+            }
+          ],
+          "received": [
+            {
+              "pick": 104,
+              "round": 11,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "11.04",
+              "playerId": "371.p.9265",
+              "playerFirstName": "Matthew",
+              "playerLastName": "Stafford"
+            },
+            {
+              "pick": 137,
+              "round": 14,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "14.07",
+              "playerId": "371.p.27622",
+              "playerFirstName": "Terrance",
+              "playerLastName": "West"
+            }
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Drew de la Chance",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            {
+              "pick": 104,
+              "round": 11,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "11.04",
+              "playerId": "371.p.9265",
+              "playerFirstName": "Matthew",
+              "playerLastName": "Stafford"
+            },
+            {
+              "pick": 137,
+              "round": 14,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "14.07",
+              "playerId": "371.p.27622",
+              "playerFirstName": "Terrance",
+              "playerLastName": "West"
+            }
+          ],
+          "received": [
+            {
+              "pick": 19,
+              "round": 2,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "2.09",
+              "playerId": "371.p.23999",
+              "playerFirstName": "Dez",
+              "playerLastName": "Bryant"
+            },
+            {
+              "pick": 22,
+              "round": 3,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "3.02",
+              "playerId": "371.p.24017",
+              "playerFirstName": "Rob",
+              "playerLastName": "Gronkowski"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-trade-5",
+      "leagueId": "lp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "Justin cucker",
+          "manager": "Ever",
+          "sent": [
+            {
+              "pick": 23,
+              "round": 3,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "3.03",
+              "playerId": "371.p.27548",
+              "playerFirstName": "Brandin",
+              "playerLastName": "Cooks"
+            }
+          ],
+          "received": [
+            {
+              "pick": 28,
+              "round": 3,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "3.08",
+              "playerId": "371.p.30117",
+              "playerFirstName": "Leonard",
+              "playerLastName": "Fournette"
+            }
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Tater tots 🦁",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            {
+              "pick": 28,
+              "round": 3,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "3.08",
+              "playerId": "371.p.30117",
+              "playerFirstName": "Leonard",
+              "playerLastName": "Fournette"
+            }
+          ],
+          "received": [
+            {
+              "pick": 23,
+              "round": 3,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "3.03",
+              "playerId": "371.p.27548",
+              "playerFirstName": "Brandin",
+              "playerLastName": "Cooks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-trade-6",
+      "leagueId": "lp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Dakstreet Boys",
+          "manager": "Lucas Stagliano",
+          "sent": [
+            {
+              "pick": 27,
+              "round": 3,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "3.07",
+              "playerId": "371.p.26650",
+              "playerFirstName": "DeAndre",
+              "playerLastName": "Hopkins"
+            }
+          ],
+          "received": [
+            {
+              "pick": 29,
+              "round": 3,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "3.09",
+              "playerId": "371.p.23997",
+              "playerFirstName": "Demaryius",
+              "playerLastName": "Thomas"
+            }
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Krispy Kareem",
+          "manager": "Gabriel Nadra",
+          "sent": [
+            {
+              "pick": 29,
+              "round": 3,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "3.09",
+              "playerId": "371.p.23997",
+              "playerFirstName": "Demaryius",
+              "playerLastName": "Thomas"
+            }
+          ],
+          "received": [
+            {
+              "pick": 27,
+              "round": 3,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "3.07",
+              "playerId": "371.p.26650",
+              "playerFirstName": "DeAndre",
+              "playerLastName": "Hopkins"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-trade-7",
+      "leagueId": "lp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Diggs Out",
+          "manager": "James Ellement",
+          "sent": [
+            {
+              "pick": 35,
+              "round": 4,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "4.05",
+              "playerId": "371.p.26686",
+              "playerFirstName": "Travis",
+              "playerLastName": "Kelce"
+            },
+            {
+              "pick": 106,
+              "round": 11,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "11.06",
+              "playerId": "371.p.30150",
+              "playerFirstName": "Zay",
+              "playerLastName": "Jones"
+            }
+          ],
+          "received": [
+            {
+              "pick": 59,
+              "round": 6,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "6.09",
+              "playerId": "371.p.28402",
+              "playerFirstName": "DeVante",
+              "playerLastName": "Parker"
+            },
+            {
+              "pick": 82,
+              "round": 9,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "9.02",
+              "playerId": "371.p.9283",
+              "playerFirstName": "Jeremy",
+              "playerLastName": "Maclin"
+            }
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Dak Brown Band",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            {
+              "pick": 59,
+              "round": 6,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "6.09",
+              "playerId": "371.p.28402",
+              "playerFirstName": "DeVante",
+              "playerLastName": "Parker"
+            },
+            {
+              "pick": 82,
+              "round": 9,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "9.02",
+              "playerId": "371.p.9283",
+              "playerFirstName": "Jeremy",
+              "playerLastName": "Maclin"
+            }
+          ],
+          "received": [
+            {
+              "pick": 35,
+              "round": 4,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "4.05",
+              "playerId": "371.p.26686",
+              "playerFirstName": "Travis",
+              "playerLastName": "Kelce"
+            },
+            {
+              "pick": 106,
+              "round": 11,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "11.06",
+              "playerId": "371.p.30150",
+              "playerFirstName": "Zay",
+              "playerLastName": "Jones"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-trade-8",
+      "leagueId": "lp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Dak Brown Band",
+          "manager": "Heri Hickl Szabo",
+          "sent": [
+            {
+              "pick": 39,
+              "round": 4,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "4.09",
+              "playerId": "371.p.5228",
+              "playerFirstName": "Tom",
+              "playerLastName": "Brady"
+            }
+          ],
+          "received": [
+            {
+              "pick": 53,
+              "round": 6,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "6.03",
+              "playerId": "371.p.24913",
+              "playerFirstName": "Bilal",
+              "playerLastName": "Powell"
+            }
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Tater tots 🦁",
+          "manager": "Matthew Weintraub",
+          "sent": [
+            {
+              "pick": 53,
+              "round": 6,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "6.03",
+              "playerId": "371.p.24913",
+              "playerFirstName": "Bilal",
+              "playerLastName": "Powell"
+            }
+          ],
+          "received": [
+            {
+              "pick": 39,
+              "round": 4,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "4.09",
+              "playerId": "371.p.5228",
+              "playerFirstName": "Tom",
+              "playerLastName": "Brady"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-trade-9",
+      "leagueId": "lp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Drew de la Chance",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            {
+              "pick": 57,
+              "round": 6,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "6.07",
+              "playerId": "371.p.28493",
+              "playerFirstName": "Jamison",
+              "playerLastName": "Crowder"
+            },
+            {
+              "pick": 64,
+              "round": 7,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "7.04",
+              "playerId": "371.p.25785",
+              "playerFirstName": "Russell",
+              "playerLastName": "Wilson"
+            },
+            {
+              "pick": 84,
+              "round": 9,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "9.04",
+              "playerId": "371.p.28461",
+              "playerFirstName": "Tevin",
+              "playerLastName": "Coleman"
+            }
+          ],
+          "received": [
+            {
+              "pick": 56,
+              "round": 6,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "6.06",
+              "playerId": "371.p.5479",
+              "playerFirstName": "Drew",
+              "playerLastName": "Brees"
+            },
+            {
+              "pick": 65,
+              "round": 7,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "7.05",
+              "playerId": "371.p.29694",
+              "playerFirstName": "Rob",
+              "playerLastName": "Kelley"
+            },
+            {
+              "pick": 85,
+              "round": 9,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "9.05",
+              "playerId": "371.p.7868",
+              "playerFirstName": "Brandon",
+              "playerLastName": "Marshall"
+            }
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Alvin& the chipmunks",
+          "manager": "Ian O'Handley",
+          "sent": [
+            {
+              "pick": 56,
+              "round": 6,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "6.06",
+              "playerId": "371.p.5479",
+              "playerFirstName": "Drew",
+              "playerLastName": "Brees"
+            },
+            {
+              "pick": 65,
+              "round": 7,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "7.05",
+              "playerId": "371.p.29694",
+              "playerFirstName": "Rob",
+              "playerLastName": "Kelley"
+            },
+            {
+              "pick": 85,
+              "round": 9,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "9.05",
+              "playerId": "371.p.7868",
+              "playerFirstName": "Brandon",
+              "playerLastName": "Marshall"
+            }
+          ],
+          "received": [
+            {
+              "pick": 57,
+              "round": 6,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "6.07",
+              "playerId": "371.p.28493",
+              "playerFirstName": "Jamison",
+              "playerLastName": "Crowder"
+            },
+            {
+              "pick": 64,
+              "round": 7,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "7.04",
+              "playerId": "371.p.25785",
+              "playerFirstName": "Russell",
+              "playerLastName": "Wilson"
+            },
+            {
+              "pick": 84,
+              "round": 9,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "9.04",
+              "playerId": "371.p.28461",
+              "playerFirstName": "Tevin",
+              "playerLastName": "Coleman"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "id": "lp-2021-draft-unresolved-r3",
+      "leagueId": "lp",
+      "year": 2021,
+      "round": 3,
+      "confidence": "needs_review",
+      "notes": "Round 3 looks like a 3-team loop, not a 2-team swap.",
+      "picks": [
+        {
+          "pick": 25,
+          "round": 3,
+          "roundPick": 1,
+          "slot": 1,
+          "label": "3.01",
+          "playerId": "32692",
+          "playerFirstName": "Justin",
+          "playerLastName": "Jefferson",
+          "originalManager": "Harrison Wood",
+          "originalTeamName": "Back to tee bagging",
+          "actualManager": "Matthew Weintraub",
+          "actualTeamName": "McGriddy",
+          "actualTeamId": "t.2"
+        },
+        {
+          "pick": 31,
+          "round": 3,
+          "roundPick": 7,
+          "slot": 7,
+          "label": "3.07",
+          "playerId": "27535",
+          "playerFirstName": "Mike",
+          "playerLastName": "Evans",
+          "originalManager": "Jack Bleiweis",
+          "originalTeamName": "Tim Patrick for MVP",
+          "actualManager": "Harrison Wood",
+          "actualTeamName": "Back to tee bagging",
+          "actualTeamId": "t.4"
+        },
+        {
+          "pick": 36,
+          "round": 3,
+          "roundPick": 12,
+          "slot": 12,
+          "label": "3.12",
+          "playerId": "26664",
+          "playerFirstName": "Robert",
+          "playerLastName": "Woods",
+          "originalManager": "Matthew Weintraub",
+          "originalTeamName": "McGriddy",
+          "actualManager": "Jack Bleiweis",
+          "actualTeamName": "Tim Patrick for MVP",
+          "actualTeamId": "t.10"
+        }
+      ]
+    },
+    {
+      "id": "lp-2021-draft-unresolved-r4",
+      "leagueId": "lp",
+      "year": 2021,
+      "round": 4,
+      "confidence": "needs_review",
+      "notes": "Round 4 looks like a 3-team loop, not a 2-team swap.",
+      "picks": [
+        {
+          "pick": 37,
+          "round": 4,
+          "roundPick": 1,
+          "slot": 12,
+          "label": "4.01",
+          "playerId": "24793",
+          "playerFirstName": "Julio",
+          "playerLastName": "Jones",
+          "originalManager": "Matthew Weintraub",
+          "originalTeamName": "McGriddy",
+          "actualManager": "Jack Bleiweis",
+          "actualTeamName": "Tim Patrick for MVP",
+          "actualTeamId": "t.10"
+        },
+        {
+          "pick": 42,
+          "round": 4,
+          "roundPick": 6,
+          "slot": 7,
+          "label": "4.06",
+          "playerId": "27277",
+          "playerFirstName": "Adam",
+          "playerLastName": "Thielen",
+          "originalManager": "Jack Bleiweis",
+          "originalTeamName": "Tim Patrick for MVP",
+          "actualManager": "Harrison Wood",
+          "actualTeamName": "Back to tee bagging",
+          "actualTeamId": "t.4"
+        },
+        {
+          "pick": 48,
+          "round": 4,
+          "roundPick": 12,
+          "slot": 1,
+          "label": "4.12",
+          "playerId": "32695",
+          "playerFirstName": "Brandon",
+          "playerLastName": "Aiyuk",
+          "originalManager": "Harrison Wood",
+          "originalTeamName": "Back to tee bagging",
+          "actualManager": "Matthew Weintraub",
+          "actualTeamName": "McGriddy",
+          "actualTeamId": "t.2"
+        }
+      ]
+    },
+    {
+      "id": "lp-2021-draft-unresolved-r10",
+      "leagueId": "lp",
+      "year": 2021,
+      "round": 10,
+      "confidence": "needs_review",
+      "notes": "Round 10 looks like a 3-team loop, not a 2-team swap.",
+      "picks": [
+        {
+          "pick": 109,
+          "round": 10,
+          "roundPick": 1,
+          "slot": 12,
+          "label": "10.01",
+          "playerId": "29307",
+          "playerFirstName": "Kenyan",
+          "playerLastName": "Drake",
+          "originalManager": "Matthew Weintraub",
+          "originalTeamName": "McGriddy",
+          "actualManager": "Jack Bleiweis",
+          "actualTeamName": "Tim Patrick for MVP",
+          "actualTeamId": "t.10"
+        },
+        {
+          "pick": 114,
+          "round": 10,
+          "roundPick": 6,
+          "slot": 7,
+          "label": "10.06",
+          "playerId": "28474",
+          "playerFirstName": "David",
+          "playerLastName": "Johnson",
+          "originalManager": "Jack Bleiweis",
+          "originalTeamName": "Tim Patrick for MVP",
+          "actualManager": "Harrison Wood",
+          "actualTeamName": "Back to tee bagging",
+          "actualTeamId": "t.4"
+        },
+        {
+          "pick": 120,
+          "round": 10,
+          "roundPick": 12,
+          "slot": 1,
+          "label": "10.12",
+          "playerId": "32732",
+          "playerFirstName": "AJ",
+          "playerLastName": "Dillon",
+          "originalManager": "Harrison Wood",
+          "originalTeamName": "Back to tee bagging",
+          "actualManager": "Matthew Weintraub",
+          "actualTeamName": "McGriddy",
+          "actualTeamId": "t.2"
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-unresolved-r1",
+      "leagueId": "lp",
+      "year": 2017,
+      "round": 1,
+      "confidence": "needs_review",
+      "notes": "Round 1 looks like a 3-team loop, not a 2-team swap.",
+      "picks": [
+        {
+          "pick": 4,
+          "round": 1,
+          "roundPick": 4,
+          "slot": 4,
+          "label": "1.04",
+          "playerId": "371.p.24793",
+          "playerFirstName": "Julio",
+          "playerLastName": "Jones",
+          "originalManager": "Jack Bleiweis",
+          "originalTeamName": "Drew de la Chance",
+          "actualManager": "Gabriel Nadra",
+          "actualTeamName": "Krispy Kareem",
+          "actualTeamId": "t.5"
+        },
+        {
+          "pick": 6,
+          "round": 1,
+          "roundPick": 6,
+          "slot": 6,
+          "label": "1.06",
+          "playerId": "371.p.9317",
+          "playerFirstName": "LeSean",
+          "playerLastName": "McCoy",
+          "originalManager": "James Ellement",
+          "originalTeamName": "Diggs Out",
+          "actualManager": "Lucas Stagliano",
+          "actualTeamName": "Dakstreet Boys",
+          "actualTeamId": "t.4"
+        },
+        {
+          "pick": 7,
+          "round": 1,
+          "roundPick": 7,
+          "slot": 7,
+          "label": "1.07",
+          "playerId": "371.p.27535",
+          "playerFirstName": "Mike",
+          "playerLastName": "Evans",
+          "originalManager": "Lucas Stagliano",
+          "originalTeamName": "Dakstreet Boys",
+          "actualManager": "Heri Hickl Szabo",
+          "actualTeamName": "Dak Brown Band",
+          "actualTeamId": "t.2"
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-unresolved-r2",
+      "leagueId": "lp",
+      "year": 2017,
+      "round": 2,
+      "confidence": "needs_review",
+      "notes": "Round 2 still has off-slot picks that did not pair into a 2-team trade.",
+      "picks": [
+        {
+          "pick": 12,
+          "round": 2,
+          "roundPick": 2,
+          "slot": 9,
+          "label": "2.02",
+          "playerId": "371.p.29238",
+          "playerFirstName": "Ezekiel",
+          "playerLastName": "Elliott",
+          "originalManager": "Gabriel Nadra",
+          "originalTeamName": "Krispy Kareem",
+          "actualManager": "James Ellement",
+          "actualTeamName": "Diggs Out",
+          "actualTeamId": "t.1"
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-unresolved-r5",
+      "leagueId": "lp",
+      "year": 2017,
+      "round": 5,
+      "confidence": "needs_review",
+      "notes": "Round 5 still has off-slot picks that did not pair into a 2-team trade.",
+      "picks": [
+        {
+          "pick": 48,
+          "round": 5,
+          "roundPick": 8,
+          "slot": 8,
+          "label": "5.08",
+          "playerId": "371.p.8266",
+          "playerFirstName": "Marshawn",
+          "playerLastName": "Lynch",
+          "originalManager": "Matthew Weintraub",
+          "originalTeamName": "Tater tots 🦁",
+          "actualManager": "Jack Bleiweis",
+          "actualTeamName": "Drew de la Chance",
+          "actualTeamId": "t.6"
+        },
+        {
+          "pick": 49,
+          "round": 5,
+          "roundPick": 9,
+          "slot": 9,
+          "label": "5.09",
+          "playerId": "371.p.28482",
+          "playerFirstName": "Ty",
+          "playerLastName": "Montgomery II",
+          "originalManager": "Gabriel Nadra",
+          "originalTeamName": "Krispy Kareem",
+          "actualManager": "James Ellement",
+          "actualTeamName": "Diggs Out",
+          "actualTeamId": "t.1"
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-unresolved-r7",
+      "leagueId": "lp",
+      "year": 2017,
+      "round": 7,
+      "confidence": "needs_review",
+      "notes": "Round 7 still has off-slot picks that did not pair into a 2-team trade.",
+      "picks": [
+        {
+          "pick": 62,
+          "round": 7,
+          "roundPick": 2,
+          "slot": 2,
+          "label": "7.02",
+          "playerId": "371.p.27532",
+          "playerFirstName": "Sammy",
+          "playerLastName": "Watkins",
+          "originalManager": "Heri Hickl Szabo",
+          "originalTeamName": "Dak Brown Band",
+          "actualManager": "Gabriel Nadra",
+          "actualTeamName": "Krispy Kareem",
+          "actualTeamId": "t.5"
+        },
+        {
+          "pick": 68,
+          "round": 7,
+          "roundPick": 8,
+          "slot": 8,
+          "label": "7.08",
+          "playerId": "371.p.8982",
+          "playerFirstName": "Pierre",
+          "playerLastName": "Garcon",
+          "originalManager": "Matthew Weintraub",
+          "originalTeamName": "Tater tots 🦁",
+          "actualManager": "Heri Hickl Szabo",
+          "actualTeamName": "Dak Brown Band",
+          "actualTeamId": "t.2"
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-unresolved-r8",
+      "leagueId": "lp",
+      "year": 2017,
+      "round": 8,
+      "confidence": "needs_review",
+      "notes": "Round 8 still has off-slot picks that did not pair into a 2-team trade.",
+      "picks": [
+        {
+          "pick": 73,
+          "round": 8,
+          "roundPick": 3,
+          "slot": 8,
+          "label": "8.03",
+          "playerId": "371.p.30182",
+          "playerFirstName": "Cooper",
+          "playerLastName": "Kupp",
+          "originalManager": "Matthew Weintraub",
+          "originalTeamName": "Tater tots 🦁",
+          "actualManager": "Heri Hickl Szabo",
+          "actualTeamName": "Dak Brown Band",
+          "actualTeamId": "t.2"
+        },
+        {
+          "pick": 79,
+          "round": 8,
+          "roundPick": 9,
+          "slot": 2,
+          "label": "8.09",
+          "playerId": "371.p.30118",
+          "playerFirstName": "Corey",
+          "playerLastName": "Davis",
+          "originalManager": "Heri Hickl Szabo",
+          "originalTeamName": "Dak Brown Band",
+          "actualManager": "Ever",
+          "actualTeamName": "Justin cucker",
+          "actualTeamId": "t.8"
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-unresolved-r10",
+      "leagueId": "lp",
+      "year": 2017,
+      "round": 10,
+      "confidence": "needs_review",
+      "notes": "Round 10 still has off-slot picks that did not pair into a 2-team trade.",
+      "picks": [
+        {
+          "pick": 95,
+          "round": 10,
+          "roundPick": 5,
+          "slot": 6,
+          "label": "10.05",
+          "playerId": "371.p.8790",
+          "playerFirstName": "Jonathan",
+          "playerLastName": "Stewart",
+          "originalManager": "James Ellement",
+          "originalTeamName": "Diggs Out",
+          "actualManager": "Matthew Weintraub",
+          "actualTeamName": "Tater tots 🦁",
+          "actualTeamId": "t.3"
+        },
+        {
+          "pick": 99,
+          "round": 10,
+          "roundPick": 9,
+          "slot": 2,
+          "label": "10.09",
+          "playerId": "371.p.8781",
+          "playerFirstName": "Darren",
+          "playerLastName": "McFadden",
+          "originalManager": "Heri Hickl Szabo",
+          "originalTeamName": "Dak Brown Band",
+          "actualManager": "James Ellement",
+          "actualTeamName": "Diggs Out",
+          "actualTeamId": "t.1"
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-unresolved-r12",
+      "leagueId": "lp",
+      "year": 2017,
+      "round": 12,
+      "confidence": "needs_review",
+      "notes": "Round 12 still has off-slot picks that did not pair into a 2-team trade.",
+      "picks": [
+        {
+          "pick": 118,
+          "round": 12,
+          "roundPick": 8,
+          "slot": 3,
+          "label": "12.08",
+          "playerId": "371.p.27583",
+          "playerFirstName": "Jeremy",
+          "playerLastName": "Hill",
+          "originalManager": "Ever",
+          "originalTeamName": "Justin cucker",
+          "actualManager": "Matthew Weintraub",
+          "actualTeamName": "Tater tots 🦁",
+          "actualTeamId": "t.3"
+        }
+      ]
+    },
+    {
+      "id": "lp-2017-draft-unresolved-r13",
+      "leagueId": "lp",
+      "year": 2017,
+      "round": 13,
+      "confidence": "needs_review",
+      "notes": "Round 13 still has off-slot picks that did not pair into a 2-team trade.",
+      "picks": [
+        {
+          "pick": 126,
+          "round": 13,
+          "roundPick": 6,
+          "slot": 6,
+          "label": "13.06",
+          "playerId": "371.p.100016",
+          "playerFirstName": "Vikings",
+          "playerLastName": "",
+          "originalManager": "James Ellement",
+          "originalTeamName": "Diggs Out",
+          "actualManager": "Matthew Weintraub",
+          "actualTeamName": "Tater tots 🦁",
+          "actualTeamId": "t.3"
+        }
+      ]
+    }
+  ]
+}

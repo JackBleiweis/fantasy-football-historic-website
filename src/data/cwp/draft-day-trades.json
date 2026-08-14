@@ -584,6 +584,3574 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cwp-2025-draft-trade-1",
+      "leagueId": "cwp",
+      "year": 2025,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.7",
+          "teamName": "RIP 🏆",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 19,
+              "round": 2,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "2.09",
+              "playerId": "31883",
+              "playerFirstName": "A.J.",
+              "playerLastName": "Brown"
+            },
+            {
+              "pick": 22,
+              "round": 3,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "3.02",
+              "playerId": "32723",
+              "playerFirstName": "Jalen",
+              "playerLastName": "Hurts"
+            },
+            {
+              "pick": 102,
+              "round": 11,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "11.02",
+              "playerId": "32685",
+              "playerFirstName": "Jerry",
+              "playerLastName": "Jeudy"
+            }
+          ],
+          "received": [
+            {
+              "pick": 10,
+              "round": 1,
+              "roundPick": 10,
+              "slot": 10,
+              "label": "1.10",
+              "playerId": "40899",
+              "playerFirstName": "Malik",
+              "playerLastName": "Nabers"
+            },
+            {
+              "pick": 30,
+              "round": 3,
+              "roundPick": 10,
+              "slot": 10,
+              "label": "3.10",
+              "playerId": "40878",
+              "playerFirstName": "Brock",
+              "playerLastName": "Bowers"
+            },
+            {
+              "pick": 110,
+              "round": 11,
+              "roundPick": 10,
+              "slot": 10,
+              "label": "11.10",
+              "playerId": "34320",
+              "playerFirstName": "Jordan",
+              "playerLastName": "Mason"
+            }
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Johnny 🧌",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 10,
+              "round": 1,
+              "roundPick": 10,
+              "slot": 10,
+              "label": "1.10",
+              "playerId": "40899",
+              "playerFirstName": "Malik",
+              "playerLastName": "Nabers"
+            },
+            {
+              "pick": 30,
+              "round": 3,
+              "roundPick": 10,
+              "slot": 10,
+              "label": "3.10",
+              "playerId": "40878",
+              "playerFirstName": "Brock",
+              "playerLastName": "Bowers"
+            },
+            {
+              "pick": 110,
+              "round": 11,
+              "roundPick": 10,
+              "slot": 10,
+              "label": "11.10",
+              "playerId": "34320",
+              "playerFirstName": "Jordan",
+              "playerLastName": "Mason"
+            }
+          ],
+          "received": [
+            {
+              "pick": 19,
+              "round": 2,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "2.09",
+              "playerId": "31883",
+              "playerFirstName": "A.J.",
+              "playerLastName": "Brown"
+            },
+            {
+              "pick": 22,
+              "round": 3,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "3.02",
+              "playerId": "32723",
+              "playerFirstName": "Jalen",
+              "playerLastName": "Hurts"
+            },
+            {
+              "pick": 102,
+              "round": 11,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "11.02",
+              "playerId": "32685",
+              "playerFirstName": "Jerry",
+              "playerLastName": "Jeudy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2025-draft-trade-2",
+      "leagueId": "cwp",
+      "year": 2025,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Cracker of the day",
+          "manager": "Matthew Garay",
+          "sent": [
+            {
+              "pick": 23,
+              "round": 3,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "3.03",
+              "playerId": "40896",
+              "playerFirstName": "Jayden",
+              "playerLastName": "Daniels"
+            },
+            {
+              "pick": 38,
+              "round": 4,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "4.08",
+              "playerId": "34120",
+              "playerFirstName": "Kyren",
+              "playerLastName": "Williams"
+            }
+          ],
+          "received": [
+            {
+              "pick": 28,
+              "round": 3,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "3.08",
+              "playerId": "40993",
+              "playerFirstName": "Bucky",
+              "playerLastName": "Irving"
+            },
+            {
+              "pick": 33,
+              "round": 4,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "4.03",
+              "playerId": "40893",
+              "playerFirstName": "Marvin",
+              "playerLastName": "Harrison Jr."
+            }
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Lost to matty 😞",
+          "manager": "Michael Kagan",
+          "sent": [
+            {
+              "pick": 28,
+              "round": 3,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "3.08",
+              "playerId": "40993",
+              "playerFirstName": "Bucky",
+              "playerLastName": "Irving"
+            },
+            {
+              "pick": 33,
+              "round": 4,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "4.03",
+              "playerId": "40893",
+              "playerFirstName": "Marvin",
+              "playerLastName": "Harrison Jr."
+            }
+          ],
+          "received": [
+            {
+              "pick": 23,
+              "round": 3,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "3.03",
+              "playerId": "40896",
+              "playerFirstName": "Jayden",
+              "playerLastName": "Daniels"
+            },
+            {
+              "pick": 38,
+              "round": 4,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "4.08",
+              "playerId": "34120",
+              "playerFirstName": "Kyren",
+              "playerLastName": "Williams"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2025-draft-trade-3",
+      "leagueId": "cwp",
+      "year": 2025,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "Michael Penis Jr.",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            {
+              "pick": 55,
+              "round": 6,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "6.05",
+              "playerId": "33514",
+              "playerFirstName": "Chuba",
+              "playerLastName": "Hubbard"
+            },
+            {
+              "pick": 66,
+              "round": 7,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "7.06",
+              "playerId": "30971",
+              "playerFirstName": "Baker",
+              "playerLastName": "Mayfield"
+            }
+          ],
+          "received": [
+            {
+              "pick": 54,
+              "round": 6,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "6.04",
+              "playerId": "33991",
+              "playerFirstName": "Breece",
+              "playerLastName": "Hall"
+            },
+            {
+              "pick": 67,
+              "round": 7,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "7.07",
+              "playerId": "40875",
+              "playerFirstName": "Bo",
+              "playerLastName": "Nix"
+            }
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            {
+              "pick": 54,
+              "round": 6,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "6.04",
+              "playerId": "33991",
+              "playerFirstName": "Breece",
+              "playerLastName": "Hall"
+            },
+            {
+              "pick": 67,
+              "round": 7,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "7.07",
+              "playerId": "40875",
+              "playerFirstName": "Bo",
+              "playerLastName": "Nix"
+            }
+          ],
+          "received": [
+            {
+              "pick": 55,
+              "round": 6,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "6.05",
+              "playerId": "33514",
+              "playerFirstName": "Chuba",
+              "playerLastName": "Hubbard"
+            },
+            {
+              "pick": 66,
+              "round": 7,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "7.06",
+              "playerId": "30971",
+              "playerFirstName": "Baker",
+              "playerLastName": "Mayfield"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2025-draft-trade-4",
+      "leagueId": "cwp",
+      "year": 2025,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Cracker of the day",
+          "manager": "Matthew Garay",
+          "sent": [
+            {
+              "pick": 63,
+              "round": 7,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "7.03",
+              "playerId": "30218",
+              "playerFirstName": "James",
+              "playerLastName": "Conner"
+            },
+            {
+              "pick": 78,
+              "round": 8,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "8.08",
+              "playerId": "34218",
+              "playerFirstName": "Brock",
+              "playerLastName": "Purdy"
+            },
+            {
+              "pick": 98,
+              "round": 10,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "10.08",
+              "playerId": "40040",
+              "playerFirstName": "Anthony",
+              "playerLastName": "Richardson Sr."
+            }
+          ],
+          "received": [
+            {
+              "pick": 65,
+              "round": 7,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "7.05",
+              "playerId": "40892",
+              "playerFirstName": "Ricky",
+              "playerLastName": "Pearsall"
+            },
+            {
+              "pick": 76,
+              "round": 8,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "8.06",
+              "playerId": "33399",
+              "playerFirstName": "Justin",
+              "playerLastName": "Fields"
+            },
+            {
+              "pick": 96,
+              "round": 10,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "10.06",
+              "playerId": "40030",
+              "playerFirstName": "C.J.",
+              "playerLastName": "Stroud"
+            }
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Poverty Franchise",
+          "manager": "Ty Greenberg",
+          "sent": [
+            {
+              "pick": 65,
+              "round": 7,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "7.05",
+              "playerId": "40892",
+              "playerFirstName": "Ricky",
+              "playerLastName": "Pearsall"
+            },
+            {
+              "pick": 76,
+              "round": 8,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "8.06",
+              "playerId": "33399",
+              "playerFirstName": "Justin",
+              "playerLastName": "Fields"
+            },
+            {
+              "pick": 96,
+              "round": 10,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "10.06",
+              "playerId": "40030",
+              "playerFirstName": "C.J.",
+              "playerLastName": "Stroud"
+            }
+          ],
+          "received": [
+            {
+              "pick": 63,
+              "round": 7,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "7.03",
+              "playerId": "30218",
+              "playerFirstName": "James",
+              "playerLastName": "Conner"
+            },
+            {
+              "pick": 78,
+              "round": 8,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "8.08",
+              "playerId": "34218",
+              "playerFirstName": "Brock",
+              "playerLastName": "Purdy"
+            },
+            {
+              "pick": 98,
+              "round": 10,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "10.08",
+              "playerId": "40040",
+              "playerFirstName": "Anthony",
+              "playerLastName": "Richardson Sr."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2024-draft-trade-1",
+      "leagueId": "cwp",
+      "year": 2024,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "2nd most points for no playoff",
+          "manager": "Chase Bergman",
+          "sent": [
+            {
+              "pick": 13,
+              "round": 2,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "2.03",
+              "playerId": "40893",
+              "playerFirstName": "Marvin",
+              "playerLastName": "Harrison Jr."
+            },
+            {
+              "pick": 28,
+              "round": 3,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "3.08",
+              "playerId": "34120",
+              "playerFirstName": "Kyren",
+              "playerLastName": "Williams"
+            }
+          ],
+          "received": [
+            {
+              "pick": 6,
+              "round": 1,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "1.06",
+              "playerId": "32692",
+              "playerFirstName": "Justin",
+              "playerLastName": "Jefferson"
+            },
+            {
+              "pick": 35,
+              "round": 4,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "4.05",
+              "playerId": "33477",
+              "playerFirstName": "Nico",
+              "playerLastName": "Collins"
+            }
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Leek/him 🧊",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 6,
+              "round": 1,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "1.06",
+              "playerId": "32692",
+              "playerFirstName": "Justin",
+              "playerLastName": "Jefferson"
+            },
+            {
+              "pick": 35,
+              "round": 4,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "4.05",
+              "playerId": "33477",
+              "playerFirstName": "Nico",
+              "playerLastName": "Collins"
+            }
+          ],
+          "received": [
+            {
+              "pick": 13,
+              "round": 2,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "2.03",
+              "playerId": "40893",
+              "playerFirstName": "Marvin",
+              "playerLastName": "Harrison Jr."
+            },
+            {
+              "pick": 28,
+              "round": 3,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "3.08",
+              "playerId": "34120",
+              "playerFirstName": "Kyren",
+              "playerLastName": "Williams"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2024-draft-trade-2",
+      "leagueId": "cwp",
+      "year": 2024,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Leek/him 🧊",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 13,
+              "round": 2,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "2.03",
+              "playerId": "40893",
+              "playerFirstName": "Marvin",
+              "playerLastName": "Harrison Jr."
+            },
+            {
+              "pick": 28,
+              "round": 3,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "3.08",
+              "playerId": "34120",
+              "playerFirstName": "Kyren",
+              "playerLastName": "Williams"
+            },
+            {
+              "pick": 55,
+              "round": 6,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "6.05",
+              "playerId": "40900",
+              "playerFirstName": "Caleb",
+              "playerLastName": "Williams"
+            }
+          ],
+          "received": [
+            {
+              "pick": 14,
+              "round": 2,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "2.04",
+              "playerId": "40059",
+              "playerFirstName": "Jahmyr",
+              "playerLastName": "Gibbs"
+            },
+            {
+              "pick": 27,
+              "round": 3,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "3.07",
+              "playerId": "33966",
+              "playerFirstName": "Chris",
+              "playerLastName": "Olave"
+            },
+            {
+              "pick": 54,
+              "round": 6,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "6.04",
+              "playerId": "31908",
+              "playerFirstName": "Terry",
+              "playerLastName": "McLaurin"
+            }
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Ty Still Reeks",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 14,
+              "round": 2,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "2.04",
+              "playerId": "40059",
+              "playerFirstName": "Jahmyr",
+              "playerLastName": "Gibbs"
+            },
+            {
+              "pick": 27,
+              "round": 3,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "3.07",
+              "playerId": "33966",
+              "playerFirstName": "Chris",
+              "playerLastName": "Olave"
+            },
+            {
+              "pick": 54,
+              "round": 6,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "6.04",
+              "playerId": "31908",
+              "playerFirstName": "Terry",
+              "playerLastName": "McLaurin"
+            }
+          ],
+          "received": [
+            {
+              "pick": 13,
+              "round": 2,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "2.03",
+              "playerId": "40893",
+              "playerFirstName": "Marvin",
+              "playerLastName": "Harrison Jr."
+            },
+            {
+              "pick": 28,
+              "round": 3,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "3.08",
+              "playerId": "34120",
+              "playerFirstName": "Kyren",
+              "playerLastName": "Williams"
+            },
+            {
+              "pick": 55,
+              "round": 6,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "6.05",
+              "playerId": "40900",
+              "playerFirstName": "Caleb",
+              "playerLastName": "Williams"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2024-draft-trade-3",
+      "leagueId": "cwp",
+      "year": 2024,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "My Njigas Eat When James Cooks",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            {
+              "pick": 23,
+              "round": 3,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "3.03",
+              "playerId": "33413",
+              "playerFirstName": "Travis",
+              "playerLastName": "Etienne Jr."
+            },
+            {
+              "pick": 58,
+              "round": 6,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "6.08",
+              "playerId": "40097",
+              "playerFirstName": "Tank",
+              "playerLastName": "Dell"
+            }
+          ],
+          "received": [
+            {
+              "pick": 24,
+              "round": 3,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "3.04",
+              "playerId": "33963",
+              "playerFirstName": "Drake",
+              "playerLastName": "London"
+            },
+            {
+              "pick": 57,
+              "round": 6,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "6.07",
+              "playerId": "29369",
+              "playerFirstName": "Dak",
+              "playerLastName": "Prescott"
+            }
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Not Etienne Brooke’s Stinkybox",
+          "manager": "Ty Greenberg",
+          "sent": [
+            {
+              "pick": 24,
+              "round": 3,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "3.04",
+              "playerId": "33963",
+              "playerFirstName": "Drake",
+              "playerLastName": "London"
+            },
+            {
+              "pick": 57,
+              "round": 6,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "6.07",
+              "playerId": "29369",
+              "playerFirstName": "Dak",
+              "playerLastName": "Prescott"
+            }
+          ],
+          "received": [
+            {
+              "pick": 23,
+              "round": 3,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "3.03",
+              "playerId": "33413",
+              "playerFirstName": "Travis",
+              "playerLastName": "Etienne Jr."
+            },
+            {
+              "pick": 58,
+              "round": 6,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "6.08",
+              "playerId": "40097",
+              "playerFirstName": "Tank",
+              "playerLastName": "Dell"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2024-draft-trade-4",
+      "leagueId": "cwp",
+      "year": 2024,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Cracker of the day",
+          "manager": "Matthew Garay",
+          "sent": [
+            {
+              "pick": 39,
+              "round": 4,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "4.09",
+              "playerId": "30994",
+              "playerFirstName": "DJ",
+              "playerLastName": "Moore"
+            },
+            {
+              "pick": 42,
+              "round": 5,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "5.02",
+              "playerId": "31896",
+              "playerFirstName": "DK",
+              "playerLastName": "Metcalf"
+            },
+            {
+              "pick": 59,
+              "round": 6,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "6.09",
+              "playerId": "40896",
+              "playerFirstName": "Jayden",
+              "playerLastName": "Daniels"
+            }
+          ],
+          "received": [
+            {
+              "pick": 34,
+              "round": 4,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "4.04",
+              "playerId": "40064",
+              "playerFirstName": "Sam",
+              "playerLastName": "LaPorta"
+            },
+            {
+              "pick": 47,
+              "round": 5,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "5.07",
+              "playerId": "30218",
+              "playerFirstName": "James",
+              "playerLastName": "Conner"
+            },
+            {
+              "pick": 55,
+              "round": 6,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "6.05",
+              "playerId": "40900",
+              "playerFirstName": "Caleb",
+              "playerLastName": "Williams"
+            }
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Ty Still Reeks",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 34,
+              "round": 4,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "4.04",
+              "playerId": "40064",
+              "playerFirstName": "Sam",
+              "playerLastName": "LaPorta"
+            },
+            {
+              "pick": 47,
+              "round": 5,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "5.07",
+              "playerId": "30218",
+              "playerFirstName": "James",
+              "playerLastName": "Conner"
+            },
+            {
+              "pick": 55,
+              "round": 6,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "6.05",
+              "playerId": "40900",
+              "playerFirstName": "Caleb",
+              "playerLastName": "Williams"
+            }
+          ],
+          "received": [
+            {
+              "pick": 39,
+              "round": 4,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "4.09",
+              "playerId": "30994",
+              "playerFirstName": "DJ",
+              "playerLastName": "Moore"
+            },
+            {
+              "pick": 42,
+              "round": 5,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "5.02",
+              "playerId": "31896",
+              "playerFirstName": "DK",
+              "playerLastName": "Metcalf"
+            },
+            {
+              "pick": 59,
+              "round": 6,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "6.09",
+              "playerId": "40896",
+              "playerFirstName": "Jayden",
+              "playerLastName": "Daniels"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2024-draft-trade-5",
+      "leagueId": "cwp",
+      "year": 2024,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "My Njigas Eat When James Cooks",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            {
+              "pick": 38,
+              "round": 4,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "4.08",
+              "playerId": "29279",
+              "playerFirstName": "Derrick",
+              "playerLastName": "Henry"
+            },
+            {
+              "pick": 43,
+              "round": 5,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "5.03",
+              "playerId": "32671",
+              "playerFirstName": "Joe",
+              "playerLastName": "Burrow"
+            },
+            {
+              "pick": 63,
+              "round": 7,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "7.03",
+              "playerId": "34010",
+              "playerFirstName": "Trey",
+              "playerLastName": "McBride"
+            }
+          ],
+          "received": [
+            {
+              "pick": 36,
+              "round": 4,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "4.06",
+              "playerId": "26686",
+              "playerFirstName": "Travis",
+              "playerLastName": "Kelce"
+            },
+            {
+              "pick": 45,
+              "round": 5,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "5.05",
+              "playerId": "34019",
+              "playerFirstName": "James",
+              "playerLastName": "Cook III"
+            },
+            {
+              "pick": 65,
+              "round": 7,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "7.05",
+              "playerId": "28534",
+              "playerFirstName": "Stefon",
+              "playerLastName": "Diggs"
+            }
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            {
+              "pick": 36,
+              "round": 4,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "4.06",
+              "playerId": "26686",
+              "playerFirstName": "Travis",
+              "playerLastName": "Kelce"
+            },
+            {
+              "pick": 45,
+              "round": 5,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "5.05",
+              "playerId": "34019",
+              "playerFirstName": "James",
+              "playerLastName": "Cook III"
+            },
+            {
+              "pick": 65,
+              "round": 7,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "7.05",
+              "playerId": "28534",
+              "playerFirstName": "Stefon",
+              "playerLastName": "Diggs"
+            }
+          ],
+          "received": [
+            {
+              "pick": 38,
+              "round": 4,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "4.08",
+              "playerId": "29279",
+              "playerFirstName": "Derrick",
+              "playerLastName": "Henry"
+            },
+            {
+              "pick": 43,
+              "round": 5,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "5.03",
+              "playerId": "32671",
+              "playerFirstName": "Joe",
+              "playerLastName": "Burrow"
+            },
+            {
+              "pick": 63,
+              "round": 7,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "7.03",
+              "playerId": "34010",
+              "playerFirstName": "Trey",
+              "playerLastName": "McBride"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2024-draft-trade-6",
+      "leagueId": "cwp",
+      "year": 2024,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Leek/him 🧊",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 66,
+              "round": 7,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "7.06",
+              "playerId": "40084",
+              "playerFirstName": "Rashee",
+              "playerLastName": "Rice"
+            },
+            {
+              "pick": 75,
+              "round": 8,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "8.05",
+              "playerId": "31898",
+              "playerFirstName": "Diontae",
+              "playerLastName": "Johnson"
+            },
+            {
+              "pick": 95,
+              "round": 10,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "10.05",
+              "playerId": "33989",
+              "playerFirstName": "Christian",
+              "playerLastName": "Watson"
+            }
+          ],
+          "received": [
+            {
+              "pick": 70,
+              "round": 7,
+              "roundPick": 10,
+              "slot": 10,
+              "label": "7.10",
+              "playerId": "29235",
+              "playerFirstName": "Jared",
+              "playerLastName": "Goff"
+            },
+            {
+              "pick": 71,
+              "round": 8,
+              "roundPick": 1,
+              "slot": 10,
+              "label": "8.01",
+              "playerId": "30259",
+              "playerFirstName": "George",
+              "playerLastName": "Kittle"
+            },
+            {
+              "pick": 91,
+              "round": 10,
+              "roundPick": 1,
+              "slot": 10,
+              "label": "10.01",
+              "playerId": "31960",
+              "playerFirstName": "Tony",
+              "playerLastName": "Pollard"
+            }
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "Wilson!",
+          "manager": "Buddy Marcello",
+          "sent": [
+            {
+              "pick": 70,
+              "round": 7,
+              "roundPick": 10,
+              "slot": 10,
+              "label": "7.10",
+              "playerId": "29235",
+              "playerFirstName": "Jared",
+              "playerLastName": "Goff"
+            },
+            {
+              "pick": 71,
+              "round": 8,
+              "roundPick": 1,
+              "slot": 10,
+              "label": "8.01",
+              "playerId": "30259",
+              "playerFirstName": "George",
+              "playerLastName": "Kittle"
+            },
+            {
+              "pick": 91,
+              "round": 10,
+              "roundPick": 1,
+              "slot": 10,
+              "label": "10.01",
+              "playerId": "31960",
+              "playerFirstName": "Tony",
+              "playerLastName": "Pollard"
+            }
+          ],
+          "received": [
+            {
+              "pick": 66,
+              "round": 7,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "7.06",
+              "playerId": "40084",
+              "playerFirstName": "Rashee",
+              "playerLastName": "Rice"
+            },
+            {
+              "pick": 75,
+              "round": 8,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "8.05",
+              "playerId": "31898",
+              "playerFirstName": "Diontae",
+              "playerLastName": "Johnson"
+            },
+            {
+              "pick": 95,
+              "round": 10,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "10.05",
+              "playerId": "33989",
+              "playerFirstName": "Christian",
+              "playerLastName": "Watson"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2024-draft-trade-7",
+      "leagueId": "cwp",
+      "year": 2024,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Suh Girls One Cup",
+          "manager": "Jake Mintz",
+          "sent": [
+            {
+              "pick": 85,
+              "round": 9,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "9.05",
+              "playerId": "30295",
+              "playerFirstName": "Aaron",
+              "playerLastName": "Jones Sr."
+            },
+            {
+              "pick": 96,
+              "round": 10,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "10.06",
+              "playerId": "34085",
+              "playerFirstName": "Jake",
+              "playerLastName": "Ferguson"
+            }
+          ],
+          "received": [
+            {
+              "pick": 89,
+              "round": 9,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "9.09",
+              "playerId": "33508",
+              "playerFirstName": "Rhamondre",
+              "playerLastName": "Stevenson"
+            },
+            {
+              "pick": 92,
+              "round": 10,
+              "roundPick": 2,
+              "slot": 9,
+              "label": "10.02",
+              "playerId": "40901",
+              "playerFirstName": "Rome",
+              "playerLastName": "Odunze"
+            }
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "LeBron Bijan",
+          "manager": "Michael Kagan",
+          "sent": [
+            {
+              "pick": 89,
+              "round": 9,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "9.09",
+              "playerId": "33508",
+              "playerFirstName": "Rhamondre",
+              "playerLastName": "Stevenson"
+            },
+            {
+              "pick": 92,
+              "round": 10,
+              "roundPick": 2,
+              "slot": 9,
+              "label": "10.02",
+              "playerId": "40901",
+              "playerFirstName": "Rome",
+              "playerLastName": "Odunze"
+            }
+          ],
+          "received": [
+            {
+              "pick": 85,
+              "round": 9,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "9.05",
+              "playerId": "30295",
+              "playerFirstName": "Aaron",
+              "playerLastName": "Jones Sr."
+            },
+            {
+              "pick": 96,
+              "round": 10,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "10.06",
+              "playerId": "34085",
+              "playerFirstName": "Jake",
+              "playerLastName": "Ferguson"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2024-draft-trade-8",
+      "leagueId": "cwp",
+      "year": 2024,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "My Njigas Eat When James Cooks",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            {
+              "pick": 103,
+              "round": 11,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "11.03",
+              "playerId": "30153",
+              "playerFirstName": "Curtis",
+              "playerLastName": "Samuel"
+            },
+            {
+              "pick": 118,
+              "round": 12,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "12.08",
+              "playerId": "34447",
+              "playerFirstName": "Jaylen",
+              "playerLastName": "Warren"
+            },
+            {
+              "pick": 138,
+              "round": 14,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "14.08",
+              "playerId": "100026",
+              "playerFirstName": "Seahawks",
+              "playerLastName": ""
+            }
+          ],
+          "received": [
+            {
+              "pick": 107,
+              "round": 11,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "11.07",
+              "playerId": "32685",
+              "playerFirstName": "Jerry",
+              "playerLastName": "Jeudy"
+            },
+            {
+              "pick": 114,
+              "round": 12,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "12.04",
+              "playerId": "40068",
+              "playerFirstName": "Will",
+              "playerLastName": "Levis"
+            },
+            {
+              "pick": 134,
+              "round": 14,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "14.04",
+              "playerId": "100025",
+              "playerFirstName": "49ers",
+              "playerLastName": ""
+            }
+          ]
+        },
+        {
+          "teamId": "t.7",
+          "teamName": "Ty Still Reeks",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 107,
+              "round": 11,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "11.07",
+              "playerId": "32685",
+              "playerFirstName": "Jerry",
+              "playerLastName": "Jeudy"
+            },
+            {
+              "pick": 114,
+              "round": 12,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "12.04",
+              "playerId": "40068",
+              "playerFirstName": "Will",
+              "playerLastName": "Levis"
+            },
+            {
+              "pick": 134,
+              "round": 14,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "14.04",
+              "playerId": "100025",
+              "playerFirstName": "49ers",
+              "playerLastName": ""
+            }
+          ],
+          "received": [
+            {
+              "pick": 103,
+              "round": 11,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "11.03",
+              "playerId": "30153",
+              "playerFirstName": "Curtis",
+              "playerLastName": "Samuel"
+            },
+            {
+              "pick": 118,
+              "round": 12,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "12.08",
+              "playerId": "34447",
+              "playerFirstName": "Jaylen",
+              "playerLastName": "Warren"
+            },
+            {
+              "pick": 138,
+              "round": 14,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "14.08",
+              "playerId": "100026",
+              "playerFirstName": "Seahawks",
+              "playerLastName": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2021-draft-trade-1",
+      "leagueId": "cwp",
+      "year": 2021,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 3,
+              "round": 1,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "1.03",
+              "playerId": "27581",
+              "playerFirstName": "Davante",
+              "playerLastName": "Adams"
+            },
+            {
+              "pick": 38,
+              "round": 4,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "4.08",
+              "playerId": "7200",
+              "playerFirstName": "Aaron",
+              "playerLastName": "Rodgers"
+            }
+          ],
+          "received": [
+            {
+              "pick": 6,
+              "round": 1,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "1.06",
+              "playerId": "30180",
+              "playerFirstName": "Alvin",
+              "playerLastName": "Kamara"
+            },
+            {
+              "pick": 26,
+              "round": 3,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "3.06",
+              "playerId": "26699",
+              "playerFirstName": "Keenan",
+              "playerLastName": "Allen"
+            }
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Bart Harley Jarvis Landry",
+          "manager": "Matthew Garay",
+          "sent": [
+            {
+              "pick": 6,
+              "round": 1,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "1.06",
+              "playerId": "30180",
+              "playerFirstName": "Alvin",
+              "playerLastName": "Kamara"
+            },
+            {
+              "pick": 26,
+              "round": 3,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "3.06",
+              "playerId": "26699",
+              "playerFirstName": "Keenan",
+              "playerLastName": "Allen"
+            }
+          ],
+          "received": [
+            {
+              "pick": 3,
+              "round": 1,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "1.03",
+              "playerId": "27581",
+              "playerFirstName": "Davante",
+              "playerLastName": "Adams"
+            },
+            {
+              "pick": 38,
+              "round": 4,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "4.08",
+              "playerId": "7200",
+              "playerFirstName": "Aaron",
+              "playerLastName": "Rodgers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2021-draft-trade-2",
+      "leagueId": "cwp",
+      "year": 2021,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Sucky Sucky Kirky Kirky",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 19,
+              "round": 2,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "2.09",
+              "playerId": "32692",
+              "playerFirstName": "Justin",
+              "playerLastName": "Jefferson"
+            },
+            {
+              "pick": 39,
+              "round": 4,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "4.09",
+              "playerId": "32705",
+              "playerFirstName": "D'Andre",
+              "playerLastName": "Swift"
+            }
+          ],
+          "received": [
+            {
+              "pick": 24,
+              "round": 3,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "3.04",
+              "playerId": "27589",
+              "playerFirstName": "Allen",
+              "playerLastName": "Robinson"
+            },
+            {
+              "pick": 37,
+              "round": 4,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "4.07",
+              "playerId": "30182",
+              "playerFirstName": "Cooper",
+              "playerLastName": "Kupp"
+            }
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Jimothy's Jumping Bumblebees",
+          "manager": "Michael Kagan",
+          "sent": [
+            {
+              "pick": 24,
+              "round": 3,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "3.04",
+              "playerId": "27589",
+              "playerFirstName": "Allen",
+              "playerLastName": "Robinson"
+            },
+            {
+              "pick": 37,
+              "round": 4,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "4.07",
+              "playerId": "30182",
+              "playerFirstName": "Cooper",
+              "playerLastName": "Kupp"
+            }
+          ],
+          "received": [
+            {
+              "pick": 19,
+              "round": 2,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "2.09",
+              "playerId": "32692",
+              "playerFirstName": "Justin",
+              "playerLastName": "Jefferson"
+            },
+            {
+              "pick": 39,
+              "round": 4,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "4.09",
+              "playerId": "32705",
+              "playerFirstName": "D'Andre",
+              "playerLastName": "Swift"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2021-draft-trade-3",
+      "leagueId": "cwp",
+      "year": 2021,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 43,
+              "round": 5,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "5.03",
+              "playerId": "24793",
+              "playerFirstName": "Julio",
+              "playerLastName": "Jones"
+            },
+            {
+              "pick": 58,
+              "round": 6,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "6.08",
+              "playerId": "25718",
+              "playerFirstName": "Ryan",
+              "playerLastName": "Tannehill"
+            },
+            {
+              "pick": 78,
+              "round": 8,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "8.08",
+              "playerId": "33413",
+              "playerFirstName": "Travis",
+              "playerLastName": "Etienne Jr."
+            },
+            {
+              "pick": 83,
+              "round": 9,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "9.03",
+              "playerId": "30199",
+              "playerFirstName": "Kareem",
+              "playerLastName": "Hunt"
+            }
+          ],
+          "received": [
+            {
+              "pick": 45,
+              "round": 5,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "5.05",
+              "playerId": "33392",
+              "playerFirstName": "Kyle",
+              "playerLastName": "Pitts Sr."
+            },
+            {
+              "pick": 56,
+              "round": 6,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "6.06",
+              "playerId": "30209",
+              "playerFirstName": "Kenny",
+              "playerLastName": "Golladay"
+            },
+            {
+              "pick": 76,
+              "round": 8,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "8.06",
+              "playerId": "28514",
+              "playerFirstName": "Mike",
+              "playerLastName": "Davis"
+            },
+            {
+              "pick": 85,
+              "round": 9,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "9.05",
+              "playerId": "24171",
+              "playerFirstName": "Antonio",
+              "playerLastName": "Brown"
+            }
+          ]
+        },
+        {
+          "teamId": "t.5",
+          "teamName": "@_stringswim",
+          "manager": "Ty Greenberg",
+          "sent": [
+            {
+              "pick": 45,
+              "round": 5,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "5.05",
+              "playerId": "33392",
+              "playerFirstName": "Kyle",
+              "playerLastName": "Pitts Sr."
+            },
+            {
+              "pick": 56,
+              "round": 6,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "6.06",
+              "playerId": "30209",
+              "playerFirstName": "Kenny",
+              "playerLastName": "Golladay"
+            },
+            {
+              "pick": 76,
+              "round": 8,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "8.06",
+              "playerId": "28514",
+              "playerFirstName": "Mike",
+              "playerLastName": "Davis"
+            },
+            {
+              "pick": 85,
+              "round": 9,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "9.05",
+              "playerId": "24171",
+              "playerFirstName": "Antonio",
+              "playerLastName": "Brown"
+            }
+          ],
+          "received": [
+            {
+              "pick": 43,
+              "round": 5,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "5.03",
+              "playerId": "24793",
+              "playerFirstName": "Julio",
+              "playerLastName": "Jones"
+            },
+            {
+              "pick": 58,
+              "round": 6,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "6.08",
+              "playerId": "25718",
+              "playerFirstName": "Ryan",
+              "playerLastName": "Tannehill"
+            },
+            {
+              "pick": 78,
+              "round": 8,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "8.08",
+              "playerId": "33413",
+              "playerFirstName": "Travis",
+              "playerLastName": "Etienne Jr."
+            },
+            {
+              "pick": 83,
+              "round": 9,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "9.03",
+              "playerId": "30199",
+              "playerFirstName": "Kareem",
+              "playerLastName": "Hunt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2021-draft-trade-4",
+      "leagueId": "cwp",
+      "year": 2021,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.8",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 56,
+              "round": 6,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "6.06",
+              "playerId": "30209",
+              "playerFirstName": "Kenny",
+              "playerLastName": "Golladay"
+            },
+            {
+              "pick": 63,
+              "round": 7,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "7.03",
+              "playerId": "32066",
+              "playerFirstName": "Myles",
+              "playerLastName": "Gaskin"
+            },
+            {
+              "pick": 85,
+              "round": 9,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "9.05",
+              "playerId": "24171",
+              "playerFirstName": "Antonio",
+              "playerLastName": "Brown"
+            }
+          ],
+          "received": [
+            {
+              "pick": 52,
+              "round": 6,
+              "roundPick": 2,
+              "slot": 9,
+              "label": "6.02",
+              "playerId": "29369",
+              "playerFirstName": "Dak",
+              "playerLastName": "Prescott"
+            },
+            {
+              "pick": 69,
+              "round": 7,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "7.09",
+              "playerId": "33389",
+              "playerFirstName": "Trevor",
+              "playerLastName": "Lawrence"
+            },
+            {
+              "pick": 89,
+              "round": 9,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "9.09",
+              "playerId": "28403",
+              "playerFirstName": "Melvin",
+              "playerLastName": "Gordon III"
+            }
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "Bustin' A Chuba",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            {
+              "pick": 52,
+              "round": 6,
+              "roundPick": 2,
+              "slot": 9,
+              "label": "6.02",
+              "playerId": "29369",
+              "playerFirstName": "Dak",
+              "playerLastName": "Prescott"
+            },
+            {
+              "pick": 69,
+              "round": 7,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "7.09",
+              "playerId": "33389",
+              "playerFirstName": "Trevor",
+              "playerLastName": "Lawrence"
+            },
+            {
+              "pick": 89,
+              "round": 9,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "9.09",
+              "playerId": "28403",
+              "playerFirstName": "Melvin",
+              "playerLastName": "Gordon III"
+            }
+          ],
+          "received": [
+            {
+              "pick": 56,
+              "round": 6,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "6.06",
+              "playerId": "30209",
+              "playerFirstName": "Kenny",
+              "playerLastName": "Golladay"
+            },
+            {
+              "pick": 63,
+              "round": 7,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "7.03",
+              "playerId": "32066",
+              "playerFirstName": "Myles",
+              "playerLastName": "Gaskin"
+            },
+            {
+              "pick": 85,
+              "round": 9,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "9.05",
+              "playerId": "24171",
+              "playerFirstName": "Antonio",
+              "playerLastName": "Brown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2021-draft-trade-5",
+      "leagueId": "cwp",
+      "year": 2021,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Sucky Sucky Kirky Kirky",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 59,
+              "round": 6,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "6.09",
+              "playerId": "32671",
+              "playerFirstName": "Joe",
+              "playerLastName": "Burrow"
+            },
+            {
+              "pick": 79,
+              "round": 8,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "8.09",
+              "playerId": "29281",
+              "playerFirstName": "Michael",
+              "playerLastName": "Thomas"
+            }
+          ],
+          "received": [
+            {
+              "pick": 66,
+              "round": 7,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "7.06",
+              "playerId": "31056",
+              "playerFirstName": "Mark",
+              "playerLastName": "Andrews"
+            },
+            {
+              "pick": 75,
+              "round": 8,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "8.05",
+              "playerId": "31868",
+              "playerFirstName": "Deebo",
+              "playerLastName": "Samuel Sr."
+            }
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Bart Harley Jarvis Landry",
+          "manager": "Matthew Garay",
+          "sent": [
+            {
+              "pick": 66,
+              "round": 7,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "7.06",
+              "playerId": "31056",
+              "playerFirstName": "Mark",
+              "playerLastName": "Andrews"
+            },
+            {
+              "pick": 75,
+              "round": 8,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "8.05",
+              "playerId": "31868",
+              "playerFirstName": "Deebo",
+              "playerLastName": "Samuel Sr."
+            }
+          ],
+          "received": [
+            {
+              "pick": 59,
+              "round": 6,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "6.09",
+              "playerId": "32671",
+              "playerFirstName": "Joe",
+              "playerLastName": "Burrow"
+            },
+            {
+              "pick": 79,
+              "round": 8,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "8.09",
+              "playerId": "29281",
+              "playerFirstName": "Michael",
+              "playerLastName": "Thomas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2020-draft-trade-1",
+      "leagueId": "cwp",
+      "year": 2020,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.1",
+          "teamName": "I am the Wallerus",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            {
+              "pick": 16,
+              "round": 2,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "2.06",
+              "playerId": "32702",
+              "playerFirstName": "Clyde",
+              "playerLastName": "Edwards-Helaire"
+            },
+            {
+              "pick": 25,
+              "round": 3,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "3.05",
+              "playerId": "30994",
+              "playerFirstName": "DJ",
+              "playerLastName": "Moore"
+            },
+            {
+              "pick": 45,
+              "round": 5,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "5.05",
+              "playerId": "31883",
+              "playerFirstName": "A.J.",
+              "playerLastName": "Brown"
+            }
+          ],
+          "received": [
+            {
+              "pick": 8,
+              "round": 1,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "1.08",
+              "playerId": "29281",
+              "playerFirstName": "Michael",
+              "playerLastName": "Thomas"
+            },
+            {
+              "pick": 28,
+              "round": 3,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "3.08",
+              "playerId": "31005",
+              "playerFirstName": "Nick",
+              "playerLastName": "Chubb"
+            },
+            {
+              "pick": 48,
+              "round": 5,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "5.08",
+              "playerId": "31010",
+              "playerFirstName": "Courtland",
+              "playerLastName": "Sutton"
+            }
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Wafah Dafour",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 8,
+              "round": 1,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "1.08",
+              "playerId": "29281",
+              "playerFirstName": "Michael",
+              "playerLastName": "Thomas"
+            },
+            {
+              "pick": 28,
+              "round": 3,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "3.08",
+              "playerId": "31005",
+              "playerFirstName": "Nick",
+              "playerLastName": "Chubb"
+            },
+            {
+              "pick": 48,
+              "round": 5,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "5.08",
+              "playerId": "31010",
+              "playerFirstName": "Courtland",
+              "playerLastName": "Sutton"
+            }
+          ],
+          "received": [
+            {
+              "pick": 16,
+              "round": 2,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "2.06",
+              "playerId": "32702",
+              "playerFirstName": "Clyde",
+              "playerLastName": "Edwards-Helaire"
+            },
+            {
+              "pick": 25,
+              "round": 3,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "3.05",
+              "playerId": "30994",
+              "playerFirstName": "DJ",
+              "playerLastName": "Moore"
+            },
+            {
+              "pick": 45,
+              "round": 5,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "5.05",
+              "playerId": "31883",
+              "playerFirstName": "A.J.",
+              "playerLastName": "Brown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2020-draft-trade-2",
+      "leagueId": "cwp",
+      "year": 2020,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.9",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 19,
+              "round": 2,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "2.09",
+              "playerId": "31856",
+              "playerFirstName": "Josh",
+              "playerLastName": "Jacobs"
+            },
+            {
+              "pick": 39,
+              "round": 4,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "4.09",
+              "playerId": "26664",
+              "playerFirstName": "Robert",
+              "playerLastName": "Woods"
+            },
+            {
+              "pick": 59,
+              "round": 6,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "6.09",
+              "playerId": "31857",
+              "playerFirstName": "Hollywood",
+              "playerLastName": "Brown"
+            }
+          ],
+          "received": [
+            {
+              "pick": 13,
+              "round": 2,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "2.03",
+              "playerId": "31002",
+              "playerFirstName": "Lamar",
+              "playerLastName": "Jackson"
+            },
+            {
+              "pick": 45,
+              "round": 5,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "5.05",
+              "playerId": "31883",
+              "playerFirstName": "A.J.",
+              "playerLastName": "Brown"
+            },
+            {
+              "pick": 68,
+              "round": 7,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "7.08",
+              "playerId": "32711",
+              "playerFirstName": "Jonathan",
+              "playerLastName": "Taylor"
+            }
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Wafah Dafour",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 13,
+              "round": 2,
+              "roundPick": 3,
+              "slot": 8,
+              "label": "2.03",
+              "playerId": "31002",
+              "playerFirstName": "Lamar",
+              "playerLastName": "Jackson"
+            },
+            {
+              "pick": 45,
+              "round": 5,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "5.05",
+              "playerId": "31883",
+              "playerFirstName": "A.J.",
+              "playerLastName": "Brown"
+            },
+            {
+              "pick": 68,
+              "round": 7,
+              "roundPick": 8,
+              "slot": 8,
+              "label": "7.08",
+              "playerId": "32711",
+              "playerFirstName": "Jonathan",
+              "playerLastName": "Taylor"
+            }
+          ],
+          "received": [
+            {
+              "pick": 19,
+              "round": 2,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "2.09",
+              "playerId": "31856",
+              "playerFirstName": "Josh",
+              "playerLastName": "Jacobs"
+            },
+            {
+              "pick": 39,
+              "round": 4,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "4.09",
+              "playerId": "26664",
+              "playerFirstName": "Robert",
+              "playerLastName": "Woods"
+            },
+            {
+              "pick": 59,
+              "round": 6,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "6.09",
+              "playerId": "31857",
+              "playerFirstName": "Hollywood",
+              "playerLastName": "Brown"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2019-draft-trade-1",
+      "leagueId": "cwp",
+      "year": 2019,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 36,
+              "round": 4,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "4.06",
+              "playerId": "9496",
+              "playerFirstName": "Julian",
+              "playerLastName": "Edelman"
+            },
+            {
+              "pick": 45,
+              "round": 5,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "5.05",
+              "playerId": "30209",
+              "playerFirstName": "Kenny",
+              "playerLastName": "Golladay"
+            }
+          ],
+          "received": [
+            {
+              "pick": 21,
+              "round": 3,
+              "roundPick": 1,
+              "slot": 1,
+              "label": "3.01",
+              "playerId": "30161",
+              "playerFirstName": "Joe",
+              "playerLastName": "Mixon"
+            },
+            {
+              "pick": 60,
+              "round": 6,
+              "roundPick": 10,
+              "slot": 1,
+              "label": "6.10",
+              "playerId": "30996",
+              "playerFirstName": "Calvin",
+              "playerLastName": "Ridley"
+            }
+          ]
+        },
+        {
+          "teamId": "t.2",
+          "teamName": "Used Meal eqv.",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 21,
+              "round": 3,
+              "roundPick": 1,
+              "slot": 1,
+              "label": "3.01",
+              "playerId": "30161",
+              "playerFirstName": "Joe",
+              "playerLastName": "Mixon"
+            },
+            {
+              "pick": 60,
+              "round": 6,
+              "roundPick": 10,
+              "slot": 1,
+              "label": "6.10",
+              "playerId": "30996",
+              "playerFirstName": "Calvin",
+              "playerLastName": "Ridley"
+            }
+          ],
+          "received": [
+            {
+              "pick": 36,
+              "round": 4,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "4.06",
+              "playerId": "9496",
+              "playerFirstName": "Julian",
+              "playerLastName": "Edelman"
+            },
+            {
+              "pick": 45,
+              "round": 5,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "5.05",
+              "playerId": "30209",
+              "playerFirstName": "Kenny",
+              "playerLastName": "Golladay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2019-draft-trade-2",
+      "leagueId": "cwp",
+      "year": 2019,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "The Wife Beders",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 56,
+              "round": 6,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "6.06",
+              "playerId": "27591",
+              "playerFirstName": "Jarvis",
+              "playerLastName": "Landry"
+            },
+            {
+              "pick": 65,
+              "round": 7,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "7.05",
+              "playerId": "30232",
+              "playerFirstName": "Tarik",
+              "playerLastName": "Cohen"
+            },
+            {
+              "pick": 85,
+              "round": 9,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "9.05",
+              "playerId": "27538",
+              "playerFirstName": "Eric",
+              "playerLastName": "Ebron"
+            },
+            {
+              "pick": 96,
+              "round": 10,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "10.06",
+              "playerId": "25876",
+              "playerFirstName": "Marvin",
+              "playerLastName": "Jones Jr."
+            }
+          ],
+          "received": [
+            {
+              "pick": 54,
+              "round": 6,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "6.04",
+              "playerId": "24791",
+              "playerFirstName": "A.J.",
+              "playerLastName": "Green"
+            },
+            {
+              "pick": 67,
+              "round": 7,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "7.07",
+              "playerId": "25785",
+              "playerFirstName": "Russell",
+              "playerLastName": "Wilson"
+            },
+            {
+              "pick": 87,
+              "round": 9,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "9.07",
+              "playerId": "31029",
+              "playerFirstName": "Derrius",
+              "playerLastName": "Guice"
+            },
+            {
+              "pick": 94,
+              "round": 10,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "10.04",
+              "playerId": "24057",
+              "playerFirstName": "Emmanuel",
+              "playerLastName": "Sanders"
+            }
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "James White Power",
+          "manager": "Michael Kagan",
+          "sent": [
+            {
+              "pick": 54,
+              "round": 6,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "6.04",
+              "playerId": "24791",
+              "playerFirstName": "A.J.",
+              "playerLastName": "Green"
+            },
+            {
+              "pick": 67,
+              "round": 7,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "7.07",
+              "playerId": "25785",
+              "playerFirstName": "Russell",
+              "playerLastName": "Wilson"
+            },
+            {
+              "pick": 87,
+              "round": 9,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "9.07",
+              "playerId": "31029",
+              "playerFirstName": "Derrius",
+              "playerLastName": "Guice"
+            },
+            {
+              "pick": 94,
+              "round": 10,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "10.04",
+              "playerId": "24057",
+              "playerFirstName": "Emmanuel",
+              "playerLastName": "Sanders"
+            }
+          ],
+          "received": [
+            {
+              "pick": 56,
+              "round": 6,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "6.06",
+              "playerId": "27591",
+              "playerFirstName": "Jarvis",
+              "playerLastName": "Landry"
+            },
+            {
+              "pick": 65,
+              "round": 7,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "7.05",
+              "playerId": "30232",
+              "playerFirstName": "Tarik",
+              "playerLastName": "Cohen"
+            },
+            {
+              "pick": 85,
+              "round": 9,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "9.05",
+              "playerId": "27538",
+              "playerFirstName": "Eric",
+              "playerLastName": "Ebron"
+            },
+            {
+              "pick": 96,
+              "round": 10,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "10.06",
+              "playerId": "25876",
+              "playerFirstName": "Marvin",
+              "playerLastName": "Jones Jr."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2019-draft-trade-3",
+      "leagueId": "cwp",
+      "year": 2019,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "Used Meal eqv.",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 61,
+              "round": 7,
+              "roundPick": 1,
+              "slot": 1,
+              "label": "7.01",
+              "playerId": "24815",
+              "playerFirstName": "Mark",
+              "playerLastName": "Ingram II"
+            },
+            {
+              "pick": 80,
+              "round": 8,
+              "roundPick": 10,
+              "slot": 1,
+              "label": "8.10",
+              "playerId": "6770",
+              "playerFirstName": "Ben",
+              "playerLastName": "Roethlisberger"
+            },
+            {
+              "pick": 100,
+              "round": 10,
+              "roundPick": 10,
+              "slot": 1,
+              "label": "10.10",
+              "playerId": "29719",
+              "playerFirstName": "Geronimo",
+              "playerLastName": "Allison"
+            }
+          ],
+          "received": [
+            {
+              "pick": 69,
+              "round": 7,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "7.09",
+              "playerId": "29236",
+              "playerFirstName": "Carson",
+              "playerLastName": "Wentz"
+            },
+            {
+              "pick": 72,
+              "round": 8,
+              "roundPick": 2,
+              "slot": 9,
+              "label": "8.02",
+              "playerId": "29785",
+              "playerFirstName": "Robbie",
+              "playerLastName": "Chosen"
+            },
+            {
+              "pick": 92,
+              "round": 10,
+              "roundPick": 2,
+              "slot": 9,
+              "label": "10.02",
+              "playerId": "30997",
+              "playerFirstName": "Rashaad",
+              "playerLastName": "Penny"
+            }
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "La Viande Saumon",
+          "manager": "Ty Greenberg",
+          "sent": [
+            {
+              "pick": 69,
+              "round": 7,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "7.09",
+              "playerId": "29236",
+              "playerFirstName": "Carson",
+              "playerLastName": "Wentz"
+            },
+            {
+              "pick": 72,
+              "round": 8,
+              "roundPick": 2,
+              "slot": 9,
+              "label": "8.02",
+              "playerId": "29785",
+              "playerFirstName": "Robbie",
+              "playerLastName": "Chosen"
+            },
+            {
+              "pick": 92,
+              "round": 10,
+              "roundPick": 2,
+              "slot": 9,
+              "label": "10.02",
+              "playerId": "30997",
+              "playerFirstName": "Rashaad",
+              "playerLastName": "Penny"
+            }
+          ],
+          "received": [
+            {
+              "pick": 61,
+              "round": 7,
+              "roundPick": 1,
+              "slot": 1,
+              "label": "7.01",
+              "playerId": "24815",
+              "playerFirstName": "Mark",
+              "playerLastName": "Ingram II"
+            },
+            {
+              "pick": 80,
+              "round": 8,
+              "roundPick": 10,
+              "slot": 1,
+              "label": "8.10",
+              "playerId": "6770",
+              "playerFirstName": "Ben",
+              "playerLastName": "Roethlisberger"
+            },
+            {
+              "pick": 100,
+              "round": 10,
+              "roundPick": 10,
+              "slot": 1,
+              "label": "10.10",
+              "playerId": "29719",
+              "playerFirstName": "Geronimo",
+              "playerLastName": "Allison"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2018-draft-trade-1",
+      "leagueId": "cwp",
+      "year": 2018,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.2",
+          "teamName": "oak ridge moraine",
+          "manager": "Dustin Pulver",
+          "sent": [
+            {
+              "pick": 55,
+              "round": 6,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "6.05",
+              "playerId": "25812",
+              "playerFirstName": "Kirk",
+              "playerLastName": "Cousins"
+            },
+            {
+              "pick": 66,
+              "round": 7,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "7.06",
+              "playerId": "8285",
+              "playerFirstName": "Greg",
+              "playerLastName": "Olsen"
+            }
+          ],
+          "received": [
+            {
+              "pick": 51,
+              "round": 6,
+              "roundPick": 1,
+              "slot": 10,
+              "label": "6.01",
+              "playerId": "30161",
+              "playerFirstName": "Joe",
+              "playerLastName": "Mixon"
+            },
+            {
+              "pick": 70,
+              "round": 7,
+              "roundPick": 10,
+              "slot": 10,
+              "label": "7.10",
+              "playerId": "8780",
+              "playerFirstName": "Matt",
+              "playerLastName": "Ryan"
+            }
+          ]
+        },
+        {
+          "teamId": "t.6",
+          "teamName": "Utku Gull's Squad",
+          "manager": "Chase Bergman",
+          "sent": [
+            {
+              "pick": 51,
+              "round": 6,
+              "roundPick": 1,
+              "slot": 10,
+              "label": "6.01",
+              "playerId": "30161",
+              "playerFirstName": "Joe",
+              "playerLastName": "Mixon"
+            },
+            {
+              "pick": 70,
+              "round": 7,
+              "roundPick": 10,
+              "slot": 10,
+              "label": "7.10",
+              "playerId": "8780",
+              "playerFirstName": "Matt",
+              "playerLastName": "Ryan"
+            }
+          ],
+          "received": [
+            {
+              "pick": 55,
+              "round": 6,
+              "roundPick": 5,
+              "slot": 6,
+              "label": "6.05",
+              "playerId": "25812",
+              "playerFirstName": "Kirk",
+              "playerLastName": "Cousins"
+            },
+            {
+              "pick": 66,
+              "round": 7,
+              "roundPick": 6,
+              "slot": 6,
+              "label": "7.06",
+              "playerId": "8285",
+              "playerFirstName": "Greg",
+              "playerLastName": "Olsen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2018-draft-trade-2",
+      "leagueId": "cwp",
+      "year": 2018,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.3",
+          "teamName": "Show me your TD's",
+          "manager": "Ben Roher",
+          "sent": [
+            {
+              "pick": 61,
+              "round": 7,
+              "roundPick": 1,
+              "slot": 1,
+              "label": "7.01",
+              "playerId": "9265",
+              "playerFirstName": "Matthew",
+              "playerLastName": "Stafford"
+            },
+            {
+              "pick": 80,
+              "round": 8,
+              "roundPick": 10,
+              "slot": 1,
+              "label": "8.10",
+              "playerId": "29255",
+              "playerFirstName": "Will",
+              "playerLastName": "Fuller V"
+            }
+          ],
+          "received": [
+            {
+              "pick": 64,
+              "round": 7,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "7.04",
+              "playerId": "27590",
+              "playerFirstName": "Jimmy",
+              "playerLastName": "Garoppolo"
+            },
+            {
+              "pick": 77,
+              "round": 8,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "8.07",
+              "playerId": "24851",
+              "playerFirstName": "Randall",
+              "playerLastName": "Cobb"
+            }
+          ]
+        },
+        {
+          "teamId": "t.10",
+          "teamName": "Pass the Brees",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 64,
+              "round": 7,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "7.04",
+              "playerId": "27590",
+              "playerFirstName": "Jimmy",
+              "playerLastName": "Garoppolo"
+            },
+            {
+              "pick": 77,
+              "round": 8,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "8.07",
+              "playerId": "24851",
+              "playerFirstName": "Randall",
+              "playerLastName": "Cobb"
+            }
+          ],
+          "received": [
+            {
+              "pick": 61,
+              "round": 7,
+              "roundPick": 1,
+              "slot": 1,
+              "label": "7.01",
+              "playerId": "9265",
+              "playerFirstName": "Matthew",
+              "playerLastName": "Stafford"
+            },
+            {
+              "pick": 80,
+              "round": 8,
+              "roundPick": 10,
+              "slot": 1,
+              "label": "8.10",
+              "playerId": "29255",
+              "playerFirstName": "Will",
+              "playerLastName": "Fuller V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2018-draft-trade-3",
+      "leagueId": "cwp",
+      "year": 2018,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.10",
+          "teamName": "Pass the Brees",
+          "manager": "Jack Beder",
+          "sent": [
+            {
+              "pick": 97,
+              "round": 10,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "10.07",
+              "playerId": "30256",
+              "playerFirstName": "Marlon",
+              "playerLastName": "Mack"
+            },
+            {
+              "pick": 104,
+              "round": 11,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "11.04",
+              "playerId": "30223",
+              "playerFirstName": "Dede",
+              "playerLastName": "Westbrook"
+            },
+            {
+              "pick": 124,
+              "round": 13,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "13.04",
+              "playerId": "28014",
+              "playerFirstName": "Isaiah",
+              "playerLastName": "Crowell"
+            }
+          ],
+          "received": [
+            {
+              "pick": 94,
+              "round": 10,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "10.04",
+              "playerId": "24057",
+              "playerFirstName": "Emmanuel",
+              "playerLastName": "Sanders"
+            },
+            {
+              "pick": 107,
+              "round": 11,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "11.07",
+              "playerId": "30997",
+              "playerFirstName": "Rashaad",
+              "playerLastName": "Penny"
+            },
+            {
+              "pick": 127,
+              "round": 13,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "13.07",
+              "playerId": "100016",
+              "playerFirstName": "Vikings",
+              "playerLastName": ""
+            }
+          ]
+        },
+        {
+          "teamId": "t.1",
+          "teamName": "G-Pens Are Legal",
+          "manager": "Jack Bleiweis",
+          "sent": [
+            {
+              "pick": 94,
+              "round": 10,
+              "roundPick": 4,
+              "slot": 7,
+              "label": "10.04",
+              "playerId": "24057",
+              "playerFirstName": "Emmanuel",
+              "playerLastName": "Sanders"
+            },
+            {
+              "pick": 107,
+              "round": 11,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "11.07",
+              "playerId": "30997",
+              "playerFirstName": "Rashaad",
+              "playerLastName": "Penny"
+            },
+            {
+              "pick": 127,
+              "round": 13,
+              "roundPick": 7,
+              "slot": 7,
+              "label": "13.07",
+              "playerId": "100016",
+              "playerFirstName": "Vikings",
+              "playerLastName": ""
+            }
+          ],
+          "received": [
+            {
+              "pick": 97,
+              "round": 10,
+              "roundPick": 7,
+              "slot": 4,
+              "label": "10.07",
+              "playerId": "30256",
+              "playerFirstName": "Marlon",
+              "playerLastName": "Mack"
+            },
+            {
+              "pick": 104,
+              "round": 11,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "11.04",
+              "playerId": "30223",
+              "playerFirstName": "Dede",
+              "playerLastName": "Westbrook"
+            },
+            {
+              "pick": 124,
+              "round": 13,
+              "roundPick": 4,
+              "slot": 4,
+              "label": "13.04",
+              "playerId": "28014",
+              "playerFirstName": "Isaiah",
+              "playerLastName": "Crowell"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2018-draft-trade-4",
+      "leagueId": "cwp",
+      "year": 2018,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Gary TheSnail",
+          "manager": "Michael Kagan",
+          "sent": [
+            {
+              "pick": 109,
+              "round": 11,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "11.09",
+              "playerId": "27658",
+              "playerFirstName": "James",
+              "playerLastName": "White"
+            },
+            {
+              "pick": 132,
+              "round": 14,
+              "roundPick": 2,
+              "slot": 9,
+              "label": "14.02",
+              "playerId": "26483",
+              "playerFirstName": "Case",
+              "playerLastName": "Keenum"
+            }
+          ],
+          "received": [
+            {
+              "pick": 118,
+              "round": 12,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "12.08",
+              "playerId": "25937",
+              "playerFirstName": "Rishard",
+              "playerLastName": "Matthews"
+            },
+            {
+              "pick": 123,
+              "round": 13,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "13.03",
+              "playerId": "28389",
+              "playerFirstName": "Jameis",
+              "playerLastName": "Winston"
+            }
+          ]
+        },
+        {
+          "teamId": "t.8",
+          "teamName": "La Viande Saumon",
+          "manager": "Ty Greenberg",
+          "sent": [
+            {
+              "pick": 118,
+              "round": 12,
+              "roundPick": 8,
+              "slot": 3,
+              "label": "12.08",
+              "playerId": "25937",
+              "playerFirstName": "Rishard",
+              "playerLastName": "Matthews"
+            },
+            {
+              "pick": 123,
+              "round": 13,
+              "roundPick": 3,
+              "slot": 3,
+              "label": "13.03",
+              "playerId": "28389",
+              "playerFirstName": "Jameis",
+              "playerLastName": "Winston"
+            }
+          ],
+          "received": [
+            {
+              "pick": 109,
+              "round": 11,
+              "roundPick": 9,
+              "slot": 9,
+              "label": "11.09",
+              "playerId": "27658",
+              "playerFirstName": "James",
+              "playerLastName": "White"
+            },
+            {
+              "pick": 132,
+              "round": 14,
+              "roundPick": 2,
+              "slot": 9,
+              "label": "14.02",
+              "playerId": "26483",
+              "playerFirstName": "Case",
+              "playerLastName": "Keenum"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2017-draft-trade-1",
+      "leagueId": "cwp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.6",
+          "teamName": "Washington Foreskins",
+          "manager": "Matthew Garay",
+          "sent": [
+            {
+              "pick": 41,
+              "round": 5,
+              "roundPick": 1,
+              "slot": 1,
+              "label": "5.01",
+              "playerId": "28482",
+              "playerFirstName": "Ty",
+              "playerLastName": "Montgomery II"
+            }
+          ],
+          "received": [
+            {
+              "pick": 42,
+              "round": 5,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "5.02",
+              "playerId": "26650",
+              "playerFirstName": "DeAndre",
+              "playerLastName": "Hopkins"
+            }
+          ]
+        },
+        {
+          "teamId": "t.4",
+          "teamName": "Carr Insurance",
+          "manager": "GOBOL",
+          "sent": [
+            {
+              "pick": 42,
+              "round": 5,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "5.02",
+              "playerId": "26650",
+              "playerFirstName": "DeAndre",
+              "playerLastName": "Hopkins"
+            }
+          ],
+          "received": [
+            {
+              "pick": 41,
+              "round": 5,
+              "roundPick": 1,
+              "slot": 1,
+              "label": "5.01",
+              "playerId": "28482",
+              "playerFirstName": "Ty",
+              "playerLastName": "Montgomery II"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cwp-2017-draft-trade-2",
+      "leagueId": "cwp",
+      "year": 2017,
+      "confidence": "needs_review",
+      "sides": [
+        {
+          "teamId": "t.4",
+          "teamName": "Carr Insurance",
+          "manager": "GOBOL",
+          "sent": [
+            {
+              "pick": 122,
+              "round": 13,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "13.02",
+              "playerId": "28691",
+              "playerFirstName": "Tyrell",
+              "playerLastName": "Williams"
+            },
+            {
+              "pick": 139,
+              "round": 14,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "14.09",
+              "playerId": "100007",
+              "playerFirstName": "Broncos",
+              "playerLastName": ""
+            }
+          ],
+          "received": [
+            {
+              "pick": 125,
+              "round": 13,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "13.05",
+              "playerId": "8850",
+              "playerFirstName": "Jamaal",
+              "playerLastName": "Charles"
+            },
+            {
+              "pick": 136,
+              "round": 14,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "14.06",
+              "playerId": "27531",
+              "playerFirstName": "Blake",
+              "playerLastName": "Bortles"
+            }
+          ]
+        },
+        {
+          "teamId": "t.3",
+          "teamName": "Younghoe Koo's Ideas",
+          "manager": "Ty Greenberg",
+          "sent": [
+            {
+              "pick": 125,
+              "round": 13,
+              "roundPick": 5,
+              "slot": 5,
+              "label": "13.05",
+              "playerId": "8850",
+              "playerFirstName": "Jamaal",
+              "playerLastName": "Charles"
+            },
+            {
+              "pick": 136,
+              "round": 14,
+              "roundPick": 6,
+              "slot": 5,
+              "label": "14.06",
+              "playerId": "27531",
+              "playerFirstName": "Blake",
+              "playerLastName": "Bortles"
+            }
+          ],
+          "received": [
+            {
+              "pick": 122,
+              "round": 13,
+              "roundPick": 2,
+              "slot": 2,
+              "label": "13.02",
+              "playerId": "28691",
+              "playerFirstName": "Tyrell",
+              "playerLastName": "Williams"
+            },
+            {
+              "pick": 139,
+              "round": 14,
+              "roundPick": 9,
+              "slot": 2,
+              "label": "14.09",
+              "playerId": "100007",
+              "playerFirstName": "Broncos",
+              "playerLastName": ""
+            }
+          ]
+        }
+      ]
     }
   ],
   "unresolved": []
