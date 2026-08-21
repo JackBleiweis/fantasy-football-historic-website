@@ -117,7 +117,7 @@
     {
       "id": "t.9",
       "name": "Eze(kiel) money",
-      "manager": "GOBOL",
+      "manager": "Andrew Klein",
       "wins": 4,
       "losses": 10,
       "ties": 0,
@@ -2915,7 +2915,7 @@
         {
           "teamId": "t.9",
           "teamName": "Eze(kiel) money",
-          "manager": "GOBOL",
+          "manager": "Andrew Klein",
           "sent": [
             "Michael Floyd"
           ],
@@ -3047,7 +3047,7 @@
         {
           "teamId": "t.9",
           "teamName": "Eze(kiel) money",
-          "manager": "GOBOL",
+          "manager": "Andrew Klein",
           "sent": [
             "Kelvin Benjamin",
             "Eli Manning"
@@ -3303,7 +3303,7 @@
         {
           "teamId": "t.9",
           "teamName": "Eze(kiel) money",
-          "manager": "GOBOL",
+          "manager": "Andrew Klein",
           "sent": [
             "Todd Gurley"
           ],

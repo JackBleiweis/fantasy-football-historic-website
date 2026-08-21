@@ -89,7 +89,7 @@
     {
       "id": "t.4",
       "name": "Carr Insurance",
-      "manager": "GOBOL",
+      "manager": "Andrew Klein",
       "wins": 6,
       "losses": 8,
       "ties": 0,
@@ -117,7 +117,7 @@
     {
       "id": "t.10",
       "name": "Steeler Virginity",
-      "manager": "--hidden--",
+      "manager": "Michael Kagan",
       "wins": 4,
       "losses": 10,
       "ties": 0,
@@ -2866,7 +2866,7 @@
         {
           "teamId": "t.10",
           "teamName": "Steeler Virginity",
-          "manager": "--hidden--",
+          "manager": "Michael Kagan",
           "sent": [
             "Mike Evans",
             "Donte Moncrief"
@@ -2928,7 +2928,7 @@
         {
           "teamId": "t.4",
           "teamName": "Carr Insurance",
-          "manager": "GOBOL",
+          "manager": "Andrew Klein",
           "sent": [
             "Jay Cutler"
           ],
@@ -2998,7 +2998,7 @@
         {
           "teamId": "t.4",
           "teamName": "Carr Insurance",
-          "manager": "GOBOL",
+          "manager": "Andrew Klein",
           "sent": [
             "Rob Gronkowski",
             "Amari Cooper"
@@ -3019,7 +3019,7 @@
         {
           "teamId": "t.4",
           "teamName": "Carr Insurance",
-          "manager": "GOBOL",
+          "manager": "Andrew Klein",
           "sent": [
             "Ty Montgomery II",
             "Devin Funchess"
@@ -3096,7 +3096,7 @@
         {
           "teamId": "t.10",
           "teamName": "Steeler Virginity",
-          "manager": "--hidden--",
+          "manager": "Michael Kagan",
           "sent": [
             "C.J. Beathard"
           ],
@@ -3177,7 +3177,7 @@
         {
           "teamId": "t.10",
           "teamName": "Steeler Virginity",
-          "manager": "--hidden--",
+          "manager": "Michael Kagan",
           "sent": [
             "Jay Cutler",
             "Michael Crabtree"
@@ -3224,7 +3224,7 @@
         {
           "teamId": "t.4",
           "teamName": "Carr Insurance",
-          "manager": "GOBOL",
+          "manager": "Andrew Klein",
           "sent": [
             "Duke Johnson",
             "Tyreek Hill"
@@ -3288,7 +3288,7 @@
         {
           "teamId": "t.4",
           "teamName": "Carr Insurance",
-          "manager": "GOBOL",
+          "manager": "Andrew Klein",
           "sent": [
             "Tyreek Hill",
             "Duke Johnson"

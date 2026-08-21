@@ -75,6 +75,7 @@ const MANAGER_NAME_MAP = {
   jake: 'Jake Mintz',
   matthew: 'Matthew Garay', // CWP Matthew - LP Matthew handled via TEAM_TO_MANAGER_MAP
   michael: 'Michael Kagan',
+  gobol: 'Andrew Klein',
   buddy: 'Buddy Marcello',
   zach: 'Zach Weisleder',
   grant: 'Grant Roth',
@@ -120,9 +121,14 @@ const TEAM_TO_MANAGER_MAP = {
   cwp: {
     2014: { 't.1': 'Jack Bleiweis' },
     2015: { 't.1': 'Jack Bleiweis', 't.10': 'Ben Roher' },
-    2016: { 't.1': 'Jack Bleiweis', 't.7': 'Jack Beder', 't.4': 'Ben Roher' },
-    // 2017 t.8 "Show me your TD's" was Ben (same team name as other Ben seasons)
-    2017: { 't.1': 'Jack Bleiweis', 't.8': 'Ben Roher' },
+    2016: { 't.1': 'Jack Bleiweis', 't.7': 'Jack Beder', 't.4': 'Ben Roher', 't.9': 'Andrew Klein' },
+    // 2017 t.8 "Show me your TD's" was Ben; t.10 "--hidden--" was Michael
+    2017: {
+      't.1': 'Jack Bleiweis',
+      't.8': 'Ben Roher',
+      't.4': 'Andrew Klein',
+      't.10': 'Michael Kagan',
+    },
     2018: {
       't.1': 'Jack Bleiweis',
       't.10': 'Jack Beder',

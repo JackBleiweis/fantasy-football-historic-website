@@ -140,6 +140,11 @@
           border-color: var(--color-header);
           color: var(--color-text-inverse);
         }
+
+        &.tradesTab {
+          width: auto;
+          padding: 0 $space-12;
+        }
       }
     }
 
@@ -297,6 +302,62 @@
       color: var(--color-text-secondary);
       text-transform: uppercase;
       letter-spacing: 0.1em;
+    }
+  }
+
+  .noTrades {
+    @include card;
+    text-align: center;
+    padding: $space-32;
+    color: var(--color-text-secondary);
+  }
+
+  .tradesList {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: $space-12;
+  }
+
+  .tradeCard {
+    @include card;
+    padding: $space-16;
+  }
+
+  .tradeDate {
+    display: block;
+    font-size: $font-size-xs;
+    color: var(--color-text-secondary);
+    margin-bottom: $space-12;
+  }
+
+  .tradeSides {
+    display: grid;
+    gap: $space-16;
+
+    @media (min-width: $breakpoint-sm) {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    article {
+      min-width: 0;
+    }
+
+    p {
+      margin: $space-8 0 0;
+      font-size: $font-size-sm;
+      line-height: 1.4;
+
+      span {
+        display: block;
+        font-size: $font-size-xs;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        color: var(--color-text-secondary);
+        margin-bottom: 2px;
+      }
     }
   }
 }

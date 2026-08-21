@@ -1,10 +1,6 @@
 import { useMemo, useState } from 'react';
 import { Link, Navigate, useParams } from 'react-router-dom';
-import {
-  getAvailableYears,
-  getPlayoffYear,
-  isValidLeague,
-} from '../../data';
+import { getAvailableYears, getPlayoffYear, isValidLeague } from '../../data';
 import {
   getManagerById,
   getManagerId,
@@ -12,7 +8,10 @@ import {
   resolveManager,
 } from '../../data/managers';
 import { useManagerStats } from '../../hooks/useManagerStats';
-import { getHeadToHeadRecords, type HeadToHeadRecord } from '../../utils/headToHead';
+import {
+  getHeadToHeadRecords,
+  type HeadToHeadRecord,
+} from '../../utils/headToHead';
 import { getActivityRating } from '../../utils/activity';
 import { getSeasonData } from '../../data';
 import { ManagerBadge } from '../../components/ManagerBadge/ManagerBadge';
@@ -61,11 +60,7 @@ function HeadToHeadList({
       {rows.map((row) => (
         <div key={row.opponent} className={styles.h2hCard}>
           <div className={styles.h2hMain}>
-            <ManagerBadge
-              name={row.opponent}
-              size="sm"
-              leagueId={leagueId}
-            />
+            <ManagerBadge name={row.opponent} size="sm" leagueId={leagueId} />
             <span className={styles.h2hRecord}>{formatH2HRecord(row)}</span>
           </div>
           {showPoints && (
@@ -128,11 +123,13 @@ export function ManagerProfile() {
         (t) => t.manager.toLowerCase() === managerName.toLowerCase()
       );
       if (!team) continue;
-      if (team.moves != null || team.tradesCount != null) {
-        moves += team.moves || 0;
-        trades += team.tradesCount || 0;
-        seasonsTracked += 1;
-      }
+      const movesThisSeason = team.moves || 0;
+      const tradesThisSeason = team.tradesCount || 0;
+      // Skip empty / unstarted seasons so they don't dilute the rating.
+      if (movesThisSeason === 0 && tradesThisSeason === 0) continue;
+      moves += movesThisSeason;
+      trades += tradesThisSeason;
+      seasonsTracked += 1;
     }
     return getActivityRating(moves, trades, seasonsTracked);
   }, [managerName, validLeagueId]);
@@ -212,8 +209,8 @@ export function ManagerProfile() {
           </span>
           {stats.highestGameDetails && (
             <span className={styles.meta}>
-              {stats.highestGameDetails.year} Wk {stats.highestGameDetails.week} vs{' '}
-              {stats.highestGameDetails.opponent}
+              {stats.highestGameDetails.year} Wk {stats.highestGameDetails.week}{' '}
+              vs {stats.highestGameDetails.opponent}
             </span>
           )}
         </div>
@@ -221,7 +218,8 @@ export function ManagerProfile() {
           <span className={styles.label}>Titles</span>
           <span className={styles.value}>{stats.championshipsWon}</span>
           <span className={styles.meta}>
-            {stats.finalsAppearances} finals • {stats.playoffAppearances} playoffs
+            {stats.finalsAppearances} finals • {stats.playoffAppearances}{' '}
+            playoffs
           </span>
         </div>
         {activity && (
@@ -229,7 +227,8 @@ export function ManagerProfile() {
             <span className={styles.label}>Activity</span>
             <span className={styles.value}>{activity.score}</span>
             <span className={styles.meta}>
-              {activity.label} • {activity.totalMoves} moves • {activity.totalTrades} trades
+              {activity.label} • {activity.totalMoves} moves •{' '}
+              {activity.totalTrades} trades
             </span>
             <span className={styles.blurb}>{activity.blurb}</span>
           </div>
@@ -257,9 +256,11 @@ export function ManagerProfile() {
                     Playoff result only
                   </td>
                   <td>
-                    {playoff.champion.toLowerCase() === managerName.toLowerCase()
+                    {playoff.champion.toLowerCase() ===
+                    managerName.toLowerCase()
                       ? '🏆 Champion'
-                      : playoff.runnerUp.toLowerCase() === managerName.toLowerCase()
+                      : playoff.runnerUp.toLowerCase() ===
+                          managerName.toLowerCase()
                         ? '2nd Place'
                         : 'Playoffs'}
                   </td>

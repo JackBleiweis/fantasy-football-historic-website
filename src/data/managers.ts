@@ -86,6 +86,14 @@ export const managers: Manager[] = [
     leagues: ['cwp'],
   },
   {
+    id: 'aklein',
+    fullName: 'Andrew Klein',
+    firstName: 'Andrew',
+    lastName: 'Klein',
+    avatar: undefined,
+    leagues: ['cwp'],
+  },
+  {
     id: 'tgreenberg',
     fullName: 'Ty Greenberg',
     firstName: 'Ty',
@@ -283,9 +291,9 @@ export const managers: Manager[] = [
   },
   {
     id: 'iOHandley',
-    fullName: 'Ian O\'Handley',
+    fullName: "Ian O'Handley",
     firstName: 'Ian',
-    lastName: 'O\'Handley',
+    lastName: "O'Handley",
     avatar: ianAvatar,
     leagues: ['lp'],
   },
@@ -388,6 +396,9 @@ export function resolveManager(
   leagueId?: LeagueId
 ): Manager | undefined {
   const lower = name.toLowerCase();
+  if (lower === 'gobol') {
+    return managerByFullName.get('andrew klein');
+  }
 
   // Try exact full name match first
   const byFullName = managerByFullName.get(lower);
